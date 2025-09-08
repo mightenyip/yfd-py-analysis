@@ -2,7 +2,7 @@
 
 A Selenium-based web scraper for Yahoo Daily Fantasy Sports that captures NFL player data from completed games.
 
-*Author: Modified for Yahoo DFS scraping*
+*Author: Mighten Yip
 
 ## 🏈 Overview
 
