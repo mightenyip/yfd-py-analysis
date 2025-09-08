@@ -182,7 +182,9 @@ def get_league_id():
     # league_id = "413954"  # NFL - 2021
     # league_id = "791337"  # NFL - 2022 (divisions)
     # league_id = "321958"  # NFL - 2023
-    league_id = "365083"  # NFL - 2024
+    # league_id = "365083"  # NFL - 2024
+    # TODO: Replace with your own league ID
+    league_id = os.environ.get("YAHOO_LEAGUE_ID", "365083")  # Default to example league
 
     # HOCKEY
     # league_id = "69624"  # NHL - 2012
@@ -221,7 +223,9 @@ test_team_id = get_team_id()
 # set desired team name within desired league
 def get_team_name():
     # FOOTBALL
-    team_name = "Let Baker Bake"  # NFL
+    # team_name = "Let Baker Bake"  # NFL
+    # TODO: Replace with your own team name
+    team_name = os.environ.get("YAHOO_TEAM_NAME", "Let Baker Bake")  # Default to example team
 
     # HOCKEY
     # team_name = "The Bateleurs"  # NHL (2012)

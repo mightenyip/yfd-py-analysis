@@ -1,0 +1,173 @@
+player_name,position,game_info,stats,salary,fppg,points,game_day,row_number,position_clean,points_numeric
+Derrick Henry,RB,"BAL 40 @ BUF 41, Final","18 RUSH ATT,169 RUSH YD,2 RUSH TD,TGT,REC,13 REC YD,FUM LOST",$38,28.7,28.7,Thursday,5,RB,28.7
+Bijan Robinson,RB,"TB 23 @ ATL 20, Final","12 RUSH ATT,24 RUSH YD,7 TGT,6 REC,100 REC YD,REC TD",$39,21.4,21.4,Sunday,11,RB,21.4
+Christian McCaffrey,RB,"SF 17 @ SEA 13, Final","22 RUSH ATT,69 RUSH YD,10 TGT,9 REC,73 REC YD",$32,18.7,18.7,Sunday,17,RB,18.7
+James Cook,RB,"BAL 40 @ BUF 41, Final","13 RUSH ATT,44 RUSH YD,RUSH TD,5 TGT,5 REC,58 REC YD",$32,18.7,18.7,Thursday,18,RB,18.7
+Travis Etienne Jr.,RB,"CAR 10 @ JAC 26, Final","16 RUSH ATT,143 RUSH YD,3 TGT,3 REC,13 REC YD",$19,17.1,17.1,Sunday,22,RB,17.1
+Chuba Hubbard,RB,"CAR 10 @ JAC 26, Final","16 RUSH ATT,57 RUSH YD,5 TGT,3 REC,32 REC YD,REC TD",$32,16.4,16.4,Sunday,24,RB,16.4
+Breece Hall,RB,"PIT 34 @ NYJ 32, Final","19 RUSH ATT,107 RUSH YD,4 TGT,2 REC,38 REC YD",$28,15.5,15.5,Sunday,28,RB,15.5
+De'Von Achane,RB,"MIA 8 @ IND 33, Final","7 RUSH ATT,55 RUSH YD,4 TGT,3 REC,20 REC YD,REC TD",$36,15.0,15.0,Sunday,31,RB,15.0
+Jacory Croskey-Merritt,RB,"NYG 6 @ WAS 21, Final","10 RUSH ATT,82 RUSH YD,RUSH TD,TGT",$10,14.2,14.2,Sunday,33,RB,14.2
+J.K. Dobbins,RB,"TEN 12 @ DEN 20, Final","16 RUSH ATT,63 RUSH YD,RUSH TD,2 TGT,2 REC,5 REC YD",$24,13.8,13.8,Sunday,36,RB,13.8
+Josh Jacobs,RB,"DET 13 @ GB 27, Final","19 RUSH ATT,66 RUSH YD,RUSH TD,TGT,REC,4 REC YD",$37,13.5,13.5,Sunday,40,RB,13.5
+Kyren Williams,RB,"HOU 9 @ LA 14, Final","18 RUSH ATT,66 RUSH YD,RUSH TD,2 TGT,REC,3 REC YD",$33,13.4,13.4,Sunday,41,RB,13.4
+Dylan Sampson,RB,"CIN 17 @ CLE 16, Final","12 RUSH ATT,29 RUSH YD,8 TGT,8 REC,64 REC YD",$10,13.3,13.3,Sunday,42,RB,13.3
+Jaylen Warren,RB,"PIT 34 @ NYJ 32, Final","11 RUSH ATT,37 RUSH YD,2 TGT,2 REC,22 REC YD,REC TD",$21,12.9,12.9,Sunday,45,RB,12.9
+Alvin Kamara,RB,"ARI 20 @ NO 13, Final","11 RUSH ATT,45 RUSH YD,RUSH TD,2 TGT,2 REC,12 REC YD",$30,12.7,12.7,Sunday,49,RB,12.7
+Bucky Irving,RB,"TB 23 @ ATL 20, Final","14 RUSH ATT,37 RUSH YD,4 TGT,4 REC,8 REC YD,REC TD",$34,12.5,12.5,Sunday,50,RB,12.5
+James Conner,RB,"ARI 20 @ NO 13, Final","12 RUSH ATT,39 RUSH YD,4 TGT,4 REC,5 REC YD,REC TD",$35,12.4,12.4,Sunday,51,RB,12.4
+Chase Brown,RB,"CIN 17 @ CLE 16, Final","21 RUSH ATT,43 RUSH YD,RUSH TD,3 TGT,2 REC,8 REC YD",$34,12.1,12.1,Sunday,53,RB,12.1
+Jonathan Taylor,RB,"MIA 8 @ IND 33, Final","18 RUSH ATT,71 RUSH YD,3 TGT,3 REC,27 REC YD",$37,11.3,11.3,Sunday,60,RB,11.3
+Ashton Jeanty,RB,"LV 20 @ NE 13, Final","19 RUSH ATT,38 RUSH YD,RUSH TD,2 TGT,2 REC,2 REC YD",$29,11.0,11.0,Sunday,63,RB,11.0
+Zach Charbonnet,RB,"SF 17 @ SEA 13, Final","12 RUSH ATT,47 RUSH YD,RUSH TD",$19,10.7,10.7,Sunday,66,RB,10.7
+Jahmyr Gibbs,RB,"DET 13 @ GB 27, Final","9 RUSH ATT,19 RUSH YD,10 TGT,10 REC,31 REC YD",$39,10.0,10.0,Sunday,77,RB,10.0
+TreVeyon Henderson,RB,"LV 20 @ NE 13, Final","5 RUSH ATT,27 RUSH YD,6 TGT,6 REC,24 REC YD",$22,8.1,8.1,Sunday,100,RB,8.1
+Trey Benson,RB,"ARI 20 @ NO 13, Final","8 RUSH ATT,69 RUSH YD,TGT,REC,6 REC YD",$11,8.0,8.0,Sunday,101,RB,8.0
+Tony Pollard,RB,"TEN 12 @ DEN 20, Final","18 RUSH ATT,60 RUSH YD,TGT,REC,29 REC YD,FUM LOST",$23,7.4,7.4,Sunday,109,RB,7.4
+RJ Harvey,RB,"TEN 12 @ DEN 20, Final","6 RUSH ATT,70 RUSH YD,TGT,REC,-1 REC YD",$21,7.4,7.4,Sunday,110,RB,7.4
+Austin EkelerQ,RB,"NYG 6 @ WAS 21, Final","6 RUSH ATT,26 RUSH YD,3 TGT,3 REC,31 REC YD",$16,7.2,7.2,Sunday,113,RB,7.2
+Braelon Allen,RB,"PIT 34 @ NYJ 32, Final","6 RUSH ATT,9 RUSH YD,RUSH TD",$10,6.9,6.9,Sunday,119,RB,6.9
+David Montgomery,RB,"DET 13 @ GB 27, Final","11 RUSH ATT,25 RUSH YD,4 TGT,4 REC,18 REC YD",$27,6.3,6.3,Sunday,125,RB,6.3
+Nick Chubb,RB,"HOU 9 @ LA 14, Final","13 RUSH ATT,60 RUSH YD,TGT",$16,6.0,6.0,Sunday,128,RB,6.0
+Tyrone Tracy Jr.,RB,"NYG 6 @ WAS 21, Final","10 RUSH ATT,24 RUSH YD,5 TGT,2 REC,11 REC YD",$22,4.5,4.5,Sunday,140,RB,4.5
+Brian Robinson Jr.,RB,"SF 17 @ SEA 13, Final","9 RUSH ATT,33 RUSH YD,2 TGT,REC,4 REC YD",$23,4.2,4.2,Sunday,144,RB,4.2
+Kyle Juszczyk,RB,"SF 17 @ SEA 13, Final","2 TGT,2 REC,32 REC YD",$10,4.2,4.2,Sunday,145,RB,4.2
+DJ Giddens,RB,"MIA 8 @ IND 33, Final","12 RUSH ATT,41 RUSH YD",$10,4.1,4.1,Sunday,150,RB,4.1
+Kenneth Walker III,RB,"SF 17 @ SEA 13, Final","10 RUSH ATT,20 RUSH YD,3 TGT,3 REC,4 REC YD",$26,3.9,3.9,Sunday,158,RB,3.9
+Kenneth Gainwell,RB,"PIT 34 @ NYJ 32, Final","7 RUSH ATT,19 RUSH YD,4 TGT,3 REC,4 REC YD",$10,3.8,3.8,Sunday,159,RB,3.8
+Rhamondre Stevenson,RB,"LV 20 @ NE 13, Final","7 RUSH ATT,15 RUSH YD,3 TGT,2 REC,12 REC YD",$20,3.7,3.7,Sunday,163,RB,3.7
+Rico Dowdle,RB,"CAR 10 @ JAC 26, Final","3 RUSH ATT,12 RUSH YD,3 TGT,2 REC,4 REC YD",$19,2.6,2.6,Sunday,177,RB,2.6
+Tyler Badie,RB,"TEN 12 @ DEN 20, Final","6 TGT,2 REC,16 REC YD",$10,2.6,2.6,Sunday,179,RB,2.6
+Jeremy McNichols,RB,"NYG 6 @ WAS 21, Final","4 RUSH ATT,25 RUSH YD",$10,2.5,2.5,Sunday,185,RB,2.5
+Tyler Allgeier,RB,"TB 23 @ ATL 20, Final","10 RUSH ATT,24 RUSH YD",$12,2.4,2.4,Sunday,188,RB,2.4
+Kendre Miller,RB,"ARI 20 @ NO 13, Final","5 RUSH ATT,24 RUSH YD",$10,2.4,2.4,Sunday,189,RB,2.4
+Ty Johnson,RB,"BAL 40 @ BUF 41, Final","2 RUSH ATT,24 RUSH YD,2 TGT",$12,2.4,2.4,Thursday,190,RB,2.4
+Blake Corum,RB,"HOU 9 @ LA 14, Final","RUSH ATT,2 RUSH YD,TGT,REC,14 REC YD",$10,2.1,2.1,Sunday,196,RB,2.1
+Rachaad White,RB,"TB 23 @ ATL 20, Final","2 RUSH ATT,14 RUSH YD,TGT,REC,2 REC YD",$16,2.1,2.1,Sunday,193,RB,2.1
+Cam Skattebo,RB,"NYG 6 @ WAS 21, Final","2 RUSH ATT,-3 RUSH YD,2 TGT,2 REC,12 REC YD",$13,1.9,1.9,Sunday,203,RB,1.9
+Isaiah Davis,RB,"PIT 34 @ NYJ 32, Final","2 RUSH ATT,18 RUSH YD",$10,1.8,1.8,Sunday,205,RB,1.8
+LeQuint Allen Jr.,RB,"CAR 10 @ JAC 26, Final","RUSH ATT,7 RUSH YD,TGT,REC,4 REC YD",$10,1.6,1.6,Sunday,207,RB,1.6
+Samaje Perine,RB,"CIN 17 @ CLE 16, Final","2 TGT,2 REC,6 REC YD",$10,1.6,1.6,Sunday,209,RB,1.6
+Dare Ogunbowale,RB,"HOU 9 @ LA 14, Final","2 RUSH ATT,9 RUSH YD,2 TGT,2 REC,17 REC YD,FUM LOST",$10,1.6,1.6,Sunday,210,RB,1.6
+Tank Bigsby,RB,"CAR 10 @ JAC 26, Final","5 RUSH ATT,12 RUSH YD",$15,1.2,1.2,Sunday,219,RB,1.2
+Bhayshul Tuten,RB,"CAR 10 @ JAC 26, Final","3 RUSH ATT,11 RUSH YD",$13,1.1,1.1,Sunday,222,RB,1.1
+Jerome Ford,RB,"CIN 17 @ CLE 16, Final","6 RUSH ATT,8 RUSH YD,TGT,REC,-3 REC YD",$18,1.0,1.0,Sunday,228,RB,1.0
+Devin Singletary,RB,"NYG 6 @ WAS 21, Final","3 RUSH ATT,9 RUSH YD",$10,0.9,0.9,Sunday,231,RB,0.9
+Devin Neal,RB,"ARI 20 @ NO 13, Final","2 RUSH ATT,9 RUSH YD",$10,0.9,0.9,Sunday,233,RB,0.9
+Ollie Gordon II,RB,"MIA 8 @ IND 33, Final","2 RUSH ATT,4 RUSH YD,TGT,REC,-1 REC YD",$10,0.8,0.8,Sunday,238,RB,0.8
+Zamir White,RB,"LV 20 @ NE 13, Final","3 RUSH ATT,8 RUSH YD",$10,0.8,0.8,Sunday,240,RB,0.8
+Chris Brooks,RB,"DET 13 @ GB 27, Final","RUSH ATT,RUSH YD,TGT,REC,2 REC YD",$10,0.8,0.8,Sunday,243,RB,0.8
+Ray Davis,RB,"BAL 40 @ BUF 41, Final","RUSH ATT,2 RUSH YD,TGT,REC,-1 REC YD",$15,0.6,0.6,Thursday,250,RB,0.6
+Alec Ingold,RB,"MIA 8 @ IND 33, Final","2 TGT,REC,REC YD",$10,0.6,0.6,Sunday,248,RB,0.6
+Rasheen Ali,RB,"BAL 40 @ BUF 41, Final","RUSH ATT,5 RUSH YD",$10,0.5,0.5,Thursday,253,RB,0.5
+Dameon Pierce,RB,"HOU 9 @ LA 14, Final","3 RUSH ATT,5 RUSH YD,TGT",$10,0.5,0.5,Sunday,251,RB,0.5
+Trevor Etienne,RB,"CAR 10 @ JAC 26, Final","RUSH ATT,4 RUSH YD",$10,0.4,0.4,Sunday,254,RB,0.4
+Emanuel Wilson,RB,"DET 13 @ GB 27, Final","RUSH ATT,4 RUSH YD",$12,0.4,0.4,Sunday,255,RB,0.4
+Antonio Gibson,RB,"LV 20 @ NE 13, Final","RUSH ATT,3 RUSH YD,TGT",$10,0.3,0.3,Sunday,257,RB,0.3
+Woody Marks,RB,"HOU 9 @ LA 14, Final","3 RUSH ATT,3 RUSH YD",$10,0.3,0.3,Sunday,258,RB,0.3
+Sean Tucker,RB,"TB 23 @ ATL 20, Final","RUSH ATT,2 RUSH YD",$10,0.2,0.2,Sunday,259,RB,0.2
+Julius Chestnut,RB,"TEN 12 @ DEN 20, Final","2 RUSH ATT,2 RUSH YD",$10,0.2,0.2,Sunday,260,RB,0.2
+Sincere McCormick,RB,"LV 20 @ NE 13, Final",,$10,6.1,0.0,Sunday,544,RB,0.0
+Jeff Wilson Jr.,RB,"SF 17 @ SEA 13, Final",,$10,1.3,0.0,Sunday,613,RB,0.0
+Ke'Shawn Vaughn,RB,"SF 17 @ SEA 13, Final",,$10,0.4,0.0,Sunday,614,RB,0.0
+Tyjae SpearsIR,RB,"TEN 12 @ DEN 20, Final",,$19,8.2,0.0,Sunday,622,RB,0.0
+Kalel MullingsQ,RB,"TEN 12 @ DEN 20, Final",,$10,—,0.0,Sunday,626,RB,0.0
+Audric Estime,RB,"TEN 12 @ DEN 20, Final",,$10,3.6,0.0,Sunday,637,RB,0.0
+Michael BurtonIR,RB,"TEN 12 @ DEN 20, Final",,$10,2.0,0.0,Sunday,630,RB,0.0
+Jaleel McLaughlin,RB,"TEN 12 @ DEN 20, Final",,$10,5.0,0.0,Sunday,635,RB,0.0
+Jacardia Wright,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,607,RB,0.0
+Blake WatsonQ,RB,"TEN 12 @ DEN 20, Final",,$10,0.9,0.0,Sunday,639,RB,0.0
+Anthony Tyus III,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,612,RB,0.0
+Brady Russell,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,599,RB,0.0
+Damien Martinez,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,604,RB,0.0
+Robbie Ouzts,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,603,RB,0.0
+George Holani,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,601,RB,0.0
+Jermar Jefferson,RB,"TEN 12 @ DEN 20, Final",,$10,1.8,0.0,Sunday,648,RB,0.0
+Corey KinerQ,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,591,RB,0.0
+Jordan JamesO,RB,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,588,RB,0.0
+Isaac Guerendo,RB,"SF 17 @ SEA 13, Final",,$16,—,0.0,Sunday,585,RB,0.0
+Patrick Taylor Jr.IR,RB,"SF 17 @ SEA 13, Final",,$10,4.0,0.0,Sunday,581,RB,0.0
+Shane Watts,RB,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,574,RB,0.0
+JaMycal Hasty,RB,"LV 20 @ NE 13, Final",,$10,2.2,0.0,Sunday,572,RB,0.0
+Terrell Jennings,RB,"LV 20 @ NE 13, Final",,$10,1.7,0.0,Sunday,562,RB,0.0
+Chris Collier,RB,"LV 20 @ NE 13, Final",,$10,0.2,0.0,Sunday,549,RB,0.0
+Jordan Mims,RB,"TEN 12 @ DEN 20, Final",,$10,2.5,0.0,Sunday,647,RB,0.0
+Amar Johnson,RB,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,679,RB,0.0
+Craig Reynolds,RB,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,654,RB,0.0
+Jordan Waters,RB,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,714,RB,0.0
+Myles Gaskin,RB,"BAL 40 @ BUF 41, Final",,$10,0.4,0.0,Thursday,760,RB,0.0
+D'Ernest Johnson,RB,"BAL 40 @ BUF 41, Final",,$10,2.5,0.0,Thursday,758,RB,0.0
+Frank Gore Jr.,RB,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,748,RB,0.0
+Reggie Gilliam,RB,"BAL 40 @ BUF 41, Final",,$10,0.1,0.0,Thursday,743,RB,0.0
+Darrynton EvansQ,RB,"BAL 40 @ BUF 41, Final",,$10,0.2,0.0,Thursday,742,RB,0.0
+Lucas Scott,RB,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,737,RB,0.0
+Keaton Mitchell,RB,"BAL 40 @ BUF 41, Final",,$10,1.3,0.0,Thursday,731,RB,0.0
+Patrick RicardO,RB,"BAL 40 @ BUF 41, Final",,$10,2.2,0.0,Thursday,722,RB,0.0
+Elijah Young,RB,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,721,RB,0.0
+Jarquez Hunter,RB,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,715,RB,0.0
+Cody Schrader,RB,"HOU 9 @ LA 14, Final",,$10,0.7,0.0,Sunday,707,RB,0.0
+Sione VakiO,RB,"DET 13 @ GB 27, Final",,$10,0.7,0.0,Sunday,659,RB,0.0
+Ronnie Rivers,RB,"HOU 9 @ LA 14, Final",,$10,2.4,0.0,Sunday,704,RB,0.0
+British Brooks,RB,"HOU 9 @ LA 14, Final",,$10,0.1,0.0,Sunday,698,RB,0.0
+Jawhar Jordan,RB,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,695,RB,0.0
+J.J. Taylor,RB,"HOU 9 @ LA 14, Final",,$10,1.8,0.0,Sunday,691,RB,0.0
+Jakob Johnson,RB,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,689,RB,0.0
+Tyrion Davis-Price,RB,"DET 13 @ GB 27, Final",,$10,0.7,0.0,Sunday,686,RB,0.0
+Deon Jackson,RB,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,683,RB,0.0
+Jacob Saylors,RB,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,680,RB,0.0
+Israel Abanikanda,RB,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,678,RB,0.0
+MarShawn LloydIR,RB,"DET 13 @ GB 27, Final",,$10,2.3,0.0,Sunday,671,RB,0.0
+Dylan Laube,RB,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,548,RB,0.0
+Ulysses Bentley IV,RB,"MIA 8 @ IND 33, Final",RUSH ATT,$10,—,0.0,Sunday,367,RB,0.0
+Raheem Mostert,RB,"LV 20 @ NE 13, Final",,$10,4.7,0.0,Sunday,540,RB,0.0
+Kene NwangwuQ,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,325,RB,0.0
+Aaron Shampklin,RB,"MIA 8 @ IND 33, Final",,$10,0.6,0.0,Sunday,379,RB,0.0
+Mike Boone,RB,"MIA 8 @ IND 33, Final",,$10,1.1,0.0,Sunday,378,RB,0.0
+Nay'Quan Wright,RB,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,377,RB,0.0
+Nate Noel,RB,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,376,RB,0.0
+Tyler GoodsonO,RB,"MIA 8 @ IND 33, Final",,$10,3.0,0.0,Sunday,359,RB,0.0
+Khalil Herbert,RB,"MIA 8 @ IND 33, Final",,$10,2.4,0.0,Sunday,357,RB,0.0
+Jaylen WrightO,RB,"MIA 8 @ IND 33, Final",,$10,1.9,0.0,Sunday,347,RB,0.0
+Lew Nichols,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,341,RB,0.0
+Lawrance Toafili,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,340,RB,0.0
+Donovan Edwards,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,336,RB,0.0
+Andrew Beck,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,324,RB,0.0
+Trayveon Williams,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,536,RB,0.0
+Max Hurleman,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,321,RB,0.0
+Evan Hull,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,315,RB,0.0
+Trey Sermon,RB,"PIT 34 @ NYJ 32, Final",,$10,3.1,0.0,Sunday,309,RB,0.0
+Jase McClellan,RB,"TB 23 @ ATL 20, Final",,$10,1.1,0.0,Sunday,304,RB,0.0
+Owen Wright,RB,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,300,RB,0.0
+Jashaun Corbin,RB,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,298,RB,0.0
+Nathan Carter,RB,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,297,RB,0.0
+Carlos Washington Jr.,RB,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,290,RB,0.0
+Elijah Dotson,RB,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,289,RB,0.0
+Josh Williams,RB,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,276,RB,0.0
+Raheem BlackshearQ,RB,"CAR 10 @ JAC 26, Final",,$10,0.5,0.0,Sunday,385,RB,0.0
+Jonathon BrooksPUP,RB,"CAR 10 @ JAC 26, Final",,$10,2.0,0.0,Sunday,387,RB,0.0
+Emani Bailey,RB,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,388,RB,0.0
+Kayron Lynch-Adams,RB,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,394,RB,0.0
+Toa Taua,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,535,RB,0.0
+Ahmani Marshall,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,526,RB,0.0
+Pierre Strong Jr.,RB,"CIN 17 @ CLE 16, Final",,$10,2.4,0.0,Sunday,522,RB,0.0
+Quali Conley,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,518,RB,0.0
+Tahj Brooks,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,513,RB,0.0
+Kendall Milton,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,510,RB,0.0
+Gary Brightwell,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,501,RB,0.0
+Bam Knight,RB,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,493,RB,0.0
+Cam Akers,RB,"ARI 20 @ NO 13, Final",,$10,5.3,0.0,Sunday,490,RB,0.0
+Marcus Yarns,RB,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,489,RB,0.0
+Velus Jones Jr.,RB,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,481,RB,0.0
+Clyde Edwards-Helaire,RB,"ARI 20 @ NO 13, Final",,$10,4.3,0.0,Sunday,477,RB,0.0
+Emari Demercado,RB,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,467,RB,0.0
+Michael Carter,RB,"ARI 20 @ NO 13, Final",,$10,7.6,0.0,Sunday,464,RB,0.0
+DeeJay Dallas,RB,"ARI 20 @ NO 13, Final",,$10,1.2,0.0,Sunday,462,RB,0.0
+Jonathan Ward,RB,"NYG 6 @ WAS 21, Final",,$10,0.6,0.0,Sunday,458,RB,0.0
+Kazmeir Allen,RB,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,447,RB,0.0
+Chris Rodriguez Jr.,RB,"NYG 6 @ WAS 21, Final",,$10,3.9,0.0,Sunday,446,RB,0.0
+Demetric Felton,RB,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,443,RB,0.0
+Dante Miller,RB,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,429,RB,0.0
+Eric GrayPUP,RB,"NYG 6 @ WAS 21, Final",,$10,0.9,0.0,Sunday,428,RB,0.0
+Ja'Quinden Jackson,RB,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,410,RB,0.0
+Kaleb Johnson,RB,"PIT 34 @ NYJ 32, Final","RUSH ATT,-2 RUSH YD",$21,-0.2,-0.2,Sunday,761,RB,-0.2
+Justice Hill,RB,"BAL 40 @ BUF 41, Final","2 RUSH ATT,-14 RUSH YD,2 TGT,REC,3 REC YD",$15,-0.6,-0.6,Thursday,762,RB,-0.6

@@ -1,0 +1,6 @@
+position,player_count,filename,avg_points,max_points,min_points,median_points
+DEF,26,def_players.csv,5.85,14.0,-3.0,6.5
+QB,97,qb_players.csv,4.49,38.76,0.0,0.0
+RB,172,rb_players.csv,2.61,28.7,-0.6,0.0
+WR,310,wr_players.csv,2.01,24.6,0.0,0.0
+TE,159,te_players.csv,1.57,12.8,-1.6,0.0

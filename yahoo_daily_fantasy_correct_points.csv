@@ -1,0 +1,765 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number
+Josh Allen,QB,"BAL 40 @ BUF 41, Final","394 PASS YD,2 PASS TD,14 RUSH ATT,30 RUSH YD,2 RUSH TD",$40,38.8,38.76,1
+Justin Fields,QB,"PIT 34 @ NYJ 32, Final","218 PASS YD,PASS TD,12 RUSH ATT,48 RUSH YD,2 RUSH TD",$20,29.5,29.52,2
+Daniel Jones,QB,"MIA 8 @ IND 33, Final","272 PASS YD,PASS TD,7 RUSH ATT,26 RUSH YD,2 RUSH TD",$20,29.5,29.48,3
+Lamar Jackson,QB,"BAL 40 @ BUF 41, Final","209 PASS YD,2 PASS TD,6 RUSH ATT,70 RUSH YD,RUSH TD",$37,29.4,29.36,4
+Derrick Henry,RB,"BAL 40 @ BUF 41, Final","18 RUSH ATT,169 RUSH YD,2 RUSH TD,TGT,REC,13 REC YD,FUM LOST",$38,28.7,28.70,5
+Aaron Rodgers,QB,"PIT 34 @ NYJ 32, Final","244 PASS YD,4 PASS TD,RUSH ATT,-1 RUSH YD",$28,25.7,25.66,6
+Zay Flowers,WR,"BAL 40 @ BUF 41, Final","2 RUSH ATT,8 RUSH YD,9 TGT,7 REC,143 REC YD,REC TD",$22,24.6,24.60,7
+Michael Penix Jr.,QB,"TB 23 @ ATL 20, Final","298 PASS YD,PASS TD,6 RUSH ATT,21 RUSH YD,RUSH TD",$22,24.0,24.02,8
+Baker Mayfield,QB,"TB 23 @ ATL 20, Final","167 PASS YD,3 PASS TD,5 RUSH ATT,39 RUSH YD",$34,22.6,22.58,9
+Emeka Egbuka,WR,"TB 23 @ ATL 20, Final","RUSH ATT,9 RUSH YD,6 TGT,4 REC,67 REC YD,2 REC TD",$15,21.6,21.60,10
+Bijan Robinson,RB,"TB 23 @ ATL 20, Final","12 RUSH ATT,24 RUSH YD,7 TGT,6 REC,100 REC YD,REC TD",$39,21.4,21.40,11
+Keon Coleman,WR,"BAL 40 @ BUF 41, Final","11 TGT,8 REC,112 REC YD,REC TD",$14,21.2,21.20,12
+Jayden Daniels,QB,"NYG 6 @ WAS 21, Final","233 PASS YD,PASS TD,11 RUSH ATT,68 RUSH YD",$37,20.1,20.12,13
+Deebo Samuel,WR,"NYG 6 @ WAS 21, Final","RUSH ATT,19 RUSH YD,RUSH TD,10 TGT,7 REC,77 REC YD",$21,19.1,19.10,14
+Garrett Wilson,WR,"PIT 34 @ NYJ 32, Final","9 TGT,7 REC,95 REC YD,REC TD",$25,19.0,19.00,15
+Brock Purdy,QB,"SF 17 @ SEA 13, Final","277 PASS YD,2 PASS TD,2 INT,5 RUSH ATT,17 RUSH YD",$32,18.8,18.78,16
+Christian McCaffrey,RB,"SF 17 @ SEA 13, Final","22 RUSH ATT,69 RUSH YD,10 TGT,9 REC,73 REC YD",$32,18.7,18.70,17
+James Cook,RB,"BAL 40 @ BUF 41, Final","13 RUSH ATT,44 RUSH YD,RUSH TD,5 TGT,5 REC,58 REC YD",$32,18.7,18.70,18
+Geno Smith,QB,"LV 20 @ NE 13, Final","362 PASS YD,PASS TD,INT,2 RUSH ATT,10 RUSH YD",$25,18.5,18.48,19
+Kyler Murray,QB,"ARI 20 @ NO 13, Final","163 PASS YD,2 PASS TD,7 RUSH ATT,38 RUSH YD",$31,18.3,18.32,20
+Puka Nacua,WR,"HOU 9 @ LA 14, Final","RUSH ATT,RUSH YD,11 TGT,10 REC,130 REC YD",$32,18.1,18.10,21
+Travis Etienne Jr.,RB,"CAR 10 @ JAC 26, Final","16 RUSH ATT,143 RUSH YD,3 TGT,3 REC,13 REC YD",$19,17.1,17.10,22
+Michael Pittman Jr.,WR,"MIA 8 @ IND 33, Final","8 TGT,6 REC,80 REC YD,REC TD",$20,17.0,17.00,23
+Chuba Hubbard,RB,"CAR 10 @ JAC 26, Final","16 RUSH ATT,57 RUSH YD,5 TGT,3 REC,32 REC YD,REC TD",$32,16.4,16.40,24
+Drake Maye,QB,"LV 20 @ NE 13, Final","287 PASS YD,PASS TD,INT,4 RUSH ATT,11 RUSH YD,TGT,REC,2 REC YD",$25,16.3,16.28,25
+Jordan Love,QB,"DET 13 @ GB 27, Final","188 PASS YD,2 PASS TD,3 RUSH ATT,4 RUSH YD",$24,15.9,15.92,26
+Marvin Harrison Jr.,WR,"ARI 20 @ NO 13, Final","6 TGT,5 REC,71 REC YD,REC TD",$24,15.6,15.60,27
+Breece Hall,RB,"PIT 34 @ NYJ 32, Final","19 RUSH ATT,107 RUSH YD,4 TGT,2 REC,38 REC YD",$28,15.5,15.50,28
+Courtland Sutton,WR,"TEN 12 @ DEN 20, Final","9 TGT,6 REC,61 REC YD,REC TD",$28,15.1,15.10,29
+Calvin Austin III,WR,"PIT 34 @ NYJ 32, Final","6 TGT,4 REC,70 REC YD,REC TD",$11,15.0,15.00,30
+De'Von Achane,RB,"MIA 8 @ IND 33, Final","7 RUSH ATT,55 RUSH YD,4 TGT,3 REC,20 REC YD,REC TD",$36,15.0,15.00,31
+Jaxon Smith-Njigba,WR,"SF 17 @ SEA 13, Final","13 TGT,9 REC,124 REC YD,FUM LOST",$27,14.9,14.90,32
+Jacory Croskey-Merritt,RB,"NYG 6 @ WAS 21, Final","10 RUSH ATT,82 RUSH YD,RUSH TD,TGT",$10,14.2,14.20,33
+Joe Flacco,QB,"CIN 17 @ CLE 16, Final","290 PASS YD,PASS TD,2 INT,2 RUSH ATT,6 RUSH YD",$21,14.2,14.20,34
+Denver Broncos,DEF,"TEN 12 @ DEN 20, Final","12 PTS ALLOWED,6 SACK,2 FUM REC",$20,14.0,14.00,35
+J.K. Dobbins,RB,"TEN 12 @ DEN 20, Final","16 RUSH ATT,63 RUSH YD,RUSH TD,2 TGT,2 REC,5 REC YD",$24,13.8,13.80,36
+Cedric Tillman,WR,"CIN 17 @ CLE 16, Final","8 TGT,5 REC,52 REC YD,REC TD",$18,13.7,13.70,37
+Jakobi Meyers,WR,"LV 20 @ NE 13, Final","10 TGT,8 REC,97 REC YD",$25,13.7,13.70,38
+Matthew Stafford,QB,"HOU 9 @ LA 14, Final","245 PASS YD,PASS TD,4 RUSH ATT,-2 RUSH YD",$24,13.6,13.60,39
+Josh Jacobs,RB,"DET 13 @ GB 27, Final","19 RUSH ATT,66 RUSH YD,RUSH TD,TGT,REC,4 REC YD",$37,13.5,13.50,40
+Kyren Williams,RB,"HOU 9 @ LA 14, Final","18 RUSH ATT,66 RUSH YD,RUSH TD,2 TGT,REC,3 REC YD",$33,13.4,13.40,41
+Dylan Sampson,RB,"CIN 17 @ CLE 16, Final","12 RUSH ATT,29 RUSH YD,8 TGT,8 REC,64 REC YD",$10,13.3,13.30,42
+Kayshon Boutte,WR,"LV 20 @ NE 13, Final","8 TGT,6 REC,103 REC YD",$17,13.3,13.30,43
+Indianapolis Colts,DEF,"MIA 8 @ IND 33, Final","8 PTS ALLOWED,3 SACK,2 INT,FUM REC",$13,13.0,13.00,44
+Jaylen Warren,RB,"PIT 34 @ NYJ 32, Final","11 RUSH ATT,37 RUSH YD,2 TGT,2 REC,22 REC YD,REC TD",$21,12.9,12.90,45
+Brock BowersQ,TE,"LV 20 @ NE 13, Final","8 TGT,5 REC,103 REC YD",$24,12.8,12.80,46
+Ricky Pearsall,WR,"SF 17 @ SEA 13, Final","7 TGT,4 REC,108 REC YD",$22,12.8,12.80,47
+Dalton Kincaid,TE,"BAL 40 @ BUF 41, Final","4 TGT,4 REC,48 REC YD,REC TD",$11,12.8,12.80,48
+Alvin Kamara,RB,"ARI 20 @ NO 13, Final","11 RUSH ATT,45 RUSH YD,RUSH TD,2 TGT,2 REC,12 REC YD",$30,12.7,12.70,49
+Bucky Irving,RB,"TB 23 @ ATL 20, Final","14 RUSH ATT,37 RUSH YD,4 TGT,4 REC,8 REC YD,REC TD",$34,12.5,12.50,50
+James Conner,RB,"ARI 20 @ NO 13, Final","12 RUSH ATT,39 RUSH YD,4 TGT,4 REC,5 REC YD,REC TD",$35,12.4,12.40,51
+Tre Tucker,WR,"LV 20 @ NE 13, Final","3 TGT,2 REC,54 REC YD,REC TD",$10,12.4,12.40,52
+Chase Brown,RB,"CIN 17 @ CLE 16, Final","21 RUSH ATT,43 RUSH YD,RUSH TD,3 TGT,2 REC,8 REC YD",$34,12.1,12.10,53
+Jayden ReedQ,WR,"DET 13 @ GB 27, Final","5 TGT,3 REC,45 REC YD,REC TD",$18,12.0,12.00,54
+Jared Goff,QB,"DET 13 @ GB 27, Final","225 PASS YD,PASS TD,INT,RUSH ATT,-1 RUSH YD",$30,11.9,11.90,55
+Juwan Johnson,TE,"ARI 20 @ NO 13, Final","11 TGT,8 REC,76 REC YD",$11,11.6,11.60,56
+Spencer Rattler,QB,"ARI 20 @ NO 13, Final","214 PASS YD,4 RUSH ATT,29 RUSH YD",$20,11.5,11.46,57
+Tyler Warren,TE,"MIA 8 @ IND 33, Final","RUSH ATT,3 RUSH YD,9 TGT,7 REC,76 REC YD",$13,11.4,11.40,58
+Trevor Lawrence,QB,"CAR 10 @ JAC 26, Final","178 PASS YD,PASS TD,INT,4 RUSH ATT,12 RUSH YD",$27,11.3,11.32,59
+Jonathan Taylor,RB,"MIA 8 @ IND 33, Final","18 RUSH ATT,71 RUSH YD,3 TGT,3 REC,27 REC YD",$37,11.3,11.30,60
+Russell Wilson,QB,"NYG 6 @ WAS 21, Final","168 PASS YD,8 RUSH ATT,44 RUSH YD",$26,11.1,11.12,61
+Jacksonville Jaguars,DEF,"CAR 10 @ JAC 26, Final","10 PTS ALLOWED,SACK,2 INT,FUM REC",$10,11.0,11.00,62
+Ashton Jeanty,RB,"LV 20 @ NE 13, Final","19 RUSH ATT,38 RUSH YD,RUSH TD,2 TGT,2 REC,2 REC YD",$29,11.0,11.00,63
+Los Angeles Rams,DEF,"HOU 9 @ LA 14, Final","9 PTS ALLOWED,3 SACK,INT,FUM REC",$17,11.0,11.00,64
+Sam LaPorta,TE,"DET 13 @ GB 27, Final","9 TGT,6 REC,79 REC YD",$22,10.9,10.90,65
+Zach Charbonnet,RB,"SF 17 @ SEA 13, Final","12 RUSH ATT,47 RUSH YD,RUSH TD",$19,10.7,10.70,66
+Noah Fant,TE,"CIN 17 @ CLE 16, Final","5 TGT,4 REC,26 REC YD,REC TD",$11,10.6,10.60,67
+George KittleQ,TE,"SF 17 @ SEA 13, Final","4 TGT,4 REC,25 REC YD,REC TD",$24,10.5,10.50,68
+DeAndre Hopkins,WR,"BAL 40 @ BUF 41, Final","2 TGT,2 REC,35 REC YD,REC TD",$12,10.5,10.50,69
+DK Metcalf,WR,"PIT 34 @ NYJ 32, Final","7 TGT,4 REC,83 REC YD",$24,10.3,10.30,70
+Bryce Young,QB,"CAR 10 @ JAC 26, Final","154 PASS YD,PASS TD,2 INT,5 RUSH ATT,40 RUSH YD,FUM LOST",$29,10.2,10.16,71
+Zach Ertz,TE,"NYG 6 @ WAS 21, Final","5 TGT,3 REC,26 REC YD,REC TD",$18,10.1,10.10,72
+Harold Fannin Jr.,TE,"CIN 17 @ CLE 16, Final","RUSH ATT,3 RUSH YD,9 TGT,7 REC,63 REC YD",$10,10.1,10.10,73
+Jonnu Smith,TE,"PIT 34 @ NYJ 32, Final","6 TGT,5 REC,15 REC YD,REC TD",$18,10.0,10.00,74
+Las Vegas Raiders,DEF,"LV 20 @ NE 13, Final","13 PTS ALLOWED,4 SACK,INT",$10,10.0,10.00,75
+Tennessee Titans,DEF,"TEN 12 @ DEN 20, Final","20 PTS ALLOWED,SACK,2 INT,2 FUM REC",$10,10.0,10.00,76
+Jahmyr Gibbs,RB,"DET 13 @ GB 27, Final","9 RUSH ATT,19 RUSH YD,10 TGT,10 REC,31 REC YD",$39,10.0,10.00,77
+Green Bay Packers,DEF,"DET 13 @ GB 27, Final","13 PTS ALLOWED,4 SACK,INT",$18,10.0,10.00,78
+C.J. Stroud,QB,"HOU 9 @ LA 14, Final","188 PASS YD,INT,5 RUSH ATT,32 RUSH YD",$23,9.7,9.72,79
+Malik Nabers,WR,"NYG 6 @ WAS 21, Final","12 TGT,5 REC,71 REC YD",$34,9.6,9.60,80
+Drake LondonQ,WR,"TB 23 @ ATL 20, Final","15 TGT,8 REC,55 REC YD",$33,9.5,9.50,81
+Kyle Pitts Sr.,TE,"TB 23 @ ATL 20, Final","8 TGT,7 REC,59 REC YD",$12,9.4,9.40,82
+Khalil Shakir,WR,"BAL 40 @ BUF 41, Final","9 TGT,6 REC,64 REC YD",$20,9.4,9.40,83
+Tetairoa McMillan,WR,"CAR 10 @ JAC 26, Final","9 TGT,5 REC,68 REC YD",$21,9.3,9.30,84
+Trey McBride,TE,"ARI 20 @ NO 13, Final","9 TGT,6 REC,61 REC YD",$27,9.1,9.10,85
+Jerry Jeudy,WR,"CIN 17 @ CLE 16, Final","8 TGT,5 REC,66 REC YD",$26,9.1,9.10,86
+Washington Commanders,DEF,"NYG 6 @ WAS 21, Final","6 PTS ALLOWED,2 SACK",$15,9.0,9.00,87
+Jake Tonges,TE,"SF 17 @ SEA 13, Final","3 TGT,3 REC,15 REC YD,REC TD",$10,9.0,9.00,88
+San Francisco 49ers,DEF,"SF 17 @ SEA 13, Final","13 PTS ALLOWED,SACK,2 FUM REC",$12,9.0,9.00,89
+Chris Olave,WR,"ARI 20 @ NO 13, Final","13 TGT,7 REC,54 REC YD",$16,8.9,8.90,90
+Tucker Kraft,TE,"DET 13 @ GB 27, Final","RUSH ATT,3 RUSH YD,4 TGT,2 REC,16 REC YD,REC TD",$14,8.9,8.90,91
+Bo Nix,QB,"TEN 12 @ DEN 20, Final","176 PASS YD,PASS TD,2 INT,8 RUSH ATT,18 RUSH YD,FUM LOST",$33,8.8,8.84,92
+Joe Burrow,QB,"CIN 17 @ CLE 16, Final","113 PASS YD,PASS TD,2 RUSH ATT,3 RUSH YD",$36,8.8,8.82,93
+Ben Skowronek,WR,"PIT 34 @ NYJ 32, Final","TGT,REC,22 REC YD,REC TD",$10,8.7,8.70,94
+Stefon Diggs,WR,"LV 20 @ NE 13, Final","7 TGT,6 REC,57 REC YD",$23,8.7,8.70,95
+Hunter Henry,TE,"LV 20 @ NE 13, Final","8 TGT,4 REC,66 REC YD",$14,8.6,8.60,96
+Joshua Palmer,WR,"BAL 40 @ BUF 41, Final","9 TGT,5 REC,61 REC YD",$16,8.6,8.60,97
+Brian Thomas Jr.,WR,"CAR 10 @ JAC 26, Final","RUSH ATT,9 RUSH YD,RUSH TD,7 TGT,REC,11 REC YD",$35,8.5,8.50,98
+Wan'Dale Robinson,WR,"NYG 6 @ WAS 21, Final","8 TGT,6 REC,55 REC YD",$17,8.5,8.50,99
+TreVeyon Henderson,RB,"LV 20 @ NE 13, Final","5 RUSH ATT,27 RUSH YD,6 TGT,6 REC,24 REC YD",$22,8.1,8.10,100
+Trey Benson,RB,"ARI 20 @ NO 13, Final","8 RUSH ATT,69 RUSH YD,TGT,REC,6 REC YD",$11,8.0,8.00,101
+New Orleans Saints,DEF,"ARI 20 @ NO 13, Final","20 PTS ALLOWED,5 SACK,BLK KICK",$13,8.0,8.00,102
+Seattle Seahawks,DEF,"SF 17 @ SEA 13, Final","17 PTS ALLOWED,SACK,2 INT,BLK KICK",$18,8.0,8.00,103
+Brenton Strange,TE,"CAR 10 @ JAC 26, Final","4 TGT,4 REC,59 REC YD",$11,7.9,7.90,104
+Romeo Doubs,WR,"DET 13 @ GB 27, Final","4 TGT,2 REC,68 REC YD",$17,7.8,7.80,105
+Isaac TeSlaa,WR,"DET 13 @ GB 27, Final","TGT,REC,13 REC YD,REC TD",$10,7.8,7.80,106
+Davis Allen,TE,"HOU 9 @ LA 14, Final","2 TGT,REC,13 REC YD,REC TD",$10,7.8,7.80,107
+Mike Evans,WR,"TB 23 @ ATL 20, Final","8 TGT,5 REC,51 REC YD",$33,7.6,7.60,108
+Tony Pollard,RB,"TEN 12 @ DEN 20, Final","18 RUSH ATT,60 RUSH YD,TGT,REC,29 REC YD,FUM LOST",$23,7.4,7.40,109
+RJ Harvey,RB,"TEN 12 @ DEN 20, Final","6 RUSH ATT,70 RUSH YD,TGT,REC,-1 REC YD",$21,7.4,7.40,110
+Dyami Brown,WR,"CAR 10 @ JAC 26, Final","2 RUSH ATT,6 RUSH YD,4 TGT,3 REC,52 REC YD",$16,7.3,7.30,111
+Tua Tagovailoa,QB,"MIA 8 @ IND 33, Final","114 PASS YD,PASS TD,2 INT,RUSH ATT,7 RUSH YD,FUM LOST,2PT",$26,7.3,7.26,112
+Austin EkelerQ,RB,"NYG 6 @ WAS 21, Final","6 RUSH ATT,26 RUSH YD,3 TGT,3 REC,31 REC YD",$16,7.2,7.20,113
+DeMario Douglas,WR,"LV 20 @ NE 13, Final","RUSH ATT,4 RUSH YD,7 TGT,2 REC,-2 REC YD,REC TD",$16,7.2,7.20,114
+Hunter Long,TE,"CAR 10 @ JAC 26, Final","TGT,REC,6 REC YD,REC TD",$10,7.1,7.10,115
+Davante Adams,WR,"HOU 9 @ LA 14, Final","8 TGT,4 REC,51 REC YD",$33,7.1,7.10,116
+Cincinnati Bengals,DEF,"CIN 17 @ CLE 16, Final","16 PTS ALLOWED,2 SACK,2 INT",$15,7.0,7.00,117
+New England Patriots,DEF,"LV 20 @ NE 13, Final","20 PTS ALLOWED,4 SACK,INT",$10,7.0,7.00,118
+Braelon Allen,RB,"PIT 34 @ NYJ 32, Final","6 RUSH ATT,9 RUSH YD,RUSH TD",$10,6.9,6.90,119
+Ray-Ray McCloud III,WR,"TB 23 @ ATL 20, Final","5 TGT,3 REC,51 REC YD",$10,6.6,6.60,120
+Amon-Ra St. Brown,WR,"DET 13 @ GB 27, Final","6 TGT,4 REC,45 REC YD",$36,6.5,6.50,121
+Troy Franklin,WR,"TEN 12 @ DEN 20, Final","6 TGT,4 REC,44 REC YD",$10,6.4,6.40,122
+Travis Hunter,WR,"CAR 10 @ JAC 26, Final","8 TGT,6 REC,33 REC YD",$24,6.3,6.30,123
+Rashid Shaheed,WR,"ARI 20 @ NO 13, Final","9 TGT,6 REC,33 REC YD",$21,6.3,6.30,124
+David Montgomery,RB,"DET 13 @ GB 27, Final","11 RUSH ATT,25 RUSH YD,4 TGT,4 REC,18 REC YD",$27,6.3,6.30,125
+Tyreek Hill,WR,"MIA 8 @ IND 33, Final","6 TGT,4 REC,40 REC YD",$26,6.0,6.00,126
+Houston Texans,DEF,"HOU 9 @ LA 14, Final","14 PTS ALLOWED,3 SACK,FUM REC",$18,6.0,6.00,127
+Nick Chubb,RB,"HOU 9 @ LA 14, Final","13 RUSH ATT,60 RUSH YD,TGT",$16,6.0,6.00,128
+Michael Mayer,TE,"LV 20 @ NE 13, Final","4 TGT,4 REC,38 REC YD",$10,5.8,5.80,129
+Dont'e Thornton Jr.,WR,"LV 20 @ NE 13, Final","4 TGT,2 REC,45 REC YD",$10,5.5,5.50,130
+Sterling Shepard,WR,"TB 23 @ ATL 20, Final","6 TGT,3 REC,39 REC YD",$10,5.4,5.40,131
+Sam Darnold,QB,"SF 17 @ SEA 13, Final","150 PASS YD,2 RUSH ATT,14 RUSH YD,FUM LOST",$28,5.4,5.40,132
+David Njoku,TE,"CIN 17 @ CLE 16, Final","6 TGT,3 REC,37 REC YD",$21,5.2,5.20,133
+Jaylen Waddle,WR,"MIA 8 @ IND 33, Final","5 TGT,4 REC,30 REC YD",$19,5.0,5.00,134
+Arizona Cardinals,DEF,"ARI 20 @ NO 13, Final","13 PTS ALLOWED,SACK",$16,5.0,5.00,135
+Casey Washington,WR,"TB 23 @ ATL 20, Final","6 TGT,3 REC,33 REC YD",$10,4.8,4.80,136
+Tee Higgins,WR,"CIN 17 @ CLE 16, Final","4 TGT,3 REC,33 REC YD",$35,4.8,4.80,137
+Calvin Ridley,WR,"TEN 12 @ DEN 20, Final","8 TGT,4 REC,27 REC YD",$23,4.7,4.70,138
+Jameson Williams,WR,"DET 13 @ GB 27, Final","RUSH ATT,3 RUSH YD,5 TGT,4 REC,23 REC YD",$29,4.6,4.60,139
+Tyrone Tracy Jr.,RB,"NYG 6 @ WAS 21, Final","10 RUSH ATT,24 RUSH YD,5 TGT,2 REC,11 REC YD",$22,4.5,4.50,140
+Xavier Hutchinson,WR,"HOU 9 @ LA 14, Final","RUSH ATT,5 RUSH YD,2 TGT,2 REC,30 REC YD",$10,4.5,4.50,141
+Pat Freiermuth,TE,"PIT 34 @ NYJ 32, Final","3 TGT,3 REC,28 REC YD",$14,4.3,4.30,142
+Dalton Schultz,TE,"HOU 9 @ LA 14, Final","5 TGT,3 REC,28 REC YD",$11,4.3,4.30,143
+Brian Robinson Jr.,RB,"SF 17 @ SEA 13, Final","9 RUSH ATT,33 RUSH YD,2 TGT,REC,4 REC YD",$23,4.2,4.20,144
+Kyle Juszczyk,RB,"SF 17 @ SEA 13, Final","2 TGT,2 REC,32 REC YD",$10,4.2,4.20,145
+Cade StoverQ,TE,"HOU 9 @ LA 14, Final","4 TGT,4 REC,22 REC YD",$10,4.2,4.20,146
+Jayden Higgins,WR,"HOU 9 @ LA 14, Final","3 TGT,2 REC,32 REC YD",$15,4.2,4.20,147
+Tyler Johnson,WR,"PIT 34 @ NYJ 32, Final","2 TGT,2 REC,31 REC YD",$10,4.1,4.10,148
+Alec Pierce,WR,"MIA 8 @ IND 33, Final","3 TGT,REC,36 REC YD",$18,4.1,4.10,149
+DJ Giddens,RB,"MIA 8 @ IND 33, Final","12 RUSH ATT,41 RUSH YD",$10,4.1,4.10,150
+Brandin Cooks,WR,"ARI 20 @ NO 13, Final","4 TGT,3 REC,26 REC YD",$11,4.1,4.10,151
+Xavier Smith,WR,"HOU 9 @ LA 14, Final","TGT,REC,36 REC YD",$10,4.1,4.10,152
+Cleveland Browns,DEF,"CIN 17 @ CLE 16, Final","17 PTS ALLOWED,3 SACK",$11,4.0,4.00,153
+Dontayvion WicksQ,WR,"DET 13 @ GB 27, Final","2 TGT,2 REC,30 REC YD",$13,4.0,4.00,154
+Nico Collins,WR,"HOU 9 @ LA 14, Final","5 TGT,3 REC,25 REC YD",$31,4.0,4.00,155
+Malik Washington,WR,"MIA 8 @ IND 33, Final","RUSH ATT,9 RUSH YD,5 TGT,2 REC,20 REC YD",$10,3.9,3.90,156
+Chris Moore,WR,"NYG 6 @ WAS 21, Final","TGT,REC,34 REC YD",$10,3.9,3.90,157
+Kenneth Walker III,RB,"SF 17 @ SEA 13, Final","10 RUSH ATT,20 RUSH YD,3 TGT,3 REC,4 REC YD",$26,3.9,3.90,158
+Kenneth Gainwell,RB,"PIT 34 @ NYJ 32, Final","7 RUSH ATT,19 RUSH YD,4 TGT,3 REC,4 REC YD",$10,3.8,3.80,159
+Ja'Tavion Sanders,TE,"CAR 10 @ JAC 26, Final","3 TGT,2 REC,27 REC YD",$10,3.7,3.70,160
+Noah BrownQ,WR,"NYG 6 @ WAS 21, Final","3 TGT,2 REC,27 REC YD",$11,3.7,3.70,161
+Terry McLaurin,WR,"NYG 6 @ WAS 21, Final","4 TGT,2 REC,27 REC YD",$31,3.7,3.70,162
+Rhamondre Stevenson,RB,"LV 20 @ NE 13, Final","7 RUSH ATT,15 RUSH YD,3 TGT,2 REC,12 REC YD",$20,3.7,3.70,163
+Justin Watson,WR,"HOU 9 @ LA 14, Final","2 TGT,2 REC,27 REC YD",$10,3.7,3.70,164
+Ja'Marr Chase,WR,"CIN 17 @ CLE 16, Final","5 TGT,2 REC,26 REC YD",$40,3.6,3.60,165
+Evan EngramQ,TE,"TEN 12 @ DEN 20, Final","4 TGT,3 REC,21 REC YD",$15,3.6,3.60,166
+Chig Okonkwo,TE,"TEN 12 @ DEN 20, Final","4 TGT,3 REC,19 REC YD",$13,3.4,3.40,167
+Jackson Hawes,TE,"BAL 40 @ BUF 41, Final","TGT,REC,29 REC YD",$10,3.4,3.40,168
+Adonai Mitchell,WR,"MIA 8 @ IND 33, Final","2 TGT,2 REC,21 REC YD",$10,3.1,3.10,169
+New York Jets,DEF,"PIT 34 @ NYJ 32, Final","34 PTS ALLOWED,4 SACK",$14,3.0,3.00,170
+Tanner Conner,TE,"MIA 8 @ IND 33, Final","4 TGT,2 REC,20 REC YD",$10,3.0,3.00,171
+New York Giants,DEF,"NYG 6 @ WAS 21, Final","21 PTS ALLOWED,3 SACK",$13,3.0,3.00,172
+Dawson Knox,TE,"BAL 40 @ BUF 41, Final","2 TGT,2 REC,20 REC YD",$10,3.0,3.00,173
+Josh Reynolds,WR,"PIT 34 @ NYJ 32, Final","3 TGT,2 REC,18 REC YD",$10,2.8,2.80,174
+Jack Bech,WR,"LV 20 @ NE 13, Final","TGT,REC,23 REC YD",$15,2.8,2.80,175
+Jeremy Ruckert,TE,"PIT 34 @ NYJ 32, Final","2 TGT,2 REC,16 REC YD",$10,2.6,2.60,176
+Rico Dowdle,RB,"CAR 10 @ JAC 26, Final","3 RUSH ATT,12 RUSH YD,3 TGT,2 REC,4 REC YD",$19,2.6,2.60,177
+Jauan JenningsQ,WR,"SF 17 @ SEA 13, Final","5 TGT,2 REC,16 REC YD",$21,2.6,2.60,178
+Tyler Badie,RB,"TEN 12 @ DEN 20, Final","6 TGT,2 REC,16 REC YD",$10,2.6,2.60,179
+Kalif Raymond,WR,"DET 13 @ GB 27, Final","3 TGT,2 REC,16 REC YD",$10,2.6,2.60,180
+Matthew GoldenQ,WR,"DET 13 @ GB 27, Final","2 TGT,2 REC,16 REC YD",$20,2.6,2.60,181
+Mason Taylor,TE,"PIT 34 @ NYJ 32, Final","TGT,REC,20 REC YD",$10,2.5,2.50,182
+Mo Alie-Cox,TE,"MIA 8 @ IND 33, Final","TGT,REC,20 REC YD",$10,2.5,2.50,183
+Xavier Legette,WR,"CAR 10 @ JAC 26, Final","7 TGT,3 REC,10 REC YD",$11,2.5,2.50,184
+Jeremy McNichols,RB,"NYG 6 @ WAS 21, Final","4 RUSH ATT,25 RUSH YD",$10,2.5,2.50,185
+Cooper Kupp,WR,"SF 17 @ SEA 13, Final","3 TGT,2 REC,15 REC YD",$18,2.5,2.50,186
+Cam Ward,QB,"TEN 12 @ DEN 20, Final","112 PASS YD,FUM LOST",$20,2.5,2.48,187
+Tyler Allgeier,RB,"TB 23 @ ATL 20, Final","10 RUSH ATT,24 RUSH YD",$12,2.4,2.40,188
+Kendre Miller,RB,"ARI 20 @ NO 13, Final","5 RUSH ATT,24 RUSH YD",$10,2.4,2.40,189
+Ty Johnson,RB,"BAL 40 @ BUF 41, Final","2 RUSH ATT,24 RUSH YD,2 TGT",$12,2.4,2.40,190
+Elic Ayomanor,WR,"TEN 12 @ DEN 20, Final","7 TGT,2 REC,13 REC YD",$10,2.3,2.30,191
+Josh Downs,WR,"MIA 8 @ IND 33, Final","3 TGT,2 REC,12 REC YD",$20,2.2,2.20,192
+Rachaad White,RB,"TB 23 @ ATL 20, Final","2 RUSH ATT,14 RUSH YD,TGT,REC,2 REC YD",$16,2.1,2.10,193
+Hunter Renfrow,WR,"CAR 10 @ JAC 26, Final","6 TGT,2 REC,11 REC YD",$10,2.1,2.10,194
+Gunnar Helm,TE,"TEN 12 @ DEN 20, Final","2 TGT,REC,16 REC YD",$10,2.1,2.10,195
+Blake Corum,RB,"HOU 9 @ LA 14, Final","RUSH ATT,2 RUSH YD,TGT,REC,14 REC YD",$10,2.1,2.10,196
+Tampa Bay Buccaneers,DEF,"TB 23 @ ATL 20, Final","20 PTS ALLOWED,SACK",$16,2.0,2.00,197
+Pittsburgh Steelers,DEF,"PIT 34 @ NYJ 32, Final","32 PTS ALLOWED,SACK,FUM REC",$18,2.0,2.00,198
+Julian Hill,TE,"MIA 8 @ IND 33, Final",2PT,$10,2.0,2.00,199
+Carolina Panthers,DEF,"CAR 10 @ JAC 26, Final","26 PTS ALLOWED,INT",$10,2.0,2.00,200
+Rashod Bateman,WR,"BAL 40 @ BUF 41, Final","4 TGT,2 REC,10 REC YD",$21,2.0,2.00,201
+Daniel Bellinger,TE,"NYG 6 @ WAS 21, Final","TGT,REC,14 REC YD",$10,1.9,1.90,202
+Cam Skattebo,RB,"NYG 6 @ WAS 21, Final","2 RUSH ATT,-3 RUSH YD,2 TGT,2 REC,12 REC YD",$13,1.9,1.90,203
+Mike Gesicki,TE,"CIN 17 @ CLE 16, Final","3 TGT,REC,14 REC YD",$15,1.9,1.90,204
+Isaiah Davis,RB,"PIT 34 @ NYJ 32, Final","2 RUSH ATT,18 RUSH YD",$10,1.8,1.80,205
+Kyle Williams,WR,"LV 20 @ NE 13, Final","TGT,REC,12 REC YD",$14,1.7,1.70,206
+LeQuint Allen Jr.,RB,"CAR 10 @ JAC 26, Final","RUSH ATT,7 RUSH YD,TGT,REC,4 REC YD",$10,1.6,1.60,207
+Jaylin Lane,WR,"NYG 6 @ WAS 21, Final","2 TGT,REC,11 REC YD",$10,1.6,1.60,208
+Samaje Perine,RB,"CIN 17 @ CLE 16, Final","2 TGT,2 REC,6 REC YD",$10,1.6,1.60,209
+Dare Ogunbowale,RB,"HOU 9 @ LA 14, Final","2 RUSH ATT,9 RUSH YD,2 TGT,2 REC,17 REC YD,FUM LOST",$10,1.6,1.60,210
+Elijah Moore,WR,"BAL 40 @ BUF 41, Final","RUSH ATT,8 RUSH YD,TGT,REC,3 REC YD",$10,1.6,1.60,211
+Zach Wilson,QB,"MIA 8 @ IND 33, Final","32 PASS YD,RUSH ATT,3 RUSH YD",$20,1.6,1.58,212
+Ashton Dulin,WR,"MIA 8 @ IND 33, Final","RUSH ATT,15 RUSH YD",$10,1.5,1.50,213
+Tip Reiman,TE,"ARI 20 @ NO 13, Final","TGT,REC,10 REC YD",$10,1.5,1.50,214
+Austin Hooper,TE,"LV 20 @ NE 13, Final","TGT,REC,10 REC YD",$10,1.5,1.50,215
+Dee Eskridge,WR,"MIA 8 @ IND 33, Final","2 TGT,REC,9 REC YD",$10,1.4,1.40,216
+Bryce Oliver,WR,"TEN 12 @ DEN 20, Final","TGT,REC,8 REC YD",$10,1.3,1.30,217
+Nick Westbrook-Ikhine,WR,"MIA 8 @ IND 33, Final","2 TGT,REC,7 REC YD",$14,1.2,1.20,218
+Tank Bigsby,RB,"CAR 10 @ JAC 26, Final","5 RUSH ATT,12 RUSH YD",$15,1.2,1.20,219
+Elijah Arroyo,TE,"SF 17 @ SEA 13, Final","TGT,REC,7 REC YD",$10,1.2,1.20,220
+Jaylin Noel,WR,"HOU 9 @ LA 14, Final","2 TGT,REC,7 REC YD",$11,1.2,1.20,221
+Bhayshul Tuten,RB,"CAR 10 @ JAC 26, Final","3 RUSH ATT,11 RUSH YD",$13,1.1,1.10,222
+Jamari Thrash,WR,"CIN 17 @ CLE 16, Final","TGT,REC,6 REC YD",$10,1.1,1.10,223
+Lucas Krull,TE,"TEN 12 @ DEN 20, Final","2 TGT,REC,6 REC YD",$10,1.1,1.10,224
+Atlanta Falcons,DEF,"TB 23 @ ATL 20, Final","23 PTS ALLOWED,SACK",$14,1.0,1.00,225
+Theo Johnson,TE,"NYG 6 @ WAS 21, Final","3 TGT,REC,5 REC YD",$12,1.0,1.00,226
+Michael Wilson,WR,"ARI 20 @ NO 13, Final","4 TGT,REC,5 REC YD",$14,1.0,1.00,227
+Jerome Ford,RB,"CIN 17 @ CLE 16, Final","6 RUSH ATT,8 RUSH YD,TGT,REC,-3 REC YD",$18,1.0,1.00,228
+Adam Trautman,TE,"TEN 12 @ DEN 20, Final","TGT,REC,5 REC YD",$10,1.0,1.00,229
+Mark Andrews,TE,"BAL 40 @ BUF 41, Final","TGT,REC,5 REC YD",$20,1.0,1.00,230
+Devin Singletary,RB,"NYG 6 @ WAS 21, Final","3 RUSH ATT,9 RUSH YD",$10,0.9,0.90,231
+Zay Jones,WR,"ARI 20 @ NO 13, Final","TGT,REC,4 REC YD",$10,0.9,0.90,232
+Devin Neal,RB,"ARI 20 @ NO 13, Final","2 RUSH ATT,9 RUSH YD",$10,0.9,0.90,233
+Luke Farrell,TE,"SF 17 @ SEA 13, Final","TGT,REC,4 REC YD",$10,0.9,0.90,234
+Chimere Dike,WR,"TEN 12 @ DEN 20, Final","RUSH ATT,9 RUSH YD,TGT",$10,0.9,0.90,235
+Luke Musgrave,TE,"DET 13 @ GB 27, Final","TGT,REC,4 REC YD",$10,0.9,0.90,236
+Tutu Atwell,WR,"HOU 9 @ LA 14, Final","TGT,REC,4 REC YD",$10,0.9,0.90,237
+Ollie Gordon II,RB,"MIA 8 @ IND 33, Final","2 RUSH ATT,4 RUSH YD,TGT,REC,-1 REC YD",$10,0.8,0.80,238
+Elijah Higgins,TE,"ARI 20 @ NO 13, Final","2 TGT,REC,3 REC YD",$10,0.8,0.80,239
+Zamir White,RB,"LV 20 @ NE 13, Final","3 RUSH ATT,8 RUSH YD",$10,0.8,0.80,240
+Mack Hollins,WR,"LV 20 @ NE 13, Final","2 TGT,REC,3 REC YD",$10,0.8,0.80,241
+Trent Sherfield Sr.,WR,"TEN 12 @ DEN 20, Final","TGT,REC,3 REC YD",$10,0.8,0.80,242
+Chris Brooks,RB,"DET 13 @ GB 27, Final","RUSH ATT,RUSH YD,TGT,REC,2 REC YD",$10,0.8,0.80,243
+Tommy Tremble,TE,"CAR 10 @ JAC 26, Final","TGT,REC,2 REC YD",$10,0.7,0.70,244
+AJ Barner,TE,"SF 17 @ SEA 13, Final","RUSH ATT,2 RUSH YD,2 TGT,REC",$10,0.7,0.70,245
+Marvin Mims Jr.,WR,"TEN 12 @ DEN 20, Final","4 TGT,3 REC,12 REC YD,FUM LOST",$19,0.7,0.70,246
+John FitzPatrick,TE,"DET 13 @ GB 27, Final","TGT,REC,2 REC YD",$10,0.7,0.70,247
+Alec Ingold,RB,"MIA 8 @ IND 33, Final","2 TGT,REC,REC YD",$10,0.6,0.60,248
+Savion Williams,WR,"DET 13 @ GB 27, Final","TGT,REC,REC YD",$10,0.6,0.60,249
+Ray Davis,RB,"BAL 40 @ BUF 41, Final","RUSH ATT,2 RUSH YD,TGT,REC,-1 REC YD",$15,0.6,0.60,250
+Dameon Pierce,RB,"HOU 9 @ LA 14, Final","3 RUSH ATT,5 RUSH YD,TGT",$10,0.5,0.50,251
+Jordan Whittington,WR,"HOU 9 @ LA 14, Final","RUSH ATT,5 RUSH YD",$10,0.5,0.50,252
+Rasheen Ali,RB,"BAL 40 @ BUF 41, Final","RUSH ATT,5 RUSH YD",$10,0.5,0.50,253
+Trevor Etienne,RB,"CAR 10 @ JAC 26, Final","RUSH ATT,4 RUSH YD",$10,0.4,0.40,254
+Emanuel Wilson,RB,"DET 13 @ GB 27, Final","RUSH ATT,4 RUSH YD",$12,0.4,0.40,255
+Greg Dortch,WR,"ARI 20 @ NO 13, Final","TGT,REC,-2 REC YD",$12,0.3,0.30,256
+Antonio Gibson,RB,"LV 20 @ NE 13, Final","RUSH ATT,3 RUSH YD,TGT",$10,0.3,0.30,257
+Woody Marks,RB,"HOU 9 @ LA 14, Final","3 RUSH ATT,3 RUSH YD",$10,0.3,0.30,258
+Sean Tucker,RB,"TB 23 @ ATL 20, Final","RUSH ATT,2 RUSH YD",$10,0.2,0.20,259
+Julius Chestnut,RB,"TEN 12 @ DEN 20, Final","2 RUSH ATT,2 RUSH YD",$10,0.2,0.20,260
+Jalen Milroe,QB,"SF 17 @ SEA 13, Final","RUSH ATT,RUSH YD",$20,0.1,0.10,261
+Chris Godwin Jr.O,WR,"TB 23 @ ATL 20, Final",,$27,16.1,0.00,262
+Kyle Trask,QB,"TB 23 @ ATL 20, Final",,$20,-0.1,0.00,263
+Cade Otton,TE,"TB 23 @ ATL 20, Final",3 TGT,$13,—,0.00,264
+Ko Kieft,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,265
+Dennis Houston,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,266
+Payne Durham,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,267
+Rakim Jarrett,WR,"TB 23 @ ATL 20, Final",,$10,2.1,0.00,268
+Ryan Miller,WR,"TB 23 @ ATL 20, Final",TGT,$10,—,0.00,269
+Tanner Taula,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,270
+Jalen McMillanIR,WR,"TB 23 @ ATL 20, Final",,$22,8.7,0.00,271
+Devin Culp,TE,"TB 23 @ ATL 20, Final",,$10,5.7,0.00,272
+Kameron Johnson,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,273
+Tez Johnson,WR,"TB 23 @ ATL 20, Final",TGT,$10,—,0.00,274
+Connor Bazelak,QB,"TB 23 @ ATL 20, Final",,$20,—,0.00,275
+Josh Williams,RB,"TB 23 @ ATL 20, Final",,$10,—,0.00,276
+Garrett Greene,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,277
+Kirk Cousins,QB,"TB 23 @ ATL 20, Final",,$20,13.7,0.00,278
+Jamal AgnewQ,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,279
+KhaDarel Hodge,WR,"TB 23 @ ATL 20, Final",TGT,$10,—,0.00,280
+Easton Stick,QB,"TB 23 @ ATL 20, Final",,$20,—,0.00,281
+David Sills V,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,282
+Darnell MooneyO,WR,"TB 23 @ ATL 20, Final",,$19,10.1,0.00,283
+Charlie Woerner,TE,"TB 23 @ ATL 20, Final",,$10,0.7,0.00,284
+Chris Blair,WR,"TB 23 @ ATL 20, Final",,$10,1.1,0.00,285
+Feleipe Franks,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,286
+Nikola Kalinic,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,287
+Teagan Quitoriano,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,288
+Elijah Dotson,RB,"TB 23 @ ATL 20, Final",,$10,—,0.00,289
+Carlos Washington Jr.,RB,"TB 23 @ ATL 20, Final",,$10,—,0.00,290
+Jesse Matthews,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,291
+Dylan Drummond,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,292
+Emory JonesIR,QB,"TB 23 @ ATL 20, Final",,$20,—,0.00,293
+Nick Nash,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,294
+Joshua Simon,TE,"TB 23 @ ATL 20, Final",,$10,—,0.00,295
+Quincy Skinner Jr.,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,296
+Nathan Carter,RB,"TB 23 @ ATL 20, Final",,$10,—,0.00,297
+Jashaun Corbin,RB,"TB 23 @ ATL 20, Final",,$10,—,0.00,298
+DJ Chark,WR,"TB 23 @ ATL 20, Final",,$10,2.5,0.00,299
+Owen Wright,RB,"TB 23 @ ATL 20, Final",,$10,—,0.00,300
+Jaden Smith,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,301
+Jacob Harris,WR,"TB 23 @ ATL 20, Final",,$10,—,0.00,302
+Teddy Bridgewater,QB,"TB 23 @ ATL 20, Final",,$20,0.1,0.00,303
+Jase McClellan,RB,"TB 23 @ ATL 20, Final",,$10,1.1,0.00,304
+Jelani Woods,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,305
+Robert Woods,WR,"PIT 34 @ NYJ 32, Final",,$10,2.1,0.00,306
+Mason Rudolph,QB,"PIT 34 @ NYJ 32, Final",,$20,13.1,0.00,307
+Scotty Miller,WR,"PIT 34 @ NYJ 32, Final",,$10,1.9,0.00,308
+Trey Sermon,RB,"PIT 34 @ NYJ 32, Final",,$10,3.1,0.00,309
+Connor Heyward,TE,"PIT 34 @ NYJ 32, Final",,$10,1.4,0.00,310
+Skylar ThompsonO,QB,"PIT 34 @ NYJ 32, Final",,$20,3.9,0.00,311
+Lance McCutcheon,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,312
+Brandon JohnsonQ,WR,"PIT 34 @ NYJ 32, Final",,$10,1.4,0.00,313
+Darnell Washington,TE,"PIT 34 @ NYJ 32, Final",,$10,2.5,0.00,314
+Evan Hull,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,315
+Roman Wilson,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,316
+Will HowardIR,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.00,317
+JJ Galbreath,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,318
+Ke'Shawn Williams,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,319
+Roc Taylor,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,320
+Max Hurleman,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,321
+Tyrod Taylor,QB,"PIT 34 @ NYJ 32, Final",,$20,10.0,0.00,322
+Allen Lazard,WR,"PIT 34 @ NYJ 32, Final",,$12,9.0,0.00,323
+Andrew Beck,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,324
+Kene NwangwuQ,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,325
+Brandon Smith,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,326
+Irvin CharlesPUP,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,327
+Stone Smartt,TE,"PIT 34 @ NYJ 32, Final",,$10,3.0,0.00,328
+Zack Kuntz,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,329
+Adrian Martinez,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.00,330
+Pokey Wilson,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,331
+Xavier Gipson,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,332
+Neal Johnson,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,333
+Arian Smith,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,334
+Quentin Skinner,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,335
+Donovan Edwards,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,336
+Brady Cook,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.00,337
+Jamaal Pritchett,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,338
+Dymere Miller,WR,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,339
+Lawrance Toafili,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,340
+Lew Nichols,RB,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,341
+Logan Woodside,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.00,342
+Kevin Foelsch,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.00,343
+Pharaoh Brown,TE,"MIA 8 @ IND 33, Final",,$10,0.9,0.00,344
+Tarik Black,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,345
+Erik Ezukanma,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,346
+Jaylen WrightO,RB,"MIA 8 @ IND 33, Final",,$10,1.9,0.00,347
+Tahj Washington,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,348
+Hayden Rucci,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,349
+Quinn Ewers,QB,"MIA 8 @ IND 33, Final",,$20,—,0.00,350
+Theo Wease Jr.,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,351
+Andrew Armstrong,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,352
+AJ Henning,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,353
+Laquon Treadwell,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,354
+D.J. MontgomeryIR,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,355
+Sean McKeon,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,356
+Khalil Herbert,RB,"MIA 8 @ IND 33, Final",,$10,2.4,0.00,357
+Drew Ogletree,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,358
+Tyler GoodsonO,RB,"MIA 8 @ IND 33, Final",,$10,3.0,0.00,359
+Anthony Richardson Sr.,QB,"MIA 8 @ IND 33, Final",,$21,15.9,0.00,360
+Will Mallory,TE,"MIA 8 @ IND 33, Final",,$10,0.7,0.00,361
+Anthony Gould,WR,"MIA 8 @ IND 33, Final",,$10,0.4,0.00,362
+Jason Bean,QB,"MIA 8 @ IND 33, Final",,$20,—,0.00,363
+Ajou Ajou,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,364
+Riley Leonard,QB,"MIA 8 @ IND 33, Final",,$20,—,0.00,365
+Landon Parker,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,366
+Ulysses Bentley IV,RB,"MIA 8 @ IND 33, Final",RUSH ATT,$10,—,0.00,367
+Coleman Owen,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,368
+Tyler Kahmann,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,369
+Blayne Taylor,WR,"MIA 8 @ IND 33, Final",,$10,—,0.00,370
+Max Mang,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,371
+Miami Dolphins,DEF,"MIA 8 @ IND 33, Final","33 PTS ALLOWED,SACK",$12,—,0.00,372
+Darren WallerO,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,373
+Chris Myarick,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,374
+Mitchell Wilcox,TE,"MIA 8 @ IND 33, Final",,$10,—,0.00,375
+Nate Noel,RB,"MIA 8 @ IND 33, Final",,$10,—,0.00,376
+Nay'Quan Wright,RB,"MIA 8 @ IND 33, Final",,$10,—,0.00,377
+Mike Boone,RB,"MIA 8 @ IND 33, Final",,$10,1.1,0.00,378
+Aaron Shampklin,RB,"MIA 8 @ IND 33, Final",,$10,0.6,0.00,379
+Andy Dalton,QB,"CAR 10 @ JAC 26, Final",,$20,10.8,0.00,380
+Adam Thielen,WR,"CAR 10 @ JAC 26, Final",,$22,11.6,0.00,381
+David Moore,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,382
+Dominique Dafney,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,383
+James Mitchell,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,384
+Raheem BlackshearQ,RB,"CAR 10 @ JAC 26, Final",,$10,0.5,0.00,385
+Brycen Tremayne,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,386
+Jonathon BrooksPUP,RB,"CAR 10 @ JAC 26, Final",,$10,2.0,0.00,387
+Emani Bailey,RB,"CAR 10 @ JAC 26, Final",,$10,—,0.00,388
+Jack Plummer,QB,"CAR 10 @ JAC 26, Final",,$20,—,0.00,389
+Jalen CokerIR,WR,"CAR 10 @ JAC 26, Final",,$16,7.0,0.00,390
+Mitchell Evans,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,391
+Jimmy Horn Jr.,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,392
+Jacolby George,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,393
+Kayron Lynch-Adams,RB,"CAR 10 @ JAC 26, Final",,$10,—,0.00,394
+Bryce Pierre,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,395
+Kobe Hudson,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,396
+Johnny Mundt,TE,"CAR 10 @ JAC 26, Final",TGT,$10,—,0.00,397
+Nick Mullens,QB,"CAR 10 @ JAC 26, Final",,$20,0.3,0.00,398
+John Wolford,QB,"CAR 10 @ JAC 26, Final",,$20,—,0.00,399
+Austin Trammell,WR,"CAR 10 @ JAC 26, Final",,$10,3.0,0.00,400
+Quintin Morris,TE,"CAR 10 @ JAC 26, Final",,$10,1.7,0.00,401
+Parker Washington,WR,"CAR 10 @ JAC 26, Final",,$11,—,0.00,402
+Joshua CephusIR,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,403
+Shawn Bowman,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,404
+Patrick Herbert,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,405
+Seth Henigan,QB,"CAR 10 @ JAC 26, Final",,$20,—,0.00,406
+Chandler Brayboy,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,407
+John Copenhaver,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,408
+Cam Camper,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,409
+Ja'Quinden Jackson,RB,"CAR 10 @ JAC 26, Final",,$10,—,0.00,410
+Eli PancolQ,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,411
+Darius Lassiter,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,412
+Dorian Singer,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,413
+Tim Patrick,WR,"CAR 10 @ JAC 26, Final",,$10,4.6,0.00,414
+T.J. Luther,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,415
+Trenton Irwin,WR,"CAR 10 @ JAC 26, Final",,$10,0.5,0.00,416
+Tyler MabryQ,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.00,417
+Ja'seem Reed,WR,"CAR 10 @ JAC 26, Final",,$10,—,0.00,418
+Chris Manhertz,TE,"NYG 6 @ WAS 21, Final",,$10,1.8,0.00,419
+Jameis Winston,QB,"NYG 6 @ WAS 21, Final",,$20,13.0,0.00,420
+Zach Pascal,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,421
+Darius Slayton,WR,"NYG 6 @ WAS 21, Final",TGT,$11,—,0.00,422
+Lil'Jordan Humphrey,WR,"NYG 6 @ WAS 21, Final",,$10,3.5,0.00,423
+Ihmir Smith-Marsette,WR,"NYG 6 @ WAS 21, Final",,$10,0.4,0.00,424
+Greg Dulcich,TE,"NYG 6 @ WAS 21, Final",,$10,1.3,0.00,425
+Montrell Washington,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,426
+Jalin Hyatt,WR,"NYG 6 @ WAS 21, Final",,$10,0.9,0.00,427
+Eric GrayPUP,RB,"NYG 6 @ WAS 21, Final",,$10,0.9,0.00,428
+Dante Miller,RB,"NYG 6 @ WAS 21, Final",,$10,—,0.00,429
+Thomas Fidone II,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.00,430
+Beaux Collins,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,431
+Jordan Bly,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,432
+Dalen Cambre,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,433
+Da'Quan FeltonIR,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,434
+Antwane Wells Jr.,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,435
+Jermaine Terry IIQ,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.00,436
+Josh Johnson,QB,"NYG 6 @ WAS 21, Final",,$20,0.2,0.00,437
+Marcus Mariota,QB,"NYG 6 @ WAS 21, Final",,$20,9.2,0.00,438
+Michael Gallup,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,439
+K.J. Osborn,WR,"NYG 6 @ WAS 21, Final",,$10,2.5,0.00,440
+Lawrence Cager,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.00,441
+John Bates,TE,"NYG 6 @ WAS 21, Final",,$10,1.1,0.00,442
+Demetric Felton,RB,"NYG 6 @ WAS 21, Final",,$10,—,0.00,443
+Michael Strachan,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,444
+Cole Turner,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.00,445
+Chris Rodriguez Jr.,RB,"NYG 6 @ WAS 21, Final",,$10,3.9,0.00,446
+Kazmeir Allen,RB,"NYG 6 @ WAS 21, Final",,$10,—,0.00,447
+Ben Sinnott,TE,"NYG 6 @ WAS 21, Final",,$10,2.4,0.00,448
+Luke McCaffrey,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,449
+Colson Yankoff,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.00,450
+Sam Hartman,QB,"NYG 6 @ WAS 21, Final",,$20,—,0.00,451
+Jacoby Jones,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,452
+Ja'Corey Brooks,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,453
+Jaxson Dart,QB,"NYG 6 @ WAS 21, Final",,$20,—,0.00,454
+Tay Martin,WR,"NYG 6 @ WAS 21, Final",,$13,11.4,0.00,455
+Gunner Olszewski,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,456
+Braylon Sanders,WR,"NYG 6 @ WAS 21, Final",,$10,—,0.00,457
+Jonathan Ward,RB,"NYG 6 @ WAS 21, Final",,$10,0.6,0.00,458
+Trey Palmer,WR,"ARI 20 @ NO 13, Final",,$10,1.9,0.00,459
+Jacoby Brissett,QB,"ARI 20 @ NO 13, Final",,$20,6.6,0.00,460
+Josiah Deguara,TE,"ARI 20 @ NO 13, Final",,$10,0.6,0.00,461
+DeeJay Dallas,RB,"ARI 20 @ NO 13, Final",,$10,1.2,0.00,462
+Andre Baccellia,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,463
+Michael Carter,RB,"ARI 20 @ NO 13, Final",,$10,7.6,0.00,464
+Simi Fehoko,WR,"ARI 20 @ NO 13, Final",,$10,2.3,0.00,465
+Clayton Tune,QB,"ARI 20 @ NO 13, Final",,$20,-0.4,0.00,466
+Emari Demercado,RB,"ARI 20 @ NO 13, Final",,$10,—,0.00,467
+Travis Vokolek,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,468
+Tejhaun Palmer,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,469
+Xavier Weaver,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,470
+Bryson Green,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,471
+Oscar Cardenas,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,472
+Taysom HillPUP,TE,"ARI 20 @ NO 13, Final",,$15,11.5,0.00,473
+Dante Pettis,WR,"ARI 20 @ NO 13, Final",,$10,3.2,0.00,474
+Cedrick Wilson Jr.,WR,"ARI 20 @ NO 13, Final",,$10,3.2,0.00,475
+Foster MoreauPUP,TE,"ARI 20 @ NO 13, Final",,$10,5.5,0.00,476
+Clyde Edwards-Helaire,RB,"ARI 20 @ NO 13, Final",,$10,4.3,0.00,477
+Donovan Peoples-Jones,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,478
+Jack Stoll,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,479
+Michael Jacobson,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,480
+Velus Jones Jr.,RB,"ARI 20 @ NO 13, Final",,$10,—,0.00,481
+Kevin Austin Jr.,WR,"ARI 20 @ NO 13, Final",,$10,2.7,0.00,482
+Jake Haener,QB,"ARI 20 @ NO 13, Final",,$20,1.8,0.00,483
+Bub MeansIR,WR,"ARI 20 @ NO 13, Final",,$10,5.6,0.00,484
+Mason Tipton,WR,"ARI 20 @ NO 13, Final",,$10,1.9,0.00,485
+Treyton Welch,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,486
+Moliki Matavao,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,487
+Moochie Dixon,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,488
+Marcus Yarns,RB,"ARI 20 @ NO 13, Final",,$10,—,0.00,489
+Cam Akers,RB,"ARI 20 @ NO 13, Final",,$10,5.3,0.00,490
+Tyler Shough,QB,"ARI 20 @ NO 13, Final",,$20,—,0.00,491
+Nate McCollum,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,492
+Bam Knight,RB,"ARI 20 @ NO 13, Final",,$10,—,0.00,493
+Hunter Dekkers,QB,"ARI 20 @ NO 13, Final",,$20,—,0.00,494
+Kelly Akharaiyi,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,495
+Roderick Daniels Jr.,WR,"ARI 20 @ NO 13, Final",,$10,—,0.00,496
+Seth Green,TE,"ARI 20 @ NO 13, Final",,$10,—,0.00,497
+Tanner Hudson,TE,"CIN 17 @ CLE 16, Final",,$10,3.2,0.00,498
+Drew Sample,TE,"CIN 17 @ CLE 16, Final",TGT,$10,—,0.00,499
+Jake Browning,QB,"CIN 17 @ CLE 16, Final",,$20,-0.1,0.00,500
+Gary Brightwell,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,501
+Kendric Pryor,WR,"CIN 17 @ CLE 16, Final",,$10,1.4,0.00,502
+Charlie Jones,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,503
+Andrei Iosivas,WR,"CIN 17 @ CLE 16, Final",,$11,6.0,0.00,504
+Mitchell Tinsley,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,505
+Jermaine Burton,WR,"CIN 17 @ CLE 16, Final",,$10,1.6,0.00,506
+Erick All Jr.PUP,TE,"CIN 17 @ CLE 16, Final",,$10,3.2,0.00,507
+Tanner McLachlanQ,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.00,508
+Cam Grandy,TE,"CIN 17 @ CLE 16, Final",,$10,1.3,0.00,509
+Kendall Milton,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,510
+Isaiah Williams,WR,"CIN 17 @ CLE 16, Final",,$10,0.2,0.00,511
+Cole Burgess,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,512
+Tahj Brooks,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,513
+Rashod Owens,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,514
+Jamoi Mayes,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,515
+Jordan Moore,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,516
+Payton Thorne,QB,"CIN 17 @ CLE 16, Final",,$20,—,0.00,517
+Quali Conley,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,518
+DeAndre Carter,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,519
+Deshaun WatsonPUP,QB,"CIN 17 @ CLE 16, Final",,$20,11.4,0.00,520
+Diontae Johnson,WR,"CIN 17 @ CLE 16, Final",,$10,6.2,0.00,521
+Pierre Strong Jr.,RB,"CIN 17 @ CLE 16, Final",,$10,2.4,0.00,522
+Kaden Davis,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,523
+Blake Whiteheart,TE,"CIN 17 @ CLE 16, Final",,$10,2.0,0.00,524
+Brenden Bates,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.00,525
+Ahmani Marshall,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,526
+Gage Larvadain,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,527
+Kisean Johnson,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,528
+Cade McDonaldIR,WR,"CIN 17 @ CLE 16, Final",,$10,—,0.00,529
+Malachi Corley,WR,"CIN 17 @ CLE 16, Final",,$10,0.7,0.00,530
+Shedeur Sanders,QB,"CIN 17 @ CLE 16, Final",,$20,—,0.00,531
+Dillon Gabriel,QB,"CIN 17 @ CLE 16, Final",,$20,—,0.00,532
+Sal Cannella,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.00,533
+Desmond Ridder,QB,"CIN 17 @ CLE 16, Final",,$20,4.8,0.00,534
+Toa Taua,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,535
+Trayveon Williams,RB,"CIN 17 @ CLE 16, Final",,$10,—,0.00,536
+Mitch Van Vooren,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.00,537
+Tyler Huntley,QB,"CIN 17 @ CLE 16, Final",,$20,12.7,0.00,538
+Kenny Pickett,QB,"LV 20 @ NE 13, Final",,$20,3.6,0.00,539
+Raheem Mostert,RB,"LV 20 @ NE 13, Final",,$10,4.7,0.00,540
+Ian Thomas,TE,"LV 20 @ NE 13, Final",,$10,0.7,0.00,541
+Alex Bachman,WR,"LV 20 @ NE 13, Final",TGT,$10,—,0.00,542
+Collin Johnson,WR,"LV 20 @ NE 13, Final",,$10,0.2,0.00,543
+Sincere McCormick,RB,"LV 20 @ NE 13, Final",,$10,6.1,0.00,544
+Aidan O'ConnellIR,QB,"LV 20 @ NE 13, Final",,$20,10.8,0.00,545
+Justin Shorter,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,546
+Shedrick Jackson,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,547
+Dylan Laube,RB,"LV 20 @ NE 13, Final",,$10,—,0.00,548
+Chris Collier,RB,"LV 20 @ NE 13, Final",,$10,0.2,0.00,549
+Qadir Ismail,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,550
+Cam Miller,QB,"LV 20 @ NE 13, Final",,$20,—,0.00,551
+Tommy Mellott,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,552
+Carter Runyon,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,553
+Ketron Jackson Jr.,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,554
+Joshua Dobbs,QB,"LV 20 @ NE 13, Final",,$20,10.9,0.00,555
+Kendrick Bourne,WR,"LV 20 @ NE 13, Final",,$10,4.3,0.00,556
+Ja'Lynn PolkIR,WR,"LV 20 @ NE 13, Final",,$10,2.1,0.00,557
+Javon Baker,WR,"LV 20 @ NE 13, Final",,$10,0.3,0.00,558
+Jaheim Bell,TE,"LV 20 @ NE 13, Final",,$10,0.8,0.00,559
+Jack Westover,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,560
+John Jiles,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,561
+Terrell Jennings,RB,"LV 20 @ NE 13, Final",,$10,1.7,0.00,562
+Gee Scott Jr.,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,563
+CJ Dippre,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,564
+Efton Chism III,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,565
+Ben Wooldridge,QB,"LV 20 @ NE 13, Final",,$20,—,0.00,566
+Tommy DeVito,QB,"LV 20 @ NE 13, Final",,$20,6.7,0.00,567
+Phillip Dorsett,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,568
+Jeremiah Webb,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,569
+Cole Fotheringham,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,570
+Albert Okwuegbunam,TE,"LV 20 @ NE 13, Final",,$10,—,0.00,571
+JaMycal Hasty,RB,"LV 20 @ NE 13, Final",,$10,2.2,0.00,572
+Marquez Callaway,WR,"LV 20 @ NE 13, Final",,$10,—,0.00,573
+Shane Watts,RB,"LV 20 @ NE 13, Final",,$10,—,0.00,574
+Skyy Moore,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,575
+Demarcus RobinsonSUSP,WR,"SF 17 @ SEA 13, Final",,$10,6.3,0.00,576
+Russell Gage Jr.,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,577
+Ross Dwelley,TE,"SF 17 @ SEA 13, Final",,$10,0.5,0.00,578
+Brandon AiyukPUP,WR,"SF 17 @ SEA 13, Final",,$10,7.1,0.00,579
+Isaiah Hodgins,WR,"SF 17 @ SEA 13, Final",,$10,1.1,0.00,580
+Patrick Taylor Jr.IR,RB,"SF 17 @ SEA 13, Final",,$10,4.0,0.00,581
+Mac Jones,QB,"SF 17 @ SEA 13, Final",,$20,10.4,0.00,582
+Brayden Willis,TE,"SF 17 @ SEA 13, Final",,$10,—,0.00,583
+Jacob CowingIR,WR,"SF 17 @ SEA 13, Final",,$10,0.8,0.00,584
+Isaac Guerendo,RB,"SF 17 @ SEA 13, Final",,$16,—,0.00,585
+Terique Owens,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,586
+Jordan WatkinsO,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,587
+Jordan JamesO,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,588
+Kurtis RourkeO,QB,"SF 17 @ SEA 13, Final",,$20,—,0.00,589
+Junior Bergen,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,590
+Corey KinerQ,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,591
+Eric Saubert,TE,"SF 17 @ SEA 13, Final",,$10,—,0.00,592
+Marquez Valdes-Scantling,WR,"SF 17 @ SEA 13, Final",,$12,5.8,0.00,593
+Drew Lock,QB,"SF 17 @ SEA 13, Final",,$20,12.2,0.00,594
+Steven SimsQ,WR,"SF 17 @ SEA 13, Final",,$10,0.0,0.00,595
+Cody White,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,596
+Dareke YoungO,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,597
+Jake BoboO,WR,"SF 17 @ SEA 13, Final",,$10,1.9,0.00,598
+Brady Russell,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,599
+John Rhys PlumleeQ,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,600
+George Holani,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,601
+Tory Horton,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,602
+Robbie Ouzts,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,603
+Damien Martinez,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,604
+Ricky White III,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,605
+Marshall Lang,TE,"SF 17 @ SEA 13, Final",,$10,—,0.00,606
+Jacardia Wright,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,607
+Nick Kallerup,TE,"SF 17 @ SEA 13, Final",,$10,—,0.00,608
+Tyrone Broden,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,609
+Carter BradleyQ,QB,"SF 17 @ SEA 13, Final",,$20,—,0.00,610
+Robbie Chosen,WR,"SF 17 @ SEA 13, Final",,$10,1.0,0.00,611
+Anthony Tyus III,RB,"SF 17 @ SEA 13, Final",,$10,—,0.00,612
+Jeff Wilson Jr.,RB,"SF 17 @ SEA 13, Final",,$10,1.3,0.00,613
+Ke'Shawn Vaughn,RB,"SF 17 @ SEA 13, Final",,$10,0.4,0.00,614
+Malik Turner,WR,"SF 17 @ SEA 13, Final",,$10,—,0.00,615
+Tyler Lockett,WR,"TEN 12 @ DEN 20, Final",TGT,$10,—,0.00,616
+Brandon Allen,QB,"TEN 12 @ DEN 20, Final",,$20,2.8,0.00,617
+Van Jefferson,WR,"TEN 12 @ DEN 20, Final",,$10,3.9,0.00,618
+James Proche II,WR,"TEN 12 @ DEN 20, Final",,$10,0.4,0.00,619
+Mason Kinsey,WR,"TEN 12 @ DEN 20, Final",,$10,0.5,0.00,620
+Thomas Odukoya,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.00,621
+Tyjae SpearsIR,RB,"TEN 12 @ DEN 20, Final",,$19,8.2,0.00,622
+Josh Whyle,TE,"TEN 12 @ DEN 20, Final",,$10,3.1,0.00,623
+Jha'Quan Jackson,WR,"TEN 12 @ DEN 20, Final",,$10,0.1,0.00,624
+David Martin-Robinson,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.00,625
+Kalel MullingsQ,RB,"TEN 12 @ DEN 20, Final",,$10,—,0.00,626
+Xavier Restrepo,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,627
+TJ Sheffield,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,628
+Drake Dabney,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.00,629
+Michael BurtonIR,RB,"TEN 12 @ DEN 20, Final",,$10,2.0,0.00,630
+Jarrett Stidham,QB,"TEN 12 @ DEN 20, Final",,$20,0.2,0.00,631
+Sam Ehlinger,QB,"TEN 12 @ DEN 20, Final",,$20,—,0.00,632
+Michael Bandy,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,633
+A.T. Perry,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,634
+Jaleel McLaughlin,RB,"TEN 12 @ DEN 20, Final",,$10,5.0,0.00,635
+Nate AdkinsO,TE,"TEN 12 @ DEN 20, Final",,$10,2.4,0.00,636
+Audric Estime,RB,"TEN 12 @ DEN 20, Final",,$10,3.6,0.00,637
+Devaughn Vele,WR,"TEN 12 @ DEN 20, Final",,$12,1.8,0.00,638
+Blake WatsonQ,RB,"TEN 12 @ DEN 20, Final",,$10,0.9,0.00,639
+Pat Bryant,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,640
+Caleb Lohner,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.00,641
+Courtney Jackson,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,642
+Joaquin Davis,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,643
+Jerjuan Newton,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,644
+Kyrese Rowan,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,645
+Caden Prieskorn,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.00,646
+Jordan Mims,RB,"TEN 12 @ DEN 20, Final",,$10,2.5,0.00,647
+Jermar Jefferson,RB,"TEN 12 @ DEN 20, Final",,$10,1.8,0.00,648
+Matt LandersQ,WR,"TEN 12 @ DEN 20, Final",,$10,—,0.00,649
+Trevor Siemian,QB,"TEN 12 @ DEN 20, Final",,$20,—,0.00,650
+Kyle Allen,QB,"DET 13 @ GB 27, Final",,$20,0.8,0.00,651
+Malik Taylor,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,652
+Tom Kennedy,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,653
+Craig Reynolds,RB,"DET 13 @ GB 27, Final",,$10,—,0.00,654
+Brock Wright,TE,"DET 13 @ GB 27, Final",,$10,2.8,0.00,655
+Shane Zylstra,TE,"DET 13 @ GB 27, Final",,$10,1.4,0.00,656
+Hendon Hooker,QB,"DET 13 @ GB 27, Final",,$20,0.9,0.00,657
+Ronnie Bell,WR,"DET 13 @ GB 27, Final",,$10,0.8,0.00,658
+Sione VakiO,RB,"DET 13 @ GB 27, Final",,$10,0.7,0.00,659
+Dominic Lovett,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,660
+Jackson Meeks,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,661
+Jakobie Keeney-James,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,662
+Zach Horton,TE,"DET 13 @ GB 27, Final",,$10,—,0.00,663
+Mecole Hardman,WR,"DET 13 @ GB 27, Final",,$10,2.3,0.00,664
+Christian WatsonPUP,WR,"DET 13 @ GB 27, Final",,$10,6.5,0.00,665
+Malik Willis,QB,"DET 13 @ GB 27, Final",,$20,8.6,0.00,666
+Sean Clifford,QB,"DET 13 @ GB 27, Final",,$20,—,0.00,667
+Ben Sims,TE,"DET 13 @ GB 27, Final",,$10,1.5,0.00,668
+Malik Heath,WR,"DET 13 @ GB 27, Final",,$10,4.5,0.00,669
+Johnny Lumpkin,TE,"DET 13 @ GB 27, Final",,$10,—,0.00,670
+MarShawn LloydIR,RB,"DET 13 @ GB 27, Final",,$10,2.3,0.00,671
+Cornelius Johnson,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,672
+Julian Hicks,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,673
+Messiah Swinson,TE,"DET 13 @ GB 27, Final",,$10,—,0.00,674
+Taylor Elgersma,QB,"DET 13 @ GB 27, Final",,$20,—,0.00,675
+Detroit Lions,DEF,"DET 13 @ GB 27, Final",27 PTS ALLOWED,$16,—,0.00,676
+Will Sheppard,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,677
+Israel Abanikanda,RB,"DET 13 @ GB 27, Final",,$10,—,0.00,678
+Amar Johnson,RB,"DET 13 @ GB 27, Final",,$10,—,0.00,679
+Jacob Saylors,RB,"DET 13 @ GB 27, Final",,$10,—,0.00,680
+Isaiah Neyor,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,681
+Steven Stilianos,TE,"DET 13 @ GB 27, Final",,$10,—,0.00,682
+Deon Jackson,RB,"DET 13 @ GB 27, Final",,$10,—,0.00,683
+Gunnar Oakes,TE,"DET 13 @ GB 27, Final",,$10,—,0.00,684
+Kawaan Baker,WR,"DET 13 @ GB 27, Final",,$10,—,0.00,685
+Tyrion Davis-Price,RB,"DET 13 @ GB 27, Final",,$10,0.7,0.00,686
+Christian KirkO,WR,"HOU 9 @ LA 14, Final",,$16,7.2,0.00,687
+Braxton BerriosO,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,688
+Jakob Johnson,RB,"HOU 9 @ LA 14, Final",,$10,—,0.00,689
+Irv Smith Jr.IR,TE,"HOU 9 @ LA 14, Final",,$10,0.7,0.00,690
+J.J. Taylor,RB,"HOU 9 @ LA 14, Final",,$10,1.8,0.00,691
+Davis Mills,QB,"HOU 9 @ LA 14, Final",,$20,2.4,0.00,692
+John Metchie III,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,693
+Tank DellPUP,WR,"HOU 9 @ LA 14, Final",,$11,8.2,0.00,694
+Jawhar Jordan,RB,"HOU 9 @ LA 14, Final",,$10,—,0.00,695
+Xavier JohnsonQ,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,696
+Kedon Slovis,QB,"HOU 9 @ LA 14, Final",,$20,—,0.00,697
+British Brooks,RB,"HOU 9 @ LA 14, Final",,$10,0.1,0.00,698
+Graham Mertz,QB,"HOU 9 @ LA 14, Final",,$20,—,0.00,699
+Luke Lachey,TE,"HOU 9 @ LA 14, Final",,$10,—,0.00,700
+Daniel Jackson,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,701
+Jimmy Garoppolo,QB,"HOU 9 @ LA 14, Final",,$21,20.9,0.00,702
+Tyler Higbee,TE,"HOU 9 @ LA 14, Final",,$15,9.2,0.00,703
+Ronnie Rivers,RB,"HOU 9 @ LA 14, Final",,$10,2.4,0.00,704
+Britain Covey,WR,"HOU 9 @ LA 14, Final",,$10,1.7,0.00,705
+Stetson Bennett IV,QB,"HOU 9 @ LA 14, Final",,$20,—,0.00,706
+Cody Schrader,RB,"HOU 9 @ LA 14, Final",,$10,0.7,0.00,707
+Drake StoopsSUSP,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,708
+Konata Mumpfield,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,709
+Tru Edwards,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,710
+Brennan Presley,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,711
+Mark Redman,TE,"HOU 9 @ LA 14, Final",,$10,—,0.00,712
+Mario WilliamsQ,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,713
+Jordan Waters,RB,"HOU 9 @ LA 14, Final",,$10,—,0.00,714
+Jarquez Hunter,RB,"HOU 9 @ LA 14, Final",,$10,—,0.00,715
+Dresser Winn,QB,"HOU 9 @ LA 14, Final",,$20,—,0.00,716
+Terrance Ferguson,TE,"HOU 9 @ LA 14, Final",,$10,—,0.00,717
+Quintez Cephus,WR,"HOU 9 @ LA 14, Final",,$10,—,0.00,718
+Tre' McKitty,TE,"HOU 9 @ LA 14, Final",,$10,—,0.00,719
+McCallan Castles,TE,"HOU 9 @ LA 14, Final",,$10,—,0.00,720
+Elijah Young,RB,"BAL 40 @ BUF 41, Final",,$10,—,0.00,721
+Patrick RicardO,RB,"BAL 40 @ BUF 41, Final",,$10,2.2,0.00,722
+Cooper Rush,QB,"BAL 40 @ BUF 41, Final",,$20,9.7,0.00,723
+Anthony Miller,WR,"BAL 40 @ BUF 41, Final",,$10,2.3,0.00,724
+Keith Kirkwood,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,725
+Tylan Wallace,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,726
+Charlie Kolar,TE,"BAL 40 @ BUF 41, Final",,$10,2.4,0.00,727
+Isaiah LikelyO,TE,"BAL 40 @ BUF 41, Final",,$12,7.3,0.00,728
+Zaire Mitchell-Paden,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.00,729
+Malik Cunningham,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,730
+Keaton Mitchell,RB,"BAL 40 @ BUF 41, Final",,$10,1.3,0.00,731
+Devontez Walker,WR,"BAL 40 @ BUF 41, Final",,$10,2.9,0.00,732
+Devin Leary,QB,"BAL 40 @ BUF 41, Final",,$20,—,0.00,733
+Dayton WadeIR,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,734
+Jahmal Banks,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,735
+Xavier GuilloryQ,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,736
+Lucas Scott,RB,"BAL 40 @ BUF 41, Final",,$10,—,0.00,737
+Mitchell Trubisky,QB,"BAL 40 @ BUF 41, Final",,$20,1.7,0.00,738
+Curtis Samuel,WR,"BAL 40 @ BUF 41, Final",,$13,4.2,0.00,739
+Mike White,QB,"BAL 40 @ BUF 41, Final",,$20,1.1,0.00,740
+KJ Hamler,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,741
+Darrynton EvansQ,RB,"BAL 40 @ BUF 41, Final",,$10,0.2,0.00,742
+Reggie Gilliam,RB,"BAL 40 @ BUF 41, Final",,$10,0.1,0.00,743
+Zach Davidson,TE,"BAL 40 @ BUF 41, Final",,$10,0.5,0.00,744
+Shane Buechele,QB,"BAL 40 @ BUF 41, Final",,$20,—,0.00,745
+Jalen VirgilQ,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,746
+Tyrell Shavers,WR,"BAL 40 @ BUF 41, Final",,$16,13.4,0.00,747
+Frank Gore Jr.,RB,"BAL 40 @ BUF 41, Final",,$10,—,0.00,748
+Kaden PratherQ,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,749
+Stephen Gosnell,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,750
+Keleki Latu,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.00,751
+Buffalo Bills,DEF,"BAL 40 @ BUF 41, Final","40 PTS ALLOWED,2 SACK,FUM REC",$17,—,0.00,752
+LaJohntay Wester,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,753
+Kristian Wilkerson,WR,"BAL 40 @ BUF 41, Final",,$10,8.8,0.00,754
+Laviska Shenault Jr.,WR,"BAL 40 @ BUF 41, Final",,$10,1.2,0.00,755
+Deon Cain,WR,"BAL 40 @ BUF 41, Final",,$10,—,0.00,756
+Scotty Washington,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.00,757
+D'Ernest Johnson,RB,"BAL 40 @ BUF 41, Final",,$10,2.5,0.00,758
+Baylor Cupp,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.00,759
+Myles Gaskin,RB,"BAL 40 @ BUF 41, Final",,$10,0.4,0.00,760
+Kaleb Johnson,RB,"PIT 34 @ NYJ 32, Final","RUSH ATT,-2 RUSH YD",$21,-0.2,-0.20,761
+Justice Hill,RB,"BAL 40 @ BUF 41, Final","2 RUSH ATT,-14 RUSH YD,2 TGT,REC,3 REC YD",$15,-0.6,-0.60,762
+Colby ParkinsonQ,TE,"HOU 9 @ LA 14, Final","2 TGT,2 REC,-6 REC YD,FUM LOST",$10,-1.6,-1.60,763
+Baltimore Ravens,DEF,"BAL 40 @ BUF 41, Final","41 PTS ALLOWED,SACK",$16,-3.0,-3.00,764

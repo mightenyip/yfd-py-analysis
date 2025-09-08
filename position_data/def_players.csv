@@ -1,0 +1,27 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,position_clean,points_numeric
+Denver Broncos,DEF,"TEN 12 @ DEN 20, Final","12 PTS ALLOWED,6 SACK,2 FUM REC",$20,14.0,14.0,35,DEF,14.0
+Indianapolis Colts,DEF,"MIA 8 @ IND 33, Final","8 PTS ALLOWED,3 SACK,2 INT,FUM REC",$13,13.0,13.0,44,DEF,13.0
+Jacksonville Jaguars,DEF,"CAR 10 @ JAC 26, Final","10 PTS ALLOWED,SACK,2 INT,FUM REC",$10,11.0,11.0,62,DEF,11.0
+Los Angeles Rams,DEF,"HOU 9 @ LA 14, Final","9 PTS ALLOWED,3 SACK,INT,FUM REC",$17,11.0,11.0,64,DEF,11.0
+Las Vegas Raiders,DEF,"LV 20 @ NE 13, Final","13 PTS ALLOWED,4 SACK,INT",$10,10.0,10.0,75,DEF,10.0
+Tennessee Titans,DEF,"TEN 12 @ DEN 20, Final","20 PTS ALLOWED,SACK,2 INT,2 FUM REC",$10,10.0,10.0,76,DEF,10.0
+Green Bay Packers,DEF,"DET 13 @ GB 27, Final","13 PTS ALLOWED,4 SACK,INT",$18,10.0,10.0,78,DEF,10.0
+Washington Commanders,DEF,"NYG 6 @ WAS 21, Final","6 PTS ALLOWED,2 SACK",$15,9.0,9.0,87,DEF,9.0
+San Francisco 49ers,DEF,"SF 17 @ SEA 13, Final","13 PTS ALLOWED,SACK,2 FUM REC",$12,9.0,9.0,89,DEF,9.0
+New Orleans Saints,DEF,"ARI 20 @ NO 13, Final","20 PTS ALLOWED,5 SACK,BLK KICK",$13,8.0,8.0,102,DEF,8.0
+Seattle Seahawks,DEF,"SF 17 @ SEA 13, Final","17 PTS ALLOWED,SACK,2 INT,BLK KICK",$18,8.0,8.0,103,DEF,8.0
+Cincinnati Bengals,DEF,"CIN 17 @ CLE 16, Final","16 PTS ALLOWED,2 SACK,2 INT",$15,7.0,7.0,117,DEF,7.0
+New England Patriots,DEF,"LV 20 @ NE 13, Final","20 PTS ALLOWED,4 SACK,INT",$10,7.0,7.0,118,DEF,7.0
+Houston Texans,DEF,"HOU 9 @ LA 14, Final","14 PTS ALLOWED,3 SACK,FUM REC",$18,6.0,6.0,127,DEF,6.0
+Arizona Cardinals,DEF,"ARI 20 @ NO 13, Final","13 PTS ALLOWED,SACK",$16,5.0,5.0,135,DEF,5.0
+Cleveland Browns,DEF,"CIN 17 @ CLE 16, Final","17 PTS ALLOWED,3 SACK",$11,4.0,4.0,153,DEF,4.0
+New York Jets,DEF,"PIT 34 @ NYJ 32, Final","34 PTS ALLOWED,4 SACK",$14,3.0,3.0,170,DEF,3.0
+New York Giants,DEF,"NYG 6 @ WAS 21, Final","21 PTS ALLOWED,3 SACK",$13,3.0,3.0,172,DEF,3.0
+Tampa Bay Buccaneers,DEF,"TB 23 @ ATL 20, Final","20 PTS ALLOWED,SACK",$16,2.0,2.0,197,DEF,2.0
+Pittsburgh Steelers,DEF,"PIT 34 @ NYJ 32, Final","32 PTS ALLOWED,SACK,FUM REC",$18,2.0,2.0,198,DEF,2.0
+Carolina Panthers,DEF,"CAR 10 @ JAC 26, Final","26 PTS ALLOWED,INT",$10,2.0,2.0,200,DEF,2.0
+Atlanta Falcons,DEF,"TB 23 @ ATL 20, Final","23 PTS ALLOWED,SACK",$14,1.0,1.0,225,DEF,1.0
+Miami Dolphins,DEF,"MIA 8 @ IND 33, Final","33 PTS ALLOWED,SACK",$12,—,0.0,372,DEF,0.0
+Detroit Lions,DEF,"DET 13 @ GB 27, Final",27 PTS ALLOWED,$16,—,0.0,676,DEF,0.0
+Buffalo Bills,DEF,"BAL 40 @ BUF 41, Final","40 PTS ALLOWED,2 SACK,FUM REC",$17,—,0.0,752,DEF,0.0
+Baltimore Ravens,DEF,"BAL 40 @ BUF 41, Final","41 PTS ALLOWED,SACK",$16,-3.0,-3.0,764,DEF,-3.0

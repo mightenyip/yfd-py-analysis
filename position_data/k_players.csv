@@ -1,0 +1,464 @@
+player_name,position,game_info,stats,salary,points
+Lamar Jackson,"Lamar Jackson
+BAL 40 @ BUF 41, Final
+209 PASS YD,2 PASS TD,6 RUSH ATT,70 RUSH YD,RUSH TD","BAL 40 @ BUF 41, Final","209 PASS YD,2 PASS TD,6 RUSH ATT,70 RUSH YD,RUSH TD",$37,29.4
+Derrick Henry,"Derrick Henry
+BAL 40 @ BUF 41, Final
+18 RUSH ATT,169 RUSH YD,2 RUSH TD,TGT,REC,13 REC YD,FUM LOST","BAL 40 @ BUF 41, Final","18 RUSH ATT,169 RUSH YD,2 RUSH TD,TGT,REC,13 REC YD,FUM LOST",$38,28.7
+Baker Mayfield,"Baker Mayfield
+TB 23 @ ATL 20, Final
+167 PASS YD,3 PASS TD,5 RUSH ATT,39 RUSH YD","TB 23 @ ATL 20, Final","167 PASS YD,3 PASS TD,5 RUSH ATT,39 RUSH YD",$34,22.6
+Emeka Egbuka,"Emeka Egbuka
+TB 23 @ ATL 20, Final
+RUSH ATT,9 RUSH YD,6 TGT,4 REC,67 REC YD,2 REC TD","TB 23 @ ATL 20, Final","RUSH ATT,9 RUSH YD,6 TGT,4 REC,67 REC YD,2 REC TD",$15,21.6
+Keon Coleman,"Keon Coleman
+BAL 40 @ BUF 41, Final
+11 TGT,8 REC,112 REC YD,REC TD","BAL 40 @ BUF 41, Final","11 TGT,8 REC,112 REC YD,REC TD",$14,21.2
+Brock Purdy,"Brock Purdy
+SF 17 @ SEA 13, Final
+277 PASS YD,2 PASS TD,2 INT,5 RUSH ATT,17 RUSH YD","SF 17 @ SEA 13, Final","277 PASS YD,2 PASS TD,2 INT,5 RUSH ATT,17 RUSH YD",$32,18.8
+James Cook,"James Cook
+BAL 40 @ BUF 41, Final
+13 RUSH ATT,44 RUSH YD,RUSH TD,5 TGT,5 REC,58 REC YD","BAL 40 @ BUF 41, Final","13 RUSH ATT,44 RUSH YD,RUSH TD,5 TGT,5 REC,58 REC YD",$32,18.7
+Kyler Murray,"Kyler Murray
+ARI 20 @ NO 13, Final
+163 PASS YD,2 PASS TD,7 RUSH ATT,38 RUSH YD","ARI 20 @ NO 13, Final","163 PASS YD,2 PASS TD,7 RUSH ATT,38 RUSH YD",$31,18.3
+Puka Nacua,"Puka Nacua
+HOU 9 @ LA 14, Final
+RUSH ATT,RUSH YD,11 TGT,10 REC,130 REC YD","HOU 9 @ LA 14, Final","RUSH ATT,RUSH YD,11 TGT,10 REC,130 REC YD",$32,18.1
+Drake Maye,"Drake Maye
+LV 20 @ NE 13, Final
+287 PASS YD,PASS TD,INT,4 RUSH ATT,11 RUSH YD,TGT,REC,2 REC YD","LV 20 @ NE 13, Final","287 PASS YD,PASS TD,INT,4 RUSH ATT,11 RUSH YD,TGT,REC,2 REC YD",$25,16.3
+Jacory Croskey-Merritt,"Jacory Croskey-Merritt
+NYG 6 @ WAS 21, Final
+10 RUSH ATT,82 RUSH YD,RUSH TD,TGT","NYG 6 @ WAS 21, Final","10 RUSH ATT,82 RUSH YD,RUSH TD,TGT",$10,14.2
+Denver Broncos,"6 SACK,","TEN 12 @ DEN 20, Final","12 PTS ALLOWED,6 SACK,2 FUM REC",$20,14.0
+Kirk Cousins,"Kirk Cousins
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$20,13.7
+Jakobi Meyers,"Jakobi Meyers
+LV 20 @ NE 13, Final
+10 TGT,8 REC,97 REC YD","LV 20 @ NE 13, Final","10 TGT,8 REC,97 REC YD",$25,13.7
+Kyren Williams,"Kyren Williams
+HOU 9 @ LA 14, Final
+18 RUSH ATT,66 RUSH YD,RUSH TD,2 TGT,REC,3 REC YD","HOU 9 @ LA 14, Final","18 RUSH ATT,66 RUSH YD,RUSH TD,2 TGT,REC,3 REC YD",$33,13.4
+Indianapolis Colts,"3 SACK,","MIA 8 @ IND 33, Final","8 PTS ALLOWED,3 SACK,2 INT,FUM REC",$13,13.0
+Brock BowersQ,"Brock BowersQ
+LV 20 @ NE 13, Final
+8 TGT,5 REC,103 REC YD","LV 20 @ NE 13, Final","8 TGT,5 REC,103 REC YD",$24,12.8
+Ricky Pearsall,"Ricky Pearsall
+SF 17 @ SEA 13, Final
+7 TGT,4 REC,108 REC YD","SF 17 @ SEA 13, Final","7 TGT,4 REC,108 REC YD",$22,12.8
+Dalton Kincaid,"Dalton Kincaid
+BAL 40 @ BUF 41, Final
+4 TGT,4 REC,48 REC YD,REC TD","BAL 40 @ BUF 41, Final","4 TGT,4 REC,48 REC YD,REC TD",$11,12.8
+Alvin Kamara,"Alvin Kamara
+ARI 20 @ NO 13, Final
+11 RUSH ATT,45 RUSH YD,RUSH TD,2 TGT,2 REC,12 REC YD","ARI 20 @ NO 13, Final","11 RUSH ATT,45 RUSH YD,RUSH TD,2 TGT,2 REC,12 REC YD",$30,12.7
+Bucky Irving,"Bucky Irving
+TB 23 @ ATL 20, Final
+14 RUSH ATT,37 RUSH YD,4 TGT,4 REC,8 REC YD,REC TD","TB 23 @ ATL 20, Final","14 RUSH ATT,37 RUSH YD,4 TGT,4 REC,8 REC YD,REC TD",$34,12.5
+Tre Tucker,"Tre Tucker
+LV 20 @ NE 13, Final
+3 TGT,2 REC,54 REC YD,REC TD","LV 20 @ NE 13, Final","3 TGT,2 REC,54 REC YD,REC TD",$10,12.4
+Drew Lock,"Drew Lock
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$20,12.2
+Los Angeles Rams,"3 SACK,","HOU 9 @ LA 14, Final","9 PTS ALLOWED,3 SACK,INT,FUM REC",$17,11.0
+Jacksonville Jaguars,"SACK,","CAR 10 @ JAC 26, Final","10 PTS ALLOWED,SACK,2 INT,FUM REC",$10,11.0
+DeAndre Hopkins,"DeAndre Hopkins
+BAL 40 @ BUF 41, Final
+2 TGT,2 REC,35 REC YD,REC TD","BAL 40 @ BUF 41, Final","2 TGT,2 REC,35 REC YD,REC TD",$12,10.5
+George KittleQ,"George KittleQ
+SF 17 @ SEA 13, Final
+4 TGT,4 REC,25 REC YD,REC TD","SF 17 @ SEA 13, Final","4 TGT,4 REC,25 REC YD,REC TD",$24,10.5
+DK Metcalf,"DK Metcalf
+PIT 34 @ NYJ 32, Final
+7 TGT,4 REC,83 REC YD","PIT 34 @ NYJ 32, Final","7 TGT,4 REC,83 REC YD",$24,10.3
+Las Vegas Raiders,"4 SACK,","LV 20 @ NE 13, Final","13 PTS ALLOWED,4 SACK,INT",$10,10.0
+Tennessee Titans,"SACK,","TEN 12 @ DEN 20, Final","20 PTS ALLOWED,SACK,2 INT,2 FUM REC",$10,10.0
+Green Bay Packers,"4 SACK,","DET 13 @ GB 27, Final","13 PTS ALLOWED,4 SACK,INT",$18,10.0
+Malik Nabers,"Malik Nabers
+NYG 6 @ WAS 21, Final
+12 TGT,5 REC,71 REC YD","NYG 6 @ WAS 21, Final","12 TGT,5 REC,71 REC YD",$34,9.6
+Drake LondonQ,"Drake LondonQ
+TB 23 @ ATL 20, Final
+15 TGT,8 REC,55 REC YD","TB 23 @ ATL 20, Final","15 TGT,8 REC,55 REC YD",$33,9.5
+Khalil Shakir,"Khalil Shakir
+BAL 40 @ BUF 41, Final
+9 TGT,6 REC,64 REC YD","BAL 40 @ BUF 41, Final","9 TGT,6 REC,64 REC YD",$20,9.4
+Kyle Pitts Sr.,"Kyle Pitts Sr.
+TB 23 @ ATL 20, Final
+8 TGT,7 REC,59 REC YD","TB 23 @ ATL 20, Final","8 TGT,7 REC,59 REC YD",$12,9.4
+Jake Tonges,"Jake Tonges
+SF 17 @ SEA 13, Final
+3 TGT,3 REC,15 REC YD,REC TD","SF 17 @ SEA 13, Final","3 TGT,3 REC,15 REC YD,REC TD",$10,9.0
+San Francisco 49ers,"SACK,","SF 17 @ SEA 13, Final","13 PTS ALLOWED,SACK,2 FUM REC",$12,9.0
+Washington Commanders,2 SACK,"NYG 6 @ WAS 21, Final","6 PTS ALLOWED,2 SACK",$15,9.0
+Tucker Kraft,"Tucker Kraft
+DET 13 @ GB 27, Final
+RUSH ATT,3 RUSH YD,4 TGT,2 REC,16 REC YD,REC TD","DET 13 @ GB 27, Final","RUSH ATT,3 RUSH YD,4 TGT,2 REC,16 REC YD,REC TD",$14,8.9
+Kristian Wilkerson,"Kristian Wilkerson
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,8.8
+Malik Willis,"Malik Willis
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$20,8.6
+Tank DellPUP,"Tank DellPUP
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$11,8.2
+Seattle Seahawks,BLK KICK,"SF 17 @ SEA 13, Final","17 PTS ALLOWED,SACK,2 INT,BLK KICK",$18,8.0
+New Orleans Saints,BLK KICK,"ARI 20 @ NO 13, Final","20 PTS ALLOWED,5 SACK,BLK KICK",$13,8.0
+Mike Evans,"Mike Evans
+TB 23 @ ATL 20, Final
+8 TGT,5 REC,51 REC YD","TB 23 @ ATL 20, Final","8 TGT,5 REC,51 REC YD",$33,7.6
+Isaiah LikelyO,"Isaiah LikelyO
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$12,7.3
+Austin EkelerQ,"Austin EkelerQ
+NYG 6 @ WAS 21, Final
+6 RUSH ATT,26 RUSH YD,3 TGT,3 REC,31 REC YD","NYG 6 @ WAS 21, Final","6 RUSH ATT,26 RUSH YD,3 TGT,3 REC,31 REC YD",$16,7.2
+Christian KirkO,"Christian KirkO
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$16,7.2
+Brandon AiyukPUP,"Brandon AiyukPUP
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,7.1
+Jalen CokerIR,"Jalen CokerIR
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$16,7.0
+New England Patriots,"4 SACK,","LV 20 @ NE 13, Final","20 PTS ALLOWED,4 SACK,INT",$10,7.0
+Cincinnati Bengals,"2 SACK,","CIN 17 @ CLE 16, Final","16 PTS ALLOWED,2 SACK,2 INT",$15,7.0
+Sincere McCormick,"Sincere McCormick
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,6.1
+Tyreek Hill,"Tyreek Hill
+MIA 8 @ IND 33, Final
+6 TGT,4 REC,40 REC YD","MIA 8 @ IND 33, Final","6 TGT,4 REC,40 REC YD",$26,6.0
+Houston Texans,"3 SACK,","HOU 9 @ LA 14, Final","14 PTS ALLOWED,3 SACK,FUM REC",$18,6.0
+Nick Chubb,"Nick Chubb
+HOU 9 @ LA 14, Final
+13 RUSH ATT,60 RUSH YD,TGT","HOU 9 @ LA 14, Final","13 RUSH ATT,60 RUSH YD,TGT",$16,6.0
+Cam Akers,"Cam Akers
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,5.3
+David Njoku,"David Njoku
+CIN 17 @ CLE 16, Final
+6 TGT,3 REC,37 REC YD","CIN 17 @ CLE 16, Final","6 TGT,3 REC,37 REC YD",$21,5.2
+Arizona Cardinals,SACK,"ARI 20 @ NO 13, Final","13 PTS ALLOWED,SACK",$16,5.0
+Tim Patrick,"Tim Patrick
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$10,4.6
+Malik Heath,"Malik Heath
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,4.5
+Kendrick Bourne,"Kendrick Bourne
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,4.3
+Kyle Juszczyk,"Kyle Juszczyk
+SF 17 @ SEA 13, Final
+2 TGT,2 REC,32 REC YD","SF 17 @ SEA 13, Final","2 TGT,2 REC,32 REC YD",$10,4.2
+Brandin Cooks,"Brandin Cooks
+ARI 20 @ NO 13, Final
+4 TGT,3 REC,26 REC YD","ARI 20 @ NO 13, Final","4 TGT,3 REC,26 REC YD",$11,4.1
+Patrick Taylor Jr.IR,"Patrick Taylor Jr.IR
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,4.0
+Cleveland Browns,3 SACK,"CIN 17 @ CLE 16, Final","17 PTS ALLOWED,3 SACK",$11,4.0
+Dontayvion Wicks,"Dontayvion Wicks
+DET 13 @ GB 27, Final
+2 TGT,2 REC,30 REC YD","DET 13 @ GB 27, Final","2 TGT,2 REC,30 REC YD",$13,4.0
+Kenneth Walker III,"Kenneth Walker III
+SF 17 @ SEA 13, Final
+10 RUSH ATT,20 RUSH YD,3 TGT,3 REC,4 REC YD","SF 17 @ SEA 13, Final","10 RUSH ATT,20 RUSH YD,3 TGT,3 REC,4 REC YD",$26,3.9
+Malik Washington,"Malik Washington
+MIA 8 @ IND 33, Final
+RUSH ATT,9 RUSH YD,5 TGT,2 REC,20 REC YD","MIA 8 @ IND 33, Final","RUSH ATT,9 RUSH YD,5 TGT,2 REC,20 REC YD",$10,3.9
+Skylar ThompsonO,"Skylar ThompsonO
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$20,3.9
+Kenneth Gainwell,"Kenneth Gainwell
+PIT 34 @ NYJ 32, Final
+7 RUSH ATT,19 RUSH YD,4 TGT,3 REC,4 REC YD","PIT 34 @ NYJ 32, Final","7 RUSH ATT,19 RUSH YD,4 TGT,3 REC,4 REC YD",$10,3.8
+Kenny Pickett,"Kenny Pickett
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$20,3.6
+Jackson Hawes,"Jackson Hawes
+BAL 40 @ BUF 41, Final
+TGT,REC,29 REC YD","BAL 40 @ BUF 41, Final","TGT,REC,29 REC YD",$10,3.4
+Cedrick Wilson Jr.,"Cedrick Wilson Jr.
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,3.2
+Erick All Jr.PUP,"Erick All Jr.PUP
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$10,3.2
+Dawson Knox,"Dawson Knox
+BAL 40 @ BUF 41, Final
+2 TGT,2 REC,20 REC YD","BAL 40 @ BUF 41, Final","2 TGT,2 REC,20 REC YD",$10,3.0
+New York Giants,3 SACK,"NYG 6 @ WAS 21, Final","21 PTS ALLOWED,3 SACK",$13,3.0
+New York Jets,4 SACK,"PIT 34 @ NYJ 32, Final","34 PTS ALLOWED,4 SACK",$14,3.0
+Jack Bech,"Jack Bech
+LV 20 @ NE 13, Final
+TGT,REC,23 REC YD","LV 20 @ NE 13, Final","TGT,REC,23 REC YD",$15,2.8
+Kevin Austin Jr.,"Kevin Austin Jr.
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,2.7
+Kalif Raymond,"Kalif Raymond
+DET 13 @ GB 27, Final
+3 TGT,2 REC,16 REC YD","DET 13 @ GB 27, Final","3 TGT,2 REC,16 REC YD",$10,2.6
+Jeremy Ruckert,"Jeremy Ruckert
+PIT 34 @ NYJ 32, Final
+2 TGT,2 REC,16 REC YD","PIT 34 @ NYJ 32, Final","2 TGT,2 REC,16 REC YD",$10,2.6
+Cooper Kupp,"Cooper Kupp
+SF 17 @ SEA 13, Final
+3 TGT,2 REC,15 REC YD","SF 17 @ SEA 13, Final","3 TGT,2 REC,15 REC YD",$18,2.5
+K.J. Osborn,"K.J. Osborn
+NYG 6 @ WAS 21, Final","NYG 6 @ WAS 21, Final",,$10,2.5
+DJ Chark,"DJ Chark
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,2.5
+Kendre Miller,"Kendre Miller
+ARI 20 @ NO 13, Final
+5 RUSH ATT,24 RUSH YD","ARI 20 @ NO 13, Final","5 RUSH ATT,24 RUSH YD",$10,2.4
+Charlie Kolar,"Charlie Kolar
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,2.4
+Simi Fehoko,"Simi Fehoko
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,2.3
+Patrick RicardO,"Patrick RicardO
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,2.2
+Blake Corum,"Blake Corum
+HOU 9 @ LA 14, Final
+RUSH ATT,2 RUSH YD,TGT,REC,14 REC YD","HOU 9 @ LA 14, Final","RUSH ATT,2 RUSH YD,TGT,REC,14 REC YD",$10,2.1
+Rakim Jarrett,"Rakim Jarrett
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,2.1
+Ja'Lynn PolkIR,"Ja'Lynn PolkIR
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,2.1
+Jonathon BrooksPUP,"Jonathon BrooksPUP
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$10,2.0
+Pittsburgh Steelers,"SACK,","PIT 34 @ NYJ 32, Final","32 PTS ALLOWED,SACK,FUM REC",$18,2.0
+Tampa Bay Buccaneers,SACK,"TB 23 @ ATL 20, Final","20 PTS ALLOWED,SACK",$16,2.0
+Mike Gesicki,"Mike Gesicki
+CIN 17 @ CLE 16, Final
+3 TGT,REC,14 REC YD","CIN 17 @ CLE 16, Final","3 TGT,REC,14 REC YD",$15,1.9
+Jake BoboO,"Jake BoboO
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,1.9
+Jake Haener,"Jake Haener
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$20,1.8
+Mitchell Trubisky,"Mitchell Trubisky
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$20,1.7
+Kyle Williams,"Kyle Williams
+LV 20 @ NE 13, Final
+TGT,REC,12 REC YD","LV 20 @ NE 13, Final","TGT,REC,12 REC YD",$14,1.7
+Dee Eskridge,"Dee Eskridge
+MIA 8 @ IND 33, Final
+2 TGT,REC,9 REC YD","MIA 8 @ IND 33, Final","2 TGT,REC,9 REC YD",$10,1.4
+Kendric Pryor,"Kendric Pryor
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$10,1.4
+Keaton Mitchell,"Keaton Mitchell
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,1.3
+Tank Bigsby,"Tank Bigsby
+CAR 10 @ JAC 26, Final
+5 RUSH ATT,12 RUSH YD","CAR 10 @ JAC 26, Final","5 RUSH ATT,12 RUSH YD",$15,1.2
+Nick Westbrook-Ikhine,"Nick Westbrook-Ikhine
+MIA 8 @ IND 33, Final
+2 TGT,REC,7 REC YD","MIA 8 @ IND 33, Final","2 TGT,REC,7 REC YD",$14,1.2
+Laviska Shenault Jr.,"Laviska Shenault Jr.
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,1.2
+Mike Boone,"Mike Boone
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,1.1
+Mark Andrews,"Mark Andrews
+BAL 40 @ BUF 41, Final
+TGT,REC,5 REC YD","BAL 40 @ BUF 41, Final","TGT,REC,5 REC YD",$20,1.0
+Atlanta Falcons,SACK,"TB 23 @ ATL 20, Final","23 PTS ALLOWED,SACK",$14,1.0
+Luke Farrell,"Luke Farrell
+SF 17 @ SEA 13, Final
+TGT,REC,4 REC YD","SF 17 @ SEA 13, Final","TGT,REC,4 REC YD",$10,0.9
+Hendon Hooker,"Hendon Hooker
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$20,0.9
+Luke Musgrave,"Luke Musgrave
+DET 13 @ GB 27, Final
+TGT,REC,4 REC YD","DET 13 @ GB 27, Final","TGT,REC,4 REC YD",$10,0.9
+Chris Brooks,"Chris Brooks
+DET 13 @ GB 27, Final
+RUSH ATT,RUSH YD,TGT,REC,2 REC YD","DET 13 @ GB 27, Final","RUSH ATT,RUSH YD,TGT,REC,2 REC YD",$10,0.8
+Mack Hollins,"Mack Hollins
+LV 20 @ NE 13, Final
+2 TGT,REC,3 REC YD","LV 20 @ NE 13, Final","2 TGT,REC,3 REC YD",$10,0.8
+Kyle Allen,"Kyle Allen
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$20,0.8
+John FitzPatrick,"John FitzPatrick
+DET 13 @ GB 27, Final
+TGT,REC,2 REC YD","DET 13 @ GB 27, Final","TGT,REC,2 REC YD",$10,0.7
+Sione VakiO,"Sione VakiO
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.7
+Aaron Shampklin,"Aaron Shampklin
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.6
+Raheem BlackshearQ,"Raheem BlackshearQ
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$10,0.5
+Ke'Shawn Vaughn,"Ke'Shawn Vaughn
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.4
+Myles Gaskin,"Myles Gaskin
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.4
+Nick Mullens,"Nick Mullens
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$20,0.3
+Javon Baker,"Javon Baker
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,0.3
+Woody Marks,"Woody Marks
+HOU 9 @ LA 14, Final
+3 RUSH ATT,3 RUSH YD","HOU 9 @ LA 14, Final","3 RUSH ATT,3 RUSH YD",$10,0.3
+Sean Tucker,"Sean Tucker
+TB 23 @ ATL 20, Final
+RUSH ATT,2 RUSH YD","TB 23 @ ATL 20, Final","RUSH ATT,2 RUSH YD",$10,0.2
+British Brooks,"British Brooks
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.1
+Israel Abanikanda,"Israel Abanikanda
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Dareke YoungO,"Dareke YoungO
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.0
+Deon Jackson,"Deon Jackson
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Nick Kallerup,"Nick Kallerup
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.0
+Frank Gore Jr.,"Frank Gore Jr.
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Kaden PratherQ,"Kaden PratherQ
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Keleki Latu,"Keleki Latu
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Jakob Johnson,"Jakob Johnson
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Buffalo Bills,"2 SACK,","BAL 40 @ BUF 41, Final","40 PTS ALLOWED,2 SACK,FUM REC",$17,0.0
+KJ Hamler,"KJ Hamler
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Gunnar Oakes,"Gunnar Oakes
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Corey KinerQ,"Corey KinerQ
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.0
+Kurtis RourkeO,"Kurtis RourkeO
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$20,0.0
+Jordan WatkinsO,"Jordan WatkinsO
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.0
+Malik Turner,"Malik Turner
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.0
+Jahmal Banks,"Jahmal Banks
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Julian Hicks,"Julian Hicks
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Malik Cunningham,"Malik Cunningham
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Malik Taylor,"Malik Taylor
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Kawaan Baker,"Kawaan Baker
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Keith Kirkwood,"Keith Kirkwood
+BAL 40 @ BUF 41, Final","BAL 40 @ BUF 41, Final",,$10,0.0
+Tre' McKitty,"Tre' McKitty
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Mark Redman,"Mark Redman
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Jackson Meeks,"Jackson Meeks
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Konata Mumpfield,"Konata Mumpfield
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Drake StoopsSUSP,"Drake StoopsSUSP
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Jakobie Keeney-James,"Jakobie Keeney-James
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Daniel Jackson,"Daniel Jackson
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Luke Lachey,"Luke Lachey
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$10,0.0
+Kedon Slovis,"Kedon Slovis
+HOU 9 @ LA 14, Final","HOU 9 @ LA 14, Final",,$20,0.0
+Johnny Lumpkin,"Johnny Lumpkin
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Tom Kennedy,"Tom Kennedy
+DET 13 @ GB 27, Final","DET 13 @ GB 27, Final",,$10,0.0
+Landon Parker,"Landon Parker
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.0
+Skyy Moore,"Skyy Moore
+SF 17 @ SEA 13, Final","SF 17 @ SEA 13, Final",,$10,0.0
+Kene NwangwuQ,"Kene NwangwuQ
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Miami Dolphins,SACK,"MIA 8 @ IND 33, Final","33 PTS ALLOWED,SACK",$12,0.0
+Tyler Kahmann,"Tyler Kahmann
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.0
+Sean McKeon,"Sean McKeon
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.0
+Erik Ezukanma,"Erik Ezukanma
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.0
+Tarik Black,"Tarik Black
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.0
+Kevin Foelsch,"Kevin Foelsch
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Brady Cook,"Brady Cook
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$20,0.0
+Quentin Skinner,"Quentin Skinner
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Pokey Wilson,"Pokey Wilson
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Zack Kuntz,"Zack Kuntz
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Andrew Beck,"Andrew Beck
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Jack Plummer,"Jack Plummer
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$20,0.0
+Ke'Shawn Williams,"Ke'Shawn Williams
+PIT 34 @ NYJ 32, Final","PIT 34 @ NYJ 32, Final",,$10,0.0
+Quincy Skinner Jr.,"Quincy Skinner Jr.
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,0.0
+Nick Nash,"Nick Nash
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,0.0
+Nikola Kalinic,"Nikola Kalinic
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,0.0
+Feleipe Franks,"Feleipe Franks
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,0.0
+Easton Stick,"Easton Stick
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$20,0.0
+KhaDarel Hodge,"KhaDarel Hodge
+TB 23 @ ATL 20, Final
+TGT","TB 23 @ ATL 20, Final",TGT,$10,0.0
+Connor Bazelak,"Connor Bazelak
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$20,0.0
+Kameron Johnson,"Kameron Johnson
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,0.0
+Ko Kieft,"Ko Kieft
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$10,0.0
+Albert Okwuegbunam,"Albert Okwuegbunam
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,0.0
+Chris Myarick,"Chris Myarick
+MIA 8 @ IND 33, Final","MIA 8 @ IND 33, Final",,$10,0.0
+Kayron Lynch-Adams,"Kayron Lynch-Adams
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$10,0.0
+Bam Knight,"Bam Knight
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,0.0
+Jack Westover,"Jack Westover
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,0.0
+Ketron Jackson Jr.,"Ketron Jackson Jr.
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,0.0
+Shedrick Jackson,"Shedrick Jackson
+LV 20 @ NE 13, Final","LV 20 @ NE 13, Final",,$10,0.0
+Kisean Johnson,"Kisean Johnson
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$10,0.0
+Kaden Davis,"Kaden Davis
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$10,0.0
+Tahj Brooks,"Tahj Brooks
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$10,0.0
+Kendall Milton,"Kendall Milton
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$10,0.0
+Roderick Daniels Jr.,"Roderick Daniels Jr.
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,0.0
+Kobe Hudson,"Kobe Hudson
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$10,0.0
+Kelly Akharaiyi,"Kelly Akharaiyi
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,0.0
+Moliki Matavao,"Moliki Matavao
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,0.0
+Jack Stoll,"Jack Stoll
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,0.0
+Travis Vokolek,"Travis Vokolek
+ARI 20 @ NO 13, Final","ARI 20 @ NO 13, Final",,$10,0.0
+Gunner Olszewski,"Gunner Olszewski
+NYG 6 @ WAS 21, Final","NYG 6 @ WAS 21, Final",,$10,0.0
+Ja'Corey Brooks,"Ja'Corey Brooks
+NYG 6 @ WAS 21, Final","NYG 6 @ WAS 21, Final",,$10,0.0
+Colson Yankoff,"Colson Yankoff
+NYG 6 @ WAS 21, Final","NYG 6 @ WAS 21, Final",,$10,0.0
+Luke McCaffrey,"Luke McCaffrey
+NYG 6 @ WAS 21, Final","NYG 6 @ WAS 21, Final",,$10,0.0
+Kazmeir Allen,"Kazmeir Allen
+NYG 6 @ WAS 21, Final","NYG 6 @ WAS 21, Final",,$10,0.0
+Ja'Quinden Jackson,"Ja'Quinden Jackson
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$10,0.0
+Parker Washington,"Parker Washington
+CAR 10 @ JAC 26, Final","CAR 10 @ JAC 26, Final",,$11,0.0
+Jake Browning,"Jake Browning
+CIN 17 @ CLE 16, Final","CIN 17 @ CLE 16, Final",,$20,-0.1
+Kyle Trask,"Kyle Trask
+TB 23 @ ATL 20, Final","TB 23 @ ATL 20, Final",,$20,-0.1
+Kaleb Johnson,"Kaleb Johnson
+PIT 34 @ NYJ 32, Final
+RUSH ATT,-2 RUSH YD","PIT 34 @ NYJ 32, Final","RUSH ATT,-2 RUSH YD",$21,-0.2
+Colby ParkinsonQ,"Colby ParkinsonQ
+HOU 9 @ LA 14, Final
+2 TGT,2 REC,-6 REC YD,FUM LOST","HOU 9 @ LA 14, Final","2 TGT,2 REC,-6 REC YD,FUM LOST",$10,-1.6
+Baltimore Ravens,SACK,"BAL 40 @ BUF 41, Final","41 PTS ALLOWED,SACK",$16,-3.0

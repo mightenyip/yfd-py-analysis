@@ -1,0 +1,98 @@
+player_name,position,game_info,stats,salary,fppg,points,game_day,row_number,position_clean,points_numeric
+Josh Allen,QB,"BAL 40 @ BUF 41, Final","394 PASS YD,2 PASS TD,14 RUSH ATT,30 RUSH YD,2 RUSH TD",$40,38.8,38.76,Thursday,1,QB,38.76
+Justin Fields,QB,"PIT 34 @ NYJ 32, Final","218 PASS YD,PASS TD,12 RUSH ATT,48 RUSH YD,2 RUSH TD",$20,29.5,29.52,Sunday,2,QB,29.52
+Daniel Jones,QB,"MIA 8 @ IND 33, Final","272 PASS YD,PASS TD,7 RUSH ATT,26 RUSH YD,2 RUSH TD",$20,29.5,29.48,Sunday,3,QB,29.48
+Lamar Jackson,QB,"BAL 40 @ BUF 41, Final","209 PASS YD,2 PASS TD,6 RUSH ATT,70 RUSH YD,RUSH TD",$37,29.4,29.36,Thursday,4,QB,29.36
+Aaron Rodgers,QB,"PIT 34 @ NYJ 32, Final","244 PASS YD,4 PASS TD,RUSH ATT,-1 RUSH YD",$28,25.7,25.66,Sunday,6,QB,25.66
+Michael Penix Jr.,QB,"TB 23 @ ATL 20, Final","298 PASS YD,PASS TD,6 RUSH ATT,21 RUSH YD,RUSH TD",$22,24.0,24.02,Sunday,8,QB,24.02
+Baker Mayfield,QB,"TB 23 @ ATL 20, Final","167 PASS YD,3 PASS TD,5 RUSH ATT,39 RUSH YD",$34,22.6,22.58,Sunday,9,QB,22.58
+Jayden Daniels,QB,"NYG 6 @ WAS 21, Final","233 PASS YD,PASS TD,11 RUSH ATT,68 RUSH YD",$37,20.1,20.12,Sunday,13,QB,20.12
+Brock PurdyQ,QB,"SF 17 @ SEA 13, Final","277 PASS YD,2 PASS TD,2 INT,5 RUSH ATT,17 RUSH YD",$32,18.8,18.78,Sunday,16,QB,18.78
+Geno Smith,QB,"LV 20 @ NE 13, Final","362 PASS YD,PASS TD,INT,2 RUSH ATT,10 RUSH YD",$25,18.5,18.48,Sunday,19,QB,18.48
+Kyler Murray,QB,"ARI 20 @ NO 13, Final","163 PASS YD,2 PASS TD,7 RUSH ATT,38 RUSH YD",$31,18.3,18.32,Sunday,20,QB,18.32
+Drake Maye,QB,"LV 20 @ NE 13, Final","287 PASS YD,PASS TD,INT,4 RUSH ATT,11 RUSH YD,TGT,REC,2 REC YD",$25,16.3,16.28,Sunday,25,QB,16.28
+Jordan Love,QB,"DET 13 @ GB 27, Final","188 PASS YD,2 PASS TD,3 RUSH ATT,4 RUSH YD",$24,15.9,15.92,Sunday,26,QB,15.92
+Joe Flacco,QB,"CIN 17 @ CLE 16, Final","290 PASS YD,PASS TD,2 INT,2 RUSH ATT,6 RUSH YD",$21,14.2,14.2,Sunday,34,QB,14.2
+Matthew Stafford,QB,"HOU 9 @ LA 14, Final","245 PASS YD,PASS TD,4 RUSH ATT,-2 RUSH YD",$24,13.6,13.6,Sunday,39,QB,13.6
+Jared Goff,QB,"DET 13 @ GB 27, Final","225 PASS YD,PASS TD,INT,RUSH ATT,-1 RUSH YD",$30,11.9,11.9,Sunday,55,QB,11.9
+Spencer Rattler,QB,"ARI 20 @ NO 13, Final","214 PASS YD,4 RUSH ATT,29 RUSH YD",$20,11.5,11.46,Sunday,57,QB,11.46
+Trevor Lawrence,QB,"CAR 10 @ JAC 26, Final","178 PASS YD,PASS TD,INT,4 RUSH ATT,12 RUSH YD",$27,11.3,11.32,Sunday,59,QB,11.32
+Russell Wilson,QB,"NYG 6 @ WAS 21, Final","168 PASS YD,8 RUSH ATT,44 RUSH YD",$26,11.1,11.12,Sunday,61,QB,11.12
+Bryce Young,QB,"CAR 10 @ JAC 26, Final","154 PASS YD,PASS TD,2 INT,5 RUSH ATT,40 RUSH YD,FUM LOST",$29,10.2,10.16,Sunday,71,QB,10.16
+C.J. Stroud,QB,"HOU 9 @ LA 14, Final","188 PASS YD,INT,5 RUSH ATT,32 RUSH YD",$23,9.7,9.72,Sunday,79,QB,9.72
+Bo Nix,QB,"TEN 12 @ DEN 20, Final","176 PASS YD,PASS TD,2 INT,8 RUSH ATT,18 RUSH YD,FUM LOST",$33,8.8,8.84,Sunday,92,QB,8.84
+Joe Burrow,QB,"CIN 17 @ CLE 16, Final","113 PASS YD,PASS TD,2 RUSH ATT,3 RUSH YD",$36,8.8,8.82,Sunday,93,QB,8.82
+Tua Tagovailoa,QB,"MIA 8 @ IND 33, Final","114 PASS YD,PASS TD,2 INT,RUSH ATT,7 RUSH YD,FUM LOST,2PT",$26,7.3,7.26,Sunday,112,QB,7.26
+Sam Darnold,QB,"SF 17 @ SEA 13, Final","150 PASS YD,2 RUSH ATT,14 RUSH YD,FUM LOST",$28,5.4,5.4,Sunday,132,QB,5.4
+Cam Ward,QB,"TEN 12 @ DEN 20, Final","112 PASS YD,FUM LOST",$20,2.5,2.48,Sunday,187,QB,2.48
+Zach Wilson,QB,"MIA 8 @ IND 33, Final","32 PASS YD,RUSH ATT,3 RUSH YD",$20,1.6,1.58,Sunday,212,QB,1.58
+Jalen Milroe,QB,"SF 17 @ SEA 13, Final","RUSH ATT,RUSH YD",$20,0.1,0.1,Sunday,261,QB,0.1
+Tommy DeVito,QB,"LV 20 @ NE 13, Final",,$20,6.7,0.0,Sunday,567,QB,0.0
+Brandon Allen,QB,"TEN 12 @ DEN 20, Final",,$20,2.8,0.0,Sunday,617,QB,0.0
+Carter BradleyQ,QB,"SF 17 @ SEA 13, Final",,$20,—,0.0,Sunday,610,QB,0.0
+Sam Ehlinger,QB,"TEN 12 @ DEN 20, Final",,$20,—,0.0,Sunday,632,QB,0.0
+Drew Lock,QB,"SF 17 @ SEA 13, Final",,$20,12.2,0.0,Sunday,594,QB,0.0
+Kurtis RourkeO,QB,"SF 17 @ SEA 13, Final",,$20,—,0.0,Sunday,589,QB,0.0
+Mac Jones,QB,"SF 17 @ SEA 13, Final",,$20,10.4,0.0,Sunday,582,QB,0.0
+Cam Miller,QB,"LV 20 @ NE 13, Final",,$20,—,0.0,Sunday,551,QB,0.0
+Ben Wooldridge,QB,"LV 20 @ NE 13, Final",,$20,—,0.0,Sunday,566,QB,0.0
+Joshua Dobbs,QB,"LV 20 @ NE 13, Final",,$20,10.9,0.0,Sunday,555,QB,0.0
+Aidan O'ConnellIR,QB,"LV 20 @ NE 13, Final",,$20,10.8,0.0,Sunday,545,QB,0.0
+Kenny Pickett,QB,"LV 20 @ NE 13, Final",,$20,3.6,0.0,Sunday,539,QB,0.0
+Tyler Huntley,QB,"CIN 17 @ CLE 16, Final",,$20,12.7,0.0,Sunday,538,QB,0.0
+Desmond Ridder,QB,"CIN 17 @ CLE 16, Final",,$20,4.8,0.0,Sunday,534,QB,0.0
+Dillon Gabriel,QB,"CIN 17 @ CLE 16, Final",,$20,—,0.0,Sunday,532,QB,0.0
+Jarrett Stidham,QB,"TEN 12 @ DEN 20, Final",,$20,0.2,0.0,Sunday,631,QB,0.0
+Cooper Rush,QB,"BAL 40 @ BUF 41, Final",,$20,9.7,0.0,Thursday,723,QB,0.0
+Trevor Siemian,QB,"TEN 12 @ DEN 20, Final",,$20,—,0.0,Sunday,650,QB,0.0
+Jimmy Garoppolo,QB,"HOU 9 @ LA 14, Final",,$21,20.9,0.0,Sunday,702,QB,0.0
+Mike White,QB,"BAL 40 @ BUF 41, Final",,$20,1.1,0.0,Thursday,740,QB,0.0
+Mitchell Trubisky,QB,"BAL 40 @ BUF 41, Final",,$20,1.7,0.0,Thursday,738,QB,0.0
+Devin Leary,QB,"BAL 40 @ BUF 41, Final",,$20,—,0.0,Thursday,733,QB,0.0
+Deshaun WatsonPUP,QB,"CIN 17 @ CLE 16, Final",,$20,11.4,0.0,Sunday,520,QB,0.0
+Dresser Winn,QB,"HOU 9 @ LA 14, Final",,$20,—,0.0,Sunday,716,QB,0.0
+Stetson Bennett IV,QB,"HOU 9 @ LA 14, Final",,$20,—,0.0,Sunday,706,QB,0.0
+Graham Mertz,QB,"HOU 9 @ LA 14, Final",,$20,—,0.0,Sunday,699,QB,0.0
+Kyle Allen,QB,"DET 13 @ GB 27, Final",,$20,0.8,0.0,Sunday,651,QB,0.0
+Kedon Slovis,QB,"HOU 9 @ LA 14, Final",,$20,—,0.0,Sunday,697,QB,0.0
+Davis Mills,QB,"HOU 9 @ LA 14, Final",,$20,2.4,0.0,Sunday,692,QB,0.0
+Taylor Elgersma,QB,"DET 13 @ GB 27, Final",,$20,—,0.0,Sunday,675,QB,0.0
+Sean Clifford,QB,"DET 13 @ GB 27, Final",,$20,—,0.0,Sunday,667,QB,0.0
+Malik Willis,QB,"DET 13 @ GB 27, Final",,$20,8.6,0.0,Sunday,666,QB,0.0
+Hendon Hooker,QB,"DET 13 @ GB 27, Final",,$20,0.9,0.0,Sunday,657,QB,0.0
+Shedeur Sanders,QB,"CIN 17 @ CLE 16, Final",,$20,—,0.0,Sunday,531,QB,0.0
+John Wolford,QB,"CAR 10 @ JAC 26, Final",,$20,—,0.0,Sunday,399,QB,0.0
+Payton Thorne,QB,"CIN 17 @ CLE 16, Final",,$20,—,0.0,Sunday,517,QB,0.0
+Skylar ThompsonO,QB,"PIT 34 @ NYJ 32, Final",,$20,3.9,0.0,Sunday,311,QB,0.0
+Quinn Ewers,QB,"MIA 8 @ IND 33, Final",,$20,—,0.0,Sunday,350,QB,0.0
+Logan Woodside,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.0,Sunday,342,QB,0.0
+Brady Cook,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.0,Sunday,337,QB,0.0
+Adrian Martinez,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.0,Sunday,330,QB,0.0
+Tyrod Taylor,QB,"PIT 34 @ NYJ 32, Final",,$20,10.0,0.0,Sunday,322,QB,0.0
+Will HowardIR,QB,"PIT 34 @ NYJ 32, Final",,$20,—,0.0,Sunday,317,QB,0.0
+Mason Rudolph,QB,"PIT 34 @ NYJ 32, Final",,$20,13.1,0.0,Sunday,307,QB,0.0
+Jake Browning,QB,"CIN 17 @ CLE 16, Final",,$20,-0.1,0.0,Sunday,500,QB,0.0
+Teddy Bridgewater,QB,"TB 23 @ ATL 20, Final",,$20,0.1,0.0,Sunday,303,QB,0.0
+Emory JonesIR,QB,"TB 23 @ ATL 20, Final",,$20,—,0.0,Sunday,293,QB,0.0
+Easton Stick,QB,"TB 23 @ ATL 20, Final",,$20,—,0.0,Sunday,281,QB,0.0
+Kirk Cousins,QB,"TB 23 @ ATL 20, Final",,$20,13.7,0.0,Sunday,278,QB,0.0
+Connor Bazelak,QB,"TB 23 @ ATL 20, Final",,$20,—,0.0,Sunday,275,QB,0.0
+Kyle Trask,QB,"TB 23 @ ATL 20, Final",,$20,-0.1,0.0,Sunday,263,QB,0.0
+Anthony Richardson Sr.,QB,"MIA 8 @ IND 33, Final",,$21,15.9,0.0,Sunday,360,QB,0.0
+Jason Bean,QB,"MIA 8 @ IND 33, Final",,$20,—,0.0,Sunday,363,QB,0.0
+Riley Leonard,QB,"MIA 8 @ IND 33, Final",,$20,—,0.0,Sunday,365,QB,0.0
+Andy Dalton,QB,"CAR 10 @ JAC 26, Final",,$20,10.8,0.0,Sunday,380,QB,0.0
+Jack Plummer,QB,"CAR 10 @ JAC 26, Final",,$20,—,0.0,Sunday,389,QB,0.0
+Nick Mullens,QB,"CAR 10 @ JAC 26, Final",,$20,0.3,0.0,Sunday,398,QB,0.0
+Seth Henigan,QB,"CAR 10 @ JAC 26, Final",,$20,—,0.0,Sunday,406,QB,0.0
+Jameis Winston,QB,"NYG 6 @ WAS 21, Final",,$20,13.0,0.0,Sunday,420,QB,0.0
+Josh Johnson,QB,"NYG 6 @ WAS 21, Final",,$20,0.2,0.0,Sunday,437,QB,0.0
+Marcus Mariota,QB,"NYG 6 @ WAS 21, Final",,$20,9.2,0.0,Sunday,438,QB,0.0
+Sam Hartman,QB,"NYG 6 @ WAS 21, Final",,$20,—,0.0,Sunday,451,QB,0.0
+Jaxson Dart,QB,"NYG 6 @ WAS 21, Final",,$20,—,0.0,Sunday,454,QB,0.0
+Jacoby Brissett,QB,"ARI 20 @ NO 13, Final",,$20,6.6,0.0,Sunday,460,QB,0.0
+Clayton Tune,QB,"ARI 20 @ NO 13, Final",,$20,-0.4,0.0,Sunday,466,QB,0.0
+Jake Haener,QB,"ARI 20 @ NO 13, Final",,$20,1.8,0.0,Sunday,483,QB,0.0
+Tyler Shough,QB,"ARI 20 @ NO 13, Final",,$20,—,0.0,Sunday,491,QB,0.0
+Hunter Dekkers,QB,"ARI 20 @ NO 13, Final",,$20,—,0.0,Sunday,494,QB,0.0
+Shane Buechele,QB,"BAL 40 @ BUF 41, Final",,$20,—,0.0,Thursday,745,QB,0.0

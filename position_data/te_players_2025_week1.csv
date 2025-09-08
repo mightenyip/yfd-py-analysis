@@ -1,0 +1,160 @@
+player_name,position,game_info,stats,salary,fppg,points,game_day,row_number,position_clean,points_numeric
+Brock BowersQ,TE,"LV 20 @ NE 13, Final","8 TGT,5 REC,103 REC YD",$24,12.8,12.8,Sunday,46,TE,12.8
+Dalton Kincaid,TE,"BAL 40 @ BUF 41, Final","4 TGT,4 REC,48 REC YD,REC TD",$11,12.8,12.8,Thursday,48,TE,12.8
+Juwan Johnson,TE,"ARI 20 @ NO 13, Final","11 TGT,8 REC,76 REC YD",$11,11.6,11.6,Sunday,56,TE,11.6
+Tyler Warren,TE,"MIA 8 @ IND 33, Final","RUSH ATT,3 RUSH YD,9 TGT,7 REC,76 REC YD",$13,11.4,11.4,Sunday,58,TE,11.4
+Sam LaPorta,TE,"DET 13 @ GB 27, Final","9 TGT,6 REC,79 REC YD",$22,10.9,10.9,Sunday,65,TE,10.9
+Noah Fant,TE,"CIN 17 @ CLE 16, Final","5 TGT,4 REC,26 REC YD,REC TD",$11,10.6,10.6,Sunday,67,TE,10.6
+George KittleO,TE,"SF 17 @ SEA 13, Final","4 TGT,4 REC,25 REC YD,REC TD",$24,10.5,10.5,Sunday,68,TE,10.5
+Zach Ertz,TE,"NYG 6 @ WAS 21, Final","5 TGT,3 REC,26 REC YD,REC TD",$18,10.1,10.1,Sunday,72,TE,10.1
+Harold Fannin Jr.,TE,"CIN 17 @ CLE 16, Final","RUSH ATT,3 RUSH YD,9 TGT,7 REC,63 REC YD",$10,10.1,10.1,Sunday,73,TE,10.1
+Jonnu Smith,TE,"PIT 34 @ NYJ 32, Final","6 TGT,5 REC,15 REC YD,REC TD",$18,10.0,10.0,Sunday,74,TE,10.0
+Kyle Pitts Sr.,TE,"TB 23 @ ATL 20, Final","8 TGT,7 REC,59 REC YD",$12,9.4,9.4,Sunday,82,TE,9.4
+Trey McBride,TE,"ARI 20 @ NO 13, Final","9 TGT,6 REC,61 REC YD",$27,9.1,9.1,Sunday,85,TE,9.1
+Jake Tonges,TE,"SF 17 @ SEA 13, Final","3 TGT,3 REC,15 REC YD,REC TD",$10,9.0,9.0,Sunday,88,TE,9.0
+Tucker Kraft,TE,"DET 13 @ GB 27, Final","RUSH ATT,3 RUSH YD,4 TGT,2 REC,16 REC YD,REC TD",$14,8.9,8.9,Sunday,91,TE,8.9
+Hunter Henry,TE,"LV 20 @ NE 13, Final","8 TGT,4 REC,66 REC YD",$14,8.6,8.6,Sunday,96,TE,8.6
+Brenton Strange,TE,"CAR 10 @ JAC 26, Final","4 TGT,4 REC,59 REC YD",$11,7.9,7.9,Sunday,104,TE,7.9
+Davis Allen,TE,"HOU 9 @ LA 14, Final","2 TGT,REC,13 REC YD,REC TD",$10,7.8,7.8,Sunday,107,TE,7.8
+Hunter Long,TE,"CAR 10 @ JAC 26, Final","TGT,REC,6 REC YD,REC TD",$10,7.1,7.1,Sunday,115,TE,7.1
+Michael Mayer,TE,"LV 20 @ NE 13, Final","4 TGT,4 REC,38 REC YD",$10,5.8,5.8,Sunday,129,TE,5.8
+David Njoku,TE,"CIN 17 @ CLE 16, Final","6 TGT,3 REC,37 REC YD",$21,5.2,5.2,Sunday,133,TE,5.2
+Dalton Schultz,TE,"HOU 9 @ LA 14, Final","5 TGT,3 REC,28 REC YD",$11,4.3,4.3,Sunday,143,TE,4.3
+Pat Freiermuth,TE,"PIT 34 @ NYJ 32, Final","3 TGT,3 REC,28 REC YD",$14,4.3,4.3,Sunday,142,TE,4.3
+Cade StoverQ,TE,"HOU 9 @ LA 14, Final","4 TGT,4 REC,22 REC YD",$10,4.2,4.2,Sunday,146,TE,4.2
+Ja'Tavion Sanders,TE,"CAR 10 @ JAC 26, Final","3 TGT,2 REC,27 REC YD",$10,3.7,3.7,Sunday,160,TE,3.7
+Evan EngramQ,TE,"TEN 12 @ DEN 20, Final","4 TGT,3 REC,21 REC YD",$15,3.6,3.6,Sunday,166,TE,3.6
+Chig Okonkwo,TE,"TEN 12 @ DEN 20, Final","4 TGT,3 REC,19 REC YD",$13,3.4,3.4,Sunday,167,TE,3.4
+Jackson Hawes,TE,"BAL 40 @ BUF 41, Final","TGT,REC,29 REC YD",$10,3.4,3.4,Thursday,168,TE,3.4
+Dawson Knox,TE,"BAL 40 @ BUF 41, Final","2 TGT,2 REC,20 REC YD",$10,3.0,3.0,Thursday,173,TE,3.0
+Tanner Conner,TE,"MIA 8 @ IND 33, Final","4 TGT,2 REC,20 REC YD",$10,3.0,3.0,Sunday,171,TE,3.0
+Jeremy Ruckert,TE,"PIT 34 @ NYJ 32, Final","2 TGT,2 REC,16 REC YD",$10,2.6,2.6,Sunday,176,TE,2.6
+Mason Taylor,TE,"PIT 34 @ NYJ 32, Final","TGT,REC,20 REC YD",$10,2.5,2.5,Sunday,182,TE,2.5
+Mo Alie-Cox,TE,"MIA 8 @ IND 33, Final","TGT,REC,20 REC YD",$10,2.5,2.5,Sunday,183,TE,2.5
+Gunnar Helm,TE,"TEN 12 @ DEN 20, Final","2 TGT,REC,16 REC YD",$10,2.1,2.1,Sunday,195,TE,2.1
+Julian Hill,TE,"MIA 8 @ IND 33, Final",2PT,$10,2.0,2.0,Sunday,199,TE,2.0
+Daniel Bellinger,TE,"NYG 6 @ WAS 21, Final","TGT,REC,14 REC YD",$10,1.9,1.9,Sunday,202,TE,1.9
+Mike Gesicki,TE,"CIN 17 @ CLE 16, Final","3 TGT,REC,14 REC YD",$15,1.9,1.9,Sunday,204,TE,1.9
+Austin Hooper,TE,"LV 20 @ NE 13, Final","TGT,REC,10 REC YD",$10,1.5,1.5,Sunday,215,TE,1.5
+Tip Reiman,TE,"ARI 20 @ NO 13, Final","TGT,REC,10 REC YD",$10,1.5,1.5,Sunday,214,TE,1.5
+Elijah Arroyo,TE,"SF 17 @ SEA 13, Final","TGT,REC,7 REC YD",$10,1.2,1.2,Sunday,220,TE,1.2
+Lucas Krull,TE,"TEN 12 @ DEN 20, Final","2 TGT,REC,6 REC YD",$10,1.1,1.1,Sunday,224,TE,1.1
+Theo Johnson,TE,"NYG 6 @ WAS 21, Final","3 TGT,REC,5 REC YD",$12,1.0,1.0,Sunday,226,TE,1.0
+Adam Trautman,TE,"TEN 12 @ DEN 20, Final","TGT,REC,5 REC YD",$10,1.0,1.0,Sunday,229,TE,1.0
+Mark Andrews,TE,"BAL 40 @ BUF 41, Final","TGT,REC,5 REC YD",$20,1.0,1.0,Thursday,230,TE,1.0
+Luke Farrell,TE,"SF 17 @ SEA 13, Final","TGT,REC,4 REC YD",$10,0.9,0.9,Sunday,234,TE,0.9
+Luke Musgrave,TE,"DET 13 @ GB 27, Final","TGT,REC,4 REC YD",$10,0.9,0.9,Sunday,236,TE,0.9
+Elijah Higgins,TE,"ARI 20 @ NO 13, Final","2 TGT,REC,3 REC YD",$10,0.8,0.8,Sunday,239,TE,0.8
+Tommy Tremble,TE,"CAR 10 @ JAC 26, Final","TGT,REC,2 REC YD",$10,0.7,0.7,Sunday,244,TE,0.7
+AJ Barner,TE,"SF 17 @ SEA 13, Final","RUSH ATT,2 RUSH YD,2 TGT,REC",$10,0.7,0.7,Sunday,245,TE,0.7
+John FitzPatrick,TE,"DET 13 @ GB 27, Final","TGT,REC,2 REC YD",$10,0.7,0.7,Sunday,247,TE,0.7
+CJ Dippre,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,564,TE,0.0
+Cole Fotheringham,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,570,TE,0.0
+Ross Dwelley,TE,"SF 17 @ SEA 13, Final",,$10,0.5,0.0,Sunday,578,TE,0.0
+Albert Okwuegbunam,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,571,TE,0.0
+David Martin-Robinson,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.0,Sunday,625,TE,0.0
+Thomas Odukoya,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.0,Sunday,621,TE,0.0
+Brayden Willis,TE,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,583,TE,0.0
+Eric Saubert,TE,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,592,TE,0.0
+Marshall Lang,TE,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,606,TE,0.0
+Nick Kallerup,TE,"SF 17 @ SEA 13, Final",,$10,—,0.0,Sunday,608,TE,0.0
+Jack Westover,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,560,TE,0.0
+Gee Scott Jr.,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,563,TE,0.0
+Mitch Van Vooren,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,537,TE,0.0
+Jaheim Bell,TE,"LV 20 @ NE 13, Final",,$10,0.8,0.0,Sunday,559,TE,0.0
+Carter Runyon,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,553,TE,0.0
+Qadir Ismail,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,550,TE,0.0
+Justin Shorter,TE,"LV 20 @ NE 13, Final",,$10,—,0.0,Sunday,546,TE,0.0
+Ian Thomas,TE,"LV 20 @ NE 13, Final",,$10,0.7,0.0,Sunday,541,TE,0.0
+Sal Cannella,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,533,TE,0.0
+Brenden Bates,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,525,TE,0.0
+Blake Whiteheart,TE,"CIN 17 @ CLE 16, Final",,$10,2.0,0.0,Sunday,524,TE,0.0
+Cam Grandy,TE,"CIN 17 @ CLE 16, Final",,$10,1.3,0.0,Sunday,509,TE,0.0
+Tanner McLachlanQ,TE,"CIN 17 @ CLE 16, Final",,$10,—,0.0,Sunday,508,TE,0.0
+Erick All Jr.PUP,TE,"CIN 17 @ CLE 16, Final",,$10,3.2,0.0,Sunday,507,TE,0.0
+Drew Sample,TE,"CIN 17 @ CLE 16, Final",TGT,$10,—,0.0,Sunday,499,TE,0.0
+Josh Whyle,TE,"TEN 12 @ DEN 20, Final",,$10,3.1,0.0,Sunday,623,TE,0.0
+Keleki Latu,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,751,TE,0.0
+Drake Dabney,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.0,Sunday,629,TE,0.0
+Tyler Higbee,TE,"HOU 9 @ LA 14, Final",,$15,9.2,0.0,Sunday,703,TE,0.0
+Baylor Cupp,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,759,TE,0.0
+Scotty Washington,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,757,TE,0.0
+Seth Green,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,497,TE,0.0
+Zach Davidson,TE,"BAL 40 @ BUF 41, Final",,$10,0.5,0.0,Thursday,744,TE,0.0
+Zaire Mitchell-Paden,TE,"BAL 40 @ BUF 41, Final",,$10,—,0.0,Thursday,729,TE,0.0
+Isaiah LikelyO,TE,"BAL 40 @ BUF 41, Final",,$12,7.3,0.0,Thursday,728,TE,0.0
+Charlie Kolar,TE,"BAL 40 @ BUF 41, Final",,$10,2.4,0.0,Thursday,727,TE,0.0
+McCallan Castles,TE,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,720,TE,0.0
+Tre' McKitty,TE,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,719,TE,0.0
+Terrance Ferguson,TE,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,717,TE,0.0
+Mark Redman,TE,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,712,TE,0.0
+Luke Lachey,TE,"HOU 9 @ LA 14, Final",,$10,—,0.0,Sunday,700,TE,0.0
+Nate AdkinsO,TE,"TEN 12 @ DEN 20, Final",,$10,2.4,0.0,Sunday,636,TE,0.0
+Irv Smith Jr.IR,TE,"HOU 9 @ LA 14, Final",,$10,0.7,0.0,Sunday,690,TE,0.0
+Gunnar Oakes,TE,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,684,TE,0.0
+Steven Stilianos,TE,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,682,TE,0.0
+Messiah Swinson,TE,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,674,TE,0.0
+Johnny Lumpkin,TE,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,670,TE,0.0
+Ben Sims,TE,"DET 13 @ GB 27, Final",,$10,1.5,0.0,Sunday,668,TE,0.0
+Zach Horton,TE,"DET 13 @ GB 27, Final",,$10,—,0.0,Sunday,663,TE,0.0
+Shane Zylstra,TE,"DET 13 @ GB 27, Final",,$10,1.4,0.0,Sunday,656,TE,0.0
+Brock Wright,TE,"DET 13 @ GB 27, Final",,$10,2.8,0.0,Sunday,655,TE,0.0
+Caden Prieskorn,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.0,Sunday,646,TE,0.0
+Caleb Lohner,TE,"TEN 12 @ DEN 20, Final",,$10,—,0.0,Sunday,641,TE,0.0
+Tanner Hudson,TE,"CIN 17 @ CLE 16, Final",,$10,3.2,0.0,Sunday,498,TE,0.0
+Bryce Pierre,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,395,TE,0.0
+Moliki Matavao,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,487,TE,0.0
+Darnell Washington,TE,"PIT 34 @ NYJ 32, Final",,$10,2.5,0.0,Sunday,314,TE,0.0
+Max Mang,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,371,TE,0.0
+Will Mallory,TE,"MIA 8 @ IND 33, Final",,$10,0.7,0.0,Sunday,361,TE,0.0
+Drew Ogletree,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,358,TE,0.0
+Sean McKeon,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,356,TE,0.0
+Hayden Rucci,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,349,TE,0.0
+Pharaoh Brown,TE,"MIA 8 @ IND 33, Final",,$10,0.9,0.0,Sunday,344,TE,0.0
+Kevin Foelsch,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,343,TE,0.0
+Neal Johnson,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,333,TE,0.0
+Zack Kuntz,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,329,TE,0.0
+Stone Smartt,TE,"PIT 34 @ NYJ 32, Final",,$10,3.0,0.0,Sunday,328,TE,0.0
+JJ Galbreath,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,318,TE,0.0
+Connor Heyward,TE,"PIT 34 @ NYJ 32, Final",,$10,1.4,0.0,Sunday,310,TE,0.0
+Chris Myarick,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,374,TE,0.0
+Jelani Woods,TE,"PIT 34 @ NYJ 32, Final",,$10,—,0.0,Sunday,305,TE,0.0
+Joshua Simon,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,295,TE,0.0
+Teagan Quitoriano,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,288,TE,0.0
+Nikola Kalinic,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,287,TE,0.0
+Feleipe Franks,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,286,TE,0.0
+Charlie Woerner,TE,"TB 23 @ ATL 20, Final",,$10,0.7,0.0,Sunday,284,TE,0.0
+Devin Culp,TE,"TB 23 @ ATL 20, Final",,$10,5.7,0.0,Sunday,272,TE,0.0
+Tanner Taula,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,270,TE,0.0
+Payne Durham,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,267,TE,0.0
+Ko Kieft,TE,"TB 23 @ ATL 20, Final",,$10,—,0.0,Sunday,265,TE,0.0
+Cade Otton,TE,"TB 23 @ ATL 20, Final",3 TGT,$13,—,0.0,Sunday,264,TE,0.0
+Darren WallerO,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,373,TE,0.0
+Mitchell Wilcox,TE,"MIA 8 @ IND 33, Final",,$10,—,0.0,Sunday,375,TE,0.0
+Treyton Welch,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,486,TE,0.0
+Lawrence Cager,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,441,TE,0.0
+Michael Jacobson,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,480,TE,0.0
+Jack Stoll,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,479,TE,0.0
+Foster MoreauPUP,TE,"ARI 20 @ NO 13, Final",,$10,5.5,0.0,Sunday,476,TE,0.0
+Taysom HillPUP,TE,"ARI 20 @ NO 13, Final",,$15,11.5,0.0,Sunday,473,TE,0.0
+Oscar Cardenas,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,472,TE,0.0
+Travis Vokolek,TE,"ARI 20 @ NO 13, Final",,$10,—,0.0,Sunday,468,TE,0.0
+Josiah Deguara,TE,"ARI 20 @ NO 13, Final",,$10,0.6,0.0,Sunday,461,TE,0.0
+Colson Yankoff,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,450,TE,0.0
+Ben Sinnott,TE,"NYG 6 @ WAS 21, Final",,$10,2.4,0.0,Sunday,448,TE,0.0
+Cole Turner,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,445,TE,0.0
+John Bates,TE,"NYG 6 @ WAS 21, Final",,$10,1.1,0.0,Sunday,442,TE,0.0
+Jermaine Terry IIQ,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,436,TE,0.0
+Dominique Dafney,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,383,TE,0.0
+Thomas Fidone II,TE,"NYG 6 @ WAS 21, Final",,$10,—,0.0,Sunday,430,TE,0.0
+Greg Dulcich,TE,"NYG 6 @ WAS 21, Final",,$10,1.3,0.0,Sunday,425,TE,0.0
+Chris Manhertz,TE,"NYG 6 @ WAS 21, Final",,$10,1.8,0.0,Sunday,419,TE,0.0
+Tyler MabryQ,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,417,TE,0.0
+John Copenhaver,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,408,TE,0.0
+Patrick Herbert,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,405,TE,0.0
+Shawn Bowman,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,404,TE,0.0
+Quintin Morris,TE,"CAR 10 @ JAC 26, Final",,$10,1.7,0.0,Sunday,401,TE,0.0
+Johnny Mundt,TE,"CAR 10 @ JAC 26, Final",TGT,$10,—,0.0,Sunday,397,TE,0.0
+Mitchell Evans,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,391,TE,0.0
+James Mitchell,TE,"CAR 10 @ JAC 26, Final",,$10,—,0.0,Sunday,384,TE,0.0
+Colby ParkinsonQ,TE,"HOU 9 @ LA 14, Final","2 TGT,2 REC,-6 REC YD,FUM LOST",$10,-1.6,-1.6,Sunday,763,TE,-1.6
