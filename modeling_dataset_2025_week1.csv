@@ -1,0 +1,252 @@
+player_name,position,salary,points,fppg
+Denver Broncos,DEF,20,14.0,14.0
+Indianapolis Colts,DEF,13,13.0,13.0
+Jacksonville Jaguars,DEF,10,11.0,11.0
+Los Angeles Rams,DEF,17,11.0,11.0
+Las Vegas Raiders,DEF,10,10.0,10.0
+Tennessee Titans,DEF,10,10.0,10.0
+Green Bay Packers,DEF,18,10.0,10.0
+Washington Commanders,DEF,15,9.0,9.0
+San Francisco 49ers,DEF,12,9.0,9.0
+New Orleans Saints,DEF,13,8.0,8.0
+Seattle Seahawks,DEF,18,8.0,8.0
+Cincinnati Bengals,DEF,15,7.0,7.0
+New England Patriots,DEF,10,7.0,7.0
+Houston Texans,DEF,18,6.0,6.0
+Arizona Cardinals,DEF,16,5.0,5.0
+Cleveland Browns,DEF,11,4.0,4.0
+New York Jets,DEF,14,3.0,3.0
+New York Giants,DEF,13,3.0,3.0
+Tampa Bay Buccaneers,DEF,16,2.0,2.0
+Pittsburgh Steelers,DEF,18,2.0,2.0
+Carolina Panthers,DEF,10,2.0,2.0
+Atlanta Falcons,DEF,14,1.0,1.0
+Miami Dolphins,DEF,12,0.0,—
+Detroit Lions,DEF,16,0.0,—
+Buffalo Bills,DEF,17,0.0,—
+Baltimore Ravens,DEF,16,-3.0,-3.0
+Josh Allen,QB,40,38.76,38.8
+Justin Fields,QB,20,29.52,29.5
+Daniel Jones,QB,20,29.48,29.5
+Lamar Jackson,QB,37,29.36,29.4
+Aaron Rodgers,QB,28,25.66,25.7
+Michael Penix Jr.,QB,22,24.02,24.0
+Baker Mayfield,QB,34,22.58,22.6
+Jayden Daniels,QB,37,20.12,20.1
+Brock PurdyQ,QB,32,18.78,18.8
+Geno Smith,QB,25,18.48,18.5
+Kyler Murray,QB,31,18.32,18.3
+Drake Maye,QB,25,16.28,16.3
+Jordan Love,QB,24,15.92,15.9
+Joe Flacco,QB,21,14.2,14.2
+Matthew Stafford,QB,24,13.6,13.6
+Jared Goff,QB,30,11.9,11.9
+Spencer Rattler,QB,20,11.46,11.5
+Trevor Lawrence,QB,27,11.32,11.3
+Russell Wilson,QB,26,11.12,11.1
+Bryce Young,QB,29,10.16,10.2
+C.J. Stroud,QB,23,9.72,9.7
+Bo Nix,QB,33,8.84,8.8
+Joe Burrow,QB,36,8.82,8.8
+Tua Tagovailoa,QB,26,7.26,7.3
+Sam Darnold,QB,28,5.4,5.4
+Derrick Henry,RB,38,28.7,28.7
+Bijan Robinson,RB,39,21.4,21.4
+Christian McCaffrey,RB,32,18.7,18.7
+James Cook,RB,32,18.7,18.7
+Travis Etienne Jr.,RB,19,17.1,17.1
+Chuba Hubbard,RB,32,16.4,16.4
+Breece Hall,RB,28,15.5,15.5
+De'Von Achane,RB,36,15.0,15.0
+Jacory Croskey-Merritt,RB,10,14.2,14.2
+J.K. Dobbins,RB,24,13.8,13.8
+Josh Jacobs,RB,37,13.5,13.5
+Kyren Williams,RB,33,13.4,13.4
+Dylan Sampson,RB,10,13.3,13.3
+Jaylen Warren,RB,21,12.9,12.9
+Alvin Kamara,RB,30,12.7,12.7
+Bucky Irving,RB,34,12.5,12.5
+James Conner,RB,35,12.4,12.4
+Chase Brown,RB,34,12.1,12.1
+Jonathan Taylor,RB,37,11.3,11.3
+Ashton Jeanty,RB,29,11.0,11.0
+Zach Charbonnet,RB,19,10.7,10.7
+Jahmyr Gibbs,RB,39,10.0,10.0
+TreVeyon Henderson,RB,22,8.1,8.1
+Trey Benson,RB,11,8.0,8.0
+Tony Pollard,RB,23,7.4,7.4
+RJ Harvey,RB,21,7.4,7.4
+Austin EkelerQ,RB,16,7.2,7.2
+Braelon Allen,RB,10,6.9,6.9
+David Montgomery,RB,27,6.3,6.3
+Nick Chubb,RB,16,6.0,6.0
+Tyrone Tracy Jr.,RB,22,4.5,4.5
+Brian Robinson Jr.,RB,23,4.2,4.2
+Kyle Juszczyk,RB,10,4.2,4.2
+DJ Giddens,RB,10,4.1,4.1
+Kenneth Walker III,RB,26,3.9,3.9
+Kenneth Gainwell,RB,10,3.8,3.8
+Rhamondre Stevenson,RB,20,3.7,3.7
+Rico Dowdle,RB,19,2.6,2.6
+Tyler Badie,RB,10,2.6,2.6
+Jeremy McNichols,RB,10,2.5,2.5
+Tyler Allgeier,RB,12,2.4,2.4
+Kendre Miller,RB,10,2.4,2.4
+Ty Johnson,RB,12,2.4,2.4
+Blake Corum,RB,10,2.1,2.1
+Rachaad White,RB,16,2.1,2.1
+Cam Skattebo,RB,13,1.9,1.9
+Isaiah Davis,RB,10,1.8,1.8
+LeQuint Allen Jr.,RB,10,1.6,1.6
+Samaje Perine,RB,10,1.6,1.6
+Dare Ogunbowale,RB,10,1.6,1.6
+Tank Bigsby,RB,15,1.2,1.2
+Bhayshul Tuten,RB,13,1.1,1.1
+Jerome Ford,RB,18,1.0,1.0
+Devin Singletary,RB,10,0.9,0.9
+Devin Neal,RB,10,0.9,0.9
+Ollie Gordon II,RB,10,0.8,0.8
+Zamir White,RB,10,0.8,0.8
+Chris Brooks,RB,10,0.8,0.8
+Ray Davis,RB,15,0.6,0.6
+Alec Ingold,RB,10,0.6,0.6
+Rasheen Ali,RB,10,0.5,0.5
+Dameon Pierce,RB,10,0.5,0.5
+Trevor Etienne,RB,10,0.4,0.4
+Emanuel Wilson,RB,12,0.4,0.4
+Antonio Gibson,RB,10,0.3,0.3
+Brock BowersQ,TE,24,12.8,12.8
+Dalton Kincaid,TE,11,12.8,12.8
+Juwan Johnson,TE,11,11.6,11.6
+Tyler Warren,TE,13,11.4,11.4
+Sam LaPorta,TE,22,10.9,10.9
+Noah Fant,TE,11,10.6,10.6
+George KittleO,TE,24,10.5,10.5
+Zach Ertz,TE,18,10.1,10.1
+Harold Fannin Jr.,TE,10,10.1,10.1
+Jonnu Smith,TE,18,10.0,10.0
+Kyle Pitts Sr.,TE,12,9.4,9.4
+Trey McBride,TE,27,9.1,9.1
+Jake Tonges,TE,10,9.0,9.0
+Tucker Kraft,TE,14,8.9,8.9
+Hunter Henry,TE,14,8.6,8.6
+Brenton Strange,TE,11,7.9,7.9
+Davis Allen,TE,10,7.8,7.8
+Hunter Long,TE,10,7.1,7.1
+Michael Mayer,TE,10,5.8,5.8
+David Njoku,TE,21,5.2,5.2
+Dalton Schultz,TE,11,4.3,4.3
+Pat Freiermuth,TE,14,4.3,4.3
+Cade StoverQ,TE,10,4.2,4.2
+Ja'Tavion Sanders,TE,10,3.7,3.7
+Evan EngramQ,TE,15,3.6,3.6
+Chig Okonkwo,TE,13,3.4,3.4
+Jackson Hawes,TE,10,3.4,3.4
+Dawson Knox,TE,10,3.0,3.0
+Tanner Conner,TE,10,3.0,3.0
+Jeremy Ruckert,TE,10,2.6,2.6
+Mason Taylor,TE,10,2.5,2.5
+Mo Alie-Cox,TE,10,2.5,2.5
+Gunnar Helm,TE,10,2.1,2.1
+Julian Hill,TE,10,2.0,2.0
+Daniel Bellinger,TE,10,1.9,1.9
+Mike Gesicki,TE,15,1.9,1.9
+Austin Hooper,TE,10,1.5,1.5
+Tip Reiman,TE,10,1.5,1.5
+Elijah Arroyo,TE,10,1.2,1.2
+Lucas Krull,TE,10,1.1,1.1
+Theo Johnson,TE,12,1.0,1.0
+Adam Trautman,TE,10,1.0,1.0
+Mark Andrews,TE,20,1.0,1.0
+Luke Farrell,TE,10,0.9,0.9
+Luke Musgrave,TE,10,0.9,0.9
+Zay Flowers,WR,22,24.6,24.6
+Emeka Egbuka,WR,15,21.6,21.6
+Keon Coleman,WR,14,21.2,21.2
+Deebo Samuel,WR,21,19.1,19.1
+Garrett Wilson,WR,25,19.0,19.0
+Puka Nacua,WR,32,18.1,18.1
+Michael Pittman Jr.,WR,20,17.0,17.0
+Marvin Harrison Jr.,WR,24,15.6,15.6
+Courtland Sutton,WR,28,15.1,15.1
+Calvin Austin III,WR,11,15.0,15.0
+Jaxon Smith-Njigba,WR,27,14.9,14.9
+Cedric Tillman,WR,18,13.7,13.7
+Jakobi Meyers,WR,25,13.7,13.7
+Kayshon Boutte,WR,17,13.3,13.3
+Ricky Pearsall,WR,22,12.8,12.8
+Tre Tucker,WR,10,12.4,12.4
+Jayden ReedQ,WR,18,12.0,12.0
+DeAndre Hopkins,WR,12,10.5,10.5
+DK Metcalf,WR,24,10.3,10.3
+Malik Nabers,WR,34,9.6,9.6
+Drake LondonQ,WR,33,9.5,9.5
+Khalil Shakir,WR,20,9.4,9.4
+Tetairoa McMillan,WR,21,9.3,9.3
+Jerry Jeudy,WR,26,9.1,9.1
+Chris Olave,WR,16,8.9,8.9
+Ben Skowronek,WR,10,8.7,8.7
+Stefon Diggs,WR,23,8.7,8.7
+Joshua Palmer,WR,16,8.6,8.6
+Brian Thomas Jr.,WR,35,8.5,8.5
+Wan'Dale Robinson,WR,17,8.5,8.5
+Romeo Doubs,WR,17,7.8,7.8
+Isaac TeSlaa,WR,10,7.8,7.8
+Mike Evans,WR,33,7.6,7.6
+Dyami Brown,WR,16,7.3,7.3
+DeMario Douglas,WR,16,7.2,7.2
+Davante Adams,WR,33,7.1,7.1
+Ray-Ray McCloud III,WR,10,6.6,6.6
+Amon-Ra St. Brown,WR,36,6.5,6.5
+Troy Franklin,WR,10,6.4,6.4
+Travis Hunter,WR,24,6.3,6.3
+Rashid Shaheed,WR,21,6.3,6.3
+Tyreek Hill,WR,26,6.0,6.0
+Dont'e Thornton Jr.,WR,10,5.5,5.5
+Sterling Shepard,WR,10,5.4,5.4
+Jaylen Waddle,WR,19,5.0,5.0
+Tee Higgins,WR,35,4.8,4.8
+Casey Washington,WR,10,4.8,4.8
+Calvin Ridley,WR,23,4.7,4.7
+Jameson Williams,WR,29,4.6,4.6
+Xavier Hutchinson,WR,10,4.5,4.5
+Jayden Higgins,WR,15,4.2,4.2
+Tyler Johnson,WR,10,4.1,4.1
+Alec Pierce,WR,18,4.1,4.1
+Brandin Cooks,WR,11,4.1,4.1
+Xavier Smith,WR,10,4.1,4.1
+Nico Collins,WR,31,4.0,4.0
+Dontayvion WicksQ,WR,13,4.0,4.0
+Malik Washington,WR,10,3.9,3.9
+Chris Moore,WR,10,3.9,3.9
+Noah BrownQ,WR,11,3.7,3.7
+Terry McLaurin,WR,31,3.7,3.7
+Justin Watson,WR,10,3.7,3.7
+Ja'Marr Chase,WR,40,3.6,3.6
+Adonai Mitchell,WR,10,3.1,3.1
+Josh Reynolds,WR,10,2.8,2.8
+Jack Bech,WR,15,2.8,2.8
+Jauan JenningsQ,WR,21,2.6,2.6
+Kalif Raymond,WR,10,2.6,2.6
+Matthew GoldenQ,WR,20,2.6,2.6
+Xavier Legette,WR,11,2.5,2.5
+Cooper Kupp,WR,18,2.5,2.5
+Elic Ayomanor,WR,10,2.3,2.3
+Josh Downs,WR,20,2.2,2.2
+Hunter Renfrow,WR,10,2.1,2.1
+Rashod Bateman,WR,21,2.0,2.0
+Kyle Williams,WR,14,1.7,1.7
+Jaylin Lane,WR,10,1.6,1.6
+Elijah Moore,WR,10,1.6,1.6
+Ashton Dulin,WR,10,1.5,1.5
+Dee Eskridge,WR,10,1.4,1.4
+Bryce Oliver,WR,10,1.3,1.3
+Nick Westbrook-Ikhine,WR,14,1.2,1.2
+Jaylin Noel,WR,11,1.2,1.2
+Jamari Thrash,WR,10,1.1,1.1
+Michael Wilson,WR,14,1.0,1.0
+Zay Jones,WR,10,0.9,0.9
+Chimere Dike,WR,10,0.9,0.9
+Tutu Atwell,WR,10,0.9,0.9
+Trent Sherfield Sr.,WR,10,0.8,0.8
+Mack Hollins,WR,10,0.8,0.8

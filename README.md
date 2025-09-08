@@ -127,6 +127,17 @@ TE       159      1.57     12.8     -1.6     0.0
 DEF      26       5.85     14.0     -3.0     6.5     
 ```
 
+### Value Analysis
+The scraper provides comprehensive value analysis showing points per dollar by position:
+
+![Value Analysis](value_analysis_for_readme.png)
+
+**Key Insights:**
+- **QBs** offer the highest average value (0.639 pts/$)
+- **WRs** have the highest ceiling value (1.514 pts/$)
+- **RBs** show the strongest salary-to-points correlation (0.7707)
+- **Defenses** are unpredictable regardless of salary (-0.0451 correlation)
+
 ## 🛠️ Technical Details
 
 ### Selenium Configuration
