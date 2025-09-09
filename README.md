@@ -14,6 +14,8 @@ This project scrapes Yahoo's Daily Fantasy Sports completed games page to extrac
 
 The scraper captures data from all completed NFL games and organizes players by position into separate CSV files.
 
+**📅 Note: Current analysis is based on Week 1 data from the 2025 NFL season. Results may vary significantly as the season progresses and sample sizes increase.**
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -137,6 +139,12 @@ The scraper provides comprehensive value analysis showing points per dollar by p
 - **WRs** have the highest ceiling value (1.514 pts/$)
 - **RBs** show the strongest salary-to-points correlation (0.7707)
 - **Defenses** are unpredictable regardless of salary (-0.0451 correlation)
+
+**🔍 QB Correlation Discovery:**
+When analyzing QB salary-performance relationships, removing the top 2 highest salaried QBs (Josh Allen and Lamar Jackson) reveals a fascinating pattern:
+- **With top 2**: Weak positive correlation (0.1961)
+- **Without top 2**: Weak negative correlation (-0.2155)
+- This suggests that the salary-performance relationship for QBs is driven almost entirely by just two elite players, while the rest of the QB pool shows that higher salaries don't predict better performance. Value QBs in the $20-25 range may actually be better investments than the most expensive options.
 
 ## 🛠️ Technical Details
 
