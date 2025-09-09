@@ -1,0 +1,60 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number
+Caleb Williams,QB,"MIN 27 @ CHI 24, Final","210 PASS YD,PASS TD,6 RUSH ATT,58 RUSH YD,RUSH TD",$23,24.2,24.20,1
+J.J. McCarthy,QB,"MIN 27 @ CHI 24, Final","143 PASS YD,2 PASS TD,INT,2 RUSH ATT,25 RUSH YD,RUSH TD,2PT",$20,23.2,23.22,2
+Aaron Jones Sr.,RB,"MIN 27 @ CHI 24, Final","8 RUSH ATT,23 RUSH YD,3 TGT,3 REC,44 REC YD,REC TD",$25,14.2,14.20,3
+Justin Jefferson,WR,"MIN 27 @ CHI 24, Final","RUSH ATT,4 RUSH YD,7 TGT,4 REC,44 REC YD,REC TD",$38,12.8,12.80,4
+Rome Odunze,WR,"MIN 27 @ CHI 24, Final","9 TGT,6 REC,37 REC YD,REC TD",$17,12.7,12.70,5
+Chicago Bears,DEF,"MIN 27 @ CHI 24, Final","27 PTS ALLOWED,3 SACK,INT,TD",$17,11.0,11.00,6
+Jordan Mason,RB,"MIN 27 @ CHI 24, Final","15 RUSH ATT,68 RUSH YD,TGT,REC,7 REC YD",$14,8.0,8.00,7
+D'Andre Swift,RB,"MIN 27 @ CHI 24, Final","17 RUSH ATT,53 RUSH YD,5 TGT,3 REC,12 REC YD",$22,8.0,8.00,8
+DJ Moore,WR,"MIN 27 @ CHI 24, Final","3 RUSH ATT,8 RUSH YD,5 TGT,3 REC,68 REC YD,FUM LOST",$27,7.1,7.10,9
+Olamide Zaccheaus,WR,"MIN 27 @ CHI 24, Final","7 TGT,4 REC,42 REC YD",$10,6.2,6.20,10
+Minnesota Vikings,DEF,"MIN 27 @ CHI 24, Final","18 PTS ALLOWED,2 SACK,FUM REC",$19,5.0,5.00,11
+Cole Kmet,TE,"MIN 27 @ CHI 24, Final","4 TGT,REC,31 REC YD",$10,3.6,3.60,12
+Jalen Nailor,WR,"MIN 27 @ CHI 24, Final","3 TGT,REC,28 REC YD",$12,3.3,3.30,13
+T.J. Hockenson,TE,"MIN 27 @ CHI 24, Final","4 TGT,3 REC,15 REC YD",$16,3.0,3.00,14
+Colston Loveland,TE,"MIN 27 @ CHI 24, Final","2 TGT,2 REC,12 REC YD",$11,2.2,2.20,15
+Kyle Monangai,RB,"MIN 27 @ CHI 24, Final","TGT,REC,11 REC YD",$10,1.6,1.60,16
+Josh Oliver,TE,"MIN 27 @ CHI 24, Final","TGT,REC,5 REC YD",$10,1.0,1.00,17
+Luther Burden III,WR,"MIN 27 @ CHI 24, Final","TGT,REC,-3 REC YD",$14,0.2,0.20,18
+C.J. HamIR,RB,"MIN 27 @ CHI 24, Final",,$10,1.1,0.00,19
+Brett Rypien,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.00,20
+Tim Jones,WR,"MIN 27 @ CHI 24, Final",,$10,0.9,0.00,21
+Sam Howell,QB,"MIN 27 @ CHI 24, Final",,$20,0.2,0.00,22
+Ty Chandler,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.00,23
+Jordan AddisonSUSP,WR,"MIN 27 @ CHI 24, Final",,$12,11.6,0.00,24
+Thayer Thomas,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,25
+Zavier ScottQ,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.00,26
+Lucky Jackson,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,27
+Jeshaun Jones,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,28
+Tai Felton,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,29
+Gavin BartholomewPUP,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,30
+Max Brosmer,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.00,31
+Silas Bolden,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,32
+Dontae Fleming,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,33
+Robert Lewis,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,34
+Bryson Nesbit,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,35
+Tre Stewart,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.00,36
+Myles Price,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,37
+Ben Yurosek,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,38
+Durham Smythe,TE,"MIN 27 @ CHI 24, Final",,$10,0.8,0.00,39
+Miles Boykin,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,40
+Travis HomerIR,RB,"MIN 27 @ CHI 24, Final",,$10,0.6,0.00,41
+Stephen Carlson,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,42
+Devin Duvernay,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,43
+Samori Toure,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,44
+Maurice Alexander,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,45
+Tyler Scott,WR,"MIN 27 @ CHI 24, Final",,$10,0.3,0.00,46
+Roschon JohnsonQ,RB,"MIN 27 @ CHI 24, Final",,$10,5.3,0.00,47
+Joel Wilson,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,48
+Tyson Bagent,QB,"MIN 27 @ CHI 24, Final",,$20,-0.1,0.00,49
+Austin Reed,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.00,50
+JP Richardson,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,51
+Deion HankinsIR,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.00,52
+Giovanni Ricci,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,53
+Case Keenum,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.00,54
+Jahdae Walker,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.00,55
+Ian WheelerQ,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.00,56
+Nick Vannett,TE,"MIN 27 @ CHI 24, Final",,$10,3.1,0.00,57
+Thomas Gordon,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.00,58
+Brittain Brown,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.00,59

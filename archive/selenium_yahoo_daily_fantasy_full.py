@@ -201,7 +201,7 @@ def scrape_all_yahoo_daily_fantasy_data():
         input("Press Enter to close the browser...")  # Keep browser open for inspection
         driver.quit()
 
-def save_all_data_to_csv(data, filename="yahoo_daily_fantasy_all_players.csv"):
+def save_all_data_to_csv(data, filename="week1_monday.csv"):
     """Save all scraped data to CSV file."""
     if data:
         df = pd.DataFrame(data)
@@ -233,7 +233,7 @@ def main():
     
     if data:
         print(f"\n🎉 SUCCESS! Scraped {len(data)} total players!")
-        print("📁 Data saved to: yahoo_daily_fantasy_all_players.csv")
+        print("📁 Data saved to: week1_monday.csv")
     else:
         print("\n❌ No data found. Check the browser window for any errors.")
 

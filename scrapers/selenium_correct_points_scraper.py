@@ -183,7 +183,7 @@ def scrape_with_correct_points():
     finally:
         driver.quit()
 
-def save_corrected_data(player_data, filename="yahoo_daily_fantasy_correct_points.csv"):
+def save_corrected_data(player_data, filename="week1_monday_correct.csv"):
     """Save the data with correct Points column."""
     if not player_data:
         print("❌ No data to save")
@@ -240,7 +240,7 @@ def main():
         
         if df is not None:
             print(f"\n🎉 SUCCESS! Scraped {len(df)} players with correct Points column")
-            print("📁 Data saved to: yahoo_daily_fantasy_correct_points.csv")
+            print("📁 Data saved to: week1_monday_correct.csv")
         else:
             print("\n❌ Failed to save data")
     else:

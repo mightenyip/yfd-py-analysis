@@ -1,0 +1,14 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Aaron Jones Sr.,RB,"MIN 27 @ CHI 24, Final","8 RUSH ATT,23 RUSH YD,3 TGT,3 REC,44 REC YD,REC TD",$25,14.2,14.2,3,25.0,14.2,14.2,RB
+Jordan Mason,RB,"MIN 27 @ CHI 24, Final","15 RUSH ATT,68 RUSH YD,TGT,REC,7 REC YD",$14,8.0,8.0,7,14.0,8.0,8.0,RB
+D'Andre Swift,RB,"MIN 27 @ CHI 24, Final","17 RUSH ATT,53 RUSH YD,5 TGT,3 REC,12 REC YD",$22,8.0,8.0,8,22.0,8.0,8.0,RB
+Kyle Monangai,RB,"MIN 27 @ CHI 24, Final","TGT,REC,11 REC YD",$10,1.6,1.6,16,10.0,1.6,1.6,RB
+C.J. HamIR,RB,"MIN 27 @ CHI 24, Final",,$10,1.1,0.0,19,10.0,0.0,1.1,RB
+Ty Chandler,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,23,10.0,0.0,,RB
+Zavier ScottQ,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,26,10.0,0.0,,RB
+Tre Stewart,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,36,10.0,0.0,,RB
+Travis HomerIR,RB,"MIN 27 @ CHI 24, Final",,$10,0.6,0.0,41,10.0,0.0,0.6,RB
+Roschon JohnsonQ,RB,"MIN 27 @ CHI 24, Final",,$10,5.3,0.0,47,10.0,0.0,5.3,RB
+Deion HankinsIR,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,52,10.0,0.0,,RB
+Ian WheelerQ,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,56,10.0,0.0,,RB
+Brittain Brown,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,59,10.0,0.0,,RB

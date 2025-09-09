@@ -1,0 +1,60 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Caleb Williams,QB,"MIN 27 @ CHI 24, Final","210 PASS YD,PASS TD,6 RUSH ATT,58 RUSH YD,RUSH TD",$23,24.2,24.2,1,23.0,24.2,24.2,QB
+J.J. McCarthy,QB,"MIN 27 @ CHI 24, Final","143 PASS YD,2 PASS TD,INT,2 RUSH ATT,25 RUSH YD,RUSH TD,2PT",$20,23.2,23.22,2,20.0,23.22,23.2,QB
+Aaron Jones Sr.,RB,"MIN 27 @ CHI 24, Final","8 RUSH ATT,23 RUSH YD,3 TGT,3 REC,44 REC YD,REC TD",$25,14.2,14.2,3,25.0,14.2,14.2,RB
+Justin Jefferson,WR,"MIN 27 @ CHI 24, Final","RUSH ATT,4 RUSH YD,7 TGT,4 REC,44 REC YD,REC TD",$38,12.8,12.8,4,38.0,12.8,12.8,WR
+Rome Odunze,WR,"MIN 27 @ CHI 24, Final","9 TGT,6 REC,37 REC YD,REC TD",$17,12.7,12.7,5,17.0,12.7,12.7,WR
+Chicago Bears,DEF,"MIN 27 @ CHI 24, Final","27 PTS ALLOWED,3 SACK,INT,TD",$17,11.0,11.0,6,17.0,11.0,11.0,DEF
+Jordan Mason,RB,"MIN 27 @ CHI 24, Final","15 RUSH ATT,68 RUSH YD,TGT,REC,7 REC YD",$14,8.0,8.0,7,14.0,8.0,8.0,RB
+D'Andre Swift,RB,"MIN 27 @ CHI 24, Final","17 RUSH ATT,53 RUSH YD,5 TGT,3 REC,12 REC YD",$22,8.0,8.0,8,22.0,8.0,8.0,RB
+DJ Moore,WR,"MIN 27 @ CHI 24, Final","3 RUSH ATT,8 RUSH YD,5 TGT,3 REC,68 REC YD,FUM LOST",$27,7.1,7.1,9,27.0,7.1,7.1,WR
+Olamide Zaccheaus,WR,"MIN 27 @ CHI 24, Final","7 TGT,4 REC,42 REC YD",$10,6.2,6.2,10,10.0,6.2,6.2,WR
+Minnesota Vikings,DEF,"MIN 27 @ CHI 24, Final","18 PTS ALLOWED,2 SACK,FUM REC",$19,5.0,5.0,11,19.0,5.0,5.0,DEF
+Cole Kmet,TE,"MIN 27 @ CHI 24, Final","4 TGT,REC,31 REC YD",$10,3.6,3.6,12,10.0,3.6,3.6,TE
+Jalen Nailor,WR,"MIN 27 @ CHI 24, Final","3 TGT,REC,28 REC YD",$12,3.3,3.3,13,12.0,3.3,3.3,WR
+T.J. Hockenson,TE,"MIN 27 @ CHI 24, Final","4 TGT,3 REC,15 REC YD",$16,3.0,3.0,14,16.0,3.0,3.0,TE
+Colston Loveland,TE,"MIN 27 @ CHI 24, Final","2 TGT,2 REC,12 REC YD",$11,2.2,2.2,15,11.0,2.2,2.2,TE
+Kyle Monangai,RB,"MIN 27 @ CHI 24, Final","TGT,REC,11 REC YD",$10,1.6,1.6,16,10.0,1.6,1.6,RB
+Josh Oliver,TE,"MIN 27 @ CHI 24, Final","TGT,REC,5 REC YD",$10,1.0,1.0,17,10.0,1.0,1.0,TE
+Luther Burden III,WR,"MIN 27 @ CHI 24, Final","TGT,REC,-3 REC YD",$14,0.2,0.2,18,14.0,0.2,0.2,WR
+C.J. HamIR,RB,"MIN 27 @ CHI 24, Final",,$10,1.1,0.0,19,10.0,0.0,1.1,RB
+Brett Rypien,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.0,20,20.0,0.0,,QB
+Tim Jones,WR,"MIN 27 @ CHI 24, Final",,$10,0.9,0.0,21,10.0,0.0,0.9,WR
+Sam Howell,QB,"MIN 27 @ CHI 24, Final",,$20,0.2,0.0,22,20.0,0.0,0.2,QB
+Ty Chandler,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,23,10.0,0.0,,RB
+Jordan AddisonSUSP,WR,"MIN 27 @ CHI 24, Final",,$12,11.6,0.0,24,12.0,0.0,11.6,WR
+Thayer Thomas,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,25,10.0,0.0,,WR
+Zavier ScottQ,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,26,10.0,0.0,,RB
+Lucky Jackson,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,27,10.0,0.0,,WR
+Jeshaun Jones,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,28,10.0,0.0,,WR
+Tai Felton,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,29,10.0,0.0,,WR
+Gavin BartholomewPUP,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,30,10.0,0.0,,TE
+Max Brosmer,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.0,31,20.0,0.0,,QB
+Silas Bolden,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,32,10.0,0.0,,WR
+Dontae Fleming,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,33,10.0,0.0,,WR
+Robert Lewis,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,34,10.0,0.0,,WR
+Bryson Nesbit,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,35,10.0,0.0,,TE
+Tre Stewart,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,36,10.0,0.0,,RB
+Myles Price,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,37,10.0,0.0,,WR
+Ben Yurosek,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,38,10.0,0.0,,TE
+Durham Smythe,TE,"MIN 27 @ CHI 24, Final",,$10,0.8,0.0,39,10.0,0.0,0.8,TE
+Miles Boykin,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,40,10.0,0.0,,WR
+Travis HomerIR,RB,"MIN 27 @ CHI 24, Final",,$10,0.6,0.0,41,10.0,0.0,0.6,RB
+Stephen Carlson,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,42,10.0,0.0,,TE
+Devin Duvernay,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,43,10.0,0.0,,WR
+Samori Toure,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,44,10.0,0.0,,WR
+Maurice Alexander,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,45,10.0,0.0,,WR
+Tyler Scott,WR,"MIN 27 @ CHI 24, Final",,$10,0.3,0.0,46,10.0,0.0,0.3,WR
+Roschon JohnsonQ,RB,"MIN 27 @ CHI 24, Final",,$10,5.3,0.0,47,10.0,0.0,5.3,RB
+Joel Wilson,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,48,10.0,0.0,,TE
+Tyson Bagent,QB,"MIN 27 @ CHI 24, Final",,$20,-0.1,0.0,49,20.0,0.0,-0.1,QB
+Austin Reed,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.0,50,20.0,0.0,,QB
+JP Richardson,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,51,10.0,0.0,,WR
+Deion HankinsIR,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,52,10.0,0.0,,RB
+Giovanni Ricci,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,53,10.0,0.0,,TE
+Case Keenum,QB,"MIN 27 @ CHI 24, Final",,$20,—,0.0,54,20.0,0.0,,QB
+Jahdae Walker,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,55,10.0,0.0,,WR
+Ian WheelerQ,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,56,10.0,0.0,,RB
+Nick Vannett,TE,"MIN 27 @ CHI 24, Final",,$10,3.1,0.0,57,10.0,0.0,3.1,TE
+Thomas Gordon,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,58,10.0,0.0,,TE
+Brittain Brown,RB,"MIN 27 @ CHI 24, Final",,$10,—,0.0,59,10.0,0.0,,RB

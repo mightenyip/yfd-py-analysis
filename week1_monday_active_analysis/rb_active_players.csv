@@ -1,0 +1,5 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Aaron Jones Sr.,RB,"MIN 27 @ CHI 24, Final","8 RUSH ATT,23 RUSH YD,3 TGT,3 REC,44 REC YD,REC TD",$25,14.2,14.2,3,25.0,14.2,14.2,RB
+Jordan Mason,RB,"MIN 27 @ CHI 24, Final","15 RUSH ATT,68 RUSH YD,TGT,REC,7 REC YD",$14,8.0,8.0,7,14.0,8.0,8.0,RB
+D'Andre Swift,RB,"MIN 27 @ CHI 24, Final","17 RUSH ATT,53 RUSH YD,5 TGT,3 REC,12 REC YD",$22,8.0,8.0,8,22.0,8.0,8.0,RB
+Kyle Monangai,RB,"MIN 27 @ CHI 24, Final","TGT,REC,11 REC YD",$10,1.6,1.6,16,10.0,1.6,1.6,RB

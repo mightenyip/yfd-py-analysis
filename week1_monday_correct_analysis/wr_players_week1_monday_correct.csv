@@ -1,0 +1,24 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Justin Jefferson,WR,"MIN 27 @ CHI 24, Final","RUSH ATT,4 RUSH YD,7 TGT,4 REC,44 REC YD,REC TD",$38,12.8,12.8,4,38.0,12.8,12.8,WR
+Rome Odunze,WR,"MIN 27 @ CHI 24, Final","9 TGT,6 REC,37 REC YD,REC TD",$17,12.7,12.7,5,17.0,12.7,12.7,WR
+DJ Moore,WR,"MIN 27 @ CHI 24, Final","3 RUSH ATT,8 RUSH YD,5 TGT,3 REC,68 REC YD,FUM LOST",$27,7.1,7.1,9,27.0,7.1,7.1,WR
+Olamide Zaccheaus,WR,"MIN 27 @ CHI 24, Final","7 TGT,4 REC,42 REC YD",$10,6.2,6.2,10,10.0,6.2,6.2,WR
+Jalen Nailor,WR,"MIN 27 @ CHI 24, Final","3 TGT,REC,28 REC YD",$12,3.3,3.3,13,12.0,3.3,3.3,WR
+Luther Burden III,WR,"MIN 27 @ CHI 24, Final","TGT,REC,-3 REC YD",$14,0.2,0.2,18,14.0,0.2,0.2,WR
+Robert Lewis,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,34,10.0,0.0,,WR
+JP Richardson,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,51,10.0,0.0,,WR
+Tyler Scott,WR,"MIN 27 @ CHI 24, Final",,$10,0.3,0.0,46,10.0,0.0,0.3,WR
+Maurice Alexander,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,45,10.0,0.0,,WR
+Samori Toure,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,44,10.0,0.0,,WR
+Devin Duvernay,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,43,10.0,0.0,,WR
+Miles Boykin,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,40,10.0,0.0,,WR
+Myles Price,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,37,10.0,0.0,,WR
+Tai Felton,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,29,10.0,0.0,,WR
+Dontae Fleming,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,33,10.0,0.0,,WR
+Silas Bolden,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,32,10.0,0.0,,WR
+Jeshaun Jones,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,28,10.0,0.0,,WR
+Lucky Jackson,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,27,10.0,0.0,,WR
+Thayer Thomas,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,25,10.0,0.0,,WR
+Jordan AddisonSUSP,WR,"MIN 27 @ CHI 24, Final",,$12,11.6,0.0,24,12.0,0.0,11.6,WR
+Tim Jones,WR,"MIN 27 @ CHI 24, Final",,$10,0.9,0.0,21,10.0,0.0,0.9,WR
+Jahdae Walker,WR,"MIN 27 @ CHI 24, Final",,$10,—,0.0,55,10.0,0.0,,WR

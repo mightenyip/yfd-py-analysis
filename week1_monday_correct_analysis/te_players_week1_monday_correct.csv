@@ -1,0 +1,14 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Cole Kmet,TE,"MIN 27 @ CHI 24, Final","4 TGT,REC,31 REC YD",$10,3.6,3.6,12,10.0,3.6,3.6,TE
+T.J. Hockenson,TE,"MIN 27 @ CHI 24, Final","4 TGT,3 REC,15 REC YD",$16,3.0,3.0,14,16.0,3.0,3.0,TE
+Colston Loveland,TE,"MIN 27 @ CHI 24, Final","2 TGT,2 REC,12 REC YD",$11,2.2,2.2,15,11.0,2.2,2.2,TE
+Josh Oliver,TE,"MIN 27 @ CHI 24, Final","TGT,REC,5 REC YD",$10,1.0,1.0,17,10.0,1.0,1.0,TE
+Gavin BartholomewPUP,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,30,10.0,0.0,,TE
+Bryson Nesbit,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,35,10.0,0.0,,TE
+Ben Yurosek,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,38,10.0,0.0,,TE
+Durham Smythe,TE,"MIN 27 @ CHI 24, Final",,$10,0.8,0.0,39,10.0,0.0,0.8,TE
+Stephen Carlson,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,42,10.0,0.0,,TE
+Joel Wilson,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,48,10.0,0.0,,TE
+Giovanni Ricci,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,53,10.0,0.0,,TE
+Nick Vannett,TE,"MIN 27 @ CHI 24, Final",,$10,3.1,0.0,57,10.0,0.0,3.1,TE
+Thomas Gordon,TE,"MIN 27 @ CHI 24, Final",,$10,—,0.0,58,10.0,0.0,,TE

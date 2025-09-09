@@ -1,0 +1,7 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Justin Jefferson,WR,"MIN 27 @ CHI 24, Final","RUSH ATT,4 RUSH YD,7 TGT,4 REC,44 REC YD,REC TD",$38,12.8,12.8,4,38.0,12.8,12.8,WR
+Rome Odunze,WR,"MIN 27 @ CHI 24, Final","9 TGT,6 REC,37 REC YD,REC TD",$17,12.7,12.7,5,17.0,12.7,12.7,WR
+DJ Moore,WR,"MIN 27 @ CHI 24, Final","3 RUSH ATT,8 RUSH YD,5 TGT,3 REC,68 REC YD,FUM LOST",$27,7.1,7.1,9,27.0,7.1,7.1,WR
+Olamide Zaccheaus,WR,"MIN 27 @ CHI 24, Final","7 TGT,4 REC,42 REC YD",$10,6.2,6.2,10,10.0,6.2,6.2,WR
+Jalen Nailor,WR,"MIN 27 @ CHI 24, Final","3 TGT,REC,28 REC YD",$12,3.3,3.3,13,12.0,3.3,3.3,WR
+Luther Burden III,WR,"MIN 27 @ CHI 24, Final","TGT,REC,-3 REC YD",$14,0.2,0.2,18,14.0,0.2,0.2,WR

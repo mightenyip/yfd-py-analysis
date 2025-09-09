@@ -1,0 +1,19 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,salary_numeric,points_numeric,fppg_numeric,position_clean
+Caleb Williams,QB,"MIN 27 @ CHI 24, Final","210 PASS YD,PASS TD,6 RUSH ATT,58 RUSH YD,RUSH TD",$23,24.2,24.2,1,23.0,24.2,24.2,QB
+J.J. McCarthy,QB,"MIN 27 @ CHI 24, Final","143 PASS YD,2 PASS TD,INT,2 RUSH ATT,25 RUSH YD,RUSH TD,2PT",$20,23.2,23.22,2,20.0,23.22,23.2,QB
+Aaron Jones Sr.,RB,"MIN 27 @ CHI 24, Final","8 RUSH ATT,23 RUSH YD,3 TGT,3 REC,44 REC YD,REC TD",$25,14.2,14.2,3,25.0,14.2,14.2,RB
+Justin Jefferson,WR,"MIN 27 @ CHI 24, Final","RUSH ATT,4 RUSH YD,7 TGT,4 REC,44 REC YD,REC TD",$38,12.8,12.8,4,38.0,12.8,12.8,WR
+Rome Odunze,WR,"MIN 27 @ CHI 24, Final","9 TGT,6 REC,37 REC YD,REC TD",$17,12.7,12.7,5,17.0,12.7,12.7,WR
+Chicago Bears,DEF,"MIN 27 @ CHI 24, Final","27 PTS ALLOWED,3 SACK,INT,TD",$17,11.0,11.0,6,17.0,11.0,11.0,DEF
+Jordan Mason,RB,"MIN 27 @ CHI 24, Final","15 RUSH ATT,68 RUSH YD,TGT,REC,7 REC YD",$14,8.0,8.0,7,14.0,8.0,8.0,RB
+D'Andre Swift,RB,"MIN 27 @ CHI 24, Final","17 RUSH ATT,53 RUSH YD,5 TGT,3 REC,12 REC YD",$22,8.0,8.0,8,22.0,8.0,8.0,RB
+DJ Moore,WR,"MIN 27 @ CHI 24, Final","3 RUSH ATT,8 RUSH YD,5 TGT,3 REC,68 REC YD,FUM LOST",$27,7.1,7.1,9,27.0,7.1,7.1,WR
+Olamide Zaccheaus,WR,"MIN 27 @ CHI 24, Final","7 TGT,4 REC,42 REC YD",$10,6.2,6.2,10,10.0,6.2,6.2,WR
+Minnesota Vikings,DEF,"MIN 27 @ CHI 24, Final","18 PTS ALLOWED,2 SACK,FUM REC",$19,5.0,5.0,11,19.0,5.0,5.0,DEF
+Cole Kmet,TE,"MIN 27 @ CHI 24, Final","4 TGT,REC,31 REC YD",$10,3.6,3.6,12,10.0,3.6,3.6,TE
+Jalen Nailor,WR,"MIN 27 @ CHI 24, Final","3 TGT,REC,28 REC YD",$12,3.3,3.3,13,12.0,3.3,3.3,WR
+T.J. Hockenson,TE,"MIN 27 @ CHI 24, Final","4 TGT,3 REC,15 REC YD",$16,3.0,3.0,14,16.0,3.0,3.0,TE
+Colston Loveland,TE,"MIN 27 @ CHI 24, Final","2 TGT,2 REC,12 REC YD",$11,2.2,2.2,15,11.0,2.2,2.2,TE
+Kyle Monangai,RB,"MIN 27 @ CHI 24, Final","TGT,REC,11 REC YD",$10,1.6,1.6,16,10.0,1.6,1.6,RB
+Josh Oliver,TE,"MIN 27 @ CHI 24, Final","TGT,REC,5 REC YD",$10,1.0,1.0,17,10.0,1.0,1.0,TE
+Luther Burden III,WR,"MIN 27 @ CHI 24, Final","TGT,REC,-3 REC YD",$14,0.2,0.2,18,14.0,0.2,0.2,WR
