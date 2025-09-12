@@ -144,13 +144,13 @@ The scraper provides comprehensive value analysis showing points per dollar by p
 When analyzing QB salary-performance relationships, removing the top 2 highest salaried QBs (Josh Allen and Lamar Jackson) reveals a fascinating pattern:
 - **With top 2**: Weak positive correlation (0.1961)
 - **Without top 2**: Weak negative correlation (-0.2155)
-- This suggests that the salary-performance relationship for QBs is driven almost entirely by just two elite players, while the rest of the QB pool shows that higher salaries don't predict better performance. Value QBs in the $20-25 range may actually be better investments than the most expensive options.
+- This suggests that the salary-performance relationship for QBs is driven almost entirely by just two elite players, while the rest of the QB pool shows that higher salaries don't predict better performance. Value QBs in the \$20-25 range may actually be better investments than the most expensive options.
 
 ## 🎯 Week 2 Thursday Analysis: Parabolic Hypothesis Validation
 
 ### Hypothesis Testing Results
 
-**Original Hypothesis:** Fantasy football value follows a parabolic relationship with salary, with optimal value in the $15-20 range and diminishing returns at higher salary levels.
+**Original Hypothesis:** Fantasy football value follows a parabolic relationship with salary, with optimal value in the \$15-20 range and diminishing returns at higher salary levels.
 
 **Data Source:** Week 2 Thursday games (WAS @ GB) - 22 active players
 
@@ -162,7 +162,7 @@ When analyzing QB salary-performance relationships, removing the top 2 highest s
 - **Critical Insight**: Individual player variability masks the underlying parabolic pattern
 
 #### **Optimal Value Range Identified**
-- **Sweet Spot**: $15-20 salary range
+- **Sweet Spot**: \$15-20 salary range
 - **Value Ratio**: 0.655 points per dollar (highest efficiency)
 - **Sample Size**: n = 4 players in optimal range
 - **Diminishing Returns**: Higher salary ranges show lower value ratios
@@ -176,7 +176,7 @@ When analyzing QB salary-performance relationships, removing the top 2 highest s
 
 ![Week 2 Thursday Hypothesis Showcase](plots_images/week2_thursday_clean_hypothesis_showcase.png)
 
-**Plot 1 - Parabolic Relationship**: Shows the cubic fit on binned salary data with the $15-20 sweet spot highlighted in gold and Jayden Daniels ($39, 19.7 pts) supporting the curve. The left panel displays the "Salary vs Points Relationship" with cubic model and histogram bins, while the right panel shows "Value Efficiency by Salary Range" with the peak at $15-20 range.
+**Plot 1 - Parabolic Relationship**: Shows the cubic fit on binned salary data with the \$15-20 sweet spot highlighted in gold and Jayden Daniels (\$39, 19.7 pts) supporting the curve. The left panel displays the "Salary vs Points Relationship" with cubic model and histogram bins, while the right panel shows "Value Efficiency by Salary Range" with the peak at \$15-20 range.
 
 ![Raw Data Models](plots_images/week2_thursday_raw_data_models.png)
 
@@ -185,7 +185,7 @@ When analyzing QB salary-performance relationships, removing the top 2 highest s
 ### Hypothesis Validation
 
 ✅ **PARABOLIC RELATIONSHIP CONFIRMED** - Cubic model achieves R² = 0.963 on binned data
-✅ **OPTIMAL VALUE RANGE FOUND** - $15-20 provides 0.655 pts/$ (highest efficiency)  
+✅ **OPTIMAL VALUE RANGE FOUND** - \$15-20 provides 0.655 pts/\$ (highest efficiency)  
 ✅ **DIMINISHING RETURNS CONFIRMED** - Higher salary ranges show lower value ratios
 ✅ **JAYDEN DANIELS SUPPORTS HYPOTHESIS** - High-salary player fits the parabolic curve
 
