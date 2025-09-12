@@ -185,7 +185,7 @@ When analyzing QB salary-performance relationships, removing the top 2 highest s
 ### Hypothesis Validation
 
 ✅ **PARABOLIC RELATIONSHIP CONFIRMED** - Cubic model achieves R² = 0.963 on binned data
-✅ **OPTIMAL VALUE RANGE FOUND** - `$`15-20 provides 0.655 pts/ `$` (highest efficiency)  
+✅ **OPTIMAL VALUE RANGE FOUND** - `$`15-20 provides 0.655 pts/ &#36; (highest efficiency)  
 ✅ **DIMINISHING RETURNS CONFIRMED** - Higher salary ranges show lower value ratios
 ✅ **JAYDEN DANIELS SUPPORTS HYPOTHESIS** - High-salary player fits the parabolic curve
 
