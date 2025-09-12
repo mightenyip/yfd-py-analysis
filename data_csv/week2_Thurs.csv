@@ -1,0 +1,36 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Tucker Kraft,TE,"WAS 18 @ GB 27, Final","7 TGT,6 REC,124 REC YD,REC TD",$17,15.1,21.40,1,2025-09-12 14:05:55,Week 2,Thursday
+Jordan Love,QB,"WAS 18 @ GB 27, Final","292 PASS YD,2 PASS TD,3 RUSH ATT,12 RUSH YD",$21,18.4,20.88,2,2025-09-12 14:05:55,Week 2,Thursday
+Jayden Daniels,QB,"WAS 18 @ GB 27, Final","200 PASS YD,2 PASS TD,7 RUSH ATT,17 RUSH YD,2PT",$39,19.9,19.70,3,2025-09-12 14:05:56,Week 2,Thursday
+Zach Ertz,TE,"WAS 18 @ GB 27, Final","8 TGT,6 REC,64 REC YD,REC TD",$17,12.8,15.40,4,2025-09-12 14:05:56,Week 2,Thursday
+Josh Jacobs,RB,"WAS 18 @ GB 27, Final","23 RUSH ATT,84 RUSH YD,RUSH TD",$35,14.0,14.40,5,2025-09-12 14:05:56,Week 2,Thursday
+Deebo Samuel,WR,"WAS 18 @ GB 27, Final","8 TGT,7 REC,44 REC YD,REC TD",$25,16.5,13.90,6,2025-09-12 14:05:56,Week 2,Thursday
+Romeo Doubs,WR,"WAS 18 @ GB 27, Final","5 TGT,3 REC,28 REC YD,REC TD",$15,9.1,10.30,7,2025-09-12 14:05:56,Week 2,Thursday
+Terry McLaurin,WR,"WAS 18 @ GB 27, Final","9 TGT,5 REC,48 REC YD",$28,5.5,7.30,8,2025-09-12 14:05:56,Week 2,Thursday
+Dontayvion Wicks,WR,"WAS 18 @ GB 27, Final","6 TGT,4 REC,44 REC YD",$10,5.2,6.40,9,2025-09-12 14:05:56,Week 2,Thursday
+Green Bay Packers,DEF,"WAS 18 @ GB 27, Final","18 PTS ALLOWED,4 SACK",$18,7.5,5.00,10,2025-09-12 14:05:56,Week 2,Thursday
+Luke McCaffrey,WR,"WAS 18 @ GB 27, Final","TGT,REC,19 REC YD,2PT",$10,2.2,4.40,11,2025-09-12 14:05:56,Week 2,Thursday
+Luke Musgrave,TE,"WAS 18 @ GB 27, Final","2 TGT,2 REC,32 REC YD",$10,2.6,4.20,12,2025-09-12 14:05:56,Week 2,Thursday
+Malik Heath,WR,"WAS 18 @ GB 27, Final","TGT,REC,37 REC YD",$10,4.2,4.20,13,2025-09-12 14:05:56,Week 2,Thursday
+Chris Brooks,RB,"WAS 18 @ GB 27, Final","4 TGT,3 REC,27 REC YD",$10,2.5,4.20,14,2025-09-12 14:05:56,Week 2,Thursday
+Austin EkelerD,RB,"WAS 18 @ GB 27, Final","8 RUSH ATT,17 RUSH YD,4 TGT,2 REC,7 REC YD",$17,5.3,3.40,15,2025-09-12 14:05:56,Week 2,Thursday
+Savion Williams,WR,"WAS 18 @ GB 27, Final","2 RUSH ATT,24 RUSH YD",$10,1.5,2.40,16,2025-09-12 14:05:56,Week 2,Thursday
+Washington Commanders,DEF,"WAS 18 @ GB 27, Final","27 PTS ALLOWED,2 SACK",$15,5.5,2.00,17,2025-09-12 14:05:56,Week 2,Thursday
+Jacory Croskey-Merritt,RB,"WAS 18 @ GB 27, Final","4 RUSH ATT,17 RUSH YD,TGT",$24,7.9,1.70,18,2025-09-12 14:05:56,Week 2,Thursday
+Matthew Golden,WR,"WAS 18 @ GB 27, Final","2 RUSH ATT,15 RUSH YD,2 TGT",$14,2.1,1.50,19,2025-09-12 14:05:56,Week 2,Thursday
+Noah BrownQ,WR,"WAS 18 @ GB 27, Final","4 TGT,REC,9 REC YD",$11,2.6,1.40,20,2025-09-12 14:05:56,Week 2,Thursday
+Ben Sinnott,TE,"WAS 18 @ GB 27, Final","TGT,REC,7 REC YD",$10,1.2,1.20,21,2025-09-12 14:05:56,Week 2,Thursday
+Jaylin Lane,WR,"WAS 18 @ GB 27, Final","4 TGT,REC,2 REC YD",$10,1.2,0.70,22,2025-09-12 14:05:56,Week 2,Thursday
+Josh JohnsonO,QB,"WAS 18 @ GB 27, Final",,$20,0.2,0.00,23,2025-09-12 14:05:56,Week 2,Thursday
+Marcus Mariota,QB,"WAS 18 @ GB 27, Final",,$20,—,0.00,24,2025-09-12 14:05:56,Week 2,Thursday
+Jeremy McNichols,RB,"WAS 18 @ GB 27, Final",,$10,2.5,0.00,25,2025-09-12 14:05:56,Week 2,Thursday
+John BatesQ,TE,"WAS 18 @ GB 27, Final",,$10,1.1,0.00,26,2025-09-12 14:05:56,Week 2,Thursday
+Chris Rodriguez Jr.O,RB,"WAS 18 @ GB 27, Final",,$10,3.9,0.00,27,2025-09-12 14:05:56,Week 2,Thursday
+Colson Yankoff,TE,"WAS 18 @ GB 27, Final",,$10,—,0.00,28,2025-09-12 14:05:56,Week 2,Thursday
+Christian WatsonPUP,WR,"WAS 18 @ GB 27, Final",,$10,6.5,0.00,29,2025-09-12 14:05:56,Week 2,Thursday
+Malik Willis,QB,"WAS 18 @ GB 27, Final",,$20,8.6,0.00,30,2025-09-12 14:05:56,Week 2,Thursday
+John FitzPatrick,TE,"WAS 18 @ GB 27, Final",,$10,0.4,0.00,31,2025-09-12 14:05:56,Week 2,Thursday
+Jayden ReedO,WR,"WAS 18 @ GB 27, Final",,$16,6.0,0.00,32,2025-09-12 14:05:56,Week 2,Thursday
+Ben SimsO,TE,"WAS 18 @ GB 27, Final",,$10,1.5,0.00,33,2025-09-12 14:05:56,Week 2,Thursday
+Emanuel Wilson,RB,"WAS 18 @ GB 27, Final",,$10,0.2,0.00,34,2025-09-12 14:05:56,Week 2,Thursday
+Chris Moore,WR,"WAS 18 @ GB 27, Final",,$10,3.9,0.00,35,2025-09-12 14:05:56,Week 2,Thursday
