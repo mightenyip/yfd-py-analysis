@@ -1,0 +1,449 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Amon-Ra St. Brown,WR,"CHI 21 @ DET 52, Final","2 RUSH ATT,7 RUSH YD,11 TGT,9 REC,115 REC YD,3 REC TD",$32,20.6,34.70,1,2025-09-15,Week 2,Sunday
+Jared Goff,QB,"CHI 21 @ DET 52, Final","334 PASS YD,5 PASS TD,RUSH ATT,6 RUSH YD",$29,22.9,33.96,2,2025-09-15,Week 2,Sunday
+Malik Nabers,WR,"NYG 37 @ DAL 40, Final OT","13 TGT,9 REC,167 REC YD,2 REC TD",$34,21.4,33.20,3,2025-09-15,Week 2,Sunday
+Russell Wilson,QB,"NYG 37 @ DAL 40, Final OT","450 PASS YD,3 PASS TD,INT,3 RUSH ATT,23 RUSH YD",$24,21.2,31.30,4,2025-09-15,Week 2,Sunday
+Ja'Marr Chase,WR,"JAC 27 @ CIN 31, Final","16 TGT,14 REC,165 REC YD,REC TD",$41,16.6,29.50,5,2025-09-15,Week 2,Sunday
+Jonathan Taylor,RB,"DEN 28 @ IND 29, Final","25 RUSH ATT,165 RUSH YD,2 TGT,2 REC,50 REC YD,REC TD",$38,19.9,28.50,6,2025-09-15,Week 2,Sunday
+Rome Odunze,WR,"CHI 21 @ DET 52, Final","11 TGT,7 REC,128 REC YD,2 REC TD",$17,20.5,28.30,7,2025-09-15,Week 2,Sunday
+Lamar Jackson,QB,"CLE 17 @ BAL 41, Final","225 PASS YD,4 PASS TD,2 RUSH ATT,13 RUSH YD",$39,27.8,26.30,8,2025-09-15,Week 2,Sunday
+Drake Maye,QB,"NE 33 @ MIA 27, Final","230 PASS YD,2 PASS TD,10 RUSH ATT,31 RUSH YD,RUSH TD",$24,21.3,26.30,9,2025-09-15,Week 2,Sunday
+James Cook,RB,"BUF 30 @ NYJ 10, Final","21 RUSH ATT,132 RUSH YD,2 RUSH TD,TGT,REC,3 REC YD",$35,22.4,26.00,10,2025-09-15,Week 2,Sunday
+Wan'Dale Robinson,WR,"NYG 37 @ DAL 40, Final OT","10 TGT,8 REC,142 REC YD,REC TD",$19,16.4,24.20,11,2025-09-15,Week 2,Sunday
+Puka Nacua,WR,"LA 33 @ TEN 19, Final","RUSH ATT,45 RUSH YD,RUSH TD,9 TGT,8 REC,91 REC YD",$35,20.9,23.60,12,2025-09-15,Week 2,Sunday
+Dak Prescott,QB,"NYG 37 @ DAL 40, Final OT","361 PASS YD,2 PASS TD,INT,3 RUSH ATT,17 RUSH YD",$24,15.5,23.14,13,2025-09-15,Week 2,Sunday
+Patrick Mahomes,QB,"PHI 20 @ KC 17, Final","187 PASS YD,PASS TD,INT,7 RUSH ATT,66 RUSH YD,RUSH TD",$34,24.5,23.08,14,2025-09-15,Week 2,Sunday
+Daniel Jones,QB,"DEN 28 @ IND 29, Final","316 PASS YD,PASS TD,6 RUSH ATT,2 RUSH YD,RUSH TD",$27,26.2,22.84,15,2025-09-15,Week 2,Sunday
+Bryce Young,QB,"CAR 22 @ ARI 27, Final","328 PASS YD,3 PASS TD,INT,2 RUSH ATT,2 RUSH YD,FUM LOST",$29,16.2,22.32,16,2025-09-15,Week 2,Sunday
+De'Von Achane,RB,"NE 33 @ MIA 27, Final","11 RUSH ATT,30 RUSH YD,10 TGT,8 REC,92 REC YD,REC TD",$34,18.6,22.20,17,2025-09-15,Week 2,Sunday
+Javonte Williams,RB,"NYG 37 @ DAL 40, Final OT","18 RUSH ATT,97 RUSH YD,RUSH TD,7 TGT,6 REC,33 REC YD",$22,20.7,22.00,18,2025-09-15,Week 2,Sunday
+Mac Jones,QB,"SF 26 @ NO 21, Final","279 PASS YD,3 PASS TD,6 RUSH ATT,6 RUSH YD,FUM LOST",$20,21.8,21.76,19,2025-09-15,Week 2,Sunday
+Spencer Rattler,QB,"SF 26 @ NO 21, Final","207 PASS YD,3 PASS TD,4 RUSH ATT,14 RUSH YD",$20,16.6,21.68,20,2025-09-15,Week 2,Sunday
+Trevor Lawrence,QB,"JAC 27 @ CIN 31, Final","271 PASS YD,3 PASS TD,2 INT,2 RUSH ATT,4 RUSH YD",$25,16.3,21.24,21,2025-09-15,Week 2,Sunday
+Bo Nix,QB,"DEN 28 @ IND 29, Final","206 PASS YD,3 PASS TD,INT,3 RUSH ATT,20 RUSH YD",$31,15.0,21.24,22,2025-09-15,Week 2,Sunday
+Atlanta Falcons,DEF,"ATL 22 @ MIN 6, Final","6 PTS ALLOWED,6 SACK,2 INT,2 FUM REC",$10,11.0,21.00,23,2025-09-15,Week 2,Sunday
+Jake Browning,QB,"JAC 27 @ CIN 31, Final","241 PASS YD,2 PASS TD,3 INT,RUSH ATT,RUSH YD,RUSH TD",$20,20.7,20.74,24,2025-09-15,Week 2,Sunday
+Hunter Renfrow,WR,"CAR 22 @ ARI 27, Final","9 TGT,7 REC,48 REC YD,2 REC TD",$10,11.2,20.30,25,2025-09-15,Week 2,Sunday
+Troy Franklin,WR,"DEN 28 @ IND 29, Final","RUSH ATT,11 RUSH YD,9 TGT,8 REC,89 REC YD,REC TD",$10,13.2,20.00,26,2025-09-15,Week 2,Sunday
+Christian McCaffrey,RB,"SF 26 @ NO 21, Final","13 RUSH ATT,55 RUSH YD,7 TGT,6 REC,52 REC YD,REC TD",$31,19.2,19.70,27,2025-09-15,Week 2,Sunday
+Davante Adams,WR,"LA 33 @ TEN 19, Final","13 TGT,6 REC,106 REC YD,REC TD",$29,13.4,19.60,28,2025-09-15,Week 2,Sunday
+Tua Tagovailoa,QB,"NE 33 @ MIA 27, Final","315 PASS YD,2 PASS TD,INT",$25,13.4,19.60,29,2025-09-15,Week 2,Sunday
+Rhamondre Stevenson,RB,"NE 33 @ MIA 27, Final","11 RUSH ATT,54 RUSH YD,5 TGT,5 REC,88 REC YD,2PT",$17,11.2,18.70,30,2025-09-15,Week 2,Sunday
+Matthew Stafford,QB,"LA 33 @ TEN 19, Final","298 PASS YD,2 PASS TD,INT,2 RUSH ATT,-6 RUSH YD",$24,16.0,18.32,31,2025-09-15,Week 2,Sunday
+Kenneth Walker III,RB,"SEA 31 @ PIT 17, Final","13 RUSH ATT,105 RUSH YD,RUSH TD,TGT,REC,13 REC YD",$24,11.1,18.30,32,2025-09-15,Week 2,Sunday
+Bijan Robinson,RB,"ATL 22 @ MIN 6, Final","22 RUSH ATT,143 RUSH YD,5 TGT,3 REC,25 REC YD",$44,19.9,18.30,33,2025-09-15,Week 2,Sunday
+Caleb Williams,QB,"CHI 21 @ DET 52, Final","207 PASS YD,2 PASS TD,INT,5 RUSH ATT,27 RUSH YD",$24,21.1,17.98,34,2025-09-15,Week 2,Sunday
+Jahmyr Gibbs,RB,"CHI 21 @ DET 52, Final","12 RUSH ATT,94 RUSH YD,RUSH TD,3 TGT,3 REC,10 REC YD",$46,14.0,17.90,35,2025-09-15,Week 2,Sunday
+Sam Darnold,QB,"SEA 31 @ PIT 17, Final","295 PASS YD,2 PASS TD,2 INT",$25,11.6,17.80,36,2025-09-15,Week 2,Sunday
+Jameson Williams,WR,"CHI 21 @ DET 52, Final","4 TGT,2 REC,108 REC YD,REC TD",$26,11.2,17.80,37,2025-09-15,Week 2,Sunday
+Jauan Jennings,WR,"SF 26 @ NO 21, Final","10 TGT,5 REC,89 REC YD,REC TD",$23,10.0,17.40,38,2025-09-15,Week 2,Sunday
+Saquon Barkley,RB,"PHI 20 @ KC 17, Final","22 RUSH ATT,88 RUSH YD,RUSH TD,2 TGT,2 REC,6 REC YD",$43,16.4,16.40,39,2025-09-15,Week 2,Sunday
+Chuba Hubbard,RB,"CAR 22 @ ARI 27, Final","10 RUSH ATT,38 RUSH YD,6 TGT,5 REC,39 REC YD,REC TD",$32,16.3,16.20,40,2025-09-15,Week 2,Sunday
+Travis Etienne Jr.,RB,"JAC 27 @ CIN 31, Final","14 RUSH ATT,71 RUSH YD,3 TGT,2 REC,18 REC YD,REC TD",$18,16.5,15.90,41,2025-09-15,Week 2,Sunday
+CeeDee Lamb,WR,"NYG 37 @ DAL 40, Final OT","11 TGT,9 REC,112 REC YD",$42,15.1,15.70,42,2025-09-15,Week 2,Sunday
+Devontez Walker,WR,"CLE 17 @ BAL 41, Final","2 TGT,2 REC,26 REC YD,2 REC TD",$10,15.6,15.60,43,2025-09-15,Week 2,Sunday
+Jaylen Warren,RB,"SEA 31 @ PIT 17, Final","14 RUSH ATT,48 RUSH YD,4 TGT,4 REC,86 REC YD",$21,14.2,15.40,44,2025-09-15,Week 2,Sunday
+George Pickens,WR,"NYG 37 @ DAL 40, Final OT","9 TGT,5 REC,68 REC YD,REC TD",$27,9.9,15.30,45,2025-09-15,Week 2,Sunday
+Jaylen Waddle,WR,"NE 33 @ MIA 27, Final","6 TGT,5 REC,68 REC YD,REC TD",$19,10.2,15.30,46,2025-09-15,Week 2,Sunday
+Dyami Brown,WR,"JAC 27 @ CIN 31, Final","RUSH ATT,9 RUSH YD,7 TGT,5 REC,57 REC YD,REC TD",$16,11.2,15.10,47,2025-09-15,Week 2,Sunday
+Baltimore Ravens,DEF,"CLE 17 @ BAL 41, Final","17 PTS ALLOWED,2 SACK,INT,FUM REC,BLK KICK,TD",$10,6.0,15.00,48,2025-09-15,Week 2,Sunday
+Kyler Murray,QB,"CAR 22 @ ARI 27, Final","220 PASS YD,PASS TD,INT,7 RUSH ATT,32 RUSH YD",$33,16.7,15.00,49,2025-09-15,Week 2,Sunday
+J.K. Dobbins,RB,"DEN 28 @ IND 29, Final","14 RUSH ATT,76 RUSH YD,RUSH TD,2 TGT,REC,9 REC YD",$22,14.4,15.00,50,2025-09-15,Week 2,Sunday
+Tyler Allgeier,RB,"ATL 22 @ MIN 6, Final","16 RUSH ATT,76 RUSH YD,RUSH TD,TGT,REC,4 REC YD",$11,8.5,14.50,51,2025-09-15,Week 2,Sunday
+Bhayshul Tuten,RB,"JAC 27 @ CIN 31, Final","8 RUSH ATT,42 RUSH YD,2 TGT,2 REC,32 REC YD,REC TD",$10,7.8,14.40,52,2025-09-15,Week 2,Sunday
+Jaxon Smith-Njigba,WR,"SEA 31 @ PIT 17, Final","10 TGT,8 REC,103 REC YD",$31,14.6,14.30,53,2025-09-15,Week 2,Sunday
+Seattle Seahawks,DEF,"SEA 31 @ PIT 17, Final","17 PTS ALLOWED,3 SACK,2 INT,TD",$14,11.0,14.00,54,2025-09-15,Week 2,Sunday
+Tyreek Hill,WR,"NE 33 @ MIA 27, Final","7 TGT,6 REC,109 REC YD",$26,10.0,13.90,55,2025-09-15,Week 2,Sunday
+Elic Ayomanor,WR,"LA 33 @ TEN 19, Final","6 TGT,4 REC,56 REC YD,REC TD",$10,7.9,13.60,56,2025-09-15,Week 2,Sunday
+DeAndre Hopkins,WR,"CLE 17 @ BAL 41, Final","2 TGT,2 REC,64 REC YD,REC TD",$12,12.0,13.40,57,2025-09-15,Week 2,Sunday
+Juwan Johnson,TE,"SF 26 @ NO 21, Final","9 TGT,5 REC,49 REC YD,REC TD",$14,12.5,13.40,58,2025-09-15,Week 2,Sunday
+KaVontae TurpinQ,WR,"NYG 37 @ DAL 40, Final OT","2 RUSH ATT,6 RUSH YD,4 TGT,4 REC,47 REC YD,REC TD",$10,8.5,13.30,59,2025-09-15,Week 2,Sunday
+Rashid Shaheed,WR,"SF 26 @ NO 21, Final","5 TGT,4 REC,52 REC YD,REC TD",$23,9.8,13.20,60,2025-09-15,Week 2,Sunday
+Tee Higgins,WR,"JAC 27 @ CIN 31, Final","8 TGT,3 REC,56 REC YD,REC TD",$34,9.0,13.10,61,2025-09-15,Week 2,Sunday
+Alvin Kamara,RB,"SF 26 @ NO 21, Final","21 RUSH ATT,99 RUSH YD,6 TGT,6 REC,21 REC YD,FUM LOST",$31,12.9,13.00,62,2025-09-15,Week 2,Sunday
+New England Patriots,DEF,"NE 33 @ MIA 27, Final","27 PTS ALLOWED,5 SACK,INT,RET TD",$14,10.0,13.00,63,2025-09-15,Week 2,Sunday
+Tetairoa McMillan,WR,"CAR 22 @ ARI 27, Final","10 TGT,6 REC,100 REC YD",$24,11.2,13.00,64,2025-09-15,Week 2,Sunday
+Arizona Cardinals,DEF,"CAR 22 @ ARI 27, Final","22 PTS ALLOWED,3 SACK,INT,FUM REC,TD",$12,9.0,13.00,65,2025-09-15,Week 2,Sunday
+Cam Skattebo,RB,"NYG 37 @ DAL 40, Final OT","11 RUSH ATT,45 RUSH YD,RUSH TD,3 TGT,2 REC,14 REC YD",$10,7.4,12.90,66,2025-09-15,Week 2,Sunday
+Tyquan Thornton,WR,"PHI 20 @ KC 17, Final","5 TGT,2 REC,59 REC YD,REC TD",$10,9.0,12.90,67,2025-09-15,Week 2,Sunday
+David Montgomery,RB,"CHI 21 @ DET 52, Final","11 RUSH ATT,57 RUSH YD,RUSH TD,TGT,REC,4 REC YD",$24,9.5,12.60,68,2025-09-15,Week 2,Sunday
+Cooper Kupp,WR,"SEA 31 @ PIT 17, Final","9 TGT,7 REC,90 REC YD",$18,7.5,12.50,69,2025-09-15,Week 2,Sunday
+Aaron Rodgers,QB,"SEA 31 @ PIT 17, Final","203 PASS YD,PASS TD,2 INT,RUSH ATT,3 RUSH YD,2PT",$25,19.0,12.42,70,2025-09-15,Week 2,Sunday
+D'Andre Swift,RB,"CHI 21 @ DET 52, Final","12 RUSH ATT,63 RUSH YD,RUSH TD,3 TGT,3 REC,6 REC YD,FUM LOST",$22,10.2,12.40,71,2025-09-15,Week 2,Sunday
+Jake Ferguson,TE,"NYG 37 @ DAL 40, Final OT","12 TGT,9 REC,78 REC YD",$11,8.6,12.30,72,2025-09-15,Week 2,Sunday
+Josh Allen,QB,"BUF 30 @ NYJ 10, Final","148 PASS YD,6 RUSH ATT,59 RUSH YD",$41,25.3,11.82,73,2025-09-15,Week 2,Sunday
+James Conner,RB,"CAR 22 @ ARI 27, Final","11 RUSH ATT,34 RUSH YD,RUSH TD,TGT,REC,18 REC YD",$35,12.1,11.70,74,2025-09-15,Week 2,Sunday
+Jalen Hurts,QB,"PHI 20 @ KC 17, Final","101 PASS YD,9 RUSH ATT,15 RUSH YD,RUSH TD",$37,17.9,11.54,75,2025-09-15,Week 2,Sunday
+Zay Flowers,WR,"CLE 17 @ BAL 41, Final","RUSH ATT,4 RUSH YD,11 TGT,7 REC,75 REC YD",$26,18.0,11.40,76,2025-09-15,Week 2,Sunday
+Trey McBride,TE,"CAR 22 @ ARI 27, Final","7 TGT,6 REC,78 REC YD",$26,10.0,10.80,77,2025-09-15,Week 2,Sunday
+Blake Corum,RB,"LA 33 @ TEN 19, Final","5 RUSH ATT,44 RUSH YD,RUSH TD",$10,6.3,10.40,78,2025-09-15,Week 2,Sunday
+Brock Wright,TE,"CHI 21 @ DET 52, Final","3 TGT,3 REC,28 REC YD,REC TD",$10,10.3,10.30,79,2025-09-15,Week 2,Sunday
+Tory Horton,WR,"SEA 31 @ PIT 17, Final","4 TGT,2 REC,32 REC YD,REC TD",$10,5.1,10.20,80,2025-09-15,Week 2,Sunday
+Elijah Moore,WR,"BUF 30 @ NYJ 10, Final","2 RUSH ATT,6 RUSH YD,RUSH TD,TGT,REC,31 REC YD",$10,5.9,10.20,81,2025-09-15,Week 2,Sunday
+Parker Washington,WR,"JAC 27 @ CIN 31, Final","5 TGT,5 REC,76 REC YD",$11,5.1,10.10,82,2025-09-15,Week 2,Sunday
+Buffalo Bills,DEF,"BUF 30 @ NYJ 10, Final","10 PTS ALLOWED,4 SACK,FUM REC",$10,5.0,10.00,83,2025-09-15,Week 2,Sunday
+Tyler Warren,TE,"DEN 28 @ IND 29, Final","RUSH ATT,7 TGT,4 REC,79 REC YD",$18,10.7,9.90,84,2025-09-15,Week 2,Sunday
+Cam Ward,QB,"LA 33 @ TEN 19, Final","175 PASS YD,PASS TD,4 RUSH ATT,8 RUSH YD,FUM LOST",$20,6.1,9.80,85,2025-09-15,Week 2,Sunday
+AJ Barner,TE,"SEA 31 @ PIT 17, Final","RUSH ATT,2 RUSH YD,3 TGT,2 REC,26 REC YD,REC TD",$10,5.3,9.80,86,2025-09-15,Week 2,Sunday
+Joe Flacco,QB,"CLE 17 @ BAL 41, Final","199 PASS YD,PASS TD,INT,RUSH ATT,8 RUSH YD,FUM LOST",$23,12.0,9.76,87,2025-09-15,Week 2,Sunday
+Justin Jefferson,WR,"ATL 22 @ MIN 6, Final","6 TGT,3 REC,81 REC YD",$35,11.2,9.60,88,2025-09-15,Week 2,Sunday
+DK Metcalf,WR,"SEA 31 @ PIT 17, Final","6 TGT,3 REC,20 REC YD,REC TD",$25,9.9,9.50,89,2025-09-15,Week 2,Sunday
+Tylan Wallace,WR,"CLE 17 @ BAL 41, Final","2 TGT,2 REC,25 REC YD,REC TD",$10,4.8,9.50,90,2025-09-15,Week 2,Sunday
+Dylan Sampson,RB,"CLE 17 @ BAL 41, Final","4 RUSH ATT,6 RUSH YD,3 TGT,3 REC,13 REC YD,REC TD",$21,11.4,9.40,91,2025-09-15,Week 2,Sunday
+Marvin Mims Jr.,WR,"DEN 28 @ IND 29, Final","2 TGT,2 REC,24 REC YD,REC TD",$22,5.1,9.40,92,2025-09-15,Week 2,Sunday
+Antonio Gibson,RB,"NE 33 @ MIA 27, Final","5 RUSH ATT,27 RUSH YD,TGT,REC,REC YD,KRTD",$10,4.8,9.30,93,2025-09-15,Week 2,Sunday
+Tony Pollard,RB,"LA 33 @ TEN 19, Final","20 RUSH ATT,92 RUSH YD,TGT",$22,8.3,9.20,94,2025-09-15,Week 2,Sunday
+Cedric Tillman,WR,"CLE 17 @ BAL 41, Final","7 TGT,2 REC,22 REC YD,REC TD",$18,11.5,9.20,95,2025-09-15,Week 2,Sunday
+Kyren Williams,RB,"LA 33 @ TEN 19, Final","17 RUSH ATT,66 RUSH YD,2 TGT,2 REC,14 REC YD",$33,11.2,9.00,96,2025-09-15,Week 2,Sunday
+Malik Washington,WR,"NE 33 @ MIA 27, Final","3 RUSH ATT,23 RUSH YD,2 TGT,REC,2 REC YD,PRTD",$10,6.5,9.00,97,2025-09-15,Week 2,Sunday
+Miles Sanders,RB,"NYG 37 @ DAL 40, Final OT","5 RUSH ATT,15 RUSH YD,RUSH TD,2 TGT,2 REC,4 REC YD",$12,6.2,8.90,98,2025-09-15,Week 2,Sunday
+Ja'Tavion Sanders,TE,"CAR 22 @ ARI 27, Final","9 TGT,7 REC,54 REC YD",$10,6.3,8.90,99,2025-09-15,Week 2,Sunday
+Alec Pierce,WR,"DEN 28 @ IND 29, Final","5 TGT,4 REC,68 REC YD",$17,6.5,8.80,100,2025-09-15,Week 2,Sunday
+Quinshon Judkins,RB,"CLE 17 @ BAL 41, Final","10 RUSH ATT,61 RUSH YD,3 TGT,3 REC,10 REC YD",$10,8.6,8.60,101,2025-09-15,Week 2,Sunday
+Luke Farrell,TE,"SF 26 @ NO 21, Final","3 TGT,2 REC,15 REC YD,REC TD",$10,4.7,8.50,102,2025-09-15,Week 2,Sunday
+Adam Trautman,TE,"DEN 28 @ IND 29, Final","3 TGT,3 REC,10 REC YD,REC TD",$10,4.8,8.50,103,2025-09-15,Week 2,Sunday
+Chris Olave,WR,"SF 26 @ NO 21, Final","10 TGT,6 REC,54 REC YD",$19,8.7,8.40,104,2025-09-15,Week 2,Sunday
+Tyrod Taylor,QB,"BUF 30 @ NYJ 10, Final","56 PASS YD,PASS TD,3 RUSH ATT,21 RUSH YD",$20,8.3,8.34,105,2025-09-15,Week 2,Sunday
+Kayshon Boutte,WR,"NE 33 @ MIA 27, Final","TGT,REC,16 REC YD,REC TD",$17,10.7,8.10,106,2025-09-15,Week 2,Sunday
+Josh Downs,WR,"DEN 28 @ IND 29, Final","8 TGT,6 REC,51 REC YD",$20,5.2,8.10,107,2025-09-15,Week 2,Sunday
+Travis Kelce,TE,"PHI 20 @ KC 17, Final","6 TGT,4 REC,61 REC YD",$21,9.9,8.10,108,2025-09-15,Week 2,Sunday
+Los Angeles Rams,DEF,"LA 33 @ TEN 19, Final","19 PTS ALLOWED,5 SACK,FUM REC",$20,9.5,8.00,109,2025-09-15,Week 2,Sunday
+Detroit Lions,DEF,"CHI 21 @ DET 52, Final","21 PTS ALLOWED,4 SACK,INT,FUM REC",$10,4.0,8.00,110,2025-09-15,Week 2,Sunday
+Miami Dolphins,DEF,"NE 33 @ MIA 27, Final","33 PTS ALLOWED,3 SACK,RET TD",$10,4.0,8.00,111,2025-09-15,Week 2,Sunday
+Jacksonville Jaguars,DEF,"JAC 27 @ CIN 31, Final","31 PTS ALLOWED,3 SACK,3 INT",$17,9.5,8.00,112,2025-09-15,Week 2,Sunday
+Jerome Ford,RB,"CLE 17 @ BAL 41, Final","6 RUSH ATT,31 RUSH YD,6 TGT,5 REC,23 REC YD",$17,4.5,7.90,113,2025-09-15,Week 2,Sunday
+Mitchell Tinsley,WR,"JAC 27 @ CIN 31, Final","TGT,REC,13 REC YD,REC TD",$10,7.8,7.80,114,2025-09-15,Week 2,Sunday
+Michael Wilson,WR,"CAR 22 @ ARI 27, Final","2 TGT,REC,11 REC YD,REC TD",$13,4.3,7.60,115,2025-09-15,Week 2,Sunday
+Chase Brown,RB,"JAC 27 @ CIN 31, Final","16 RUSH ATT,47 RUSH YD,3 TGT,2 REC,18 REC YD",$35,9.8,7.50,116,2025-09-15,Week 2,Sunday
+Davis Allen,TE,"LA 33 @ TEN 19, Final","TGT,REC,8 REC YD,REC TD",$10,7.6,7.30,117,2025-09-15,Week 2,Sunday
+Harold Fannin Jr.,TE,"CLE 17 @ BAL 41, Final","5 TGT,5 REC,48 REC YD",$15,8.7,7.30,118,2025-09-15,Week 2,Sunday
+Mack Hollins,WR,"NE 33 @ MIA 27, Final","2 TGT,REC,8 REC YD,REC TD",$10,4.1,7.30,119,2025-09-15,Week 2,Sunday
+DeVonta Smith,WR,"PHI 20 @ KC 17, Final","6 TGT,4 REC,53 REC YD",$23,5.2,7.30,120,2025-09-15,Week 2,Sunday
+Calvin Ridley,WR,"LA 33 @ TEN 19, Final","6 TGT,3 REC,57 REC YD",$28,6.0,7.20,121,2025-09-15,Week 2,Sunday
+Ricky Pearsall,WR,"SF 26 @ NO 21, Final","RUSH ATT,-4 RUSH YD,6 TGT,4 REC,56 REC YD",$24,10.0,7.20,122,2025-09-15,Week 2,Sunday
+DJ Moore,WR,"CHI 21 @ DET 52, Final","6 TGT,5 REC,46 REC YD",$27,7.1,7.10,123,2025-09-15,Week 2,Sunday
+Darius Slayton,WR,"NYG 37 @ DAL 40, Final OT","3 TGT,2 REC,61 REC YD",$11,3.6,7.10,124,2025-09-15,Week 2,Sunday
+Tyrone Tracy Jr.,RB,"NYG 37 @ DAL 40, Final OT","5 RUSH ATT,15 RUSH YD,5 TGT,4 REC,36 REC YD",$22,5.8,7.10,125,2025-09-15,Week 2,Sunday
+Jerry Jeudy,WR,"CLE 17 @ BAL 41, Final","8 TGT,4 REC,51 REC YD",$27,8.1,7.10,126,2025-09-15,Week 2,Sunday
+Joe BurrowD,QB,"JAC 27 @ CIN 31, Final","76 PASS YD,PASS TD",$35,7.9,7.04,127,2025-09-15,Week 2,Sunday
+Garrett Wilson,WR,"BUF 30 @ NYJ 10, Final","8 TGT,4 REC,50 REC YD",$27,13.0,7.00,128,2025-09-15,Week 2,Sunday
+Jeremy Ruckert,TE,"BUF 30 @ NYJ 10, Final","TGT,REC,5 REC YD,REC TD",$10,4.8,7.00,129,2025-09-15,Week 2,Sunday
+Brian Thomas Jr.Q,WR,"JAC 27 @ CIN 31, Final","12 TGT,4 REC,49 REC YD",$33,7.7,6.90,130,2025-09-15,Week 2,Sunday
+Devaughn Vele,WR,"SF 26 @ NO 21, Final","TGT,REC,3 REC YD,REC TD",$10,4.3,6.80,131,2025-09-15,Week 2,Sunday
+Trey Benson,RB,"CAR 22 @ ARI 27, Final","3 RUSH ATT,14 RUSH YD,6 TGT,4 REC,30 REC YD",$12,7.2,6.40,132,2025-09-15,Week 2,Sunday
+Brycen Tremayne,WR,"CAR 22 @ ARI 27, Final","5 TGT,3 REC,48 REC YD",$10,3.2,6.30,133,2025-09-15,Week 2,Sunday
+David Njoku,TE,"CLE 17 @ BAL 41, Final","5 TGT,4 REC,40 REC YD",$19,5.6,6.00,134,2025-09-15,Week 2,Sunday
+Michael Pittman Jr.,WR,"DEN 28 @ IND 29, Final","5 TGT,4 REC,40 REC YD",$23,11.5,6.00,135,2025-09-15,Week 2,Sunday
+Tyler Higbee,TE,"LA 33 @ TEN 19, Final","4 TGT,4 REC,37 REC YD",$14,5.7,5.70,136,2025-09-15,Week 2,Sunday
+Joshua Palmer,WR,"BUF 30 @ NYJ 10, Final","3 TGT,2 REC,47 REC YD",$15,7.2,5.70,137,2025-09-15,Week 2,Sunday
+Dalton Kincaid,TE,"BUF 30 @ NYJ 10, Final","6 TGT,4 REC,37 REC YD",$12,9.3,5.70,138,2025-09-15,Week 2,Sunday
+Kyle Pitts Sr.,TE,"ATL 22 @ MIN 6, Final","5 TGT,4 REC,37 REC YD",$12,7.6,5.70,139,2025-09-15,Week 2,Sunday
+Chig Okonkwo,TE,"LA 33 @ TEN 19, Final","6 TGT,4 REC,35 REC YD",$15,4.5,5.50,140,2025-09-15,Week 2,Sunday
+Elijah Higgins,TE,"CAR 22 @ ARI 27, Final","3 TGT,2 REC,45 REC YD",$10,3.2,5.50,141,2025-09-15,Week 2,Sunday
+Hollywood Brown,WR,"PHI 20 @ KC 17, Final","5 TGT,5 REC,30 REC YD",$14,10.2,5.50,142,2025-09-15,Week 2,Sunday
+Theo Johnson,TE,"NYG 37 @ DAL 40, Final OT","5 TGT,4 REC,34 REC YD",$11,3.2,5.40,143,2025-09-15,Week 2,Sunday
+Austin Hooper,TE,"NE 33 @ MIA 27, Final","3 TGT,3 REC,38 REC YD",$10,3.4,5.30,144,2025-09-15,Week 2,Sunday
+Michael Penix Jr.,QB,"ATL 22 @ MIN 6, Final","135 PASS YD,RUSH ATT,-1 RUSH YD",$25,14.7,5.30,145,2025-09-15,Week 2,Sunday
+Jordan Whittington,WR,"LA 33 @ TEN 19, Final","2 TGT,2 REC,42 REC YD",$10,2.9,5.20,146,2025-09-15,Week 2,Sunday
+Stefon Diggs,WR,"NE 33 @ MIA 27, Final","5 TGT,4 REC,32 REC YD",$23,6.9,5.20,147,2025-09-15,Week 2,Sunday
+A.J. Brown,WR,"PHI 20 @ KC 17, Final","8 TGT,5 REC,27 REC YD",$24,3.3,5.20,148,2025-09-15,Week 2,Sunday
+Kenneth Gainwell,RB,"SEA 31 @ PIT 17, Final","5 RUSH ATT,20 RUSH YD,5 TGT,3 REC,16 REC YD",$10,4.4,5.10,149,2025-09-15,Week 2,Sunday
+Jake Tonges,TE,"SF 26 @ NO 21, Final","5 TGT,4 REC,31 REC YD",$10,7.1,5.10,150,2025-09-15,Week 2,Sunday
+Pittsburgh Steelers,DEF,"SEA 31 @ PIT 17, Final","31 PTS ALLOWED,2 SACK,2 INT",$10,3.5,5.00,151,2025-09-15,Week 2,Sunday
+San Francisco 49ers,DEF,"SF 26 @ NO 21, Final","21 PTS ALLOWED,3 SACK,FUM REC",$18,7.0,5.00,152,2025-09-15,Week 2,Sunday
+New Orleans Saints,DEF,"SF 26 @ NO 21, Final","26 PTS ALLOWED,3 SACK,FUM REC",$13,6.5,5.00,153,2025-09-15,Week 2,Sunday
+TreVeyon Henderson,RB,"NE 33 @ MIA 27, Final","3 RUSH ATT,10 RUSH YD,2 TGT,2 REC,30 REC YD",$21,6.6,5.00,154,2025-09-15,Week 2,Sunday
+Cincinnati Bengals,DEF,"JAC 27 @ CIN 31, Final","27 PTS ALLOWED,SACK,2 INT",$13,6.0,5.00,155,2025-09-15,Week 2,Sunday
+Philadelphia Eagles,DEF,"PHI 20 @ KC 17, Final","17 PTS ALLOWED,2 SACK,INT",$10,4.0,5.00,156,2025-09-15,Week 2,Sunday
+Minnesota Vikings,DEF,"ATL 22 @ MIN 6, Final","22 PTS ALLOWED,3 SACK,FUM REC",$11,5.0,5.00,157,2025-09-15,Week 2,Sunday
+J.J. McCarthy,QB,"ATL 22 @ MIN 6, Final","158 PASS YD,2 INT,5 RUSH ATT,25 RUSH YD,FUM LOST",$22,14.0,4.82,158,2025-09-15,Week 2,Sunday
+Breece Hall,RB,"BUF 30 @ NYJ 10, Final","10 RUSH ATT,29 RUSH YD,3 TGT,2 REC,9 REC YD",$29,10.2,4.80,159,2025-09-15,Week 2,Sunday
+Jordan Mason,RB,"ATL 22 @ MIN 6, Final","9 RUSH ATT,30 RUSH YD,3 TGT,2 REC,8 REC YD",$16,6.4,4.80,160,2025-09-15,Week 2,Sunday
+Dillon Gabriel,QB,"CLE 17 @ BAL 41, Final","19 PASS YD,PASS TD",$20,4.8,4.76,161,2025-09-15,Week 2,Sunday
+Jonnu Smith,TE,"SEA 31 @ PIT 17, Final","4 TGT,4 REC,27 REC YD",$16,7.4,4.70,162,2025-09-15,Week 2,Sunday
+Pat Freiermuth,TE,"SEA 31 @ PIT 17, Final","4 TGT,3 REC,31 REC YD",$15,4.4,4.60,163,2025-09-15,Week 2,Sunday
+Jalen Nailor,WR,"ATL 22 @ MIN 6, Final","5 TGT,3 REC,31 REC YD",$11,3.9,4.60,164,2025-09-15,Week 2,Sunday
+Drake London,WR,"ATL 22 @ MIN 6, Final","4 TGT,3 REC,49 REC YD,FUM LOST",$34,7.0,4.40,165,2025-09-15,Week 2,Sunday
+Noah Fant,TE,"JAC 27 @ CIN 31, Final","4 TGT,3 REC,28 REC YD",$13,7.4,4.30,166,2025-09-15,Week 2,Sunday
+Elijah Arroyo,TE,"SEA 31 @ PIT 17, Final","3 TGT,2 REC,31 REC YD",$10,2.7,4.10,167,2025-09-15,Week 2,Sunday
+Keon Coleman,WR,"BUF 30 @ NYJ 10, Final","3 TGT,3 REC,26 REC YD",$17,12.6,4.10,168,2025-09-15,Week 2,Sunday
+Kyle Monangai,RB,"CHI 21 @ DET 52, Final","7 RUSH ATT,28 RUSH YD,3 TGT,REC,8 REC YD",$10,2.8,4.10,169,2025-09-15,Week 2,Sunday
+Sam LaPorta,TE,"CHI 21 @ DET 52, Final","4 TGT,3 REC,26 REC YD",$22,7.5,4.10,170,2025-09-15,Week 2,Sunday
+Tennessee Titans,DEF,"LA 33 @ TEN 19, Final","33 PTS ALLOWED,SACK,INT,BLK KICK",$16,7.0,4.00,171,2025-09-15,Week 2,Sunday
+Justice Hill,RB,"CLE 17 @ BAL 41, Final","3 RUSH ATT,7 RUSH YD,3 TGT,3 REC,18 REC YD",$11,1.7,4.00,172,2025-09-15,Week 2,Sunday
+Justin FieldsQ,QB,"BUF 30 @ NYJ 10, Final","27 PASS YD,5 RUSH ATT,49 RUSH YD,FUM LOST",$23,16.8,3.98,173,2025-09-15,Week 2,Sunday
+Cole Kmet,TE,"CHI 21 @ DET 52, Final","2 TGT,2 REC,29 REC YD",$10,3.8,3.90,174,2025-09-15,Week 2,Sunday
+Kareem Hunt,RB,"PHI 20 @ KC 17, Final","8 RUSH ATT,31 RUSH YD,TGT,REC,3 REC YD",$14,3.8,3.90,175,2025-09-15,Week 2,Sunday
+Travis Hunter,WR,"JAC 27 @ CIN 31, Final","6 TGT,3 REC,22 REC YD",$19,5.0,3.70,176,2025-09-15,Week 2,Sunday
+Marvin Harrison Jr.,WR,"CAR 22 @ ARI 27, Final","5 TGT,2 REC,27 REC YD",$30,9.7,3.70,177,2025-09-15,Week 2,Sunday
+Brandin Cooks,WR,"SF 26 @ NO 21, Final","2 TGT,2 REC,26 REC YD",$10,3.8,3.60,178,2025-09-15,Week 2,Sunday
+Adam Thielen,WR,"ATL 22 @ MIN 6, Final","3 TGT,2 REC,26 REC YD",$22,2.8,3.60,179,2025-09-15,Week 2,Sunday
+Tommy Tremble,TE,"CAR 22 @ ARI 27, Final","3 TGT,3 REC,20 REC YD",$10,2.1,3.50,180,2025-09-15,Week 2,Sunday
+Isaac TeSlaa,WR,"CHI 21 @ DET 52, Final","TGT,REC,29 REC YD",$13,5.6,3.40,181,2025-09-15,Week 2,Sunday
+Isiah Pacheco,RB,"PHI 20 @ KC 17, Final","10 RUSH ATT,22 RUSH YD,2 TGT,REC,7 REC YD",$15,3.6,3.40,182,2025-09-15,Week 2,Sunday
+Mike Gesicki,TE,"JAC 27 @ CIN 31, Final","4 TGT,3 REC,18 REC YD",$14,2.6,3.30,183,2025-09-15,Week 2,Sunday
+Brenton Strange,TE,"JAC 27 @ CIN 31, Final","5 TGT,3 REC,17 REC YD",$11,5.6,3.20,184,2025-09-15,Week 2,Sunday
+Tyler Badie,RB,"DEN 28 @ IND 29, Final","RUSH ATT,3 RUSH YD,2 TGT,2 REC,19 REC YD",$10,2.9,3.20,185,2025-09-15,Week 2,Sunday
+Olamide Zaccheaus,WR,"CHI 21 @ DET 52, Final","RUSH ATT,9 RUSH YD,5 TGT,2 REC,12 REC YD",$10,4.7,3.10,186,2025-09-15,Week 2,Sunday
+Carolina Panthers,DEF,"CAR 22 @ ARI 27, Final","21 PTS ALLOWED,SACK,INT",$10,2.5,3.00,187,2025-09-15,Week 2,Sunday
+Adonai Mitchell,WR,"DEN 28 @ IND 29, Final","4 TGT,2 REC,20 REC YD",$10,3.1,3.00,188,2025-09-15,Week 2,Sunday
+Kansas City Chiefs,DEF,"PHI 20 @ KC 17, Final","20 PTS ALLOWED,2 SACK",$10,3.0,3.00,189,2025-09-15,Week 2,Sunday
+Darnell Mooney,WR,"ATL 22 @ MIN 6, Final","4 TGT,2 REC,20 REC YD",$20,3.0,3.00,190,2025-09-15,Week 2,Sunday
+Dawson Knox,TE,"BUF 30 @ NYJ 10, Final","5 TGT,2 REC,19 REC YD",$10,3.0,2.90,191,2025-09-15,Week 2,Sunday
+RJ Harvey,RB,"DEN 28 @ IND 29, Final","5 RUSH ATT,8 RUSH YD,2 TGT,REC,16 REC YD",$20,5.2,2.90,192,2025-09-15,Week 2,Sunday
+Kalif Raymond,WR,"CHI 21 @ DET 52, Final","RUSH ATT,9 RUSH YD,TGT,REC,14 REC YD",$10,2.7,2.80,193,2025-09-15,Week 2,Sunday
+Nick Westbrook-Ikhine,WR,"NE 33 @ MIA 27, Final","3 TGT,2 REC,18 REC YD",$15,2.0,2.80,194,2025-09-15,Week 2,Sunday
+Pat Bryant,WR,"DEN 28 @ IND 29, Final","3 TGT,2 REC,18 REC YD",$10,2.8,2.80,195,2025-09-15,Week 2,Sunday
+Calvin Austin III,WR,"SEA 31 @ PIT 17, Final","4 TGT,REC,22 REC YD",$13,8.9,2.70,196,2025-09-15,Week 2,Sunday
+Jalen Tolbert,WR,"NYG 37 @ DAL 40, Final OT","4 TGT,2 REC,16 REC YD",$12,1.6,2.60,197,2025-09-15,Week 2,Sunday
+Nikko Remigio,WR,"PHI 20 @ KC 17, Final","TGT,REC,21 REC YD",$10,1.3,2.60,198,2025-09-15,Week 2,Sunday
+Rashod Bateman,WR,"CLE 17 @ BAL 41, Final","4 TGT,2 REC,15 REC YD",$20,2.3,2.50,199,2025-09-15,Week 2,Sunday
+Ray Davis,RB,"BUF 30 @ NYJ 10, Final","9 RUSH ATT,24 RUSH YD",$11,1.5,2.40,200,2025-09-15,Week 2,Sunday
+Brian Robinson Jr.,RB,"SF 26 @ NO 21, Final","6 RUSH ATT,20 RUSH YD,TGT,REC,-1 REC YD",$17,3.3,2.40,201,2025-09-15,Week 2,Sunday
+Rico Dowdle,RB,"CAR 22 @ ARI 27, Final","6 RUSH ATT,9 RUSH YD,TGT,REC,10 REC YD",$17,2.5,2.40,202,2025-09-15,Week 2,Sunday
+Derrick Henry,RB,"CLE 17 @ BAL 41, Final","11 RUSH ATT,23 RUSH YD",$45,15.5,2.30,203,2025-09-15,Week 2,Sunday
+Alec Ingold,RB,"NE 33 @ MIA 27, Final","2 TGT,2 REC,13 REC YD",$10,1.5,2.30,204,2025-09-15,Week 2,Sunday
+Aaron Jones Sr.Q,RB,"ATL 22 @ MIN 6, Final","5 RUSH ATT,23 RUSH YD,TGT",$25,8.3,2.30,205,2025-09-15,Week 2,Sunday
+Van Jefferson,WR,"LA 33 @ TEN 19, Final","2 TGT,2 REC,10 REC YD",$10,2.0,2.00,206,2025-09-15,Week 2,Sunday
+Darnell Washington,TE,"SEA 31 @ PIT 17, Final","TGT,2PT",$10,2.0,2.00,207,2025-09-15,Week 2,Sunday
+Isaiah Bond,WR,"CLE 17 @ BAL 41, Final","RUSH ATT,9 RUSH YD,3 TGT,REC,6 REC YD",$10,1.5,2.00,208,2025-09-15,Week 2,Sunday
+Tyler Lockett,WR,"LA 33 @ TEN 19, Final","3 TGT,2 REC,9 REC YD",$11,1.0,1.90,209,2025-09-15,Week 2,Sunday
+Gunnar Helm,TE,"LA 33 @ TEN 19, Final","2 TGT,2 REC,9 REC YD",$10,2.0,1.90,210,2025-09-15,Week 2,Sunday
+A.J. Dillon,RB,"PHI 20 @ KC 17, Final","3 RUSH ATT,19 RUSH YD",$10,1.5,1.90,211,2025-09-15,Week 2,Sunday
+Chimere Dike,WR,"LA 33 @ TEN 19, Final","2 RUSH ATT,9 RUSH YD,5 TGT,2 REC,-1 REC YD",$10,1.4,1.80,212,2025-09-15,Week 2,Sunday
+Ollie Gordon II,RB,"NE 33 @ MIA 27, Final","RUSH ATT,8 RUSH YD,TGT,REC,5 REC YD",$10,1.3,1.80,213,2025-09-15,Week 2,Sunday
+Tyson Bagent,QB,"CHI 21 @ DET 52, Final","27 PASS YD,2 RUSH ATT,7 RUSH YD",$20,1.8,1.78,214,2025-09-15,Week 2,Sunday
+Khalil Shakir,WR,"BUF 30 @ NYJ 10, Final","2 TGT,REC,12 REC YD",$21,5.6,1.70,215,2025-09-15,Week 2,Sunday
+Andrei Iosivas,WR,"JAC 27 @ CIN 31, Final","5 TGT,REC,12 REC YD",$12,1.7,1.70,216,2025-09-15,Week 2,Sunday
+Evan Engram,TE,"DEN 28 @ IND 29, Final","2 TGT,REC,12 REC YD",$14,2.7,1.70,217,2025-09-15,Week 2,Sunday
+T.J. Hockenson,TE,"ATL 22 @ MIN 6, Final","3 TGT,REC,12 REC YD",$17,2.4,1.70,218,2025-09-15,Week 2,Sunday
+Greg Dortch,WR,"CAR 22 @ ARI 27, Final","TGT,REC,11 REC YD",$10,1.0,1.60,219,2025-09-15,Week 2,Sunday
+Kendre Miller,RB,"SF 26 @ NO 21, Final","5 RUSH ATT,8 RUSH YD,TGT,REC,2 REC YD",$10,2.0,1.50,220,2025-09-15,Week 2,Sunday
+Hunter Henry,TE,"NE 33 @ MIA 27, Final","3 TGT,REC,9 REC YD",$13,5.0,1.40,221,2025-09-15,Week 2,Sunday
+Mitchell Evans,TE,"CAR 22 @ ARI 27, Final","TGT,REC,9 REC YD",$10,1.4,1.40,222,2025-09-15,Week 2,Sunday
+DeMario Douglas,WR,"NE 33 @ MIA 27, Final","TGT,REC,8 REC YD",$16,4.3,1.30,223,2025-09-15,Week 2,Sunday
+Dee Eskridge,WR,"NE 33 @ MIA 27, Final","TGT,REC,8 REC YD",$10,1.4,1.30,224,2025-09-15,Week 2,Sunday
+LeQuint Allen Jr.,RB,"JAC 27 @ CIN 31, Final","2 RUSH ATT,13 RUSH YD",$10,1.5,1.30,225,2025-09-15,Week 2,Sunday
+Mo Alie-Cox,TE,"DEN 28 @ IND 29, Final","TGT,REC,8 REC YD",$10,1.9,1.30,226,2025-09-15,Week 2,Sunday
+Roman Wilson,WR,"SEA 31 @ PIT 17, Final","2 TGT,REC,7 REC YD",$10,1.2,1.20,227,2025-09-15,Week 2,Sunday
+Drew Sample,TE,"JAC 27 @ CIN 31, Final","2 TGT,REC,7 REC YD",$10,0.6,1.20,228,2025-09-15,Week 2,Sunday
+Connor Heyward,TE,"SEA 31 @ PIT 17, Final","TGT,REC,6 REC YD",$10,1.1,1.10,229,2025-09-15,Week 2,Sunday
+Braelon Allen,RB,"BUF 30 @ NYJ 10, Final","2 RUSH ATT,11 RUSH YD,TGT",$10,4.0,1.10,230,2025-09-15,Week 2,Sunday
+Isaiah Davis,RB,"BUF 30 @ NYJ 10, Final","3 TGT,REC,6 REC YD",$10,1.5,1.10,231,2025-09-15,Week 2,Sunday
+Courtland Sutton,WR,"DEN 28 @ IND 29, Final","4 TGT,REC,6 REC YD",$31,8.1,1.10,232,2025-09-15,Week 2,Sunday
+Grant Calcaterra,TE,"PHI 20 @ KC 17, Final","2 TGT,REC,6 REC YD",$10,1.1,1.10,233,2025-09-15,Week 2,Sunday
+Zach Charbonnet,RB,"SEA 31 @ PIT 17, Final","15 RUSH ATT,10 RUSH YD",$19,5.9,1.00,234,2025-09-15,Week 2,Sunday
+Jackson Hawes,TE,"BUF 30 @ NYJ 10, Final","TGT,REC,5 REC YD",$10,2.2,1.00,235,2025-09-15,Week 2,Sunday
+Mason Taylor,TE,"BUF 30 @ NYJ 10, Final","2 TGT,REC,5 REC YD",$10,1.8,1.00,236,2025-09-15,Week 2,Sunday
+Luther Burden III,WR,"CHI 21 @ DET 52, Final","2 TGT,REC,5 REC YD",$10,0.6,1.00,237,2025-09-15,Week 2,Sunday
+New York Giants,DEF,"NYG 37 @ DAL 40, Final OT","40 PTS ALLOWED,3 SACK,INT",$10,2.0,1.00,238,2025-09-15,Week 2,Sunday
+Dallas Cowboys,DEF,"NYG 37 @ DAL 40, Final OT","37 PTS ALLOWED,3 SACK,INT",$10,1.0,1.00,239,2025-09-15,Week 2,Sunday
+Jamari Thrash,WR,"CLE 17 @ BAL 41, Final","TGT,REC,5 REC YD",$10,1.1,1.00,240,2025-09-15,Week 2,Sunday
+Kyle JuszczykQ,RB,"SF 26 @ NO 21, Final","TGT,REC,5 REC YD",$10,2.6,1.00,241,2025-09-15,Week 2,Sunday
+Indianapolis Colts,DEF,"DEN 28 @ IND 29, Final","28 PTS ALLOWED,INT",$19,7.0,1.00,242,2025-09-15,Week 2,Sunday
+Kylen Granson,TE,"PHI 20 @ KC 17, Final","TGT,REC,5 REC YD",$10,0.8,1.00,243,2025-09-15,Week 2,Sunday
+JuJu Smith-Schuster,WR,"PHI 20 @ KC 17, Final","3 TGT,REC,5 REC YD",$10,4.5,1.00,244,2025-09-15,Week 2,Sunday
+Mitchell Trubisky,QB,"BUF 30 @ NYJ 10, Final","32 PASS YD,3 RUSH ATT,-3 RUSH YD",$20,1.0,0.98,245,2025-09-15,Week 2,Sunday
+Mark Andrews,TE,"CLE 17 @ BAL 41, Final","RUSH ATT,2 RUSH YD,3 TGT,REC,2 REC YD",$18,1.0,0.90,246,2025-09-15,Week 2,Sunday
+Jahan Dotson,WR,"PHI 20 @ KC 17, Final","TGT,REC,4 REC YD",$10,4.2,0.90,247,2025-09-15,Week 2,Sunday
+Brevyn Spann-Ford,TE,"NYG 37 @ DAL 40, Final OT","TGT,REC,3 REC YD",$10,0.4,0.80,248,2025-09-15,Week 2,Sunday
+Trent Sherfield Sr.,WR,"DEN 28 @ IND 29, Final","TGT,REC,3 REC YD",$10,0.8,0.80,249,2025-09-15,Week 2,Sunday
+Trevor Etienne,RB,"CAR 22 @ ARI 27, Final","TGT,REC,2 REC YD",$10,0.6,0.70,250,2025-09-15,Week 2,Sunday
+Ty Johnson,RB,"BUF 30 @ NYJ 10, Final","2 RUSH ATT,6 RUSH YD,TGT",$10,1.5,0.60,251,2025-09-15,Week 2,Sunday
+Noah Gray,TE,"PHI 20 @ KC 17, Final","5 TGT,REC,REC YD",$10,0.7,0.60,252,2025-09-15,Week 2,Sunday
+Devin Singletary,RB,"NYG 37 @ DAL 40, Final OT","RUSH ATT,4 RUSH YD,TGT,REC,-4 REC YD",$10,0.7,0.50,253,2025-09-15,Week 2,Sunday
+John Metchie III,WR,"PHI 20 @ KC 17, Final","TGT,REC",$10,0.3,0.50,254,2025-09-15,Week 2,Sunday
+Mason Rudolph,QB,"SEA 31 @ PIT 17, Final",12 PASS YD,$20,0.5,0.48,255,2025-09-15,Week 2,Sunday
+Craig Reynolds,RB,"CHI 21 @ DET 52, Final","3 RUSH ATT,4 RUSH YD",$10,0.2,0.40,256,2025-09-15,Week 2,Sunday
+Arian Smith,WR,"BUF 30 @ NYJ 10, Final","RUSH ATT,-10 RUSH YD,2 TGT,REC,8 REC YD",$10,0.2,0.30,257,2025-09-15,Week 2,Sunday
+Xavier Legette,WR,"CAR 22 @ ARI 27, Final","RUSH ATT,8 TGT,REC,-2 REC YD",$13,1.4,0.30,258,2025-09-15,Week 2,Sunday
+Jacoby Brissett,QB,"CAR 22 @ ARI 27, Final","RUSH ATT,2 RUSH YD",$20,0.2,0.20,259,2025-09-15,Week 2,Sunday
+Brashard Smith,RB,"PHI 20 @ KC 17, Final","RUSH ATT,2 RUSH YD,TGT",$10,0.1,0.20,260,2025-09-15,Week 2,Sunday
+Kaleb Johnson,RB,"SEA 31 @ PIT 17, Final","RUSH ATT,RUSH YD",$11,-0.1,0.10,261,2025-09-15,Week 2,Sunday
+Jimmy Garoppolo,QB,"LA 33 @ TEN 19, Final",,$22,20.9,0.00,262,2025-09-15,Week 2,Sunday
+Colby ParkinsonO,TE,"LA 33 @ TEN 19, Final",,$10,-1.6,0.00,263,2025-09-15,Week 2,Sunday
+Tutu Atwell,WR,"LA 33 @ TEN 19, Final",TGT,$10,0.5,0.00,264,2025-09-15,Week 2,Sunday
+Stetson Bennett IV,QB,"LA 33 @ TEN 19, Final",,$20,—,0.00,265,2025-09-15,Week 2,Sunday
+Xavier Smith,WR,"LA 33 @ TEN 19, Final",,$10,2.1,0.00,266,2025-09-15,Week 2,Sunday
+Konata Mumpfield,WR,"LA 33 @ TEN 19, Final",,$10,—,0.00,267,2025-09-15,Week 2,Sunday
+Brandon Allen,QB,"LA 33 @ TEN 19, Final",,$20,2.8,0.00,268,2025-09-15,Week 2,Sunday
+Julius Chestnut,RB,"LA 33 @ TEN 19, Final",,$10,0.2,0.00,269,2025-09-15,Week 2,Sunday
+Bryce OliverQ,WR,"LA 33 @ TEN 19, Final",,$10,0.7,0.00,270,2025-09-15,Week 2,Sunday
+David Martin-Robinson,TE,"LA 33 @ TEN 19, Final",,$10,—,0.00,271,2025-09-15,Week 2,Sunday
+Kalel MullingsO,RB,"LA 33 @ TEN 19, Final",,$10,—,0.00,272,2025-09-15,Week 2,Sunday
+Jarquez Hunter,RB,"LA 33 @ TEN 19, Final",,$10,—,0.00,273,2025-09-15,Week 2,Sunday
+Terrance Ferguson,TE,"LA 33 @ TEN 19, Final",,$10,—,0.00,274,2025-09-15,Week 2,Sunday
+Eric Saubert,TE,"SEA 31 @ PIT 17, Final",,$10,—,0.00,275,2025-09-15,Week 2,Sunday
+Drew Lock,QB,"SEA 31 @ PIT 17, Final",,$20,12.2,0.00,276,2025-09-15,Week 2,Sunday
+Cody White,WR,"SEA 31 @ PIT 17, Final",,$10,—,0.00,277,2025-09-15,Week 2,Sunday
+Dareke Young,WR,"SEA 31 @ PIT 17, Final",,$10,—,0.00,278,2025-09-15,Week 2,Sunday
+Jake Bobo,WR,"SEA 31 @ PIT 17, Final",,$10,1.9,0.00,279,2025-09-15,Week 2,Sunday
+Brady Russell,RB,"SEA 31 @ PIT 17, Final",,$10,—,0.00,280,2025-09-15,Week 2,Sunday
+George Holani,RB,"SEA 31 @ PIT 17, Final",,$10,—,0.00,281,2025-09-15,Week 2,Sunday
+Jalen Milroe,QB,"SEA 31 @ PIT 17, Final",,$20,0.1,0.00,282,2025-09-15,Week 2,Sunday
+Robbie Ouzts,RB,"SEA 31 @ PIT 17, Final",,$10,—,0.00,283,2025-09-15,Week 2,Sunday
+Nick Kallerup,TE,"SEA 31 @ PIT 17, Final",,$10,—,0.00,284,2025-09-15,Week 2,Sunday
+Scotty Miller,WR,"SEA 31 @ PIT 17, Final",,$10,1.9,0.00,285,2025-09-15,Week 2,Sunday
+Ben Skowronek,WR,"SEA 31 @ PIT 17, Final",,$10,4.4,0.00,286,2025-09-15,Week 2,Sunday
+Skylar ThompsonIR,QB,"SEA 31 @ PIT 17, Final",,$20,3.9,0.00,287,2025-09-15,Week 2,Sunday
+Curtis Samuel,WR,"BUF 30 @ NYJ 10, Final",,$11,4.2,0.00,288,2025-09-15,Week 2,Sunday
+Reggie Gilliam,RB,"BUF 30 @ NYJ 10, Final",,$10,—,0.00,289,2025-09-15,Week 2,Sunday
+Tyrell Shavers,WR,"BUF 30 @ NYJ 10, Final",2 TGT,$16,—,0.00,290,2025-09-15,Week 2,Sunday
+Josh ReynoldsO,WR,"BUF 30 @ NYJ 10, Final",,$10,2.8,0.00,291,2025-09-15,Week 2,Sunday
+Allen Lazard,WR,"BUF 30 @ NYJ 10, Final",,$13,9.0,0.00,292,2025-09-15,Week 2,Sunday
+Andrew Beck,RB,"BUF 30 @ NYJ 10, Final",,$10,—,0.00,293,2025-09-15,Week 2,Sunday
+Kene NwangwuO,RB,"BUF 30 @ NYJ 10, Final",,$10,—,0.00,294,2025-09-15,Week 2,Sunday
+Irvin CharlesPUP,WR,"BUF 30 @ NYJ 10, Final",,$10,—,0.00,295,2025-09-15,Week 2,Sunday
+Stone Smartt,TE,"BUF 30 @ NYJ 10, Final",,$10,3.0,0.00,296,2025-09-15,Week 2,Sunday
+New York Jets,DEF,"BUF 30 @ NYJ 10, Final","30 PTS ALLOWED,SACK",$10,1.5,0.00,297,2025-09-15,Week 2,Sunday
+Jelani Woods,TE,"BUF 30 @ NYJ 10, Final",,$10,—,0.00,298,2025-09-15,Week 2,Sunday
+Tyler Johnson,WR,"BUF 30 @ NYJ 10, Final",TGT,$10,2.1,0.00,299,2025-09-15,Week 2,Sunday
+Case Keenum,QB,"CHI 21 @ DET 52, Final",,$20,—,0.00,300,2025-09-15,Week 2,Sunday
+Durham Smythe,TE,"CHI 21 @ DET 52, Final",,$10,0.8,0.00,301,2025-09-15,Week 2,Sunday
+Roschon Johnson,RB,"CHI 21 @ DET 52, Final",,$10,—,0.00,302,2025-09-15,Week 2,Sunday
+Colston Loveland,TE,"CHI 21 @ DET 52, Final",TGT,$12,1.1,0.00,303,2025-09-15,Week 2,Sunday
+Jahdae WalkerO,WR,"CHI 21 @ DET 52, Final",,$10,—,0.00,304,2025-09-15,Week 2,Sunday
+Kyle Allen,QB,"CHI 21 @ DET 52, Final",,$20,0.8,0.00,305,2025-09-15,Week 2,Sunday
+Shane ZylstraQ,TE,"CHI 21 @ DET 52, Final",,$10,1.4,0.00,306,2025-09-15,Week 2,Sunday
+Sione VakiO,RB,"CHI 21 @ DET 52, Final",,$10,0.7,0.00,307,2025-09-15,Week 2,Sunday
+Dominic Lovett,WR,"CHI 21 @ DET 52, Final",,$10,—,0.00,308,2025-09-15,Week 2,Sunday
+Devin Duvernay,WR,"CHI 21 @ DET 52, Final",,$10,—,0.00,309,2025-09-15,Week 2,Sunday
+Jacob Saylors,RB,"CHI 21 @ DET 52, Final",,$10,—,0.00,310,2025-09-15,Week 2,Sunday
+Chris Manhertz,TE,"NYG 37 @ DAL 40, Final OT",,$10,1.8,0.00,311,2025-09-15,Week 2,Sunday
+Jameis Winston,QB,"NYG 37 @ DAL 40, Final OT",,$20,13.0,0.00,312,2025-09-15,Week 2,Sunday
+Daniel Bellinger,TE,"NYG 37 @ DAL 40, Final OT",,$10,1.9,0.00,313,2025-09-15,Week 2,Sunday
+Jalin Hyatt,WR,"NYG 37 @ DAL 40, Final OT",,$10,0.9,0.00,314,2025-09-15,Week 2,Sunday
+Eric GrayPUP,RB,"NYG 37 @ DAL 40, Final OT",,$10,0.9,0.00,315,2025-09-15,Week 2,Sunday
+Thomas Fidone II,TE,"NYG 37 @ DAL 40, Final OT",,$10,—,0.00,316,2025-09-15,Week 2,Sunday
+Beaux Collins,WR,"NYG 37 @ DAL 40, Final OT",,$10,—,0.00,317,2025-09-15,Week 2,Sunday
+Luke Schoonmaker,TE,"NYG 37 @ DAL 40, Final OT",2 TGT,$10,—,0.00,318,2025-09-15,Week 2,Sunday
+Hunter Luepke,RB,"NYG 37 @ DAL 40, Final OT",,$10,—,0.00,319,2025-09-15,Week 2,Sunday
+Joe Milton III,QB,"NYG 37 @ DAL 40, Final OT",,$20,19.2,0.00,320,2025-09-15,Week 2,Sunday
+Jaydon Blue,RB,"NYG 37 @ DAL 40, Final OT",,$14,—,0.00,321,2025-09-15,Week 2,Sunday
+Xavier Gipson,WR,"NYG 37 @ DAL 40, Final OT",,$10,—,0.00,322,2025-09-15,Week 2,Sunday
+Gunner Olszewski,WR,"NYG 37 @ DAL 40, Final OT",,$10,—,0.00,323,2025-09-15,Week 2,Sunday
+Ryan Flournoy,WR,"NYG 37 @ DAL 40, Final OT",,$10,—,0.00,324,2025-09-15,Week 2,Sunday
+DeAndre CarterQ,WR,"CLE 17 @ BAL 41, Final",,$10,—,0.00,325,2025-09-15,Week 2,Sunday
+Deshaun WatsonPUP,QB,"CLE 17 @ BAL 41, Final",,$20,11.4,0.00,326,2025-09-15,Week 2,Sunday
+Blake Whiteheart,TE,"CLE 17 @ BAL 41, Final",,$10,2.0,0.00,327,2025-09-15,Week 2,Sunday
+Gage Larvadain,WR,"CLE 17 @ BAL 41, Final",,$10,—,0.00,328,2025-09-15,Week 2,Sunday
+Patrick RicardO,RB,"CLE 17 @ BAL 41, Final",,$10,2.2,0.00,329,2025-09-15,Week 2,Sunday
+Charlie Kolar,TE,"CLE 17 @ BAL 41, Final",,$10,—,0.00,330,2025-09-15,Week 2,Sunday
+Isaiah LikelyO,TE,"CLE 17 @ BAL 41, Final",,$12,7.3,0.00,331,2025-09-15,Week 2,Sunday
+Keaton Mitchell,RB,"CLE 17 @ BAL 41, Final",,$10,1.3,0.00,332,2025-09-15,Week 2,Sunday
+Rasheen AliQ,RB,"CLE 17 @ BAL 41, Final",,$10,0.3,0.00,333,2025-09-15,Week 2,Sunday
+LaJohntay Wester,WR,"CLE 17 @ BAL 41, Final",,$10,—,0.00,334,2025-09-15,Week 2,Sunday
+Shedeur Sanders,QB,"CLE 17 @ BAL 41, Final",,$20,—,0.00,335,2025-09-15,Week 2,Sunday
+Raheim Sanders,RB,"CLE 17 @ BAL 41, Final",,$10,6.3,0.00,336,2025-09-15,Week 2,Sunday
+Zaire Mitchell-Paden,TE,"CLE 17 @ BAL 41, Final",TGT,$10,—,0.00,337,2025-09-15,Week 2,Sunday
+Demarcus RobinsonSUSP,WR,"SF 26 @ NO 21, Final",,$10,6.3,0.00,338,2025-09-15,Week 2,Sunday
+George KittleIR,TE,"SF 26 @ NO 21, Final",,$24,10.5,0.00,339,2025-09-15,Week 2,Sunday
+Brandon AiyukPUP,WR,"SF 26 @ NO 21, Final",,$12,7.1,0.00,340,2025-09-15,Week 2,Sunday
+Brock PurdyO,QB,"SF 26 @ NO 21, Final",,$31,18.8,0.00,341,2025-09-15,Week 2,Sunday
+Isaac Guerendo,RB,"SF 26 @ NO 21, Final",,$10,—,0.00,342,2025-09-15,Week 2,Sunday
+Jordan Watkins,WR,"SF 26 @ NO 21, Final",,$10,—,0.00,343,2025-09-15,Week 2,Sunday
+Jordan James,RB,"SF 26 @ NO 21, Final",,$10,—,0.00,344,2025-09-15,Week 2,Sunday
+Taysom HillPUP,TE,"SF 26 @ NO 21, Final",,$16,11.5,0.00,345,2025-09-15,Week 2,Sunday
+Foster MoreauPUP,TE,"SF 26 @ NO 21, Final",,$10,5.5,0.00,346,2025-09-15,Week 2,Sunday
+Velus Jones Jr.,RB,"SF 26 @ NO 21, Final",,$10,—,0.00,347,2025-09-15,Week 2,Sunday
+Mason Tipton,WR,"SF 26 @ NO 21, Final",,$10,1.9,0.00,348,2025-09-15,Week 2,Sunday
+Devin Neal,RB,"SF 26 @ NO 21, Final",,$10,0.9,0.00,349,2025-09-15,Week 2,Sunday
+Moliki Matavao,TE,"SF 26 @ NO 21, Final",,$10,—,0.00,350,2025-09-15,Week 2,Sunday
+Skyy Moore,WR,"SF 26 @ NO 21, Final",,$10,—,0.00,351,2025-09-15,Week 2,Sunday
+Tyler Shough,QB,"SF 26 @ NO 21, Final",,$20,—,0.00,352,2025-09-15,Week 2,Sunday
+Trey Palmer,WR,"SF 26 @ NO 21, Final",,$10,1.9,0.00,353,2025-09-15,Week 2,Sunday
+Marquez Valdes-Scantling,WR,"SF 26 @ NO 21, Final",TGT,$10,—,0.00,354,2025-09-15,Week 2,Sunday
+Jack Stoll,TE,"SF 26 @ NO 21, Final",,$10,—,0.00,355,2025-09-15,Week 2,Sunday
+Russell Gage Jr.,WR,"SF 26 @ NO 21, Final",,$10,—,0.00,356,2025-09-15,Week 2,Sunday
+Joshua Dobbs,QB,"NE 33 @ MIA 27, Final",,$20,10.9,0.00,357,2025-09-15,Week 2,Sunday
+Jack Westover,RB,"NE 33 @ MIA 27, Final",,$10,—,0.00,358,2025-09-15,Week 2,Sunday
+Kyle Williams,WR,"NE 33 @ MIA 27, Final",,$10,1.7,0.00,359,2025-09-15,Week 2,Sunday
+Efton Chism III,WR,"NE 33 @ MIA 27, Final",,$10,—,0.00,360,2025-09-15,Week 2,Sunday
+Zach Wilson,QB,"NE 33 @ MIA 27, Final",,$20,1.6,0.00,361,2025-09-15,Week 2,Sunday
+Tanner Conner,TE,"NE 33 @ MIA 27, Final",,$10,3.0,0.00,362,2025-09-15,Week 2,Sunday
+Julian Hill,TE,"NE 33 @ MIA 27, Final",,$10,1.0,0.00,363,2025-09-15,Week 2,Sunday
+Jaylen WrightO,RB,"NE 33 @ MIA 27, Final",,$10,1.9,0.00,364,2025-09-15,Week 2,Sunday
+Tahj Washington,WR,"NE 33 @ MIA 27, Final",,$10,—,0.00,365,2025-09-15,Week 2,Sunday
+Quinn Ewers,QB,"NE 33 @ MIA 27, Final",,$20,—,0.00,366,2025-09-15,Week 2,Sunday
+Darren WallerO,TE,"NE 33 @ MIA 27, Final",,$13,—,0.00,367,2025-09-15,Week 2,Sunday
+Tommy DeVito,QB,"NE 33 @ MIA 27, Final",,$20,6.7,0.00,368,2025-09-15,Week 2,Sunday
+Jeff Wilson Jr.,RB,"NE 33 @ MIA 27, Final",,$10,1.3,0.00,369,2025-09-15,Week 2,Sunday
+Johnny Mundt,TE,"JAC 27 @ CIN 31, Final",,$10,—,0.00,370,2025-09-15,Week 2,Sunday
+Nick Mullens,QB,"JAC 27 @ CIN 31, Final",,$20,0.3,0.00,371,2025-09-15,Week 2,Sunday
+Hunter Long,TE,"JAC 27 @ CIN 31, Final",,$10,7.1,0.00,372,2025-09-15,Week 2,Sunday
+Tank Bigsby,RB,"JAC 27 @ CIN 31, Final",,$14,1.2,0.00,373,2025-09-15,Week 2,Sunday
+Samaje Perine,RB,"JAC 27 @ CIN 31, Final",,$10,0.8,0.00,374,2025-09-15,Week 2,Sunday
+Tanner Hudson,TE,"JAC 27 @ CIN 31, Final",,$10,3.2,0.00,375,2025-09-15,Week 2,Sunday
+Charlie Jones,WR,"JAC 27 @ CIN 31, Final",,$10,—,0.00,376,2025-09-15,Week 2,Sunday
+Jermaine Burton,WR,"JAC 27 @ CIN 31, Final",,$10,1.6,0.00,377,2025-09-15,Week 2,Sunday
+Erick All Jr.PUP,TE,"JAC 27 @ CIN 31, Final",,$10,3.2,0.00,378,2025-09-15,Week 2,Sunday
+Cam Grandy,TE,"JAC 27 @ CIN 31, Final",,$10,1.3,0.00,379,2025-09-15,Week 2,Sunday
+Tahj Brooks,RB,"JAC 27 @ CIN 31, Final",,$10,—,0.00,380,2025-09-15,Week 2,Sunday
+Tim Patrick,WR,"JAC 27 @ CIN 31, Final",TGT,$10,—,0.00,381,2025-09-15,Week 2,Sunday
+Cody Schrader,RB,"JAC 27 @ CIN 31, Final",,$10,0.7,0.00,382,2025-09-15,Week 2,Sunday
+Andy Dalton,QB,"CAR 22 @ ARI 27, Final",,$20,10.8,0.00,383,2025-09-15,Week 2,Sunday
+David Moore,WR,"CAR 22 @ ARI 27, Final",,$10,—,0.00,384,2025-09-15,Week 2,Sunday
+James Mitchell,TE,"CAR 22 @ ARI 27, Final",,$10,—,0.00,385,2025-09-15,Week 2,Sunday
+Jonathon BrooksPUP,RB,"CAR 22 @ ARI 27, Final",,$10,2.0,0.00,386,2025-09-15,Week 2,Sunday
+Jimmy Horn Jr.,WR,"CAR 22 @ ARI 27, Final",,$10,—,0.00,387,2025-09-15,Week 2,Sunday
+Zay Jones,WR,"CAR 22 @ ARI 27, Final",,$10,0.9,0.00,388,2025-09-15,Week 2,Sunday
+Emari Demercado,RB,"CAR 22 @ ARI 27, Final",,$10,—,0.00,389,2025-09-15,Week 2,Sunday
+Travis Vokolek,TE,"CAR 22 @ ARI 27, Final",,$10,—,0.00,390,2025-09-15,Week 2,Sunday
+Tip ReimanO,TE,"CAR 22 @ ARI 27, Final",,$10,1.5,0.00,391,2025-09-15,Week 2,Sunday
+Xavier Weaver,WR,"CAR 22 @ ARI 27, Final",,$10,—,0.00,392,2025-09-15,Week 2,Sunday
+Bam Knight,RB,"CAR 22 @ ARI 27, Final",,$10,—,0.00,393,2025-09-15,Week 2,Sunday
+Dalevon Campbell,WR,"CAR 22 @ ARI 27, Final",,$10,—,0.00,394,2025-09-15,Week 2,Sunday
+Jarrett Stidham,QB,"DEN 28 @ IND 29, Final",,$20,0.2,0.00,395,2025-09-15,Week 2,Sunday
+Lucas Krull,TE,"DEN 28 @ IND 29, Final",,$10,0.6,0.00,396,2025-09-15,Week 2,Sunday
+Jaleel McLaughlin,RB,"DEN 28 @ IND 29, Final",,$10,5.0,0.00,397,2025-09-15,Week 2,Sunday
+Nate AdkinsO,TE,"DEN 28 @ IND 29, Final",,$10,2.4,0.00,398,2025-09-15,Week 2,Sunday
+Ashton Dulin,WR,"DEN 28 @ IND 29, Final",,$10,0.8,0.00,399,2025-09-15,Week 2,Sunday
+Drew Ogletree,TE,"DEN 28 @ IND 29, Final",,$10,—,0.00,400,2025-09-15,Week 2,Sunday
+Tyler GoodsonO,RB,"DEN 28 @ IND 29, Final",,$10,3.0,0.00,401,2025-09-15,Week 2,Sunday
+Anthony Richardson Sr.,QB,"DEN 28 @ IND 29, Final",,$20,15.9,0.00,402,2025-09-15,Week 2,Sunday
+Will Mallory,TE,"DEN 28 @ IND 29, Final",,$10,0.7,0.00,403,2025-09-15,Week 2,Sunday
+Anthony Gould,WR,"DEN 28 @ IND 29, Final",,$10,—,0.00,404,2025-09-15,Week 2,Sunday
+DJ Giddens,RB,"DEN 28 @ IND 29, Final",TGT,$10,2.1,0.00,405,2025-09-15,Week 2,Sunday
+Riley Leonard,QB,"DEN 28 @ IND 29, Final",,$20,—,0.00,406,2025-09-15,Week 2,Sunday
+Denver Broncos,DEF,"DEN 28 @ IND 29, Final","29 PTS ALLOWED,SACK",$21,7.0,0.00,407,2025-09-15,Week 2,Sunday
+Ulysses Bentley IV,RB,"DEN 28 @ IND 29, Final",,$10,—,0.00,408,2025-09-15,Week 2,Sunday
+Sam Ehlinger,QB,"DEN 28 @ IND 29, Final",,$20,—,0.00,409,2025-09-15,Week 2,Sunday
+Adam Prentice,RB,"DEN 28 @ IND 29, Final",,$10,0.9,0.00,410,2025-09-15,Week 2,Sunday
+Dallas GoedertO,TE,"PHI 20 @ KC 17, Final",,$16,7.9,0.00,411,2025-09-15,Week 2,Sunday
+Tanner McKeeO,QB,"PHI 20 @ KC 17, Final",,$20,14.4,0.00,412,2025-09-15,Week 2,Sunday
+Will ShipleyO,RB,"PHI 20 @ KC 17, Final",,$10,2.6,0.00,413,2025-09-15,Week 2,Sunday
+Darius Cooper,WR,"PHI 20 @ KC 17, Final",,$10,—,0.00,414,2025-09-15,Week 2,Sunday
+Gardner Minshew,QB,"PHI 20 @ KC 17, Final",,$20,10.6,0.00,415,2025-09-15,Week 2,Sunday
+Elijah Mitchell,RB,"PHI 20 @ KC 17, Final",,$10,—,0.00,416,2025-09-15,Week 2,Sunday
+Rashee RiceSUSP,WR,"PHI 20 @ KC 17, Final",,$24,13.2,0.00,417,2025-09-15,Week 2,Sunday
+Jason Brownlee,WR,"PHI 20 @ KC 17, Final",,$10,—,0.00,418,2025-09-15,Week 2,Sunday
+Xavier WorthyO,WR,"PHI 20 @ KC 17, Final",,$26,—,0.00,419,2025-09-15,Week 2,Sunday
+Jared Wiley,TE,"PHI 20 @ KC 17, Final",,$10,1.2,0.00,420,2025-09-15,Week 2,Sunday
+Jalen RoyalsO,WR,"PHI 20 @ KC 17, Final",,$10,—,0.00,421,2025-09-15,Week 2,Sunday
+Sam Howell,QB,"PHI 20 @ KC 17, Final",,$20,0.2,0.00,422,2025-09-15,Week 2,Sunday
+Robert Tonyan,TE,"PHI 20 @ KC 17, Final",,$10,—,0.00,423,2025-09-15,Week 2,Sunday
+Kirk Cousins,QB,"ATL 22 @ MIN 6, Final",,$20,13.7,0.00,424,2025-09-15,Week 2,Sunday
+Jamal AgnewO,WR,"ATL 22 @ MIN 6, Final",,$10,—,0.00,425,2025-09-15,Week 2,Sunday
+Ray-Ray McCloud III,WR,"ATL 22 @ MIN 6, Final",2 TGT,$12,3.3,0.00,426,2025-09-15,Week 2,Sunday
+KhaDarel Hodge,WR,"ATL 22 @ MIN 6, Final",,$10,—,0.00,427,2025-09-15,Week 2,Sunday
+Charlie Woerner,TE,"ATL 22 @ MIN 6, Final",,$10,0.7,0.00,428,2025-09-15,Week 2,Sunday
+Feleipe Franks,TE,"ATL 22 @ MIN 6, Final",,$10,—,0.00,429,2025-09-15,Week 2,Sunday
+Teagan Quitoriano,TE,"ATL 22 @ MIN 6, Final",,$10,—,0.00,430,2025-09-15,Week 2,Sunday
+Casey WashingtonO,WR,"ATL 22 @ MIN 6, Final",,$10,4.8,0.00,431,2025-09-15,Week 2,Sunday
+Nathan Carter,RB,"ATL 22 @ MIN 6, Final",,$10,—,0.00,432,2025-09-15,Week 2,Sunday
+Josh Oliver,TE,"ATL 22 @ MIN 6, Final",,$10,1.0,0.00,433,2025-09-15,Week 2,Sunday
+Ty ChandlerIR,RB,"ATL 22 @ MIN 6, Final",,$10,—,0.00,434,2025-09-15,Week 2,Sunday
+Jordan AddisonSUSP,WR,"ATL 22 @ MIN 6, Final",,$20,11.6,0.00,435,2025-09-15,Week 2,Sunday
+Zavier Scott,RB,"ATL 22 @ MIN 6, Final",,$10,—,0.00,436,2025-09-15,Week 2,Sunday
+Tai Felton,WR,"ATL 22 @ MIN 6, Final",,$10,—,0.00,437,2025-09-15,Week 2,Sunday
+Gavin BartholomewPUP,TE,"ATL 22 @ MIN 6, Final",,$10,—,0.00,438,2025-09-15,Week 2,Sunday
+Max Brosmer,QB,"ATL 22 @ MIN 6, Final",,$20,—,0.00,439,2025-09-15,Week 2,Sunday
+Myles Price,WR,"ATL 22 @ MIN 6, Final",,$10,—,0.00,440,2025-09-15,Week 2,Sunday
+Ben Yurosek,TE,"ATL 22 @ MIN 6, Final",,$10,—,0.00,441,2025-09-15,Week 2,Sunday
+Carson Wentz,QB,"ATL 22 @ MIN 6, Final",,$20,2.4,0.00,442,2025-09-15,Week 2,Sunday
+David Sills V,WR,"ATL 22 @ MIN 6, Final",,$10,—,0.00,443,2025-09-15,Week 2,Sunday
+Carlos Washington Jr.,RB,"ATL 22 @ MIN 6, Final",,$10,—,0.00,444,2025-09-15,Week 2,Sunday
+Jaxson Dart,QB,"NYG 37 @ DAL 40, Final OT","RUSH ATT,-3 RUSH YD",$20,-0.3,-0.30,445,2025-09-15,Week 2,Sunday
+Cooper Rush,QB,"CLE 17 @ BAL 41, Final","3 RUSH ATT,-4 RUSH YD",$20,-0.4,-0.40,446,2025-09-15,Week 2,Sunday
+Cleveland Browns,DEF,"CLE 17 @ BAL 41, Final","35 PTS ALLOWED,3 SACK",$10,1.5,-1.00,447,2025-09-15,Week 2,Sunday
+Chicago Bears,DEF,"CHI 21 @ DET 52, Final",52 PTS ALLOWED,$12,3.5,-4.00,448,2025-09-15,Week 2,Sunday
