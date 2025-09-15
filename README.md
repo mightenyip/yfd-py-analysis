@@ -197,6 +197,74 @@ The Week 2 Thursday analysis definitively validates the parabolic hypothesis. Th
 
 The analysis was performed using `analysis_scripts/clean_hypothesis_showcase.py`, which generates the two clean visualization plots without text boxes for optimal readability.
 
+## 📊 General Analysis
+
+### Week 1/2
+
+#### Positional Salary-Performance Analysis (No Zero-Point Players)
+
+**Data Sources:** Week 1 (764 total players, 261 active) + Week 2 Sunday (448 total players, 261 active)  
+**Methodology:** Removed all zero-point players to focus on active performers only
+
+#### Key Findings
+
+**Positional Correlation Rankings:**
+
+| Position | Average Correlation | Week 1 | Week 2 Sunday | Combined | Strategic Insight |
+|----------|-------------------|---------|---------------|----------|-------------------|
+| **RB** | **0.6847** | 0.7798 | 0.5941 | 0.6803 | **BEST predictor of fantasy points** |
+| **WR** | **0.4095** | 0.3525 | 0.4621 | 0.4140 | Moderate predictive power |
+| **TE** | **0.3655** | 0.4642 | 0.2547 | 0.3776 | Inconsistent by week |
+| **QB** | **0.3319** | 0.3699 | 0.2954 | 0.3303 | Consistent but moderate |
+| **DEF** | **-0.0295** | 0.0614 | -0.1069 | -0.0431 | **NO predictive power** |
+
+#### Strategic Implications
+
+**✅ FOCUS ON RB SALARY**
+- Strongest correlation (r=0.68) - RB salary is the most reliable predictor
+- Week 1: r=0.7798 (EXCELLENT correlation)
+- Optimal value range: \$30-35 to \$35-40
+
+**✅ WR SALARY MATTERS**
+- Moderate correlation (r=0.41) - WR salary has meaningful predictive power
+- Optimal value range: \$15-20 to \$20-25
+
+**⚠️ TE SALARY INCONSISTENT**
+- Varies significantly by week (0.25 to 0.46 correlation)
+- Less reliable for salary-based predictions
+
+**⚠️ QB SALARY MODERATE**
+- Consistent but not strong correlation (r=0.33)
+- Optimal value range: \$20-25 to \$25-30
+
+**❌ DEF SALARY IRRELEVANT**
+- NO correlation with performance (r=-0.03)
+- Defense salary has NO predictive power for fantasy points
+
+#### Optimal Value Ranges by Position
+
+- **RB**: \$30-35 (Week 1) to \$35-40 (Week 2 Sunday) - 0.449-0.750 pts/\$
+- **WR**: \$15-20 (Week 2 Sunday) to \$20-25 (Week 1) - 0.489-0.561 pts/\$
+- **TE**: \$10-15 (Week 2 Sunday) to \$20-25 (Week 1) - 0.411-0.433 pts/\$
+- **QB**: \$20-25 (Week 1) to \$25-30 (Week 2 Sunday) - 0.680-0.931 pts/\$
+- **DEF**: \$10-15 across all datasets - 0.571-0.722 pts/\$
+
+#### Key Takeaway
+
+**RB salary is by far the most reliable predictor of fantasy performance**, while **DEF salary is essentially useless** for predicting points. This suggests focusing salary analysis on skill positions (RB, WR, TE, QB) and treating defense as a low-cost, low-predictability position.
+
+#### Analysis Scripts
+
+- **Positional Analysis**: `analysis_scripts/positional_analysis_no_zeros.py`
+- **Zero-Point Impact**: `analysis_scripts/zero_points_impact_analysis.py`
+- **Combined Analysis**: `analysis_scripts/combine_week1_week2_sunday_analysis.py`
+
+#### Visualizations
+
+- **Positional Analysis**: `plots_images/positional_analysis_no_zeros.png`
+- **Correlation Heatmap**: `plots_images/positional_correlation_heatmap.png`
+- **Zero-Point Impact**: `plots_images/zero_points_impact_analysis.png`
+
 ## 🛠️ Technical Details
 
 ### Selenium Configuration
