@@ -1,0 +1,35 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+David Montgomery,RB,"DET 38 @ BAL 30, Final","12 RUSH ATT,151 RUSH YD,2 RUSH TD,TGT,REC,13 REC YD",$23,15.9,28.90,1,2025-09-23 14:09:35,Week 3,Monday
+Lamar Jackson,QB,"DET 38 @ BAL 30, Final","288 PASS YD,3 PASS TD,7 RUSH ATT,35 RUSH YD",$45,27.6,27.02,2,2025-09-23 14:09:35,Week 3,Monday
+Jahmyr Gibbs,RB,"DET 38 @ BAL 30, Final","22 RUSH ATT,67 RUSH YD,2 RUSH TD,6 TGT,5 REC,32 REC YD",$40,17.4,24.40,3,2025-09-23 14:09:35,Week 3,Monday
+Mark Andrews,TE,"DET 38 @ BAL 30, Final","6 TGT,6 REC,91 REC YD,2 REC TD",$14,8.7,24.10,4,2025-09-23 14:09:35,Week 3,Monday
+Amon-Ra St. Brown,WR,"DET 38 @ BAL 30, Final","8 TGT,7 REC,77 REC YD,REC TD",$35,19.5,17.20,5,2025-09-23 14:09:35,Week 3,Monday
+Rashod Bateman,WR,"DET 38 @ BAL 30, Final","7 TGT,5 REC,63 REC YD,REC TD",$18,6.4,14.80,6,2025-09-23 14:09:35,Week 3,Monday
+Jared Goff,QB,"DET 38 @ BAL 30, Final","202 PASS YD,PASS TD,4 RUSH ATT,6 RUSH YD",$36,19.5,12.68,7,2025-09-23 14:09:35,Week 3,Monday
+Derrick Henry,RB,"DET 38 @ BAL 30, Final","12 RUSH ATT,50 RUSH YD,RUSH TD,TGT,REC,7 REC YD,FUM LOST",$37,13.7,10.20,8,2025-09-23 14:09:35,Week 3,Monday
+Detroit Lions,DEF,"DET 38 @ BAL 30, Final","30 PTS ALLOWED,7 SACK,FUM REC",$13,5.3,8.00,9,2025-09-23 14:09:35,Week 3,Monday
+Justice Hill,RB,"DET 38 @ BAL 30, Final","4 TGT,3 REC,45 REC YD",$11,3.1,6.00,10,2025-09-23 14:09:35,Week 3,Monday
+Jameson Williams,WR,"DET 38 @ BAL 30, Final","3 TGT,2 REC,43 REC YD",$25,9.2,5.30,11,2025-09-23 14:09:35,Week 3,Monday
+Sam LaPorta,TE,"DET 38 @ BAL 30, Final","4 TGT,4 REC,33 REC YD",$18,6.8,5.30,12,2025-09-23 14:09:35,Week 3,Monday
+Devontez Walker,WR,"DET 38 @ BAL 30, Final","TGT,REC,34 REC YD",$10,9.8,3.90,13,2025-09-23 14:09:35,Week 3,Monday
+Charlie Kolar,TE,"DET 38 @ BAL 30, Final","3 TGT,2 REC,22 REC YD",$10,1.6,3.20,14,2025-09-23 14:09:35,Week 3,Monday
+Zay Flowers,WR,"DET 38 @ BAL 30, Final","3 TGT,2 REC,13 REC YD",$26,12.8,2.30,15,2025-09-23 14:09:35,Week 3,Monday
+DeAndre Hopkins,WR,"DET 38 @ BAL 30, Final","2 TGT,REC,13 REC YD",$14,8.6,1.80,16,2025-09-23 14:09:35,Week 3,Monday
+Kalif Raymond,WR,"DET 38 @ BAL 30, Final","2 TGT,REC,4 REC YD",$10,2.1,0.90,17,2025-09-23 14:09:35,Week 3,Monday
+Kyle Allen,QB,"DET 38 @ BAL 30, Final",,$20,0.8,0.00,18,2025-09-23 14:09:35,Week 3,Monday
+Craig Reynolds,RB,"DET 38 @ BAL 30, Final",,$10,0.2,0.00,19,2025-09-23 14:09:35,Week 3,Monday
+Brock Wright,TE,"DET 38 @ BAL 30, Final",,$10,10.3,0.00,20,2025-09-23 14:09:35,Week 3,Monday
+Shane ZylstraIR,TE,"DET 38 @ BAL 30, Final",,$10,1.4,0.00,21,2025-09-23 14:09:36,Week 3,Monday
+Sione VakiQ,RB,"DET 38 @ BAL 30, Final",,$10,—,0.00,22,2025-09-23 14:09:36,Week 3,Monday
+Dominic Lovett,WR,"DET 38 @ BAL 30, Final",,$10,—,0.00,23,2025-09-23 14:09:36,Week 3,Monday
+Patrick RicardQ,RB,"DET 38 @ BAL 30, Final",,$10,2.2,0.00,24,2025-09-23 14:09:36,Week 3,Monday
+Cooper Rush,QB,"DET 38 @ BAL 30, Final",,$20,-0.4,0.00,25,2025-09-23 14:09:36,Week 3,Monday
+Tylan Wallace,WR,"DET 38 @ BAL 30, Final",TGT,$10,3.2,0.00,26,2025-09-23 14:09:36,Week 3,Monday
+Isaiah LikelyQ,TE,"DET 38 @ BAL 30, Final",,$13,7.3,0.00,27,2025-09-23 14:09:36,Week 3,Monday
+Keaton Mitchell,RB,"DET 38 @ BAL 30, Final",,$10,1.3,0.00,28,2025-09-23 14:09:36,Week 3,Monday
+Rasheen Ali,RB,"DET 38 @ BAL 30, Final",,$10,0.2,0.00,29,2025-09-23 14:09:36,Week 3,Monday
+LaJohntay Wester,WR,"DET 38 @ BAL 30, Final",,$10,—,0.00,30,2025-09-23 14:09:36,Week 3,Monday
+Isaac TeSlaa,WR,"DET 38 @ BAL 30, Final",2 TGT,$11,3.7,0.00,31,2025-09-23 14:09:36,Week 3,Monday
+Jacob Saylors,RB,"DET 38 @ BAL 30, Final",,$10,—,0.00,32,2025-09-23 14:09:36,Week 3,Monday
+Zaire Mitchell-Paden,TE,"DET 38 @ BAL 30, Final",,$10,—,0.00,33,2025-09-23 14:09:36,Week 3,Monday
+Baltimore Ravens,DEF,"DET 38 @ BAL 30, Final",38 PTS ALLOWED,$15,2.7,-4.00,34,2025-09-23 14:09:36,Week 3,Monday
