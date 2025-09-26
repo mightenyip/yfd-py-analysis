@@ -1,0 +1,36 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Kyler Murray,QB,"SEA 23 @ ARI 20, Final","200 PASS YD,2 PASS TD,2 INT,5 RUSH ATT,41 RUSH YD",$34,16.4,18.10,1,2025-09-26 19:43:34,Week 4,Thursday
+Sam Darnold,QB,"SEA 23 @ ARI 20, Final","242 PASS YD,PASS TD,RUSH ATT,24 RUSH YD",$32,14.0,16.08,2,2025-09-26 19:43:34,Week 4,Thursday
+Marvin Harrison Jr.,WR,"SEA 23 @ ARI 20, Final","10 TGT,6 REC,66 REC YD,REC TD",$24,10.2,15.60,3,2025-09-26 19:43:34,Week 4,Thursday
+Kenneth Walker III,RB,"SEA 23 @ ARI 20, Final","19 RUSH ATT,81 RUSH YD,2 TGT,REC,29 REC YD",$29,12.8,11.50,4,2025-09-26 19:43:34,Week 4,Thursday
+Zach Charbonnet,RB,"SEA 23 @ ARI 20, Final","12 RUSH ATT,39 RUSH YD,RUSH TD,2 TGT,2 REC,5 REC YD",$19,7.7,11.40,5,2025-09-26 19:43:34,Week 4,Thursday
+Jaxon Smith-Njigba,WR,"SEA 23 @ ARI 20, Final","3 RUSH ATT,11 RUSH YD,5 TGT,4 REC,79 REC YD",$32,14.6,11.00,6,2025-09-26 19:43:35,Week 4,Thursday
+Seattle Seahawks,DEF,"SEA 23 @ ARI 20, Final","20 PTS ALLOWED,6 SACK,2 INT",$19,12.3,11.00,7,2025-09-26 19:43:35,Week 4,Thursday
+AJ Barner,TE,"SEA 23 @ ARI 20, Final","3 TGT,3 REC,32 REC YD,REC TD",$10,6.0,10.70,8,2025-09-26 19:43:35,Week 4,Thursday
+Emari Demercado,RB,"SEA 23 @ ARI 20, Final","2 RUSH ATT,8 RUSH YD,2 TGT,2 REC,13 REC YD,REC TD",$10,3.0,9.10,9,2025-09-26 19:43:35,Week 4,Thursday
+Trey McBride,TE,"SEA 23 @ ARI 20, Final","11 TGT,7 REC,52 REC YD",$24,10.4,8.70,10,2025-09-26 19:43:35,Week 4,Thursday
+Trey Benson,RB,"SEA 23 @ ARI 20, Final","8 RUSH ATT,35 RUSH YD,5 TGT,5 REC,19 REC YD",$18,7.2,7.90,11,2025-09-26 19:43:35,Week 4,Thursday
+Greg Dortch,WR,"SEA 23 @ ARI 20, Final","RUSH ATT,4 RUSH YD,5 TGT,4 REC,35 REC YD",$10,2.4,5.90,12,2025-09-26 19:43:35,Week 4,Thursday
+Elijah Arroyo,TE,"SEA 23 @ ARI 20, Final","4 TGT,2 REC,44 REC YD",$10,2.7,5.40,13,2025-09-26 19:43:35,Week 4,Thursday
+Arizona Cardinals,DEF,"SEA 23 @ ARI 20, Final","23 PTS ALLOWED,3 SACK,FUM REC",$14,7.3,5.00,14,2025-09-26 19:43:35,Week 4,Thursday
+Cooper Kupp,WR,"SEA 23 @ ARI 20, Final","5 TGT,4 REC,26 REC YD",$18,5.9,4.60,15,2025-09-26 19:43:35,Week 4,Thursday
+Michael Wilson,WR,"SEA 23 @ ARI 20, Final","6 TGT,3 REC,15 REC YD",$12,3.2,3.00,16,2025-09-26 19:43:35,Week 4,Thursday
+Jake Bobo,WR,"SEA 23 @ ARI 20, Final","TGT,REC,17 REC YD",$10,2.2,2.20,17,2025-09-26 19:43:35,Week 4,Thursday
+Tory Horton,WR,"SEA 23 @ ARI 20, Final","2 TGT,REC,10 REC YD",$16,7.1,1.50,18,2025-09-26 19:43:35,Week 4,Thursday
+Eric Saubert,TE,"SEA 23 @ ARI 20, Final",,$10,0.4,0.00,19,2025-09-26 19:43:35,Week 4,Thursday
+Drew Lock,QB,"SEA 23 @ ARI 20, Final",,$20,0.5,0.00,20,2025-09-26 19:43:35,Week 4,Thursday
+Dareke Young,WR,"SEA 23 @ ARI 20, Final",,$10,0.6,0.00,21,2025-09-26 19:43:35,Week 4,Thursday
+Brady Russell,RB,"SEA 23 @ ARI 20, Final",,$10,—,0.00,22,2025-09-26 19:43:35,Week 4,Thursday
+George Holani,RB,"SEA 23 @ ARI 20, Final",,$10,2.3,0.00,23,2025-09-26 19:43:35,Week 4,Thursday
+Jalen Milroe,QB,"SEA 23 @ ARI 20, Final",,$20,0.2,0.00,24,2025-09-26 19:43:35,Week 4,Thursday
+Robbie OuztsIR,RB,"SEA 23 @ ARI 20, Final",,$10,—,0.00,25,2025-09-26 19:43:35,Week 4,Thursday
+Nick KallerupO,TE,"SEA 23 @ ARI 20, Final",,$10,—,0.00,26,2025-09-26 19:43:35,Week 4,Thursday
+Jacoby Brissett,QB,"SEA 23 @ ARI 20, Final",,$20,0.2,0.00,27,2025-09-26 19:43:35,Week 4,Thursday
+Zay JonesO,WR,"SEA 23 @ ARI 20, Final",,$10,1.5,0.00,28,2025-09-26 19:43:35,Week 4,Thursday
+James ConnerIR,RB,"SEA 23 @ ARI 20, Final",,$10,9.8,0.00,29,2025-09-26 19:43:35,Week 4,Thursday
+Bam Knight,RB,"SEA 23 @ ARI 20, Final",,$10,—,0.00,30,2025-09-26 19:43:35,Week 4,Thursday
+Elijah Higgins,TE,"SEA 23 @ ARI 20, Final",,$10,1.9,0.00,31,2025-09-26 19:43:35,Week 4,Thursday
+Travis VokolekO,TE,"SEA 23 @ ARI 20, Final",,$10,—,0.00,32,2025-09-26 19:43:35,Week 4,Thursday
+Tip Reiman,TE,"SEA 23 @ ARI 20, Final",,$10,1.1,0.00,33,2025-09-26 19:43:35,Week 4,Thursday
+Xavier Weaver,WR,"SEA 23 @ ARI 20, Final",TGT,$10,—,0.00,34,2025-09-26 19:43:35,Week 4,Thursday
+Simi FehokoQ,WR,"SEA 23 @ ARI 20, Final",,$10,—,0.00,35,2025-09-26 19:43:35,Week 4,Thursday

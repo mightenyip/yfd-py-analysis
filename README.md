@@ -14,7 +14,59 @@ This project scrapes Yahoo's Daily Fantasy Sports completed games page to extrac
 
 The scraper captures data from all completed NFL games and organizes players by position into separate CSV files.
 
-**📅 Note: Current analysis is based on Week 1 data from the 2025 NFL season. Results may vary significantly as the season progresses and sample sizes increase.**
+**📅 Note: Current analysis includes Week 1-4 data from the 2025 NFL season. Results may vary significantly as the season progresses and sample sizes increase.**
+
+## 📊 Thursday Night Football Analysis
+
+### Position-Salary Heatmap
+
+Our analysis of Thursday Night Football games (Week 2-4) reveals optimal salary ranges for each position:
+
+![Thursday Night Football Position-Salary Heatmap](plots_images/thursday_position_salary_heatmap.png)
+
+**Key Insights:**
+- **TEs in $16-20 range**: Best value (1.082 pts/$)
+- **RBs in $10-15 range**: Excellent value (0.643 pts/$)
+- **QBs in $21-25 range**: Strong value (0.994 pts/$)
+- **WRs in $21-25 range**: Good value (0.500 pts/$)
+- **DEFs in $16-20 range**: Decent value (0.428 pts/$)
+
+### Raw Statistics by Position-Salary Bin
+
+**Player Counts by Position and Salary Bin:**
+```
+salary_bin  $10-15  $16-20  $21-25  $26-30  $31-35  $36-40  $41+
+position                                                        
+DEF              4       2       0       0       0       0     0
+QB               0       0       1       1       2       1     1
+RB               4       3       1       1       1       2     0
+TE               8       2       1       0       0       0     0
+WR              14       4       5       1       1       0     0
+```
+
+**Points per Dollar by Position and Salary Bin:**
+```
+salary_bin  $10-15  $16-20  $21-25  $26-30  $31-35  $36-40   $41+
+position                                                         
+DEF          0.178   0.428     NaN     NaN     NaN     NaN    NaN
+QB             NaN     NaN   0.994   0.494   0.517   0.505  0.512
+RB           0.643   0.413   0.071   0.397   0.411   0.413    NaN
+TE           0.535   1.082   0.362     NaN     NaN     NaN    NaN
+WR           0.365   0.259   0.500   0.261   0.344     NaN    NaN
+```
+
+**Average Points by Position and Salary Bin:**
+```
+salary_bin  $10-15  $16-20  $21-25  $26-30  $31-35  $36-40  $41+
+position                                                        
+DEF            2.5     8.0     NaN     NaN     NaN     NaN   NaN
+QB             NaN     NaN    20.9    13.8    17.1    19.7  23.0
+RB             6.4     7.6     1.7    11.5    14.4    16.0   NaN
+TE             5.8    18.4     8.7     NaN     NaN     NaN   NaN
+WR             4.0     4.9    11.8     7.3    11.0     NaN   NaN
+```
+
+**Total Active Players Analyzed:** 60 players across 3 Thursday Night Football games
 
 ## 🚀 Quick Start
 
