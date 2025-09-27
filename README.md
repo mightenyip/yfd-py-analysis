@@ -68,6 +68,58 @@ WR             4.0     4.9    11.8     7.3    11.0     NaN   NaN
 
 **Total Active Players Analyzed:** 60 players across 3 Thursday Night Football games
 
+## 📊 Sunday Games Analysis
+
+### Position-Salary Heatmap
+
+Our analysis of Sunday games (Week 2-3) reveals different optimal salary ranges compared to Thursday Night Football:
+
+![Sunday Games Position-Salary Heatmap](plots_images/sunday_position_salary_heatmap.png)
+
+**Key Insights:**
+- **DEFs in $10-15 range**: Best value (0.880 pts/$)
+- **QBs in $21-25 range**: Strong value (0.650 pts/$)
+- **RBs in $21-25 range**: Good value (0.542 pts/$)
+- **WRs in $10-15 range**: Decent value (0.492 pts/$)
+- **TEs in $10-15 range**: Moderate value (0.434 pts/$)
+
+### Raw Statistics by Position-Salary Bin
+
+**Player Counts by Position and Salary Bin:**
+```
+salary_bin  $10-15  $16-20  $21-25  $26-30  $31-35  $36-40  $41+
+position                                                        
+DEF             28      13       2       0       0       0     0
+QB               0      19      14      10      13       7     1
+RB              59      17      17       6      14       2     7
+TE              75      11       3       3       0       0     0
+WR             100      25      23      21      16       4     3
+```
+
+**Points per Dollar by Position and Salary Bin:**
+```
+salary_bin  $10-15  $16-20  $21-25  $26-30  $31-35  $36-40   $41+
+position                                                         
+DEF          0.880   0.387   0.452     NaN     NaN     NaN    NaN
+QB             NaN   0.422   0.650   0.526   0.538   0.493  0.288
+RB           0.387   0.433   0.542   0.297   0.396   0.639  0.355
+TE           0.434   0.315   0.275   0.391     NaN     NaN    NaN
+WR           0.492   0.418   0.417   0.431   0.389   0.292  0.416
+```
+
+**Average Points by Position and Salary Bin:**
+```
+salary_bin  $10-15  $16-20  $21-25  $26-30  $31-35  $36-40  $41+
+position                                                        
+DEF           10.1     6.8     9.5     NaN     NaN     NaN   NaN
+QB             NaN     8.4    15.7    15.0    17.5    18.3  11.8
+RB             4.2     7.6    12.1     8.5    13.1    23.8  15.3
+TE             4.9     5.6     5.8    10.5     NaN     NaN   NaN
+WR             5.3     7.5     9.7    11.8    12.7    10.7  17.2
+```
+
+**Total Active Players Analyzed:** 513 players across 2 Sunday game weeks
+
 ## 🚀 Quick Start
 
 ### Prerequisites
