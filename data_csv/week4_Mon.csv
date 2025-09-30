@@ -1,0 +1,74 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Justin Fields,QB,"NYJ 21 @ MIA 27, Final","226 PASS YD,PASS TD,7 RUSH ATT,81 RUSH YD,RUSH TD,FUM LOST,2PT",$27,20.2,27.14,1,2025-09-30 12:31:47,Week 4,Monday
+Bo Nix,QB,"CIN 3 @ DEN 28, Final","326 PASS YD,2 PASS TD,INT,6 RUSH ATT,7 RUSH YD,RUSH TD",$34,17.6,26.74,2,2025-09-30 12:31:47,Week 4,Monday
+RJ Harvey,RB,"CIN 3 @ DEN 28, Final","14 RUSH ATT,58 RUSH YD,5 TGT,4 REC,40 REC YD,REC TD",$15,7.8,17.80,3,2025-09-30 12:31:47,Week 4,Monday
+Marvin Mims Jr.,WR,"CIN 3 @ DEN 28, Final","RUSH ATT,16 RUSH YD,RUSH TD,6 TGT,6 REC,69 REC YD",$15,7.1,17.50,4,2025-09-30 12:31:47,Week 4,Monday
+Garrett Wilson,WR,"NYJ 21 @ MIA 27, Final","8 TGT,6 REC,82 REC YD,REC TD",$25,15.6,17.20,5,2025-09-30 12:31:47,Week 4,Monday
+De'Von Achane,RB,"NYJ 21 @ MIA 27, Final","20 RUSH ATT,99 RUSH YD,RUSH TD,2 TGT,REC,2 REC YD",$39,16.6,16.60,6,2025-09-30 12:31:47,Week 4,Monday
+Courtland Sutton,WR,"CIN 3 @ DEN 28, Final","6 TGT,5 REC,81 REC YD,REC TD",$28,13.4,16.60,7,2025-09-30 12:31:47,Week 4,Monday
+Darren Waller,TE,"NYJ 21 @ MIA 27, Final","4 TGT,3 REC,27 REC YD,2 REC TD",$12,16.2,16.20,8,2025-09-30 12:31:47,Week 4,Monday
+Tua Tagovailoa,QB,"NYJ 21 @ MIA 27, Final","177 PASS YD,2 PASS TD,3 RUSH ATT,6 RUSH YD",$28,14.1,15.68,9,2025-09-30 12:31:47,Week 4,Monday
+Breece Hall,RB,"NYJ 21 @ MIA 27, Final","14 RUSH ATT,81 RUSH YD,6 TGT,5 REC,30 REC YD",$27,10.3,13.60,10,2025-09-30 12:31:47,Week 4,Monday
+J.K. Dobbins,RB,"CIN 3 @ DEN 28, Final","16 RUSH ATT,101 RUSH YD,TGT,REC,4 REC YD",$26,13.6,11.00,11,2025-09-30 12:31:47,Week 4,Monday
+Denver Broncos,DEF,"CIN 3 @ DEN 28, Final","3 PTS ALLOWED,3 SACK",$18,8.3,10.00,12,2025-09-30 12:31:47,Week 4,Monday
+Tyreek HillO,WR,"NYJ 21 @ MIA 27, Final","6 TGT,6 REC,67 REC YD",$27,10.8,9.70,13,2025-09-30 12:31:47,Week 4,Monday
+Mason Taylor,TE,"NYJ 21 @ MIA 27, Final","7 TGT,5 REC,65 REC YD",$10,4.1,9.00,14,2025-09-30 12:31:47,Week 4,Monday
+Chase Brown,RB,"CIN 3 @ DEN 28, Final","10 RUSH ATT,40 RUSH YD,3 TGT,3 REC,31 REC YD",$30,8.1,8.60,15,2025-09-30 12:31:47,Week 4,Monday
+Miami Dolphins,DEF,"NYJ 21 @ MIA 27, Final","21 PTS ALLOWED,2 SACK,3 FUM REC",$10,4.3,8.00,16,2025-09-30 12:31:47,Week 4,Monday
+Troy Franklin,WR,"CIN 3 @ DEN 28, Final","8 TGT,4 REC,55 REC YD",$17,8.9,7.50,17,2025-09-30 12:31:48,Week 4,Monday
+Jaylen Waddle,WR,"NYJ 21 @ MIA 27, Final","6 TGT,3 REC,48 REC YD",$24,9.8,6.30,18,2025-09-30 12:31:48,Week 4,Monday
+Jake Browning,QB,"CIN 3 @ DEN 28, Final","125 PASS YD,3 RUSH ATT,4 RUSH YD",$24,11.3,5.40,19,2025-09-30 12:31:48,Week 4,Monday
+Evan Engram,TE,"CIN 3 @ DEN 28, Final","7 TGT,4 REC,29 REC YD",$13,3.4,4.90,20,2025-09-30 12:31:48,Week 4,Monday
+Ja'Marr Chase,WR,"CIN 3 @ DEN 28, Final","8 TGT,5 REC,23 REC YD",$38,11.1,4.80,21,2025-09-30 12:31:48,Week 4,Monday
+Tee Higgins,WR,"CIN 3 @ DEN 28, Final","6 TGT,3 REC,32 REC YD",$30,6.2,4.70,22,2025-09-30 12:31:48,Week 4,Monday
+Adam Trautman,TE,"CIN 3 @ DEN 28, Final","3 TGT,2 REC,32 REC YD",$10,4.6,4.20,23,2025-09-30 12:31:48,Week 4,Monday
+Isaiah Davis,RB,"NYJ 21 @ MIA 27, Final","3 RUSH ATT,9 RUSH YD,2 TGT,2 REC,18 REC YD",$10,1.7,3.70,24,2025-09-30 12:31:48,Week 4,Monday
+Andrei Iosivas,WR,"CIN 3 @ DEN 28, Final","RUSH ATT,5 RUSH YD,TGT,REC,22 REC YD",$12,2.5,3.20,25,2025-09-30 12:31:48,Week 4,Monday
+Malik Washington,WR,"NYJ 21 @ MIA 27, Final","2 RUSH ATT,8 RUSH YD,3 TGT,2 REC,13 REC YD",$10,5.2,3.10,26,2025-09-30 12:31:48,Week 4,Monday
+Jeremy Ruckert,TE,"NYJ 21 @ MIA 27, Final","TGT,REC,23 REC YD",$10,4.1,2.80,27,2025-09-30 12:31:48,Week 4,Monday
+Julian Hill,TE,"NYJ 21 @ MIA 27, Final","2 TGT,REC,19 REC YD",$10,1.3,2.40,28,2025-09-30 12:31:48,Week 4,Monday
+Tyler Badie,RB,"CIN 3 @ DEN 28, Final","2 TGT,REC,11 REC YD",$10,1.9,1.60,29,2025-09-30 12:31:48,Week 4,Monday
+Nate Adkins,TE,"CIN 3 @ DEN 28, Final","3 TGT,2 REC,5 REC YD",$10,0.8,1.50,30,2025-09-30 12:31:48,Week 4,Monday
+Mitch Tinsley,WR,"CIN 3 @ DEN 28, Final","2 TGT,REC,9 REC YD",$10,3.1,1.40,31,2025-09-30 12:31:48,Week 4,Monday
+Allen Lazard,WR,"NYJ 21 @ MIA 27, Final","TGT,REC,8 REC YD",$11,4.8,1.30,32,2025-09-30 12:31:48,Week 4,Monday
+Mike Gesicki,TE,"CIN 3 @ DEN 28, Final","TGT,REC,8 REC YD",$10,1.9,1.30,33,2025-09-30 12:31:48,Week 4,Monday
+Ollie Gordon II,RB,"NYJ 21 @ MIA 27, Final","6 RUSH ATT,10 RUSH YD,TGT",$11,3.4,1.00,34,2025-09-30 12:31:48,Week 4,Monday
+Cincinnati Bengals,DEF,"CIN 3 @ DEN 28, Final","28 PTS ALLOWED,INT",$10,3.0,1.00,35,2025-09-30 12:31:48,Week 4,Monday
+Braelon AllenQ,RB,"NYJ 21 @ MIA 27, Final","4 RUSH ATT,26 RUSH YD,FUM LOST",$10,3.6,0.60,36,2025-09-30 12:31:48,Week 4,Monday
+Nick Westbrook-Ikhine,WR,"NYJ 21 @ MIA 27, Final","TGT,REC,REC YD",$11,1.2,0.60,37,2025-09-30 12:31:48,Week 4,Monday
+Samaje Perine,RB,"CIN 3 @ DEN 28, Final","RUSH ATT,4 RUSH YD,TGT",$10,0.5,0.40,38,2025-09-30 12:31:48,Week 4,Monday
+Adam Prentice,RB,"CIN 3 @ DEN 28, Final","RUSH ATT,4 RUSH YD",$10,0.7,0.40,39,2025-09-30 12:31:48,Week 4,Monday
+Tyrod Taylor,QB,"NYJ 21 @ MIA 27, Final",,$20,13.0,0.00,40,2025-09-30 12:31:48,Week 4,Monday
+Josh Reynolds,WR,"NYJ 21 @ MIA 27, Final",2 TGT,$10,1.4,0.00,41,2025-09-30 12:31:48,Week 4,Monday
+Andrew Beck,RB,"NYJ 21 @ MIA 27, Final",,$10,—,0.00,42,2025-09-30 12:31:48,Week 4,Monday
+Tyler Johnson,WR,"NYJ 21 @ MIA 27, Final",,$10,2.8,0.00,43,2025-09-30 12:31:48,Week 4,Monday
+Kene NwangwuQ,RB,"NYJ 21 @ MIA 27, Final",,$10,—,0.00,44,2025-09-30 12:31:48,Week 4,Monday
+Jelani Woods,TE,"NYJ 21 @ MIA 27, Final",,$10,—,0.00,45,2025-09-30 12:31:48,Week 4,Monday
+Irvin CharlesPUP,WR,"NYJ 21 @ MIA 27, Final",,$10,—,0.00,46,2025-09-30 12:31:48,Week 4,Monday
+Stone Smartt,TE,"NYJ 21 @ MIA 27, Final",,$10,3.0,0.00,47,2025-09-30 12:31:48,Week 4,Monday
+Arian Smith,WR,"NYJ 21 @ MIA 27, Final",,$10,0.5,0.00,48,2025-09-30 12:31:48,Week 4,Monday
+Alec Ingold,RB,"NYJ 21 @ MIA 27, Final",,$10,1.5,0.00,49,2025-09-30 12:31:48,Week 4,Monday
+Zach Wilson,QB,"NYJ 21 @ MIA 27, Final",,$20,1.6,0.00,50,2025-09-30 12:31:48,Week 4,Monday
+Dee Eskridge,WR,"NYJ 21 @ MIA 27, Final",,$10,0.9,0.00,51,2025-09-30 12:31:48,Week 4,Monday
+Tanner Conner,TE,"NYJ 21 @ MIA 27, Final",,$10,1.6,0.00,52,2025-09-30 12:31:48,Week 4,Monday
+Jaylen Wright,RB,"NYJ 21 @ MIA 27, Final",,$10,1.9,0.00,53,2025-09-30 12:31:48,Week 4,Monday
+Tahj Washington,WR,"NYJ 21 @ MIA 27, Final",,$10,—,0.00,54,2025-09-30 12:31:48,Week 4,Monday
+Quinn Ewers,QB,"NYJ 21 @ MIA 27, Final",,$20,—,0.00,55,2025-09-30 12:31:48,Week 4,Monday
+New York Jets,DEF,"NYJ 21 @ MIA 27, Final",27 PTS ALLOWED,$10,3.0,0.00,56,2025-09-30 12:31:48,Week 4,Monday
+Isaiah Williams,WR,"NYJ 21 @ MIA 27, Final",,$10,—,0.00,57,2025-09-30 12:31:48,Week 4,Monday
+Brady Cook,QB,"NYJ 21 @ MIA 27, Final",,$20,—,0.00,58,2025-09-30 12:31:48,Week 4,Monday
+Tanner Hudson,TE,"CIN 3 @ DEN 28, Final",,$10,3.2,0.00,59,2025-09-30 12:31:48,Week 4,Monday
+Noah FantQ,TE,"CIN 3 @ DEN 28, Final",,$10,6.0,0.00,60,2025-09-30 12:31:48,Week 4,Monday
+Drew Sample,TE,"CIN 3 @ DEN 28, Final",,$10,3.4,0.00,61,2025-09-30 12:31:49,Week 4,Monday
+Charlie Jones,WR,"CIN 3 @ DEN 28, Final",,$10,—,0.00,62,2025-09-30 12:31:49,Week 4,Monday
+Jermaine Burton,WR,"CIN 3 @ DEN 28, Final",,$10,1.6,0.00,63,2025-09-30 12:31:49,Week 4,Monday
+Erick All Jr.PUP,TE,"CIN 3 @ DEN 28, Final",,$10,3.2,0.00,64,2025-09-30 12:31:49,Week 4,Monday
+Cam Grandy,TE,"CIN 3 @ DEN 28, Final",,$10,1.1,0.00,65,2025-09-30 12:31:49,Week 4,Monday
+Tahj Brooks,RB,"CIN 3 @ DEN 28, Final",,$10,0.6,0.00,66,2025-09-30 12:31:49,Week 4,Monday
+Trent Sherfield Sr.,WR,"CIN 3 @ DEN 28, Final",,$10,0.8,0.00,67,2025-09-30 12:31:49,Week 4,Monday
+Jarrett Stidham,QB,"CIN 3 @ DEN 28, Final",,$20,0.2,0.00,68,2025-09-30 12:31:49,Week 4,Monday
+Sam Ehlinger,QB,"CIN 3 @ DEN 28, Final",,$20,—,0.00,69,2025-09-30 12:31:49,Week 4,Monday
+Lucas Krull,TE,"CIN 3 @ DEN 28, Final",,$10,0.8,0.00,70,2025-09-30 12:31:49,Week 4,Monday
+Jaleel McLaughlin,RB,"CIN 3 @ DEN 28, Final",,$10,5.0,0.00,71,2025-09-30 12:31:49,Week 4,Monday
+Pat Bryant,WR,"CIN 3 @ DEN 28, Final",TGT,$10,1.4,0.00,72,2025-09-30 12:31:49,Week 4,Monday
+Brett Rypien,QB,"CIN 3 @ DEN 28, Final",,$20,—,0.00,73,2025-09-30 12:31:49,Week 4,Monday
