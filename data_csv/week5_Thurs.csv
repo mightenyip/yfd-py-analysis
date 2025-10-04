@@ -1,0 +1,37 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Kyren Williams,RB,"SF 26 @ LA 23, Final OT","14 RUSH ATT, 65 RUSH YD, 10 TGT, 8 REC, 66 REC YD, 2 REC TD, FUM LOST",$32,15.3,27.10,1,2025-10-04 15:50:00,Week 5,Thursday
+Matthew Stafford,QB,"SF 26 @ LA 23, Final OT","389 PASS YD, 3 PASS TD, RUSH ATT, FUM LOST",$33,19.9,25.56,2,2025-10-04 15:50:00,Week 5,Thursday
+Christian McCaffrey,RB,"SF 26 @ LA 23, Final OT","22 RUSH ATT, 57 RUSH YD, 9 TGT, 8 REC, 82 REC YD, REC TD",$40,20.9,23.90,3,2025-10-04 15:50:00,Week 5,Thursday
+Mac Jones,QB,"SF 26 @ LA 23, Final OT","342 PASS YD, 2 PASS TD, 4 RUSH ATT, 5 RUSH YD",$20,19.4,22.18,4,2025-10-04 15:50:00,Week 5,Thursday
+Puka Nacua,WR,"SF 26 @ LA 23, Final OT","12 TGT, 10 REC, 85 REC YD, REC TD",$43,21.6,19.50,5,2025-10-04 15:50:00,Week 5,Thursday
+Kendrick Bourne,WR,"SF 26 @ LA 23, Final OT","11 TGT, 10 REC, 142 REC YD",$10,8.0,19.20,6,2025-10-04 15:50:00,Week 5,Thursday
+Jake Tonges,TE,"SF 26 @ LA 23, Final OT","11 TGT, 7 REC, 41 REC YD, REC TD",$10,8.8,13.60,7,2025-10-04 15:50:00,Week 5,Thursday
+Davante Adams,WR,"SF 26 @ LA 23, Final OT","11 TGT, 5 REC, 88 REC YD",$31,12.9,11.30,8,2025-10-04 15:50:00,Week 5,Thursday
+Tutu Atwell,WR,"SF 26 @ LA 23, Final OT","4 TGT, 2 REC, 72 REC YD",$10,4.9,8.20,9,2025-10-04 15:50:00,Week 5,Thursday
+San Francisco 49ers,DEF,"SF 26 @ LA 23, Final OT","23 PTS ALLOWED, SACK, 2 FUM REC, BLK KICK",$10,5.2,7.00,10,2025-10-04 15:50:00,Week 5,Thursday
+Demarcus Robinson,WR,"SF 26 @ LA 23, Final OT","7 TGT, 3 REC, 39 REC YD",$10,4.0,5.40,11,2025-10-04 15:50:00,Week 5,Thursday
+Jordan Whittington,WR,"SF 26 @ LA 23, Final OT","3 TGT, 2 REC, 33 REC YD",$10,2.7,4.30,12,2025-10-04 15:50:00,Week 5,Thursday
+Kyle Juszczyk,RB,"SF 26 @ LA 23, Final OT","RUSH ATT, -1 RUSH YD, 4 TGT, 3 REC, 21 REC YD",$10,4.0,3.50,13,2025-10-04 15:50:00,Week 5,Thursday
+Davis Allen,TE,"SF 26 @ LA 23, Final OT","2 TGT, 2 REC, 24 REC YD",$10,4.0,3.40,14,2025-10-04 15:50:00,Week 5,Thursday
+Terrance Ferguson,TE,"SF 26 @ LA 23, Final OT","TGT, REC, 21 REC YD",$10,2.6,2.60,15,2025-10-04 15:50:00,Week 5,Thursday
+Marquez Valdes-Scantling,WR,"SF 26 @ LA 23, Final OT","3 TGT, REC, 9 REC YD",$10,0.9,1.40,16,2025-10-04 15:50:00,Week 5,Thursday
+Luke Farrell,TE,"SF 26 @ LA 23, Final OT","2 TGT, REC, 8 REC YD",$10,2.9,1.30,17,2025-10-04 15:50:00,Week 5,Thursday
+Blake Corum,RB,"SF 26 @ LA 23, Final OT","RUSH ATT, 13 RUSH YD, 2 TGT",$10,4.3,1.30,18,2025-10-04 15:50:00,Week 5,Thursday
+Brian Robinson Jr.,RB,"SF 26 @ LA 23, Final OT","5 RUSH ATT, 12 RUSH YD",$10,2.4,1.20,19,2025-10-04 15:50:00,Week 5,Thursday
+Los Angeles Rams,DEF,"SF 26 @ LA 23, Final OT","26 PTS ALLOWED, SACK",$14,6.6,1.00,20,2025-10-04 15:50:00,Week 5,Thursday
+Skyy Moore,WR,"SF 26 @ LA 23, Final OT","RUSH ATT, RUSH YD",$10,0.3,0.10,21,2025-10-04 15:50:00,Week 5,Thursday
+Brandon Aiyuk,WR,"SF 26 @ LA 23, Final OT","PUP",$12,7.1,0.00,22,2025-10-04 15:50:00,Week 5,Thursday
+Jauan Jennings,WR,"SF 26 @ LA 23, Final OT","",$23,8.5,0.00,23,2025-10-04 15:50:00,Week 5,Thursday
+Brock Purdy,QB,"SF 26 @ LA 23, Final OT","",$33,19.2,0.00,24,2025-10-04 15:50:00,Week 5,Thursday
+Ricky Pearsall,WR,"SF 26 @ LA 23, Final OT","",$28,10.6,0.00,25,2025-10-04 15:50:00,Week 5,Thursday
+Isaac Guerendo,RB,"SF 26 @ LA 23, Final OT","",$10,,0.00,26,2025-10-04 15:50:00,Week 5,Thursday
+Jordan Watkins,WR,"SF 26 @ LA 23, Final OT","",$10,,0.00,27,2025-10-04 15:50:00,Week 5,Thursday
+Jordan James,RB,"SF 26 @ LA 23, Final OT","",$10,,0.00,28,2025-10-04 15:50:00,Week 5,Thursday
+Jimmy Garoppolo,QB,"SF 26 @ LA 23, Final OT","",$20,,0.00,29,2025-10-04 15:50:00,Week 5,Thursday
+Tyler Higbee,TE,"SF 26 @ LA 23, Final OT","",$11,3.1,0.00,30,2025-10-04 15:50:00,Week 5,Thursday
+Colby Parkinson,TE,"SF 26 @ LA 23, Final OT","TGT",$10,0.4,0.00,31,2025-10-04 15:50:00,Week 5,Thursday
+Stetson Bennett IV,QB,"SF 26 @ LA 23, Final OT","",$20,,0.00,32,2025-10-04 15:50:00,Week 5,Thursday
+Xavier Smith,WR,"SF 26 @ LA 23, Final OT","",$10,0.8,0.00,33,2025-10-04 15:50:00,Week 5,Thursday
+Jarquez Hunter,RB,"SF 26 @ LA 23, Final OT","",$10,,0.00,34,2025-10-04 15:50:00,Week 5,Thursday
+Konata Mumpfield,WR,"SF 26 @ LA 23, Final OT","",$10,,0.00,35,2025-10-04 15:50:00,Week 5,Thursday
+Brayden Willis,TE,"SF 26 @ LA 23, Final OT","",$10,,0.00,36,2025-10-04 15:50:00,Week 5,Thursday

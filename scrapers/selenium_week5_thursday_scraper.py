@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Selenium scraper for Yahoo Daily Fantasy Week 4 Monday data.
+Selenium scraper for Yahoo Daily Fantasy Week 5 Thursday data.
 Based on the correct points scraper that captures the correct Points column (Column 5) instead of FPPG (Column 4).
 Table structure analysis:
 - Column 0: Position
@@ -108,8 +108,8 @@ def extract_players_with_correct_points(driver):
                             'points': points,  # Actual points from yesterday
                             'row_number': i,
                             'scrape_date': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-                            'week': 'Week 4',
-                            'day': 'Monday'
+                            'week': 'Week 5',
+                            'day': 'Thursday'
                         }
                         player_data.append(row_data)
                     
@@ -162,11 +162,11 @@ def scroll_to_load_more_data(driver):
     except Exception as e:
         print(f"Error during scrolling: {e}")
 
-def scrape_week4_monday_data():
+def scrape_week5_thursday_data():
     """
-    Main function to scrape Week 4 Monday data with correct Points column.
+    Main function to scrape Week 5 Thursday data with correct Points column.
     """
-    driver = setup_driver(headless=True)  # Run in background for speed
+    driver = setup_driver(headless=False)  # Run with browser visible to debug
     if not driver:
         return []
     
@@ -176,7 +176,7 @@ def scrape_week4_monday_data():
         driver.get(url)
         
         # Wait for page to load
-        time.sleep(5)
+        time.sleep(10)
         
         # Try scrolling to load more data
         scroll_to_load_more_data(driver)
@@ -192,8 +192,8 @@ def scrape_week4_monday_data():
     finally:
         driver.quit()
 
-def save_week4_monday_data(player_data, filename="week4_Mon.csv"):
-    """Save the Week 4 Monday data with correct Points column."""
+def save_week5_thursday_data(player_data, filename="week5_Thurs.csv"):
+    """Save the Week 5 Thursday data with correct Points column."""
     if not player_data:
         print("❌ No data to save")
         return None
@@ -212,12 +212,12 @@ def save_week4_monday_data(player_data, filename="week4_Mon.csv"):
     filepath = os.path.join(data_dir, filename)
     df.to_csv(filepath, index=False)
     
-    print(f"✅ Week 4 Monday data saved to {filepath}")
+    print(f"✅ Week 5 Thursday data saved to {filepath}")
     print(f"📊 Found {len(player_data)} valid players")
     
     # Display summary
     if len(player_data) > 0:
-        print(f"\n📋 Sample of Week 4 Monday data (Points vs FPPG):")
+        print(f"\n📋 Sample of Week 5 Thursday data (Points vs FPPG):")
         for i, (_, row) in enumerate(df.head(10).iterrows(), 1):
             points = row['points'] if pd.notna(row['points']) else 'N/A'
             fppg = row['fppg'] if pd.notna(row['fppg']) else 'N/A'
@@ -240,22 +240,23 @@ def save_week4_monday_data(player_data, filename="week4_Mon.csv"):
     return df
 
 def main():
-    print("Yahoo Daily Fantasy Week 4 Monday Data Scraper")
+    print("Yahoo Daily Fantasy Week 5 Thursday Data Scraper")
     print("=" * 60)
     print("This will capture the correct Points column (Column 5) instead of FPPG (Column 4).")
-    print("Data will be saved as 'week4_Mon.csv' in the data_csv directory.")
+    print("Data will be saved as 'week5_Thurs.csv' in the data_csv directory.")
+    print("Targeting: 49ers vs Rams on 10/2")
     print("=" * 60)
     
-    # Scrape Week 4 Monday data with correct column mapping
-    player_data = scrape_week4_monday_data()
+    # Scrape Week 5 Thursday data with correct column mapping
+    player_data = scrape_week5_thursday_data()
     
     if player_data:
-        # Save Week 4 Monday data
-        df = save_week4_monday_data(player_data)
+        # Save Week 5 Thursday data
+        df = save_week5_thursday_data(player_data)
         
         if df is not None:
-            print(f"\n🎉 SUCCESS! Scraped {len(df)} players for Week 4 Monday")
-            print("📁 Data saved to: data_csv/week4_Mon.csv")
+            print(f"\n🎉 SUCCESS! Scraped {len(df)} players for Week 5 Thursday")
+            print("📁 Data saved to: data_csv/week5_Thurs.csv")
         else:
             print("\n❌ Failed to save data")
     else:
@@ -263,4 +264,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -1,0 +1,36 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Kenneth Gainwell,RB,"MIN 21 @ PIT 24, Final","19 RUSH ATT,99 RUSH YD,2 RUSH TD,6 TGT,6 REC,35 REC YD",$11,11.6,28.40,1,2025-09-29 14:07:51,Week 4,Sunday
+Carson Wentz,QB,"MIN 21 @ PIT 24, Final","350 PASS YD,2 PASS TD,2 INT,2 RUSH ATT,12 RUSH YD,2PT",$24,19.3,23.20,2,2025-09-29 14:07:51,Week 4,Sunday
+DK Metcalf,WR,"MIN 21 @ PIT 24, Final","5 TGT,5 REC,126 REC YD,REC TD",$25,12.9,21.10,3,2025-09-29 14:07:51,Week 4,Sunday
+Justin Jefferson,WR,"MIN 21 @ PIT 24, Final","11 TGT,10 REC,126 REC YD",$33,12.5,17.60,4,2025-09-29 14:07:51,Week 4,Sunday
+Jordan Addison,WR,"MIN 21 @ PIT 24, Final","8 TGT,4 REC,114 REC YD",$19,13.4,13.40,5,2025-09-29 14:07:51,Week 4,Sunday
+Zavier Scott,RB,"MIN 21 @ PIT 24, Final","2 RUSH ATT,RUSH YD,8 TGT,6 REC,43 REC YD,REC TD",$13,9.5,13.40,6,2025-09-29 14:07:51,Week 4,Sunday
+Aaron Rodgers,QB,"MIN 21 @ PIT 24, Final","200 PASS YD,PASS TD,3 RUSH ATT,8 RUSH YD",$33,15.9,12.80,7,2025-09-29 14:07:51,Week 4,Sunday
+Pittsburgh Steelers,DEF,"MIN 21 @ PIT 24, Final","21 PTS ALLOWED,6 SACK,2 INT",$15,8.3,10.00,8,2025-09-29 14:07:51,Week 4,Sunday
+Jalen Nailor,WR,"MIN 21 @ PIT 24, Final","4 TGT,REC,2 REC YD,REC TD,2PT",$10,5.5,8.70,9,2025-09-29 14:07:51,Week 4,Sunday
+Jordan Mason,RB,"MIN 21 @ PIT 24, Final","16 RUSH ATT,57 RUSH YD,3 TGT,3 REC,15 REC YD",$28,11.3,8.70,10,2025-09-29 14:07:51,Week 4,Sunday
+T.J. Hockenson,TE,"MIN 21 @ PIT 24, Final","5 TGT,4 REC,39 REC YD",$15,6.0,5.90,11,2025-09-29 14:07:51,Week 4,Sunday
+Minnesota Vikings,DEF,"MIN 21 @ PIT 24, Final","24 PTS ALLOWED,2 SACK,BLK KICK",$20,11.0,4.00,12,2025-09-29 14:07:51,Week 4,Sunday
+Darnell Washington,TE,"MIN 21 @ PIT 24, Final","3 TGT,3 REC,20 REC YD",$10,1.8,3.50,13,2025-09-29 14:07:51,Week 4,Sunday
+Calvin Austin IIIQ,WR,"MIN 21 @ PIT 24, Final","2 TGT,2 REC,13 REC YD",$17,7.7,2.30,14,2025-09-29 14:07:51,Week 4,Sunday
+Kaleb Johnson,RB,"MIN 21 @ PIT 24, Final","6 RUSH ATT,22 RUSH YD,TGT",$10,0.7,2.20,15,2025-09-29 14:07:51,Week 4,Sunday
+Adam Thielen,WR,"MIN 21 @ PIT 24, Final","2 TGT,2 REC,11 REC YD",$12,1.9,2.10,16,2025-09-29 14:07:51,Week 4,Sunday
+Jonnu Smith,TE,"MIN 21 @ PIT 24, Final","3 TGT,2 REC,6 REC YD",$16,5.0,1.60,17,2025-09-29 14:07:51,Week 4,Sunday
+Connor Heyward,TE,"MIN 21 @ PIT 24, Final","RUSH ATT,2 RUSH YD",$10,0.7,0.20,18,2025-09-29 14:07:51,Week 4,Sunday
+Josh Oliver,TE,"MIN 21 @ PIT 24, Final",TGT,$10,2.9,0.00,19,2025-09-29 14:07:51,Week 4,Sunday
+J.J. McCarthyO,QB,"MIN 21 @ PIT 24, Final",,$20,14.0,0.00,20,2025-09-29 14:07:51,Week 4,Sunday
+Tai Felton,WR,"MIN 21 @ PIT 24, Final",,$10,0.5,0.00,21,2025-09-29 14:07:51,Week 4,Sunday
+Gavin BartholomewPUP,TE,"MIN 21 @ PIT 24, Final",,$10,—,0.00,22,2025-09-29 14:07:51,Week 4,Sunday
+Max Brosmer,QB,"MIN 21 @ PIT 24, Final",,$20,1.2,0.00,23,2025-09-29 14:07:52,Week 4,Sunday
+Myles Price,WR,"MIN 21 @ PIT 24, Final",,$10,—,0.00,24,2025-09-29 14:07:52,Week 4,Sunday
+Ben YurosekO,TE,"MIN 21 @ PIT 24, Final",,$10,—,0.00,25,2025-09-29 14:07:52,Week 4,Sunday
+Mason Rudolph,QB,"MIN 21 @ PIT 24, Final",,$20,0.5,0.00,26,2025-09-29 14:07:52,Week 4,Sunday
+Scotty Miller,WR,"MIN 21 @ PIT 24, Final",TGT,$10,—,0.00,27,2025-09-29 14:07:52,Week 4,Sunday
+Pat Freiermuth,TE,"MIN 21 @ PIT 24, Final",,$12,3.3,0.00,28,2025-09-29 14:07:52,Week 4,Sunday
+Ben Skowronek,WR,"MIN 21 @ PIT 24, Final",TGT,$10,2.2,0.00,29,2025-09-29 14:07:52,Week 4,Sunday
+Jaylen WarrenO,RB,"MIN 21 @ PIT 24, Final",,$25,13.0,0.00,30,2025-09-29 14:07:52,Week 4,Sunday
+Roman Wilson,WR,"MIN 21 @ PIT 24, Final",,$10,1.2,0.00,31,2025-09-29 14:07:52,Week 4,Sunday
+Nick Vannett,TE,"MIN 21 @ PIT 24, Final",,$10,3.1,0.00,32,2025-09-29 14:07:52,Week 4,Sunday
+Desmond Ridder,QB,"MIN 21 @ PIT 24, Final",,$20,4.8,0.00,33,2025-09-29 14:07:52,Week 4,Sunday
+Tim Jones,WR,"MIN 21 @ PIT 24, Final",,$10,0.9,0.00,34,2025-09-29 14:07:52,Week 4,Sunday
+Cam Akers,RB,"MIN 21 @ PIT 24, Final",,$10,1.9,0.00,35,2025-09-29 14:07:52,Week 4,Sunday
