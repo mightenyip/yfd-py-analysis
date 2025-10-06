@@ -1,0 +1,37 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Dillon Gabriel,QB,"MIN 21 @ CLE 17, Final","190 PASS YD,2 PASS TD,2 RUSH ATT,5 RUSH YD",$20,7.0,16.10,1,2025-10-06 13:01:50,Week 5,Sunday
+Justin Jefferson,WR,"MIN 21 @ CLE 17, Final","11 TGT,7 REC,123 REC YD",$31,13.2,15.80,2,2025-10-06 13:01:50,Week 5,Sunday
+David Njoku,TE,"MIN 21 @ CLE 17, Final","9 TGT,6 REC,67 REC YD,REC TD",$16,7.1,15.70,3,2025-10-06 13:01:50,Week 5,Sunday
+Carson Wentz,QB,"MIN 21 @ CLE 17, Final","236 PASS YD,PASS TD,3 RUSH ATT,13 RUSH YD",$22,17.8,14.74,4,2025-10-06 13:01:50,Week 5,Sunday
+Quinshon Judkins,RB,"MIN 21 @ CLE 17, Final","23 RUSH ATT,110 RUSH YD,2 TGT,REC,18 REC YD",$30,14.4,13.30,5,2025-10-06 13:01:51,Week 5,Sunday
+Jordan Addison,WR,"MIN 21 @ CLE 17, Final","6 TGT,5 REC,41 REC YD,REC TD",$20,13.0,12.60,6,2025-10-06 13:01:51,Week 5,Sunday
+Jordan Mason,RB,"MIN 21 @ CLE 17, Final","13 RUSH ATT,52 RUSH YD,RUSH TD,4 TGT,3 REC,4 REC YD,FUM LOST",$24,11.2,11.10,7,2025-10-06 13:01:51,Week 5,Sunday
+Josh Oliver,TE,"MIN 21 @ CLE 17, Final","3 TGT,2 REC,35 REC YD,REC TD",$10,4.8,10.50,8,2025-10-06 13:01:51,Week 5,Sunday
+Harold Fannin Jr.,TE,"MIN 21 @ CLE 17, Final","4 TGT,4 REC,13 REC YD,REC TD",$12,6.8,9.30,9,2025-10-06 13:01:51,Week 5,Sunday
+Cleveland Browns,DEF,"MIN 21 @ CLE 17, Final","21 PTS ALLOWED,3 SACK,2 FUM REC",$10,4.8,7.00,10,2025-10-06 13:01:51,Week 5,Sunday
+T.J. Hockenson,TE,"MIN 21 @ CLE 17, Final","6 TGT,6 REC,38 REC YD",$14,6.2,6.80,11,2025-10-06 13:01:51,Week 5,Sunday
+Jalen Nailor,WR,"MIN 21 @ CLE 17, Final","RUSH ATT,15 RUSH YD,4 TGT,3 REC,27 REC YD",$11,5.5,5.70,12,2025-10-06 13:01:51,Week 5,Sunday
+Cam Akers,RB,"MIN 21 @ CLE 17, Final","32 PASS YD,PASS TD",$10,3.6,5.28,13,2025-10-06 13:01:51,Week 5,Sunday
+Jerome Ford,RB,"MIN 21 @ CLE 17, Final","5 RUSH ATT,18 RUSH YD,2 TGT,2 REC,20 REC YD",$11,3.5,4.80,14,2025-10-06 13:01:51,Week 5,Sunday
+Isaiah Bond,WR,"MIN 21 @ CLE 17, Final","8 TGT,2 REC,29 REC YD",$10,3.4,3.90,15,2025-10-06 13:01:51,Week 5,Sunday
+Minnesota Vikings,DEF,"MIN 21 @ CLE 17, Final","17 PTS ALLOWED,2 SACK",$17,9.4,3.00,16,2025-10-06 13:01:51,Week 5,Sunday
+Jamari Thrash,WR,"MIN 21 @ CLE 17, Final","TGT,REC,22 REC YD",$10,1.6,2.70,17,2025-10-06 13:01:51,Week 5,Sunday
+Jerry Jeudy,WR,"MIN 21 @ CLE 17, Final","4 TGT,2 REC,15 REC YD",$24,5.4,2.50,18,2025-10-06 13:01:51,Week 5,Sunday
+Dylan Sampson,RB,"MIN 21 @ CLE 17, Final","RUSH ATT,-4 RUSH YD,2 TGT,REC,6 REC YD",$12,4.7,0.70,19,2025-10-06 13:01:51,Week 5,Sunday
+Adam Thielen,WR,"MIN 21 @ CLE 17, Final",,$11,1.9,0.00,20,2025-10-06 13:01:51,Week 5,Sunday
+Nick Vannett,TE,"MIN 21 @ CLE 17, Final",,$10,3.1,0.00,21,2025-10-06 13:01:51,Week 5,Sunday
+Desmond Ridder,QB,"MIN 21 @ CLE 17, Final",,$20,4.8,0.00,22,2025-10-06 13:01:51,Week 5,Sunday
+J.J. McCarthyO,QB,"MIN 21 @ CLE 17, Final",,$20,14.0,0.00,23,2025-10-06 13:01:51,Week 5,Sunday
+Tai Felton,WR,"MIN 21 @ CLE 17, Final",,$10,0.5,0.00,24,2025-10-06 13:01:51,Week 5,Sunday
+Gavin BartholomewPUP,TE,"MIN 21 @ CLE 17, Final",,$10,—,0.00,25,2025-10-06 13:01:51,Week 5,Sunday
+Myles Price,WR,"MIN 21 @ CLE 17, Final",,$10,—,0.00,26,2025-10-06 13:01:51,Week 5,Sunday
+Ben YurosekO,TE,"MIN 21 @ CLE 17, Final",,$10,—,0.00,27,2025-10-06 13:01:51,Week 5,Sunday
+Joe Flacco,QB,"MIN 21 @ CLE 17, Final",,$26,8.0,0.00,28,2025-10-06 13:01:51,Week 5,Sunday
+DeAndre CarterIR,WR,"MIN 21 @ CLE 17, Final",,$10,—,0.00,29,2025-10-06 13:01:51,Week 5,Sunday
+Deshaun WatsonPUP,QB,"MIN 21 @ CLE 17, Final",,$20,11.4,0.00,30,2025-10-06 13:01:51,Week 5,Sunday
+Cedric TillmanIR,WR,"MIN 21 @ CLE 17, Final",,$19,7.0,0.00,31,2025-10-06 13:01:51,Week 5,Sunday
+Blake Whiteheart,TE,"MIN 21 @ CLE 17, Final",,$10,—,0.00,32,2025-10-06 13:01:51,Week 5,Sunday
+Shedeur Sanders,QB,"MIN 21 @ CLE 17, Final",,$20,—,0.00,33,2025-10-06 13:01:51,Week 5,Sunday
+Raheim Sanders,RB,"MIN 21 @ CLE 17, Final",,$10,6.3,0.00,34,2025-10-06 13:01:51,Week 5,Sunday
+Max Brosmer,QB,"MIN 21 @ CLE 17, Final","RUSH ATT,-1 RUSH YD",$20,0.5,-0.10,35,2025-10-06 13:01:51,Week 5,Sunday
+Zavier Scott,RB,"MIN 21 @ CLE 17, Final","5 RUSH ATT,18 RUSH YD,FUM LOST",$16,6.2,-0.20,36,2025-10-06 13:01:51,Week 5,Sunday
