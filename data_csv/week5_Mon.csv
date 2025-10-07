@@ -1,0 +1,37 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Patrick Mahomes,QB,"KC 28 @ JAC 31, Final","318 PASS YD,PASS TD,INT,6 RUSH ATT,60 RUSH YD,RUSH TD",$41,23.5,27.72,1,2025-10-07 12:50:49,Week 5,Monday
+Trevor Lawrence,QB,"KC 28 @ JAC 31, Final","221 PASS YD,PASS TD,INT,10 RUSH ATT,54 RUSH YD,2 RUSH TD,FUM LOST",$31,16.0,27.24,2,2025-10-07 12:50:49,Week 5,Monday
+Kareem Hunt,RB,"KC 28 @ JAC 31, Final","7 RUSH ATT,49 RUSH YD,2 RUSH TD,TGT,REC,8 REC YD",$15,8.4,18.20,3,2025-10-07 12:50:49,Week 5,Monday
+Travis Kelce,TE,"KC 28 @ JAC 31, Final","8 TGT,7 REC,61 REC YD,REC TD",$17,9.5,15.60,4,2025-10-07 12:50:49,Week 5,Monday
+Tyquan Thornton,WR,"KC 28 @ JAC 31, Final","5 TGT,3 REC,90 REC YD",$14,10.3,10.50,5,2025-10-07 12:50:49,Week 5,Monday
+Brian Thomas Jr.,WR,"KC 28 @ JAC 31, Final","6 TGT,4 REC,80 REC YD",$28,8.0,10.00,6,2025-10-07 12:50:49,Week 5,Monday
+Parker Washington,WR,"KC 28 @ JAC 31, Final","3 TGT,2 REC,16 REC YD,REC TD",$12,6.0,8.60,7,2025-10-07 12:50:49,Week 5,Monday
+Xavier Worthy,WR,"KC 28 @ JAC 31, Final","RUSH ATT,9 RUSH YD,9 TGT,6 REC,42 REC YD",$32,7.6,8.10,8,2025-10-07 12:50:49,Week 5,Monday
+Travis Hunter,WR,"KC 28 @ JAC 31, Final","3 TGT,3 REC,64 REC YD",$17,5.2,7.90,9,2025-10-07 12:50:49,Week 5,Monday
+Travis Etienne Jr.,RB,"KC 28 @ JAC 31, Final","12 RUSH ATT,49 RUSH YD,4 TGT,3 REC,9 REC YD",$29,14.2,7.30,10,2025-10-07 12:50:49,Week 5,Monday
+Isiah Pacheco,RB,"KC 28 @ JAC 31, Final","7 RUSH ATT,36 RUSH YD,3 TGT,3 REC,20 REC YD",$16,6.3,7.10,11,2025-10-07 12:50:49,Week 5,Monday
+Kansas City Chiefs,DEF,"KC 28 @ JAC 31, Final","25 PTS ALLOWED,3 SACK,INT,FUM REC",$14,6.6,7.00,12,2025-10-07 12:50:49,Week 5,Monday
+Jacksonville Jaguars,DEF,"KC 28 @ JAC 31, Final","28 PTS ALLOWED,INT,TD",$16,10.6,7.00,13,2025-10-07 12:50:49,Week 5,Monday
+Hollywood Brown,WR,"KC 28 @ JAC 31, Final","8 TGT,4 REC,48 REC YD",$18,8.9,6.80,14,2025-10-07 12:50:49,Week 5,Monday
+Brashard Smith,RB,"KC 28 @ JAC 31, Final","RUSH ATT,4 RUSH YD,3 TGT,3 REC,32 REC YD",$10,2.3,5.10,15,2025-10-07 12:50:49,Week 5,Monday
+JuJu Smith-Schuster,WR,"KC 28 @ JAC 31, Final","3 TGT,2 REC,17 REC YD",$10,6.2,2.70,16,2025-10-07 12:50:49,Week 5,Monday
+Brenton StrangeQ,TE,"KC 28 @ JAC 31, Final","TGT,REC,22 REC YD",$13,6.1,2.70,17,2025-10-07 12:50:49,Week 5,Monday
+Dyami Brown,WR,"KC 28 @ JAC 31, Final","4 TGT,2 REC,15 REC YD",$15,6.7,2.50,18,2025-10-07 12:50:49,Week 5,Monday
+Bhayshul Tuten,RB,"KC 28 @ JAC 31, Final","4 RUSH ATT,6 RUSH YD,TGT,REC,5 REC YD",$15,5.6,1.60,19,2025-10-07 12:50:49,Week 5,Monday
+Johnny Mundt,TE,"KC 28 @ JAC 31, Final","TGT,REC,7 REC YD",$10,0.6,1.20,20,2025-10-07 12:50:49,Week 5,Monday
+Hunter Long,TE,"KC 28 @ JAC 31, Final","TGT,REC,3 REC YD",$10,5.0,0.80,21,2025-10-07 12:50:50,Week 5,Monday
+Robert Tonyan,TE,"KC 28 @ JAC 31, Final",,$10,—,0.00,22,2025-10-07 12:50:50,Week 5,Monday
+Gardner Minshew,QB,"KC 28 @ JAC 31, Final",,$20,-0.3,0.00,23,2025-10-07 12:50:50,Week 5,Monday
+Noah Gray,TE,"KC 28 @ JAC 31, Final",,$10,1.3,0.00,24,2025-10-07 12:50:50,Week 5,Monday
+Elijah Mitchell,RB,"KC 28 @ JAC 31, Final",,$10,—,0.00,25,2025-10-07 12:50:50,Week 5,Monday
+Rashee RiceSUSP,WR,"KC 28 @ JAC 31, Final",,$16,13.2,0.00,26,2025-10-07 12:50:50,Week 5,Monday
+Jason Brownlee,WR,"KC 28 @ JAC 31, Final",,$10,—,0.00,27,2025-10-07 12:50:50,Week 5,Monday
+Nikko Remigio,WR,"KC 28 @ JAC 31, Final",,$10,0.7,0.00,28,2025-10-07 12:50:50,Week 5,Monday
+Jared Wiley,TE,"KC 28 @ JAC 31, Final",,$10,1.2,0.00,29,2025-10-07 12:50:50,Week 5,Monday
+Jalen Royals,WR,"KC 28 @ JAC 31, Final",,$10,—,0.00,30,2025-10-07 12:50:50,Week 5,Monday
+Tim Patrick,WR,"KC 28 @ JAC 31, Final",TGT,$10,0.6,0.00,31,2025-10-07 12:50:50,Week 5,Monday
+Nick Mullens,QB,"KC 28 @ JAC 31, Final",,$20,0.3,0.00,32,2025-10-07 12:50:50,Week 5,Monday
+Cody Schrader,RB,"KC 28 @ JAC 31, Final",,$10,0.7,0.00,33,2025-10-07 12:50:50,Week 5,Monday
+LeQuint Allen Jr.,RB,"KC 28 @ JAC 31, Final",,$10,1.1,0.00,34,2025-10-07 12:50:50,Week 5,Monday
+Quintin Morris,TE,"KC 28 @ JAC 31, Final",,$10,—,0.00,35,2025-10-07 12:50:50,Week 5,Monday
+Austin Trammell,WR,"KC 28 @ JAC 31, Final",,$10,3.0,0.00,36,2025-10-07 12:50:50,Week 5,Monday
