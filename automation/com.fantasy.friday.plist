@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.fantasy.friday</string>
+    
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/mightenyip/Documents/GitHub/yfd-py-test/automation/friday_morning_scraper.sh</string>
+    </array>
+    
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>5</integer>  <!-- Friday -->
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    
+    <key>StandardOutPath</key>
+    <string>/Users/mightenyip/Documents/GitHub/yfd-py-test/logs/launchd_friday.log</string>
+    
+    <key>StandardErrorPath</key>
+    <string>/Users/mightenyip/Documents/GitHub/yfd-py-test/logs/launchd_friday_error.log</string>
+    
+    <!-- This is the key to waking the computer! -->
+    <key>StartOnMount</key>
+    <true/>
+    
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
+
