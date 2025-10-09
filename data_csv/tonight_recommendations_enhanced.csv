@@ -1,0 +1,34 @@
+Player,Team,Position,Salary,Base_Projection,Matchup_Multiplier,Adjusted_Projection,Adjustment,Opp_Def_Rank
+Philadelphia Eagles,PHI,DEF,15,4.38,1.0,4.38,0.0,N/A
+New York Giants,NYG,DEF,11,2.72,1.0,2.72,0.0,N/A
+Jaxson Dart,NYG,QB,22,23.14,1.0,23.14,0.0,Unknown
+Jalen Hurts,PHI,QB,38,22.95,1.0,22.95,0.0,Unknown
+Russell Wilson,NYG,QB,20,21.03,1.0,21.03,0.0,Unknown
+Jameis Winston,NYG,QB,20,21.03,1.0,21.03,0.0,Unknown
+Tanner McKee,PHI,QB,20,21.03,1.0,21.03,0.0,Unknown
+Sam Howell,PHI,QB,20,21.03,1.0,21.03,0.0,Unknown
+Saquon Barkley,PHI,RB,36,19.31,1.0,19.31,0.0,Unknown
+Cam Skattebo,NYG,RB,30,16.55,1.0,16.55,0.0,Unknown
+Tyrone Tracy Jr.,NYG,RB,18,7.43,1.0,7.43,0.0,Unknown
+A.J. Dillon,PHI,RB,10,4.53,1.0,4.53,0.0,Unknown
+Will Shipley,PHI,RB,10,4.53,1.0,4.53,0.0,Unknown
+Tank Bigsby,PHI,RB,10,4.53,1.0,4.53,0.0,Unknown
+Devin Singletary,NYG,RB,10,4.53,1.0,4.53,0.0,Unknown
+Dallas Goedert,PHI,TE,18,19.96,1.0,19.96,0.0,Unknown
+Theo Johnson,NYG,TE,14,8.54,1.0,8.54,0.0,Unknown
+Grant Calcaterra,PHI,TE,10,5.31,1.0,5.31,0.0,Unknown
+Kylen Granson,PHI,TE,10,5.31,1.0,5.31,0.0,Unknown
+Cameron Latu,PHI,TE,10,5.31,1.0,5.31,0.0,Unknown
+Daniel Bellinger,NYG,TE,10,5.31,1.0,5.31,0.0,Unknown
+Chris Manhertz,NYG,TE,10,5.31,1.0,5.31,0.0,Unknown
+Thomas Fidone II,NYG,TE,10,5.31,1.0,5.31,0.0,Unknown
+DeVonta Smith,PHI,WR,24,11.61,1.35,15.67,4.06,30
+A.J. Brown,PHI,WR,22,10.62,1.35,14.34,3.72,30
+Wan'Dale Robinson,NYG,WR,20,8.45,1.0,8.45,0.0,14
+Jahan Dotson,PHI,WR,10,4.49,1.35,6.06,1.57,30
+John Metchie III,PHI,WR,10,4.49,1.35,6.06,1.57,30
+Xavier Gipson,PHI,WR,10,4.49,1.35,6.06,1.57,30
+Darius Slayton,NYG,WR,16,4.74,1.0,4.74,0.0,14
+Jalin Hyatt,NYG,WR,10,4.49,1.0,4.49,0.0,14
+Beaux Collins,NYG,WR,10,4.49,1.0,4.49,0.0,14
+Gunner Olszewski,NYG,WR,10,4.49,1.0,4.49,0.0,14
