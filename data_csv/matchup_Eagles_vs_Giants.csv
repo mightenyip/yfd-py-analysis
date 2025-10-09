@@ -1,0 +1,9 @@
+defense,offense,position,rank,fpts_allowed,rating,multiplier,impact
+Eagles,Giants,QB,13,0.20,➖ NEUTRAL,1.0,Giants QBs at baseline
+Giants,Eagles,QB,12,0.00,➖ NEUTRAL,1.0,Eagles QBs at baseline
+Eagles,Giants,RB,24,18.20,🔥🔥 GREAT MATCHUP,1.2,Start Giants RBs confidently
+Giants,Eagles,RB,26,19.00,🔥🔥🔥 ELITE MATCHUP,1.3,SMASH Eagles RBs
+Eagles,Giants,WR,14,19.00,➖ NEUTRAL,1.0,Giants WRs at baseline
+Giants,Eagles,WR,30,25.20,🔥🔥🔥 ELITE MATCHUP,1.3,SMASH Eagles WRs
+Eagles,Giants,TE,3,28.20,❄️❄️ ELITE DEFENSE,0.8,Avoid Giants TEs
+Giants,Eagles,TE,6,37.20,❄️ TOUGH MATCHUP,0.9,Downgrade Eagles TEs
