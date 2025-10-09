@@ -56,6 +56,12 @@ def setup_driver(headless=True):
     chrome_options.add_argument("--window-size=1920,1080")
     chrome_options.add_argument("--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
     
+    # Detect OS and set Chrome binary path for Linux/Ubuntu (GitHub Actions)
+    import platform
+    if platform.system() == 'Linux':
+        # On Ubuntu/Linux, chromium-browser is typically installed
+        chrome_options.binary_location = "/usr/bin/chromium-browser"
+    
     try:
         driver = webdriver.Chrome(options=chrome_options)
         return driver
@@ -63,6 +69,7 @@ def setup_driver(headless=True):
         print(f"❌ Error setting up Chrome driver: {e}")
         print("Make sure you have ChromeDriver installed:")
         print("  brew install chromedriver  # On macOS")
+        print("  sudo apt-get install chromium-browser chromium-chromedriver  # On Linux")
         return None
 
 def extract_player_data(driver, week, day):
