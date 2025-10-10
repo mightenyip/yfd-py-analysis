@@ -208,7 +208,7 @@ def scrape_yahoo_data(week, day, headless=True):
     finally:
         driver.quit()
 
-def save_data(player_data, week, day, data_dir="/Users/mightenyip/Documents/GitHub/yfd-py-test/data_csv"):
+def save_data(player_data, week, day, data_dir="data_csv"):
     """Save scraped data to CSV."""
     if not player_data:
         print("❌ No data to save")

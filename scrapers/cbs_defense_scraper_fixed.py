@@ -122,7 +122,7 @@ def scrape_defense_vs_position(position='WR'):
         print(f"❌ Error scraping {position}: {str(e)}")
         return None
 
-def scrape_all_positions(output_dir="/Users/mightenyip/Documents/GitHub/yfd-py-test/data_csv"):
+def scrape_all_positions(output_dir="data_csv"):
     """
     Scrape all position defensive rankings and save to CSV files.
     """
@@ -290,7 +290,7 @@ def main():
     parser = argparse.ArgumentParser(description='CBS Sports Defense vs Position Scraper')
     parser.add_argument('--matchup', nargs=2, metavar=('TEAM1', 'TEAM2'),
                         help='Analyze specific matchup (e.g., --matchup Eagles Giants)')
-    parser.add_argument('--output-dir', default='/Users/mightenyip/Documents/GitHub/yfd-py-test/data_csv',
+    parser.add_argument('--output-dir', default='data_csv',
                         help='Output directory for CSV files')
     
     args = parser.parse_args()

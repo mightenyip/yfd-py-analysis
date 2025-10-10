@@ -13,7 +13,7 @@ import glob
 import os
 
 class WeeklyReportGenerator:
-    def __init__(self, data_dir="/Users/mightenyip/Documents/GitHub/yfd-py-test/data_csv"):
+    def __init__(self, data_dir="data_csv"):
         self.data_dir = Path(data_dir)
         self.defensive_data = {}
         self.yahoo_data = {}
