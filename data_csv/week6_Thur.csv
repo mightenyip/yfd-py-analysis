@@ -1,0 +1,35 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Cam Skattebo,RB,"PHI 17 @ NYG 34, Final","19 RUSH ATT,98 RUSH YD,3 RUSH TD,2 TGT,2 REC,12 REC YD",$30,14.9,30.00,1,2025-10-10 17:56:25,Week 6,Thursday
+Jaxson Dart,QB,"PHI 17 @ NYG 34, Final","195 PASS YD,PASS TD,13 RUSH ATT,58 RUSH YD,RUSH TD",$22,12.2,23.60,2,2025-10-10 17:56:25,Week 6,Thursday
+Jalen Hurts,QB,"PHI 17 @ NYG 34, Final","283 PASS YD,PASS TD,INT,7 RUSH ATT,13 RUSH YD,RUSH TD",$38,20.9,21.62,3,2025-10-10 17:56:25,Week 6,Thursday
+Dallas Goedert,TE,"PHI 17 @ NYG 34, Final","11 TGT,9 REC,110 REC YD,REC TD",$18,13.3,21.50,4,2025-10-10 17:56:25,Week 6,Thursday
+Wan'Dale Robinson,WR,"PHI 17 @ NYG 34, Final","7 TGT,6 REC,84 REC YD,REC TD",$20,10.3,17.40,5,2025-10-10 17:56:25,Week 6,Thursday
+A.J. Brown,WR,"PHI 17 @ NYG 34, Final","9 TGT,6 REC,80 REC YD",$22,7.6,11.00,6,2025-10-10 17:56:25,Week 6,Thursday
+New York Giants,DEF,"PHI 17 @ NYG 34, Final","17 PTS ALLOWED,3 SACK,INT,FUM REC",$11,3.7,8.00,7,2025-10-10 17:56:25,Week 6,Thursday
+Saquon Barkley,RB,"PHI 17 @ NYG 34, Final","12 RUSH ATT,58 RUSH YD,3 TGT,2 REC,9 REC YD",$36,13.3,7.70,8,2025-10-10 17:56:25,Week 6,Thursday
+DeVonta Smith,WR,"PHI 17 @ NYG 34, Final","5 TGT,4 REC,49 REC YD",$24,8.8,6.90,9,2025-10-10 17:56:25,Week 6,Thursday
+Theo Johnson,TE,"PHI 17 @ NYG 34, Final","4 TGT,2 REC,27 REC YD",$14,6.5,3.70,10,2025-10-10 17:56:25,Week 6,Thursday
+Jalin Hyatt,WR,"PHI 17 @ NYG 34, Final","5 TGT,3 REC,17 REC YD",$10,1.6,3.20,11,2025-10-10 17:56:25,Week 6,Thursday
+Jahan Dotson,WR,"PHI 17 @ NYG 34, Final","2 TGT,REC,17 REC YD",$10,2.4,2.20,12,2025-10-10 17:56:25,Week 6,Thursday
+A.J. Dillon,RB,"PHI 17 @ NYG 34, Final","RUSH ATT,2 RUSH YD,2 TGT,2 REC,18 REC YD,FUM LOST",$10,1.4,1.00,13,2025-10-10 17:56:26,Week 6,Thursday
+Devin Singletary,RB,"PHI 17 @ NYG 34, Final","3 RUSH ATT,10 RUSH YD",$10,1.5,1.00,14,2025-10-10 17:56:26,Week 6,Thursday
+Philadelphia Eagles,DEF,"PHI 17 @ NYG 34, Final","34 PTS ALLOWED,2 SACK",$15,6.3,1.00,15,2025-10-10 17:56:26,Week 6,Thursday
+Tyrone Tracy Jr.,RB,"PHI 17 @ NYG 34, Final","4 RUSH ATT,6 RUSH YD",$18,4.2,0.60,16,2025-10-10 17:56:26,Week 6,Thursday
+Kylen Granson,TE,"PHI 17 @ NYG 34, Final",,$10,0.3,0.00,17,2025-10-10 17:56:26,Week 6,Thursday
+John Metchie III,WR,"PHI 17 @ NYG 34, Final",,$10,1.0,0.00,18,2025-10-10 17:56:26,Week 6,Thursday
+Sam HowellO,QB,"PHI 17 @ NYG 34, Final",,$20,0.2,0.00,19,2025-10-10 17:56:26,Week 6,Thursday
+Grant CalcaterraO,TE,"PHI 17 @ NYG 34, Final",,$10,1.5,0.00,20,2025-10-10 17:56:26,Week 6,Thursday
+Tank Bigsby,RB,"PHI 17 @ NYG 34, Final",,$10,0.2,0.00,21,2025-10-10 17:56:26,Week 6,Thursday
+Tanner McKee,QB,"PHI 17 @ NYG 34, Final",,$20,14.4,0.00,22,2025-10-10 17:56:26,Week 6,Thursday
+Xavier GipsonO,WR,"PHI 17 @ NYG 34, Final",,$10,—,0.00,23,2025-10-10 17:56:26,Week 6,Thursday
+Will Shipley,RB,"PHI 17 @ NYG 34, Final",,$10,0.9,0.00,24,2025-10-10 17:56:26,Week 6,Thursday
+Russell Wilson,QB,"PHI 17 @ NYG 34, Final",,$20,10.0,0.00,25,2025-10-10 17:56:26,Week 6,Thursday
+Chris Manhertz,TE,"PHI 17 @ NYG 34, Final",,$10,0.6,0.00,26,2025-10-10 17:56:26,Week 6,Thursday
+Jameis WinstonO,QB,"PHI 17 @ NYG 34, Final",,$20,13.0,0.00,27,2025-10-10 17:56:26,Week 6,Thursday
+Darius SlaytonO,WR,"PHI 17 @ NYG 34, Final",,$16,4.1,0.00,28,2025-10-10 17:56:26,Week 6,Thursday
+Gunner Olszewski,WR,"PHI 17 @ NYG 34, Final",,$10,—,0.00,29,2025-10-10 17:56:26,Week 6,Thursday
+Daniel Bellinger,TE,"PHI 17 @ NYG 34, Final",,$10,3.0,0.00,30,2025-10-10 17:56:26,Week 6,Thursday
+Eric GrayPUP,RB,"PHI 17 @ NYG 34, Final",,$10,0.9,0.00,31,2025-10-10 17:56:26,Week 6,Thursday
+Thomas Fidone II,TE,"PHI 17 @ NYG 34, Final",,$10,—,0.00,32,2025-10-10 17:56:26,Week 6,Thursday
+Beaux Collins,WR,"PHI 17 @ NYG 34, Final",,$10,0.6,0.00,33,2025-10-10 17:56:26,Week 6,Thursday
+Cameron Latu,TE,"PHI 17 @ NYG 34, Final",,$10,—,0.00,34,2025-10-10 17:56:26,Week 6,Thursday
