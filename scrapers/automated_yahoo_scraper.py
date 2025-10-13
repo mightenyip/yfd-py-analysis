@@ -180,6 +180,122 @@ def scroll_to_load_more_data(driver):
     except Exception as e:
         print(f"⚠️  Error during scrolling: {e}")
 
+def find_dropdown_options(driver):
+    """Find and return all dropdown options for different game times/slates."""
+    try:
+        print("🔍 Looking for dropdown options for different game times...")
+        
+        # Common selectors for dropdowns
+        dropdown_selectors = [
+            "select",
+            "select[name*='time']",
+            "select[name*='game']", 
+            "select[name*='slate']",
+            ".dropdown select",
+            "[data-testid*='select']",
+            "[data-testid*='dropdown']",
+            "select[class*='dropdown']"
+        ]
+        
+        dropdown = None
+        for selector in dropdown_selectors:
+            try:
+                dropdown = driver.find_element(By.CSS_SELECTOR, selector)
+                if dropdown:
+                    print(f"✅ Found dropdown with selector: {selector}")
+                    break
+            except NoSuchElementException:
+                continue
+        
+        if not dropdown:
+            print("❌ No dropdown found - will scrape current view only")
+            return []
+        
+        # Get all options
+        select = Select(dropdown)
+        options = [option.text.strip() for option in select.options if option.text.strip()]
+        
+        print(f"📋 Found {len(options)} dropdown options:")
+        for i, option in enumerate(options):
+            print(f"   {i}: {option}")
+        
+        return options
+        
+    except Exception as e:
+        print(f"❌ Error finding dropdown options: {e}")
+        return []
+
+def scrape_all_sunday_games(driver, week, day):
+    """Scrape data from all Sunday game times/slates."""
+    print(f"🏈 Scraping ALL {day} games for Week {week}...")
+    
+    all_player_data = []
+    
+    try:
+        # First, try to find dropdown options
+        dropdown_options = find_dropdown_options(driver)
+        
+        if dropdown_options:
+            print(f"🎯 Found {len(dropdown_options)} different game times/slates")
+            
+            # Try each dropdown option
+            for i, option_text in enumerate(dropdown_options):
+                try:
+                    print(f"\n🔄 Scraping option {i+1}/{len(dropdown_options)}: {option_text}")
+                    
+                    # Find dropdown again (it might have changed)
+                    dropdown_selectors = [
+                        "select",
+                        "select[name*='time']",
+                        "select[name*='game']", 
+                        "select[name*='slate']",
+                        ".dropdown select"
+                    ]
+                    
+                    dropdown = None
+                    for selector in dropdown_selectors:
+                        try:
+                            dropdown = driver.find_element(By.CSS_SELECTOR, selector)
+                            if dropdown:
+                                break
+                        except NoSuchElementException:
+                            continue
+                    
+                    if dropdown:
+                        select = Select(dropdown)
+                        select.select_by_visible_text(option_text)
+                        time.sleep(5)  # Wait for page to update
+                        
+                        # Scroll to load data for this option
+                        scroll_to_load_more_data(driver)
+                        
+                        # Extract data for this option
+                        option_data = extract_player_data(driver, week, day)
+                        
+                        if option_data:
+                            print(f"✅ Found {len(option_data)} players for {option_text}")
+                            all_player_data.extend(option_data)
+                        else:
+                            print(f"⚠️  No players found for {option_text}")
+                    
+                except Exception as e:
+                    print(f"❌ Error scraping option '{option_text}': {e}")
+                    continue
+        else:
+            print("⚠️  No dropdown found - scraping current view only")
+            # Just scrape current view
+            scroll_to_load_more_data(driver)
+            all_player_data = extract_player_data(driver, week, day)
+        
+        print(f"\n🎉 Total players found across all games: {len(all_player_data)}")
+        return all_player_data
+        
+    except Exception as e:
+        print(f"❌ Error in scrape_all_sunday_games: {e}")
+        # Fallback to single scrape
+        scroll_to_load_more_data(driver)
+        return extract_player_data(driver, week, day)
+
 def scrape_yahoo_data(week, day, headless=True):
     """Main scraping function."""
     driver = setup_driver(headless=headless)
@@ -194,11 +310,13 @@ def scrape_yahoo_data(week, day, headless=True):
         # Wait for page to load
         time.sleep(10)
         
-        # Scroll to load more data
-        scroll_to_load_more_data(driver)
-        
-        # Extract player data
-        player_data = extract_player_data(driver, week, day)
+        # For Sunday games, try to scrape all game times/slates
+        if day.lower() == "sunday":
+            player_data = scrape_all_sunday_games(driver, week, day)
+        else:
+            # For Thursday/Monday, just scrape current view
+            scroll_to_load_more_data(driver)
+            player_data = extract_player_data(driver, week, day)
         
         return player_data
         
@@ -222,7 +340,10 @@ def save_data(player_data, week, day, data_dir="data_csv"):
     
     # Generate filename
     day_short = day[:4] if day in ['Thursday', 'Sunday', 'Monday'] else day[:3]
-    filename = f"week{week}_{day_short}.csv"
+    if day.lower() == "sunday":
+        filename = f"week{week}_{day_short}_all_games.csv"
+    else:
+        filename = f"week{week}_{day_short}.csv"
     filepath = os.path.join(data_dir, filename)
     
     # Save to CSV
