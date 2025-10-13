@@ -136,21 +136,21 @@ def extract_player_data(driver, game_time=""):
                     # Parse stats from player_info (third line)
                     stats = lines[2].strip() if len(lines) > 2 else ""
                     
-                    # Only include players with actual points (not 0 or empty)
-                    if points and points != "0" and points != "--":
-                        player_data.append({
-                            'Player': player_name,
-                            'Position': position,
-                            'Game': game_info,
-                            'Stats': stats,
-                            'Salary': salary,
-                            'FPPG': fppg,
-                            'Points': points,
-                            'GameTime': game_time,
-                            'ScrapedAt': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-                            'Week': '6',
-                            'Day': 'Sunday'
-                        })
+                    # Include ALL players (including those with 0 points)
+                    # This matches the Week 5 approach for comprehensive data
+                    player_data.append({
+                        'Player': player_name,
+                        'Position': position,
+                        'Game': game_info,
+                        'Stats': stats,
+                        'Salary': salary,
+                        'FPPG': fppg,
+                        'Points': points,
+                        'GameTime': game_time,
+                        'ScrapedAt': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                        'Week': '6',
+                        'Day': 'Sunday'
+                    })
                 
             except Exception as e:
                 print(f"⚠️  Error processing row {i}: {e}")
@@ -162,6 +162,50 @@ def extract_player_data(driver, game_time=""):
     except Exception as e:
         print(f"❌ Error extracting player data: {e}")
         return []
+
+def scroll_to_load_all_data(driver):
+    """Scroll aggressively to load ALL data on the page."""
+    print("   📜 Scrolling to load ALL data...")
+    
+    try:
+        # Get initial count
+        initial_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+        print(f"   Initial rows: {initial_rows}")
+        
+        # Scroll down multiple times to load more data
+        for i in range(10):  # Increased from 5 to 10
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)
+            
+            current_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+            print(f"   Scroll {i+1}: {current_rows} rows")
+            
+            # If no new rows loaded, try scrolling by smaller increments
+            if current_rows == initial_rows:
+                # Try scrolling by smaller amounts
+                for j in range(5):
+                    driver.execute_script("window.scrollBy(0, 500);")
+                    time.sleep(1)
+                    current_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+                    if current_rows > initial_rows:
+                        print(f"   Found {current_rows - initial_rows} more rows after incremental scroll")
+                        initial_rows = current_rows
+                        break
+                else:
+                    # No more data to load
+                    break
+            else:
+                initial_rows = current_rows
+        
+        # Scroll back to top
+        driver.execute_script("window.scrollTo(0, 0);")
+        time.sleep(2)
+        
+        final_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+        print(f"   Final row count: {final_rows}")
+        
+    except Exception as e:
+        print(f"   ⚠️  Error during scrolling: {e}")
 
 def scrape_all_week6_sunday_games():
     """
@@ -215,6 +259,10 @@ def scrape_all_week6_sunday_games():
                         select = Select(dropdown)
                         select.select_by_visible_text(option['text'])
                         time.sleep(5)  # Wait for page to update
+                        
+                        # Scroll to load ALL data for this game time
+                        print(f"   📜 Scrolling to load ALL players for {option['text']}...")
+                        scroll_to_load_all_data(driver)
                         
                         # Extract data for this option
                         option_data = extract_player_data(driver, option['text'])
