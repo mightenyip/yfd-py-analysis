@@ -180,6 +180,50 @@ def scroll_to_load_more_data(driver):
     except Exception as e:
         print(f"⚠️  Error during scrolling: {e}")
 
+def scroll_to_load_all_data(driver):
+    """Scroll aggressively to load ALL data on the page."""
+    print("   📜 Scrolling to load ALL data...")
+    
+    try:
+        # Get initial count
+        initial_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+        print(f"   Initial rows: {initial_rows}")
+        
+        # Scroll down multiple times to load more data
+        for i in range(10):  # Increased from 5 to 10
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)
+            
+            current_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+            print(f"   Scroll {i+1}: {current_rows} rows")
+            
+            # If no new rows loaded, try scrolling by smaller increments
+            if current_rows == initial_rows:
+                # Try scrolling by smaller amounts
+                for j in range(5):
+                    driver.execute_script("window.scrollBy(0, 500);")
+                    time.sleep(1)
+                    current_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+                    if current_rows > initial_rows:
+                        print(f"   Found {current_rows - initial_rows} more rows after incremental scroll")
+                        initial_rows = current_rows
+                        break
+                else:
+                    # No more data to load
+                    break
+            else:
+                initial_rows = current_rows
+        
+        # Scroll back to top
+        driver.execute_script("window.scrollTo(0, 0);")
+        time.sleep(2)
+        
+        final_rows = len(driver.find_elements(By.CSS_SELECTOR, "tr"))
+        print(f"   Final row count: {final_rows}")
+        
+    except Exception as e:
+        print(f"   ⚠️  Error during scrolling: {e}")
+
 def find_dropdown_options(driver):
     """Find and return all dropdown options for different game times/slates."""
     try:
@@ -266,8 +310,8 @@ def scrape_all_sunday_games(driver, week, day):
                         select.select_by_visible_text(option_text)
                         time.sleep(5)  # Wait for page to update
                         
-                        # Scroll to load data for this option
-                        scroll_to_load_more_data(driver)
+                        # Scroll to load ALL data for this option
+                        scroll_to_load_all_data(driver)
                         
                         # Extract data for this option
                         option_data = extract_player_data(driver, week, day)
@@ -283,8 +327,8 @@ def scrape_all_sunday_games(driver, week, day):
                     continue
         else:
             print("⚠️  No dropdown found - scraping current view only")
-            # Just scrape current view
-            scroll_to_load_more_data(driver)
+            # Just scrape current view with enhanced scrolling
+            scroll_to_load_all_data(driver)
             all_player_data = extract_player_data(driver, week, day)
         
         print(f"\n🎉 Total players found across all games: {len(all_player_data)}")
@@ -292,8 +336,8 @@ def scrape_all_sunday_games(driver, week, day):
         
     except Exception as e:
         print(f"❌ Error in scrape_all_sunday_games: {e}")
-        # Fallback to single scrape
-        scroll_to_load_more_data(driver)
+        # Fallback to single scrape with enhanced scrolling
+        scroll_to_load_all_data(driver)
         return extract_player_data(driver, week, day)
 
 def scrape_yahoo_data(week, day, headless=True):
