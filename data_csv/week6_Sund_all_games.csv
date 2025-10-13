@@ -1,0 +1,38 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Bo Nix,QB,"DEN 13 @ NYJ 11, Final","174 PASS YD,PASS TD,5 RUSH ATT,24 RUSH YD",$31,16.9,13.36,1,2025-10-13 17:46:52,Week 6,Sunday
+Denver Broncos,DEF,"DEN 13 @ NYJ 11, Final","9 PTS ALLOWED,9 SACK",$16,8.8,13.00,2,2025-10-13 17:46:52,Week 6,Sunday
+Nate Adkins,TE,"DEN 13 @ NYJ 11, Final","2 TGT,2 REC,23 REC YD,REC TD",$10,2.7,9.30,3,2025-10-13 17:46:52,Week 6,Sunday
+New York Jets,DEF,"DEN 13 @ NYJ 11, Final","13 PTS ALLOWED,SACK,SAFETY,FUM REC",$10,3.0,9.00,4,2025-10-13 17:46:52,Week 6,Sunday
+Evan Engram,TE,"DEN 13 @ NYJ 11, Final","RUSH ATT,7 RUSH YD,6 TGT,5 REC,42 REC YD",$13,5.8,7.40,5,2025-10-13 17:46:52,Week 6,Sunday
+Breece Hall,RB,"DEN 13 @ NYJ 11, Final","22 RUSH ATT,59 RUSH YD",$29,10.4,5.90,6,2025-10-13 17:46:52,Week 6,Sunday
+Justin Fields,QB,"DEN 13 @ NYJ 11, Final","45 PASS YD,7 RUSH ATT,31 RUSH YD",$29,18.3,4.90,7,2025-10-13 17:46:52,Week 6,Sunday
+RJ Harvey,RB,"DEN 13 @ NYJ 11, Final","2 RUSH ATT,4 RUSH YD,4 TGT,4 REC,21 REC YD",$17,6.7,4.50,8,2025-10-13 17:46:52,Week 6,Sunday
+J.K. Dobbins,RB,"DEN 13 @ NYJ 11, Final","14 RUSH ATT,40 RUSH YD,TGT",$25,12.3,4.00,9,2025-10-13 17:46:52,Week 6,Sunday
+Josh Reynolds,WR,"DEN 13 @ NYJ 11, Final","3 TGT,3 REC,25 REC YD",$10,3.3,4.00,10,2025-10-13 17:46:52,Week 6,Sunday
+Marvin Mims Jr.,WR,"DEN 13 @ NYJ 11, Final","RUSH ATT,-2 RUSH YD,3 TGT,2 REC,30 REC YD",$17,5.9,3.80,11,2025-10-13 17:46:52,Week 6,Sunday
+Pat Bryant,WR,"DEN 13 @ NYJ 11, Final","2 TGT,2 REC,22 REC YD",$10,2.0,3.20,12,2025-10-13 17:46:52,Week 6,Sunday
+Garrett WilsonQ,WR,"DEN 13 @ NYJ 11, Final","8 TGT,3 REC,13 REC YD",$29,13.6,2.80,13,2025-10-13 17:46:52,Week 6,Sunday
+Courtland Sutton,WR,"DEN 13 @ NYJ 11, Final","3 TGT,REC,17 REC YD",$27,11.6,2.20,14,2025-10-13 17:46:52,Week 6,Sunday
+Troy Franklin,WR,"DEN 13 @ NYJ 11, Final","RUSH ATT,2 RUSH YD,4 TGT,3 REC,19 REC YD,FUM LOST",$16,7.4,1.60,15,2025-10-13 17:46:52,Week 6,Sunday
+Andrew Beck,RB,"DEN 13 @ NYJ 11, Final","TGT,REC,6 REC YD",$10,2.6,1.10,16,2025-10-13 17:46:52,Week 6,Sunday
+Mason Taylor,TE,"DEN 13 @ NYJ 11, Final","TGT,REC,2 REC YD",$13,5.0,0.70,17,2025-10-13 17:46:52,Week 6,Sunday
+Isaiah Davis,RB,"DEN 13 @ NYJ 11, Final","2 RUSH ATT,2 RUSH YD,TGT,REC,-1 REC YD",$10,2.0,0.60,18,2025-10-13 17:46:52,Week 6,Sunday
+Adam Prentice,RB,"DEN 13 @ NYJ 11, Final","RUSH ATT,3 RUSH YD",$10,0.6,0.30,19,2025-10-13 17:46:52,Week 6,Sunday
+Trent Sherfield Sr.,WR,"DEN 13 @ NYJ 11, Final",,$10,1.2,0.00,20,2025-10-13 17:46:53,Week 6,Sunday
+Jarrett Stidham,QB,"DEN 13 @ NYJ 11, Final",,$20,0.2,0.00,21,2025-10-13 17:46:53,Week 6,Sunday
+Adam Trautman,TE,"DEN 13 @ NYJ 11, Final",,$10,3.8,0.00,22,2025-10-13 17:46:53,Week 6,Sunday
+Sam Ehlinger,QB,"DEN 13 @ NYJ 11, Final",,$20,—,0.00,23,2025-10-13 17:46:53,Week 6,Sunday
+Tyler Badie,RB,"DEN 13 @ NYJ 11, Final",,$10,1.9,0.00,24,2025-10-13 17:46:53,Week 6,Sunday
+Lucas KrullIR,TE,"DEN 13 @ NYJ 11, Final",,$10,0.8,0.00,25,2025-10-13 17:46:53,Week 6,Sunday
+Jaleel McLaughlin,RB,"DEN 13 @ NYJ 11, Final","RUSH ATT,TGT",$10,—,0.00,26,2025-10-13 17:46:53,Week 6,Sunday
+Tyrod Taylor,QB,"DEN 13 @ NYJ 11, Final",,$20,13.0,0.00,27,2025-10-13 17:46:53,Week 6,Sunday
+Allen LazardO,WR,"DEN 13 @ NYJ 11, Final",,$10,3.5,0.00,28,2025-10-13 17:46:53,Week 6,Sunday
+Tyler Johnson,WR,"DEN 13 @ NYJ 11, Final",TGT,$10,2.1,0.00,29,2025-10-13 17:46:53,Week 6,Sunday
+Kene Nwangwu,RB,"DEN 13 @ NYJ 11, Final",,$10,—,0.00,30,2025-10-13 17:46:53,Week 6,Sunday
+Jelani Woods,TE,"DEN 13 @ NYJ 11, Final",,$10,—,0.00,31,2025-10-13 17:46:53,Week 6,Sunday
+Jeremy Ruckert,TE,"DEN 13 @ NYJ 11, Final",,$10,3.4,0.00,32,2025-10-13 17:46:53,Week 6,Sunday
+Irvin CharlesPUP,WR,"DEN 13 @ NYJ 11, Final",,$10,—,0.00,33,2025-10-13 17:46:53,Week 6,Sunday
+Stone Smartt,TE,"DEN 13 @ NYJ 11, Final",,$10,—,0.00,34,2025-10-13 17:46:53,Week 6,Sunday
+Arian Smith,WR,"DEN 13 @ NYJ 11, Final",TGT,$10,0.7,0.00,35,2025-10-13 17:46:53,Week 6,Sunday
+Khalil Herbert,RB,"DEN 13 @ NYJ 11, Final",,$10,—,0.00,36,2025-10-13 17:46:53,Week 6,Sunday
+Avery Williams,WR,"DEN 13 @ NYJ 11, Final",,$10,—,0.00,37,2025-10-13 17:46:53,Week 6,Sunday
