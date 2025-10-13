@@ -69,3 +69,4 @@ Based on successful Week 6 manual scraper results:
 - Enhanced scrolling is critical for comprehensive data capture
 - Dropdown detection must work for multiple game times
 - Manual backup scraper available in `scrapers/manual_week6_sunday_all_games.py`
+
