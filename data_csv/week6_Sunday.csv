@@ -1,371 +1,408 @@
-Player,Position,Game,Stats,Salary,FPPG,Points,GameTime,ScrapedAt,Week,Day
-Rico Dowdle,RB,"DAL 27 @ CAR 30, Final","30 RUSH ATT,183 RUSH YD,5 TGT,4 REC,56 REC YD,REC TD",$22,13.6,31.9,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Josh Jacobs,RB,"CIN 18 @ GB 27, Final","18 RUSH ATT,93 RUSH YD,2 RUSH TD,5 TGT,5 REC,57 REC YD",$40,19.4,29.5,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-De'Von Achane,RB,"LAC 29 @ MIA 27, Final","16 RUSH ATT,128 RUSH YD,2 RUSH TD,6 TGT,4 REC,22 REC YD",$39,18.2,29.0,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-George Pickens,WR,"DAL 27 @ CAR 30, Final","11 TGT,9 REC,168 REC YD,REC TD",$34,17.4,27.3,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Drake Maye,QB,"NE 25 @ NO 19, Final","261 PASS YD,3 PASS TD,9 RUSH ATT,28 RUSH YD,2PT",$35,20.9,27.24,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Jaxon Smith-Njigba,WR,"SEA 20 @ JAC 12, Final","13 TGT,8 REC,162 REC YD,REC TD",$35,18.0,26.2,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Kayshon Boutte,WR,"NE 25 @ NO 19, Final","5 TGT,5 REC,93 REC YD,2 REC TD",$14,9.5,23.8,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Daniel Jones,QB,"ARI 27 @ IND 31, Final","212 PASS YD,2 PASS TD,INT,5 RUSH ATT,20 RUSH YD,RUSH TD",$36,20.1,23.48,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Dak Prescott,QB,"DAL 27 @ CAR 30, Final","261 PASS YD,3 PASS TD,2 RUSH ATT,-1 RUSH YD",$39,21.1,22.34,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Jacoby Brissett,QB,"ARI 27 @ IND 31, Final","320 PASS YD,2 PASS TD,INT,3 RUSH ATT,19 RUSH YD",$20,7.3,21.7,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Jonathan Taylor,RB,"ARI 27 @ IND 31, Final","21 RUSH ATT,123 RUSH YD,RUSH TD,4 TGT,4 REC,14 REC YD",$45,22.5,21.7,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Kimani Vidal,RB,"LAC 29 @ MIA 27, Final","18 RUSH ATT,124 RUSH YD,4 TGT,3 REC,14 REC YD,REC TD",$10,7.9,21.3,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Christian McCaffrey,RB,"SF 19 @ TB 30, Final","17 RUSH ATT,54 RUSH YD,RUSH TD,8 TGT,7 REC,57 REC YD",$42,20.8,20.6,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Ja'Marr Chase,WR,"CIN 18 @ GB 27, Final","RUSH ATT,-3 RUSH YD,12 TGT,10 REC,94 REC YD,REC TD",$37,15.1,20.1,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Sam Darnold,QB,"SEA 20 @ JAC 12, Final","295 PASS YD,2 PASS TD,4 RUSH ATT,2 RUSH YD",$32,17.4,20.0,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Baker Mayfield,QB,"SF 19 @ TB 30, Final","256 PASS YD,2 PASS TD,3 RUSH ATT,14 RUSH YD",$39,21.1,19.64,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Ladd McConkey,WR,"LAC 29 @ MIA 27, Final","9 TGT,7 REC,100 REC YD,REC TD",$25,9.5,19.5,9:30 AM (1 NFL Game),2025-10-13 16:19:59,6,Sunday
-Bryce Young,QB,"DAL 27 @ CAR 30, Final","199 PASS YD,3 PASS TD,INT,3 RUSH ATT,5 RUSH YD",$28,14.5,19.46,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Trevor Lawrence,QB,"SEA 20 @ JAC 12, Final","258 PASS YD,2 PASS TD,3 RUSH ATT,9 RUSH YD",$31,16.6,19.22,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Brian Thomas Jr.,WR,"SEA 20 @ JAC 12, Final","10 TGT,8 REC,90 REC YD,REC TD",$27,9.8,19.0,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Justin Herbert,QB,"LAC 29 @ MIA 27, Final","264 PASS YD,2 PASS TD,RUSH ATT,2 RUSH YD",$36,18.5,18.76,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Aaron Rodgers,QB,"CLE 9 @ PIT 23, Final","235 PASS YD,2 PASS TD,RUSH ATT,RUSH YD",$30,16.2,17.5,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-DK Metcalf,WR,"CLE 9 @ PIT 23, Final","9 TGT,4 REC,95 REC YD,REC TD",$26,13.8,17.5,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Trey McBride,TE,"ARI 27 @ IND 31, Final","11 TGT,8 REC,72 REC YD,REC TD",$24,10.9,17.2,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Los Angeles Rams,DEF,"LA 17 @ BAL 3, Final","3 PTS ALLOWED,4 SACK,INT,2 FUM REC",$14,8.3,17.0,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Kendrick Bourne,WR,"SF 19 @ TB 30, Final","9 TGT,5 REC,142 REC YD",$10,9.7,16.7,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Tetairoa McMillan,WR,"DAL 27 @ CAR 30, Final","5 TGT,3 REC,29 REC YD,2 REC TD",$26,10.6,16.4,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Rachaad White,RB,"SF 19 @ TB 30, Final","17 RUSH ATT,65 RUSH YD,RUSH TD,3 TGT,3 REC,21 REC YD",$21,10.2,16.1,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Las Vegas Raiders,DEF,"TEN 10 @ LV 20, Final","10 PTS ALLOWED,6 SACK,INT,2 FUM REC",$17,4.8,16.0,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Jordan Love,QB,"CIN 18 @ GB 27, Final","259 PASS YD,PASS TD,INT,7 RUSH ATT,26 RUSH YD",$33,18.2,15.96,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Kyren Williams,RB,"LA 17 @ BAL 3, Final","13 RUSH ATT,50 RUSH YD,RUSH TD,2 TGT,2 REC,37 REC YD",$31,15.4,15.7,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Ashton Jeanty,RB,"TEN 10 @ LV 20, Final","23 RUSH ATT,75 RUSH YD,RUSH TD,4 TGT,2 REC,11 REC YD",$32,14.1,15.6,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Tyler Warren,TE,"ARI 27 @ IND 31, Final","9 TGT,6 REC,63 REC YD,REC TD",$22,11.7,15.3,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-DeMario Douglas,WR,"NE 25 @ NO 19, Final","4 TGT,3 REC,71 REC YD,REC TD",$10,5.5,14.6,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Kameron Johnson,WR,"SF 19 @ TB 30, Final","4 TGT,4 REC,64 REC YD,REC TD",$10,2.4,14.4,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Derrick Henry,RB,"LA 17 @ BAL 3, Final","24 RUSH ATT,122 RUSH YD,2 TGT,REC,8 REC YD",$35,11.8,13.5,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Michael Mayer,TE,"TEN 10 @ LV 20, Final","7 TGT,5 REC,50 REC YD,REC TD",$10,5.3,13.5,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Josh Downs,WR,"ARI 27 @ IND 31, Final","7 TGT,6 REC,42 REC YD,REC TD",$17,6.8,13.2,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Mac Jones,QB,"SF 19 @ TB 30, Final","347 PASS YD,2 INT,5 RUSH ATT,13 RUSH YD",$22,17.8,13.18,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Jaylen Waddle,WR,"LAC 29 @ MIA 27, Final","8 PASS YD,8 TGT,6 REC,95 REC YD",$28,12.0,12.82,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Chris Olave,WR,"NE 25 @ NO 19, Final","10 TGT,6 REC,98 REC YD",$24,9.8,12.8,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Tyler Higbee,TE,"LA 17 @ BAL 3, Final","4 TGT,4 REC,40 REC YD,REC TD",$11,5.3,12.0,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Bam Knight,RB,"ARI 27 @ IND 31, Final","11 RUSH ATT,34 RUSH YD,RUSH TD,2 TGT,REC,20 REC YD",$10,5.2,11.9,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Matthew Golden,WR,"CIN 18 @ GB 27, Final","2 RUSH ATT,16 RUSH YD,5 TGT,3 REC,86 REC YD",$18,6.5,11.7,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Harold Fannin Jr.,TE,"CLE 9 @ PIT 23, Final","10 TGT,7 REC,81 REC YD",$12,7.6,11.6,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Tucker Kraft,TE,"CIN 18 @ GB 27, Final","2 TGT,2 REC,43 REC YD,REC TD",$19,10.8,11.3,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Spencer Rattler,QB,"NE 25 @ NO 19, Final","227 PASS YD,4 RUSH ATT,20 RUSH YD",$30,14.4,11.08,9:30 AM (1 NFL Game),2025-10-13 16:20:00,6,Sunday
-Tez Johnson,WR,"SF 19 @ TB 30, Final","3 TGT,REC,45 REC YD,REC TD",$10,4.2,11.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Tampa Bay Buccaneers,DEF,"SF 19 @ TB 30, Final","19 PTS ALLOWED,6 SACK,2 INT",$14,5.7,11.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Cooper Kupp,WR,"SEA 20 @ JAC 12, Final","3 TGT,2 REC,40 REC YD,REC TD",$17,7.3,11.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Seattle Seahawks,DEF,"SEA 20 @ JAC 12, Final","12 PTS ALLOWED,7 SACK",$12,9.5,11.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Jake Ferguson,TE,"DAL 27 @ CAR 30, Final","3 TGT,3 REC,33 REC YD,REC TD",$19,12.8,10.8,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Zay Jones,WR,"ARI 27 @ IND 31, Final","8 TGT,5 REC,79 REC YD",$10,3.3,10.4,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Alvin Kamara,RB,"NE 25 @ NO 19, Final","10 RUSH ATT,31 RUSH YD,5 TGT,5 REC,45 REC YD",$29,9.8,10.1,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Pittsburgh Steelers,DEF,"CLE 9 @ PIT 23, Final","9 PTS ALLOWED,6 SACK",$17,8.6,10.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Geno Smith,QB,"TEN 10 @ LV 20, Final","174 PASS YD,PASS TD,INT,4 RUSH ATT,-3 RUSH YD",$29,13.5,9.66,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Tua Tagovailoa,QB,"LAC 29 @ MIA 27, Final","205 PASS YD,PASS TD,3 INT,RUSH ATT,4 RUSH YD",$33,14.8,9.6,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Van Jefferson,WR,"TEN 10 @ LV 20, Final","6 TGT,4 REC,75 REC YD",$10,3.5,9.5,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Tre Tucker,WR,"TEN 10 @ LV 20, Final","5 TGT,5 REC,70 REC YD",$19,12.4,9.5,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Matthew Stafford,QB,"LA 17 @ BAL 3, Final","181 PASS YD,PASS TD,4 RUSH ATT,RUSH YD,FUM LOST",$33,18.2,9.34,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Tim Patrick,WR,"SEA 20 @ JAC 12, Final","TGT,REC,26 REC YD,REC TD",$10,2.3,9.1,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Tanner HudsonQ,TE,"CIN 18 @ GB 27, Final","5 TGT,4 REC,10 REC YD,REC TD",$10,9.0,9.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Dillon Gabriel,QB,"CLE 9 @ PIT 23, Final",221 PASS YD,$21,7.4,8.84,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Jake Tonges,TE,"SF 19 @ TB 30, Final","7 TGT,6 REC,58 REC YD",$11,8.8,8.8,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Tee Higgins,WR,"CIN 18 @ GB 27, Final","8 TGT,5 REC,62 REC YD",$24,7.2,8.7,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-AJ Barner,TE,"SEA 20 @ JAC 12, Final","3 TGT,3 REC,71 REC YD",$13,8.9,8.6,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Sean Tucker,RB,"SF 19 @ TB 30, Final","6 RUSH ATT,25 RUSH YD,RUSH TD",$10,1.7,8.5,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Greg Dortch,WR,"ARI 27 @ IND 31, Final","3 TGT,3 REC,9 REC YD,REC TD",$10,3.4,8.4,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Oronde Gadsden,TE,"LAC 29 @ MIA 27, Final","8 TGT,7 REC,68 REC YD,FUM LOST",$10,5.0,8.3,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Darren Waller,TE,"LAC 29 @ MIA 27, Final","3 TGT,2 REC,12 REC YD,REC TD",$16,13.6,8.2,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Los Angeles Chargers,DEF,"LAC 29 @ MIA 27, Final","27 PTS ALLOWED,2 SACK,3 INT",$15,5.8,8.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Romeo Doubs,WR,"CIN 18 @ GB 27, Final","9 TGT,5 REC,55 REC YD",$22,11.3,8.0,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Chase Brown,RB,"CIN 18 @ GB 27, Final","9 RUSH ATT,42 RUSH YD,2 TGT,2 REC,7 REC YD,2PT",$28,8.1,7.9,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Cam Ward,QB,"TEN 10 @ LV 20, Final","222 PASS YD,PASS TD,INT,2 FUM LOST",$21,7.9,7.88,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Connor Heyward,TE,"CLE 9 @ PIT 23, Final","TGT,REC,12 REC YD,REC TD",$10,3.0,7.7,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Darnell Washington,TE,"CLE 9 @ PIT 23, Final","5 TGT,3 REC,62 REC YD",$10,3.3,7.7,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Hunter Luepke,RB,"DAL 27 @ CAR 30, Final","2 TGT,2 REC,7 REC YD,REC TD",$10,2.4,7.7,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Cade Otton,TE,"SF 19 @ TB 30, Final","6 TGT,5 REC,51 REC YD",$10,4.8,7.6,9:30 AM (1 NFL Game),2025-10-13 16:20:01,6,Sunday
-Chig Okonkwo,TE,"TEN 10 @ LV 20, Final","6 TGT,6 REC,46 REC YD",$12,5.6,7.6,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Travis Etienne Jr.,RB,"SEA 20 @ JAC 12, Final","12 RUSH ATT,27 RUSH YD,5 TGT,4 REC,28 REC YD",$26,13.1,7.5,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Michael Carter,RB,"ARI 27 @ IND 31, Final","9 RUSH ATT,34 RUSH YD,5 TGT,2 REC,30 REC YD",$22,7.8,7.4,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Jaylen Warren,RB,"CLE 9 @ PIT 23, Final","11 RUSH ATT,52 RUSH YD,2 TGT,2 REC,11 REC YD",$23,11.5,7.3,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Tyjae Spears,RB,"TEN 10 @ LV 20, Final","5 RUSH ATT,31 RUSH YD,4 TGT,4 REC,19 REC YD",$19,4.2,7.0,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Justice Hill,RB,"LA 17 @ BAL 3, Final","6 RUSH ATT,16 RUSH YD,6 TGT,5 REC,28 REC YD",$15,7.4,6.9,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Jerry Jeudy,WR,"CLE 9 @ PIT 23, Final","13 TGT,5 REC,43 REC YD",$20,5.7,6.8,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Tyler Huntley,QB,"LA 17 @ BAL 3, Final","68 PASS YD,3 RUSH ATT,39 RUSH YD",$20,6.6,6.62,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Kenneth Gainwell,RB,"CLE 9 @ PIT 23, Final","6 RUSH ATT,22 RUSH YD,6 TGT,6 REC,14 REC YD",$15,10.6,6.6,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-David Martin-Robinson,TE,"TEN 10 @ LV 20, Final","TGT,REC,REC YD,REC TD",$10,3.3,6.6,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Michael Wilson,WR,"ARI 27 @ IND 31, Final","5 TGT,4 REC,44 REC YD",$11,3.6,6.4,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Sterling Shepard,WR,"SF 19 @ TB 30, Final","3 TGT,2 REC,51 REC YD",$11,6.6,6.1,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Taysom Hill,TE,"NE 25 @ NO 19, Final","RUSH ATT,RUSH YD,RUSH TD",$13,3.4,6.1,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Davante Adams,WR,"LA 17 @ BAL 3, Final","9 TGT,4 REC,39 REC YD",$31,11.8,5.9,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Javonte Williams,RB,"DAL 27 @ CAR 30, Final","13 RUSH ATT,29 RUSH YD,8 TGT,5 REC,5 REC YD",$31,16.8,5.9,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Tommy Tremble,TE,"DAL 27 @ CAR 30, Final","4 TGT,4 REC,39 REC YD",$10,4.4,5.9,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Jakobi Meyers,WR,"TEN 10 @ LV 20, Final","4 TGT,4 REC,39 REC YD",$25,7.9,5.9,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Alec Pierce,WR,"ARI 27 @ IND 31, Final","4 TGT,2 REC,48 REC YD",$18,6.9,5.8,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Jimmy Horn Jr.,WR,"DAL 27 @ CAR 30, Final","RUSH ATT,11 RUSH YD,2 TGT,2 REC,36 REC YD",$10,4.9,5.7,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Tony Pollard,RB,"TEN 10 @ LV 20, Final","10 RUSH ATT,34 RUSH YD,2 TGT,2 REC,13 REC YD",$23,9.6,5.7,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Zay Flowers,WR,"LA 17 @ BAL 3, Final","10 TGT,6 REC,46 REC YD,FUM LOST",$28,10.8,5.6,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Jerome Ford,RB,"CLE 9 @ PIT 23, Final","2 RUSH ATT,17 RUSH YD,6 TGT,5 REC,13 REC YD",$11,3.8,5.5,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Demarcus Robinson,WR,"SF 19 @ TB 30, Final","3 TGT,2 REC,44 REC YD",$10,4.4,5.4,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Baltimore Ravens,DEF,"LA 17 @ BAL 3, Final","17 PTS ALLOWED,2 SACK,FUM REC",$15,1.3,5.0,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Tennessee Titans,DEF,"TEN 10 @ LV 20, Final","20 PTS ALLOWED,2 SACK,INT",$10,5.3,5.0,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-New England Patriots,DEF,"NE 25 @ NO 19, Final","19 PTS ALLOWED,2 SACK,FUM REC",$11,7.7,5.0,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Ryan Flournoy,WR,"DAL 27 @ CAR 30, Final","RUSH ATT,3 RUSH YD,6 TGT,3 REC,30 REC YD",$10,5.4,4.8,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Rashid Shaheed,WR,"NE 25 @ NO 19, Final","6 TGT,4 REC,28 REC YD",$26,9.5,4.8,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Keenan Allen,WR,"LAC 29 @ MIA 27, Final","7 TGT,4 REC,27 REC YD",$24,11.0,4.7,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Tre' Harris,WR,"LAC 29 @ MIA 27, Final","5 TGT,4 REC,27 REC YD",$10,2.1,4.7,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Noah Fant,TE,"CIN 18 @ GB 27, Final","4 TGT,4 REC,27 REC YD",$10,5.7,4.7,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Mark Andrews,TE,"LA 17 @ BAL 3, Final","3 RUSH ATT,2 RUSH YD,6 TGT,4 REC,24 REC YD",$16,6.7,4.6,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Julian Hill,TE,"LAC 29 @ MIA 27, Final","3 TGT,3 REC,31 REC YD",$10,2.4,4.6,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-Elijah Higgins,TE,"ARI 27 @ IND 31, Final","2 TGT,2 REC,34 REC YD",$10,2.3,4.4,9:30 AM (1 NFL Game),2025-10-13 16:20:02,6,Sunday
-David NjokuQ,TE,"CLE 9 @ PIT 23, Final","6 TGT,3 REC,28 REC YD",$17,6.6,4.3,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Jonnu Smith,TE,"CLE 9 @ PIT 23, Final","RUSH ATT,10 RUSH YD,4 TGT,3 REC,18 REC YD",$13,4.9,4.3,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Malik Washington,WR,"LAC 29 @ MIA 27, Final","RUSH ATT,RUSH YD,5 TGT,4 REC,22 REC YD",$12,4.5,4.3,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Stefon Diggs,WR,"NE 25 @ NO 19, Final","3 TGT,3 REC,28 REC YD",$24,9.1,4.3,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Marvin Harrison Jr.Q,WR,"ARI 27 @ IND 31, Final","2 TGT,2 REC,32 REC YD",$26,9.5,4.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Kenneth Walker III,RB,"SEA 20 @ JAC 12, Final","10 RUSH ATT,34 RUSH YD,TGT,REC,3 REC YD",$25,10.8,4.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Zach Charbonnet,RB,"SEA 20 @ JAC 12, Final","12 RUSH ATT,24 RUSH YD,TGT,REC,13 REC YD",$21,7.7,4.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Elic Ayomanor,WR,"TEN 10 @ LV 20, Final","5 TGT,3 REC,27 REC YD",$16,6.7,4.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Hunter Henry,TE,"NE 25 @ NO 19, Final","3 TGT,3 REC,27 REC YD",$17,9.3,4.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Samaje Perine,RB,"CIN 18 @ GB 27, Final","6 RUSH ATT,16 RUSH YD,3 TGT,2 REC,16 REC YD",$10,1.7,4.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-TreVeyon Henderson,RB,"NE 25 @ NO 19, Final","9 RUSH ATT,27 RUSH YD,2 TGT,REC,9 REC YD",$19,6.4,4.1,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Indianapolis Colts,DEF,"ARI 27 @ IND 31, Final","27 PTS ALLOWED,2 SACK,INT",$13,9.2,4.0,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Parker Washington,WR,"SEA 20 @ JAC 12, Final","4 TGT,2 REC,29 REC YD",$12,5.6,3.9,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Puka NacuaQ,WR,"LA 17 @ BAL 3, Final","3 TGT,2 REC,28 REC YD",$43,18.6,3.8,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Jordan Whittington,WR,"LA 17 @ BAL 3, Final","4 TGT,3 REC,23 REC YD",$10,2.9,3.8,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Bhayshul Tuten,RB,"SEA 20 @ JAC 12, Final","2 RUSH ATT,14 RUSH YD,3 TGT,2 REC,14 REC YD",$15,5.3,3.8,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Mack Hollins,WR,"NE 25 @ NO 19, Final","3 TGT,2 REC,28 REC YD",$10,4.7,3.8,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Kendre Miller,RB,"NE 25 @ NO 19, Final","8 RUSH ATT,21 RUSH YD,TGT,REC,11 REC YD",$12,5.0,3.7,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Quinshon Judkins,RB,"CLE 9 @ PIT 23, Final","12 RUSH ATT,36 RUSH YD,TGT",$28,12.2,3.6,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Travis Hunter,WR,"SEA 20 @ JAC 12, Final","7 TGT,4 REC,15 REC YD",$17,5.0,3.5,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Dylan Sampson,RB,"CLE 9 @ PIT 23, Final","3 RUSH ATT,12 RUSH YD,2 TGT,2 REC,12 REC YD",$10,4.5,3.4,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Emeka EgbukaQ,WR,"SF 19 @ TB 30, Final","4 TGT,2 REC,24 REC YD",$35,15.6,3.4,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Gage LarvadainQ,WR,"CLE 9 @ PIT 23, Final","4 TGT,2 REC,22 REC YD",$10,1.6,3.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Marquez Valdes-Scantling,WR,"SF 19 @ TB 30, Final","3 TGT,2 REC,22 REC YD",$10,1.5,3.2,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Michael Pittman Jr.,WR,"ARI 27 @ IND 31, Final","3 TGT,2 REC,20 REC YD",$25,11.2,3.0,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-DeAndre Hopkins,WR,"LA 17 @ BAL 3, Final","4 TGT,2 REC,20 REC YD",$10,5.7,3.0,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Dyami Brown,WR,"SEA 20 @ JAC 12, Final","RUSH ATT,7 RUSH YD,5 TGT,2 REC,13 REC YD",$15,5.9,3.0,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Alec Ingold,RB,"LAC 29 @ MIA 27, Final","RUSH ATT,3 RUSH YD,TGT,REC,22 REC YD",$10,1.5,3.0,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Cincinnati Bengals,DEF,"CIN 18 @ GB 27, Final","27 PTS ALLOWED,SACK,INT",$10,2.8,3.0,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Hunter Long,TE,"SEA 20 @ JAC 12, Final","3 TGT,2 REC,19 REC YD",$10,4.6,2.9,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Will Dissly,TE,"LAC 29 @ MIA 27, Final","2 TGT,2 REC,18 REC YD",$10,2.1,2.8,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Hassan Haskins,RB,"LAC 29 @ MIA 27, Final","6 RUSH ATT,14 RUSH YD,TGT,REC,9 REC YD",$10,0.8,2.8,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Mitchell Evans,TE,"DAL 27 @ CAR 30, Final","TGT,REC,21 REC YD",$10,4.4,2.6,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Brandin Cooks,WR,"NE 25 @ NO 19, Final","TGT,REC,21 REC YD",$10,3.2,2.6,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Gunnar Helm,TE,"TEN 10 @ LV 20, Final","3 TGT,2 REC,15 REC YD",$10,3.0,2.5,9:30 AM (1 NFL Game),2025-10-13 16:20:03,6,Sunday
-Dontayvion WicksQ,WR,"CIN 18 @ GB 27, Final","2 TGT,2 REC,15 REC YD",$11,3.8,2.5,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Blake CorumQ,RB,"LA 17 @ BAL 3, Final","5 RUSH ATT,23 RUSH YD",$10,4.0,2.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Jamari Thrash,WR,"CLE 9 @ PIT 23, Final","3 TGT,2 REC,13 REC YD",$10,1.8,2.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Brian Robinson Jr.,RB,"SF 19 @ TB 30, Final","3 TGT,3 REC,8 REC YD",$10,2.4,2.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Calvin RidleyQ,WR,"TEN 10 @ LV 20, Final","TGT,REC,18 REC YD",$22,6.2,2.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Mo Alie-Cox,TE,"ARI 27 @ IND 31, Final","2 TGT,REC,16 REC YD",$10,2.0,2.1,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Ameer Abdullah,RB,"ARI 27 @ IND 31, Final","RUSH ATT,7 RUSH YD,TGT,REC,9 REC YD",$14,4.4,2.1,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Xavier Legette,WR,"DAL 27 @ CAR 30, Final","2 TGT,2 REC,11 REC YD",$13,3.8,2.1,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Arizona Cardinals,DEF,"ARI 27 @ IND 31, Final","31 PTS ALLOWED,SACK,INT",$10,6.3,2.0,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Jacksonville Jaguars,DEF,"SEA 20 @ JAC 12, Final","20 PTS ALLOWED,SACK",$12,9.2,2.0,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Miami Dolphins,DEF,"LAC 29 @ MIA 27, Final","29 PTS ALLOWED,SACK,FUM REC",$10,4.3,2.0,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Dallas Cowboys,DEF,"DAL 27 @ CAR 30, Final","30 PTS ALLOWED,SACK,INT",$13,2.2,2.0,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Green Bay Packers,DEF,"CIN 18 @ GB 27, Final","18 PTS ALLOWED,SACK",$18,4.4,2.0,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Isaiah Bond,WR,"CLE 9 @ PIT 23, Final","5 TGT,2 REC,9 REC YD",$10,3.1,1.9,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Johnny Mundt,TE,"SEA 20 @ JAC 12, Final","2 TGT,REC,14 REC YD",$10,0.9,1.9,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Chimere Dike,WR,"TEN 10 @ LV 20, Final","3 TGT,2 REC,8 REC YD",$10,1.5,1.8,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Rhamondre Stevenson,RB,"NE 25 @ NO 19, Final","13 RUSH ATT,18 RUSH YD,TGT",$20,7.6,1.8,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Roman Wilson,WR,"CLE 9 @ PIT 23, Final","TGT,REC,12 REC YD",$10,1.5,1.7,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-LeQuint Allen Jr.,RB,"SEA 20 @ JAC 12, Final","RUSH ATT,2 RUSH YD,2 TGT,REC,10 REC YD",$10,1.2,1.7,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Trevor Etienne,RB,"DAL 27 @ CAR 30, Final","3 RUSH ATT,17 RUSH YD",$10,1.6,1.7,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Isaiah Likely,TE,"LA 17 @ BAL 3, Final","2 TGT,2 REC,6 REC YD",$12,1.7,1.6,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Pat Freiermuth,TE,"CLE 9 @ PIT 23, Final","TGT,REC,11 REC YD",$12,2.9,1.6,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Kaleb Johnson,RB,"CLE 9 @ PIT 23, Final","6 RUSH ATT,15 RUSH YD",$10,0.9,1.5,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Kyle Juszczyk,RB,"SF 19 @ TB 30, Final","TGT,REC,9 REC YD",$10,3.6,1.4,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Foster Moreau,TE,"NE 25 @ NO 19, Final","TGT,REC,9 REC YD",$10,1.4,1.4,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Rashod Bateman,WR,"LA 17 @ BAL 3, Final","2 TGT,REC,8 REC YD",$15,3.9,1.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Tanner Conner,TE,"LAC 29 @ MIA 27, Final","TGT,REC,8 REC YD",$10,1.7,1.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Jalen Tolbert,WR,"DAL 27 @ CAR 30, Final","TGT,REC,8 REC YD",$11,3.1,1.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Luke Schoonmaker,TE,"DAL 27 @ CAR 30, Final","2 TGT,REC,8 REC YD",$10,0.8,1.3,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Davis Allen,TE,"LA 17 @ BAL 3, Final","2 TGT,REC,7 REC YD",$10,3.5,1.2,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Konata Mumpfield,WR,"LA 17 @ BAL 3, Final","2 TGT,REC,7 REC YD",$10,0.4,1.2,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Jauan JenningsQ,WR,"SF 19 @ TB 30, Final","3 TGT,REC,7 REC YD",$22,6.7,1.2,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Hunter Renfrow,WR,"DAL 27 @ CAR 30, Final","2 TGT,REC,7 REC YD",$10,4.7,1.2,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Luke Musgrave,TE,"CIN 18 @ GB 27, Final","2 TGT,REC,7 REC YD",$10,1.9,1.2,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Emanuel Wilson,RB,"CIN 18 @ GB 27, Final","3 RUSH ATT,11 RUSH YD,TGT,REC,-4 REC YD",$10,2.7,1.2,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Elijah Arroyo,TE,"SEA 20 @ JAC 12, Final","2 TGT,REC,6 REC YD",$10,2.2,1.1,9:30 AM (1 NFL Game),2025-10-13 16:20:04,6,Sunday
-Austin Hooper,TE,"NE 25 @ NO 19, Final","TGT,REC,5 REC YD",$10,2.9,1.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-New Orleans Saints,DEF,"NE 25 @ NO 19, Final","25 PTS ALLOWED,SACK",$16,5.7,1.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Andrei Iosivas,WR,"CIN 18 @ GB 27, Final","4 TGT,REC,5 REC YD",$11,4.1,1.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Ian Thomas,TE,"TEN 10 @ LV 20, Final","TGT,REC,4 REC YD",$10,1.5,0.9,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Ollie Gordon II,RB,"LAC 29 @ MIA 27, Final","2 RUSH ATT,RUSH YD,TGT,REC,REC YD",$10,2.3,0.7,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Brevyn Spann-Ford,TE,"DAL 27 @ CAR 30, Final","TGT,REC,2 REC YD",$10,0.3,0.7,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-KeAndre Lambert-Smith,WR,"LAC 29 @ MIA 27, Final","2 TGT,REC,REC YD",$10,0.2,0.6,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Blake Whiteheart,TE,"CLE 9 @ PIT 23, Final","TGT,REC",$10,0.2,0.5,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Tyler Lockett,WR,"TEN 10 @ LV 20, Final","3 TGT,REC",$10,1.5,0.5,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Juwan Johnson,TE,"NE 25 @ NO 19, Final","2 TGT,2 REC,15 REC YD,FUM LOST",$15,6.8,0.5,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Drew Sample,TE,"CIN 18 @ GB 27, Final","2 TGT,REC,-2 REC YD",$10,2.2,0.3,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Savion Williams,WR,"CIN 18 @ GB 27, Final","RUSH ATT,3 RUSH YD",$10,1.4,0.3,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Emari DemercadoQ,RB,"ARI 27 @ IND 31, Final","RUSH ATT,RUSH YD,TGT",$13,3.1,0.1,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Chris Brooks,RB,"CIN 18 @ GB 27, Final","RUSH ATT,RUSH YD",$10,1.1,0.1,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Kyler MurrayO,QB,"ARI 27 @ IND 31, Final",,$33,16.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Simi Fehoko,WR,"ARI 27 @ IND 31, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Travis VokolekQ,TE,"ARI 27 @ IND 31, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Tip ReimanIR,TE,"ARI 27 @ IND 31, Final",,$10,0.8,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Xavier Weaver,WR,"ARI 27 @ IND 31, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Ashton Dulin,WR,"ARI 27 @ IND 31, Final",,$10,1.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Drew Ogletree,TE,"ARI 27 @ IND 31, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Tyler GoodsonO,RB,"ARI 27 @ IND 31, Final",,$10,0.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Anthony Richardson Sr.D,QB,"ARI 27 @ IND 31, Final",,$20,0.8,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Will Mallory,TE,"ARI 27 @ IND 31, Final",,$10,0.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Adonai Mitchell,WR,"ARI 27 @ IND 31, Final",,$10,3.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Anthony Gould,WR,"ARI 27 @ IND 31, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-DJ Giddens,RB,"ARI 27 @ IND 31, Final",,$10,1.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Riley Leonard,QB,"ARI 27 @ IND 31, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Jimmy Garoppolo,QB,"LA 17 @ BAL 3, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Colby ParkinsonO,TE,"LA 17 @ BAL 3, Final",,$10,0.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Tutu AtwellO,WR,"LA 17 @ BAL 3, Final",,$11,4.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Stetson Bennett IV,QB,"LA 17 @ BAL 3, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Xavier Smith,WR,"LA 17 @ BAL 3, Final",,$10,0.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Terrance Ferguson,TE,"LA 17 @ BAL 3, Final",RUSH ATT,$10,1.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Jarquez Hunter,RB,"LA 17 @ BAL 3, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Patrick RicardO,RB,"LA 17 @ BAL 3, Final",,$10,2.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Lamar JacksonO,QB,"LA 17 @ BAL 3, Final",,$43,23.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Tylan Wallace,WR,"LA 17 @ BAL 3, Final",,$10,2.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:05,6,Sunday
-Charlie Kolar,TE,"LA 17 @ BAL 3, Final",TGT,$10,1.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Keaton Mitchell,RB,"LA 17 @ BAL 3, Final",,$10,0.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Devontez WalkerO,WR,"LA 17 @ BAL 3, Final",,$10,6.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Rasheen Ali,RB,"LA 17 @ BAL 3, Final",,$10,0.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-LaJohntay Wester,WR,"LA 17 @ BAL 3, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Zaire Mitchell-Paden,TE,"LA 17 @ BAL 3, Final",,$10,0.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Joe Flacco,QB,"CLE 9 @ PIT 23, Final",,$20,10.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Deshaun WatsonPUP,QB,"CLE 9 @ PIT 23, Final",,$20,11.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Shedeur Sanders,QB,"CLE 9 @ PIT 23, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Raheim Sanders,RB,"CLE 9 @ PIT 23, Final",,$10,6.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Mason Rudolph,QB,"CLE 9 @ PIT 23, Final",3 RUSH ATT,$20,0.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Scotty Miller,WR,"CLE 9 @ PIT 23, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Ben Skowronek,WR,"CLE 9 @ PIT 23, Final",,$10,1.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Calvin Austin IIIO,WR,"CLE 9 @ PIT 23, Final",,$18,7.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Cleveland Browns,DEF,"CLE 9 @ PIT 23, Final",23 PTS ALLOWED,$14,4.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Malachi Corley,WR,"CLE 9 @ PIT 23, Final",,$10,1.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Brandon AiyukPUP,WR,"SF 19 @ TB 30, Final",,$15,7.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Luke Farrell,TE,"SF 19 @ TB 30, Final",,$10,2.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Skyy Moore,WR,"SF 19 @ TB 30, Final",,$10,0.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Brock PurdyO,QB,"SF 19 @ TB 30, Final",,$38,19.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Brayden Willis,TE,"SF 19 @ TB 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Ricky PearsallO,WR,"SF 19 @ TB 30, Final",,$25,10.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Isaac Guerendo,RB,"SF 19 @ TB 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Jordan WatkinsO,WR,"SF 19 @ TB 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Jordan James,RB,"SF 19 @ TB 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Mike EvansO,WR,"SF 19 @ TB 30, Final",,$29,9.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Teddy Bridgewater,QB,"SF 19 @ TB 30, Final",,$20,0.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Chris Godwin Jr.O,WR,"SF 19 @ TB 30, Final",,$23,4.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Payne Durham,TE,"SF 19 @ TB 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Ryan Miller,WR,"SF 19 @ TB 30, Final",,$10,2.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Bucky IrvingO,RB,"SF 19 @ TB 30, Final",,$37,15.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Devin Culp,TE,"SF 19 @ TB 30, Final",,$10,5.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Josh WilliamsO,RB,"SF 19 @ TB 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-San Francisco 49ers,DEF,"SF 19 @ TB 30, Final","30 PTS ALLOWED,SACK",$10,4.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Adrian Martinez,QB,"SF 19 @ TB 30, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Eric Saubert,TE,"SEA 20 @ JAC 12, Final",,$10,0.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Drew Lock,QB,"SEA 20 @ JAC 12, Final",,$20,0.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:06,6,Sunday
-Cody White,WR,"SEA 20 @ JAC 12, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Dareke Young,WR,"SEA 20 @ JAC 12, Final",,$10,1.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Jake Bobo,WR,"SEA 20 @ JAC 12, Final",,$10,2.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Brady Russell,RB,"SEA 20 @ JAC 12, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-George Holani,RB,"SEA 20 @ JAC 12, Final",,$10,1.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Jalen Milroe,QB,"SEA 20 @ JAC 12, Final",,$20,-0.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Tory Horton,WR,"SEA 20 @ JAC 12, Final",TGT,$16,6.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Nick Kallerup,TE,"SEA 20 @ JAC 12, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Nick Mullens,QB,"SEA 20 @ JAC 12, Final",,$20,0.3,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Brenton StrangeIR,TE,"SEA 20 @ JAC 12, Final",,$13,6.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Cody Schrader,RB,"SEA 20 @ JAC 12, Final",,$10,0.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Tyler Conklin,TE,"LAC 29 @ MIA 27, Final",,$10,2.8,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Trey Lance,QB,"LAC 29 @ MIA 27, Final",,$20,2.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Tucker Fisk,TE,"LAC 29 @ MIA 27, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Quentin JohnstonO,WR,"LAC 29 @ MIA 27, Final",,$27,14.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Derius DavisO,WR,"LAC 29 @ MIA 27, Final",,$10,-0.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Scott MatlockO,RB,"LAC 29 @ MIA 27, Final",,$10,0.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Omarion HamptonIR,RB,"LAC 29 @ MIA 27, Final",,$32,13.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Nick Westbrook-Ikhine,WR,"LAC 29 @ MIA 27, Final",TGT,$11,0.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Zach Wilson,QB,"LAC 29 @ MIA 27, Final",,$20,1.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Dee Eskridge,WR,"LAC 29 @ MIA 27, Final",TGT,$10,0.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Jaylen Wright,RB,"LAC 29 @ MIA 27, Final",,$10,1.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Tahj Washington,WR,"LAC 29 @ MIA 27, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Quinn Ewers,QB,"LAC 29 @ MIA 27, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Cedrick Wilson Jr.,WR,"LAC 29 @ MIA 27, Final",,$10,3.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Miles SandersIR,RB,"DAL 27 @ CAR 30, Final",,$12,5.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-CeeDee LambO,WR,"DAL 27 @ CAR 30, Final",,$33,10.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-KaVontae TurpinO,WR,"DAL 27 @ CAR 30, Final",,$14,7.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Joe Milton III,QB,"DAL 27 @ CAR 30, Final",,$20,0.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Jaydon Blue,RB,"DAL 27 @ CAR 30, Final",3 RUSH ATT,$10,0.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Andy Dalton,QB,"DAL 27 @ CAR 30, Final",,$20,3.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Chuba HubbardO,RB,"DAL 27 @ CAR 30, Final",,$28,12.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-James Mitchell,TE,"DAL 27 @ CAR 30, Final",,$10,2.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Brycen Tremayne,WR,"DAL 27 @ CAR 30, Final",,$10,3.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Jonathon BrooksPUP,RB,"DAL 27 @ CAR 30, Final",,$10,2.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:07,6,Sunday
-Ja'Tavion SandersO,TE,"DAL 27 @ CAR 30, Final",,$11,4.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Carolina Panthers,DEF,"DAL 27 @ CAR 30, Final",27 PTS ALLOWED,$12,4.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-DeeJay Dallas,RB,"DAL 27 @ CAR 30, Final",RUSH ATT,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Jonathan MingoIR,WR,"DAL 27 @ CAR 30, Final",,$10,1.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Jalen BrooksQ,WR,"DAL 27 @ CAR 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Jalen Cropper,WR,"DAL 27 @ CAR 30, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Brandon Allen,QB,"TEN 10 @ LV 20, Final",,$20,2.8,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Julius Chestnut,RB,"TEN 10 @ LV 20, Final",,$10,0.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Bryce OliverO,WR,"TEN 10 @ LV 20, Final",,$10,0.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Kenny Pickett,QB,"TEN 10 @ LV 20, Final",,$20,3.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Zamir White,RB,"TEN 10 @ LV 20, Final",,$10,2.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Justin Shorter,WR,"TEN 10 @ LV 20, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Brock BowersO,TE,"TEN 10 @ LV 20, Final",,$23,8.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Dylan LaubeQ,RB,"TEN 10 @ LV 20, Final",,$10,0.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Jack Bech,WR,"TEN 10 @ LV 20, Final",TGT,$10,1.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Dont'e Thornton Jr.,WR,"TEN 10 @ LV 20, Final",,$10,2.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Carter Runyon,TE,"TEN 10 @ LV 20, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Alex Bachman,WR,"TEN 10 @ LV 20, Final",,$10,0.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-James Proche II,WR,"TEN 10 @ LV 20, Final",,$10,0.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Albert Okwuegbunam Jr.,TE,"TEN 10 @ LV 20, Final",,$10,6.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Joshua Dobbs,QB,"NE 25 @ NO 19, Final",,$20,-0.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Antonio GibsonIR,RB,"NE 25 @ NO 19, Final",,$10,4.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Tommy DeVito,QB,"NE 25 @ NO 19, Final",,$20,6.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Jack Westover,RB,"NE 25 @ NO 19, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Kyle Williams,WR,"NE 25 @ NO 19, Final",2 TGT,$10,0.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Efton Chism III,WR,"NE 25 @ NO 19, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Jack Stoll,TE,"NE 25 @ NO 19, Final",,$10,3.4,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Velus Jones Jr.,RB,"NE 25 @ NO 19, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Trey PalmerIR,WR,"NE 25 @ NO 19, Final",,$10,1.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Devaughn Vele,WR,"NE 25 @ NO 19, Final",,$10,2.7,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Mason Tipton,WR,"NE 25 @ NO 19, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Tyler Shough,QB,"NE 25 @ NO 19, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Devin Neal,RB,"NE 25 @ NO 19, Final",,$10,0.9,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:08,6,Sunday
-Mike GesickiO,TE,"CIN 18 @ GB 27, Final",,$10,2.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Jake Browning,QB,"CIN 18 @ GB 27, Final",,$25,14.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Brett Rypien,QB,"CIN 18 @ GB 27, Final",,$20,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Charlie Jones,WR,"CIN 18 @ GB 27, Final",,$10,—,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Mitch Tinsley,WR,"CIN 18 @ GB 27, Final",,$10,3.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Jermaine Burton,WR,"CIN 18 @ GB 27, Final",,$10,1.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Erick All Jr.PUP,TE,"CIN 18 @ GB 27, Final",,$10,3.2,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Cam Grandy,TE,"CIN 18 @ GB 27, Final",,$10,1.1,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Tahj Brooks,RB,"CIN 18 @ GB 27, Final",,$10,0.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Christian WatsonPUP,WR,"CIN 18 @ GB 27, Final",,$10,6.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Malik Willis,QB,"CIN 18 @ GB 27, Final",,$20,8.6,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-John FitzPatrick,TE,"CIN 18 @ GB 27, Final",,$10,3.0,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Ben Sims,TE,"CIN 18 @ GB 27, Final",,$10,1.5,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Malik Heath,WR,"CIN 18 @ GB 27, Final",,$10,2.8,0.0,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Cooper Rush,QB,"LA 17 @ BAL 3, Final","72 PASS YD,INT,RUSH ATT,FUM LOST",$20,1.4,-0.12,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Raheem Mostert,RB,"TEN 10 @ LV 20, Final","5 RUSH ATT,-4 RUSH YD",$10,3.2,-0.4,9:30 AM (1 NFL Game),2025-10-13 16:20:09,6,Sunday
-Patrick Mahomes,QB,"DET 17 @ KC 30, Final","257 PASS YD,3 PASS TD,10 RUSH ATT,32 RUSH YD,RUSH TD",$40,24.8,31.48,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Hollywood Brown,WR,"DET 17 @ KC 30, Final","4 TGT,4 REC,45 REC YD,2 REC TD",$19,10.5,18.5,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Jared Goff,QB,"DET 17 @ KC 30, Final","203 PASS YD,2 PASS TD,RUSH ATT,7 RUSH YD",$37,18.2,16.82,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Jameson Williams,WR,"DET 17 @ KC 30, Final","7 TGT,6 REC,66 REC YD,REC TD",$20,8.3,15.6,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Sam LaPorta,TE,"DET 17 @ KC 30, Final","6 TGT,5 REC,55 REC YD,REC TD",$20,9.6,14.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Travis Kelce,TE,"DET 17 @ KC 30, Final","7 TGT,6 REC,78 REC YD",$17,9.7,10.8,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Xavier Worthy,WR,"DET 17 @ KC 30, Final","RUSH ATT,6 RUSH YD,4 TGT,2 REC,20 REC YD,REC TD",$33,8.1,9.6,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Amon-Ra St. Brown,WR,"DET 17 @ KC 30, Final","RUSH ATT,2 RUSH YD,10 TGT,9 REC,45 REC YD",$39,17.4,9.2,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-JuJu Smith-Schuster,WR,"DET 17 @ KC 30, Final","3 TGT,3 REC,57 REC YD",$11,6.3,7.2,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-David Montgomery,RB,"DET 17 @ KC 30, Final","4 RUSH ATT,24 RUSH YD,2 TGT,2 REC,37 REC YD",$26,12.3,7.1,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Jahmyr Gibbs,RB,"DET 17 @ KC 30, Final","17 RUSH ATT,65 RUSH YD,2 TGT,REC",$42,15.3,7.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Isiah Pacheco,RB,"DET 17 @ KC 30, Final","12 RUSH ATT,51 RUSH YD,3 TGT,REC",$16,6.2,5.6,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Kareem Hunt,RB,"DET 17 @ KC 30, Final","6 RUSH ATT,23 RUSH YD,TGT,REC,11 REC YD",$14,7.6,3.9,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Brashard Smith,RB,"DET 17 @ KC 30, Final","4 TGT,3 REC,21 REC YD",$10,2.6,3.6,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Noah Gray,TE,"DET 17 @ KC 30, Final","2 TGT,2 REC,25 REC YD",$10,1.7,3.5,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Detroit Lions,DEF,"DET 17 @ KC 30, Final","30 PTS ALLOWED,3 SACK",$13,7.8,2.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Kansas City Chiefs,DEF,"DET 17 @ KC 30, Final","17 PTS ALLOWED,SACK",$10,5.8,2.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Kalif Raymond,WR,"DET 17 @ KC 30, Final",,$10,2.9,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Kyle Allen,QB,"DET 17 @ KC 30, Final",,$20,-0.2,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Craig Reynolds,RB,"DET 17 @ KC 30, Final",,$10,0.1,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Brock Wright,TE,"DET 17 @ KC 30, Final",,$10,9.1,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Jacob Saylors,RB,"DET 17 @ KC 30, Final",,$10,0.2,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Sione VakiO,RB,"DET 17 @ KC 30, Final",,$10,—,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:18,6,Sunday
-Isaac TeSlaa,WR,"DET 17 @ KC 30, Final",,$10,4.7,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:19,6,Sunday
-Dominic Lovett,WR,"DET 17 @ KC 30, Final",,$10,—,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:19,6,Sunday
-Robert Tonyan,TE,"DET 17 @ KC 30, Final",,$10,—,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:19,6,Sunday
-Gardner Minshew,QB,"DET 17 @ KC 30, Final",,$20,-0.3,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:19,6,Sunday
-Elijah Mitchell,RB,"DET 17 @ KC 30, Final",,$10,—,0.0,8:20 PM (1 NFL Game),2025-10-13 16:21:19,6,Sunday
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day,game_time
+Rico Dowdle,RB,"DAL 27 @ CAR 30, Final","30 RUSH ATT,183 RUSH YD,5 TGT,4 REC,56 REC YD,REC TD",$22,13.6,31.9,1,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Patrick Mahomes,QB,"DET 17 @ KC 30, Final","257 PASS YD,3 PASS TD,10 RUSH ATT,32 RUSH YD,RUSH TD",$40,24.8,31.48,2,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Josh Jacobs,RB,"CIN 18 @ GB 27, Final","18 RUSH ATT,93 RUSH YD,2 RUSH TD,5 TGT,5 REC,57 REC YD",$40,19.4,29.5,3,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+De'Von Achane,RB,"LAC 29 @ MIA 27, Final","16 RUSH ATT,128 RUSH YD,2 RUSH TD,6 TGT,4 REC,22 REC YD",$39,18.2,29.0,4,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+George Pickens,WR,"DAL 27 @ CAR 30, Final","11 TGT,9 REC,168 REC YD,REC TD",$34,17.4,27.3,5,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Drake Maye,QB,"NE 25 @ NO 19, Final","261 PASS YD,3 PASS TD,9 RUSH ATT,28 RUSH YD,2PT",$35,20.9,27.24,6,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Jaxon Smith-Njigba,WR,"SEA 20 @ JAC 12, Final","13 TGT,8 REC,162 REC YD,REC TD",$35,18.0,26.2,7,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Kayshon Boutte,WR,"NE 25 @ NO 19, Final","5 TGT,5 REC,93 REC YD,2 REC TD",$14,9.5,23.8,8,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Daniel Jones,QB,"ARI 27 @ IND 31, Final","212 PASS YD,2 PASS TD,INT,5 RUSH ATT,20 RUSH YD,RUSH TD",$36,20.1,23.48,9,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Dak Prescott,QB,"DAL 27 @ CAR 30, Final","261 PASS YD,3 PASS TD,2 RUSH ATT,-1 RUSH YD",$39,21.1,22.34,10,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Jacoby Brissett,QB,"ARI 27 @ IND 31, Final","320 PASS YD,2 PASS TD,INT,3 RUSH ATT,19 RUSH YD",$20,7.3,21.7,11,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Jonathan Taylor,RB,"ARI 27 @ IND 31, Final","21 RUSH ATT,123 RUSH YD,RUSH TD,4 TGT,4 REC,14 REC YD",$45,22.5,21.7,12,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Kimani Vidal,RB,"LAC 29 @ MIA 27, Final","18 RUSH ATT,124 RUSH YD,4 TGT,3 REC,14 REC YD,REC TD",$10,7.9,21.3,13,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Christian McCaffrey,RB,"SF 19 @ TB 30, Final","17 RUSH ATT,54 RUSH YD,RUSH TD,8 TGT,7 REC,57 REC YD",$42,20.8,20.6,14,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Ja'Marr Chase,WR,"CIN 18 @ GB 27, Final","RUSH ATT,-3 RUSH YD,12 TGT,10 REC,94 REC YD,REC TD",$37,15.1,20.1,15,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Sam Darnold,QB,"SEA 20 @ JAC 12, Final","295 PASS YD,2 PASS TD,4 RUSH ATT,2 RUSH YD",$32,17.4,20.0,16,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Baker Mayfield,QB,"SF 19 @ TB 30, Final","256 PASS YD,2 PASS TD,3 RUSH ATT,14 RUSH YD",$39,21.1,19.64,17,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Ladd McConkey,WR,"LAC 29 @ MIA 27, Final","9 TGT,7 REC,100 REC YD,REC TD",$25,9.5,19.5,18,2025-10-13 16:19:59,6,Sunday,9:30 AM (1 NFL Game)
+Bryce Young,QB,"DAL 27 @ CAR 30, Final","199 PASS YD,3 PASS TD,INT,3 RUSH ATT,5 RUSH YD",$28,14.5,19.46,19,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Trevor Lawrence,QB,"SEA 20 @ JAC 12, Final","258 PASS YD,2 PASS TD,3 RUSH ATT,9 RUSH YD",$31,16.6,19.22,20,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Brian Thomas Jr.,WR,"SEA 20 @ JAC 12, Final","10 TGT,8 REC,90 REC YD,REC TD",$27,9.8,19.0,21,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Justin Herbert,QB,"LAC 29 @ MIA 27, Final","264 PASS YD,2 PASS TD,RUSH ATT,2 RUSH YD",$36,18.5,18.76,22,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Hollywood Brown,WR,"DET 17 @ KC 30, Final","4 TGT,4 REC,45 REC YD,2 REC TD",$19,10.5,18.5,23,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Aaron Rodgers,QB,"CLE 9 @ PIT 23, Final","235 PASS YD,2 PASS TD,RUSH ATT,RUSH YD",$30,16.2,17.5,24,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+DK Metcalf,WR,"CLE 9 @ PIT 23, Final","9 TGT,4 REC,95 REC YD,REC TD",$26,13.8,17.5,25,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Trey McBride,TE,"ARI 27 @ IND 31, Final","11 TGT,8 REC,72 REC YD,REC TD",$24,10.9,17.2,26,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Los Angeles Rams,DEF,"LA 17 @ BAL 3, Final","3 PTS ALLOWED,4 SACK,INT,2 FUM REC",$14,8.3,17.0,27,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Jared Goff,QB,"DET 17 @ KC 30, Final","203 PASS YD,2 PASS TD,RUSH ATT,7 RUSH YD",$37,18.2,16.82,28,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Kendrick Bourne,WR,"SF 19 @ TB 30, Final","9 TGT,5 REC,142 REC YD",$10,9.7,16.7,29,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Tetairoa McMillan,WR,"DAL 27 @ CAR 30, Final","5 TGT,3 REC,29 REC YD,2 REC TD",$26,10.6,16.4,30,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Rachaad White,RB,"SF 19 @ TB 30, Final","17 RUSH ATT,65 RUSH YD,RUSH TD,3 TGT,3 REC,21 REC YD",$21,10.2,16.1,31,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Las Vegas Raiders,DEF,"TEN 10 @ LV 20, Final","10 PTS ALLOWED,6 SACK,INT,2 FUM REC",$17,4.8,16.0,32,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Jordan Love,QB,"CIN 18 @ GB 27, Final","259 PASS YD,PASS TD,INT,7 RUSH ATT,26 RUSH YD",$33,18.2,15.96,33,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Kyren Williams,RB,"LA 17 @ BAL 3, Final","13 RUSH ATT,50 RUSH YD,RUSH TD,2 TGT,2 REC,37 REC YD",$31,15.4,15.7,34,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Ashton Jeanty,RB,"TEN 10 @ LV 20, Final","23 RUSH ATT,75 RUSH YD,RUSH TD,4 TGT,2 REC,11 REC YD",$32,14.1,15.6,35,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Jameson Williams,WR,"DET 17 @ KC 30, Final","7 TGT,6 REC,66 REC YD,REC TD",$20,8.3,15.6,36,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Tyler Warren,TE,"ARI 27 @ IND 31, Final","9 TGT,6 REC,63 REC YD,REC TD",$22,11.7,15.3,37,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+DeMario Douglas,WR,"NE 25 @ NO 19, Final","4 TGT,3 REC,71 REC YD,REC TD",$10,5.5,14.6,38,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Kameron Johnson,WR,"SF 19 @ TB 30, Final","4 TGT,4 REC,64 REC YD,REC TD",$10,2.4,14.4,39,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Sam LaPorta,TE,"DET 17 @ KC 30, Final","6 TGT,5 REC,55 REC YD,REC TD",$20,9.6,14.0,40,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Michael Mayer,TE,"TEN 10 @ LV 20, Final","7 TGT,5 REC,50 REC YD,REC TD",$10,5.3,13.5,41,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Derrick Henry,RB,"LA 17 @ BAL 3, Final","24 RUSH ATT,122 RUSH YD,2 TGT,REC,8 REC YD",$35,11.8,13.5,42,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Bo Nix,QB,"DEN 13 @ NYJ 11, Final","174 PASS YD,PASS TD,5 RUSH ATT,24 RUSH YD",$31,16.9,13.36,43,2025-10-13 16:23:38,Week 6,Sunday,
+Josh Downs,WR,"ARI 27 @ IND 31, Final","7 TGT,6 REC,42 REC YD,REC TD",$17,6.8,13.2,44,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Mac Jones,QB,"SF 19 @ TB 30, Final","347 PASS YD,2 INT,5 RUSH ATT,13 RUSH YD",$22,17.8,13.18,45,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Denver Broncos,DEF,"DEN 13 @ NYJ 11, Final","9 PTS ALLOWED,9 SACK",$16,8.8,13.0,46,2025-10-13 16:23:38,Week 6,Sunday,
+Jaylen Waddle,WR,"LAC 29 @ MIA 27, Final","8 PASS YD,8 TGT,6 REC,95 REC YD",$28,12.0,12.82,47,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Chris Olave,WR,"NE 25 @ NO 19, Final","10 TGT,6 REC,98 REC YD",$24,9.8,12.8,48,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Tyler Higbee,TE,"LA 17 @ BAL 3, Final","4 TGT,4 REC,40 REC YD,REC TD",$11,5.3,12.0,49,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Bam Knight,RB,"ARI 27 @ IND 31, Final","11 RUSH ATT,34 RUSH YD,RUSH TD,2 TGT,REC,20 REC YD",$10,5.2,11.9,50,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Matthew Golden,WR,"CIN 18 @ GB 27, Final","2 RUSH ATT,16 RUSH YD,5 TGT,3 REC,86 REC YD",$18,6.5,11.7,51,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Harold Fannin Jr.,TE,"CLE 9 @ PIT 23, Final","10 TGT,7 REC,81 REC YD",$12,7.6,11.6,52,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Tucker Kraft,TE,"CIN 18 @ GB 27, Final","2 TGT,2 REC,43 REC YD,REC TD",$19,10.8,11.3,53,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Spencer Rattler,QB,"NE 25 @ NO 19, Final","227 PASS YD,4 RUSH ATT,20 RUSH YD",$30,14.4,11.08,54,2025-10-13 16:20:00,6,Sunday,9:30 AM (1 NFL Game)
+Cooper Kupp,WR,"SEA 20 @ JAC 12, Final","3 TGT,2 REC,40 REC YD,REC TD",$17,7.3,11.0,55,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Tampa Bay Buccaneers,DEF,"SF 19 @ TB 30, Final","19 PTS ALLOWED,6 SACK,2 INT",$14,5.7,11.0,56,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Tez Johnson,WR,"SF 19 @ TB 30, Final","3 TGT,REC,45 REC YD,REC TD",$10,4.2,11.0,57,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Seattle Seahawks,DEF,"SEA 20 @ JAC 12, Final","12 PTS ALLOWED,7 SACK",$12,9.5,11.0,58,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Travis Kelce,TE,"DET 17 @ KC 30, Final","7 TGT,6 REC,78 REC YD",$17,9.7,10.8,59,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Jake Ferguson,TE,"DAL 27 @ CAR 30, Final","3 TGT,3 REC,33 REC YD,REC TD",$19,12.8,10.8,60,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Zay Jones,WR,"ARI 27 @ IND 31, Final","8 TGT,5 REC,79 REC YD",$10,3.3,10.4,61,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Alvin Kamara,RB,"NE 25 @ NO 19, Final","10 RUSH ATT,31 RUSH YD,5 TGT,5 REC,45 REC YD",$29,9.8,10.1,62,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Pittsburgh Steelers,DEF,"CLE 9 @ PIT 23, Final","9 PTS ALLOWED,6 SACK",$17,8.6,10.0,63,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Geno Smith,QB,"TEN 10 @ LV 20, Final","174 PASS YD,PASS TD,INT,4 RUSH ATT,-3 RUSH YD",$29,13.5,9.66,64,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Xavier Worthy,WR,"DET 17 @ KC 30, Final","RUSH ATT,6 RUSH YD,4 TGT,2 REC,20 REC YD,REC TD",$33,8.1,9.6,65,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Tua Tagovailoa,QB,"LAC 29 @ MIA 27, Final","205 PASS YD,PASS TD,3 INT,RUSH ATT,4 RUSH YD",$33,14.8,9.6,66,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Van Jefferson,WR,"TEN 10 @ LV 20, Final","6 TGT,4 REC,75 REC YD",$10,3.5,9.5,67,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Tre Tucker,WR,"TEN 10 @ LV 20, Final","5 TGT,5 REC,70 REC YD",$19,12.4,9.5,68,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Matthew Stafford,QB,"LA 17 @ BAL 3, Final","181 PASS YD,PASS TD,4 RUSH ATT,RUSH YD,FUM LOST",$33,18.2,9.34,69,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Nate Adkins,TE,"DEN 13 @ NYJ 11, Final","2 TGT,2 REC,23 REC YD,REC TD",$10,2.7,9.3,70,2025-10-13 16:23:39,Week 6,Sunday,
+Amon-Ra St. Brown,WR,"DET 17 @ KC 30, Final","RUSH ATT,2 RUSH YD,10 TGT,9 REC,45 REC YD",$39,17.4,9.2,71,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Tim Patrick,WR,"SEA 20 @ JAC 12, Final","TGT,REC,26 REC YD,REC TD",$10,2.3,9.1,72,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Tanner HudsonQ,TE,"CIN 18 @ GB 27, Final","5 TGT,4 REC,10 REC YD,REC TD",$10,9.0,9.0,73,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+New York Jets,DEF,"DEN 13 @ NYJ 11, Final","13 PTS ALLOWED,SACK,SAFETY,FUM REC",$10,3.0,9.0,74,2025-10-13 16:23:39,Week 6,Sunday,
+Dillon Gabriel,QB,"CLE 9 @ PIT 23, Final",221 PASS YD,$21,7.4,8.84,75,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Jake Tonges,TE,"SF 19 @ TB 30, Final","7 TGT,6 REC,58 REC YD",$11,8.8,8.8,76,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Tee Higgins,WR,"CIN 18 @ GB 27, Final","8 TGT,5 REC,62 REC YD",$24,7.2,8.7,77,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+AJ Barner,TE,"SEA 20 @ JAC 12, Final","3 TGT,3 REC,71 REC YD",$13,8.9,8.6,78,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Sean Tucker,RB,"SF 19 @ TB 30, Final","6 RUSH ATT,25 RUSH YD,RUSH TD",$10,1.7,8.5,79,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Greg Dortch,WR,"ARI 27 @ IND 31, Final","3 TGT,3 REC,9 REC YD,REC TD",$10,3.4,8.4,80,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Oronde Gadsden,TE,"LAC 29 @ MIA 27, Final","8 TGT,7 REC,68 REC YD,FUM LOST",$10,5.0,8.3,81,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Darren Waller,TE,"LAC 29 @ MIA 27, Final","3 TGT,2 REC,12 REC YD,REC TD",$16,13.6,8.2,82,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Los Angeles Chargers,DEF,"LAC 29 @ MIA 27, Final","27 PTS ALLOWED,2 SACK,3 INT",$15,5.8,8.0,83,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Romeo Doubs,WR,"CIN 18 @ GB 27, Final","9 TGT,5 REC,55 REC YD",$22,11.3,8.0,84,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Chase Brown,RB,"CIN 18 @ GB 27, Final","9 RUSH ATT,42 RUSH YD,2 TGT,2 REC,7 REC YD,2PT",$28,8.1,7.9,85,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Cam Ward,QB,"TEN 10 @ LV 20, Final","222 PASS YD,PASS TD,INT,2 FUM LOST",$21,7.9,7.88,86,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Darnell Washington,TE,"CLE 9 @ PIT 23, Final","5 TGT,3 REC,62 REC YD",$10,3.3,7.7,87,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Connor Heyward,TE,"CLE 9 @ PIT 23, Final","TGT,REC,12 REC YD,REC TD",$10,3.0,7.7,88,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Hunter Luepke,RB,"DAL 27 @ CAR 30, Final","2 TGT,2 REC,7 REC YD,REC TD",$10,2.4,7.7,89,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Chig Okonkwo,TE,"TEN 10 @ LV 20, Final","6 TGT,6 REC,46 REC YD",$12,5.6,7.6,90,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Cade Otton,TE,"SF 19 @ TB 30, Final","6 TGT,5 REC,51 REC YD",$10,4.8,7.6,91,2025-10-13 16:20:01,6,Sunday,9:30 AM (1 NFL Game)
+Travis Etienne Jr.,RB,"SEA 20 @ JAC 12, Final","12 RUSH ATT,27 RUSH YD,5 TGT,4 REC,28 REC YD",$26,13.1,7.5,92,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Evan Engram,TE,"DEN 13 @ NYJ 11, Final","RUSH ATT,7 RUSH YD,6 TGT,5 REC,42 REC YD",$13,5.8,7.4,93,2025-10-13 16:23:39,Week 6,Sunday,
+Michael Carter,RB,"ARI 27 @ IND 31, Final","9 RUSH ATT,34 RUSH YD,5 TGT,2 REC,30 REC YD",$22,7.8,7.4,94,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Jaylen Warren,RB,"CLE 9 @ PIT 23, Final","11 RUSH ATT,52 RUSH YD,2 TGT,2 REC,11 REC YD",$23,11.5,7.3,95,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+JuJu Smith-Schuster,WR,"DET 17 @ KC 30, Final","3 TGT,3 REC,57 REC YD",$11,6.3,7.2,96,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+David Montgomery,RB,"DET 17 @ KC 30, Final","4 RUSH ATT,24 RUSH YD,2 TGT,2 REC,37 REC YD",$26,12.3,7.1,97,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Tyjae Spears,RB,"TEN 10 @ LV 20, Final","5 RUSH ATT,31 RUSH YD,4 TGT,4 REC,19 REC YD",$19,4.2,7.0,98,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Jahmyr Gibbs,RB,"DET 17 @ KC 30, Final","17 RUSH ATT,65 RUSH YD,2 TGT,REC",$42,15.3,7.0,99,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Justice Hill,RB,"LA 17 @ BAL 3, Final","6 RUSH ATT,16 RUSH YD,6 TGT,5 REC,28 REC YD",$15,7.4,6.9,100,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Jerry Jeudy,WR,"CLE 9 @ PIT 23, Final","13 TGT,5 REC,43 REC YD",$20,5.7,6.8,101,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Tyler Huntley,QB,"LA 17 @ BAL 3, Final","68 PASS YD,3 RUSH ATT,39 RUSH YD",$20,6.6,6.62,102,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Kenneth Gainwell,RB,"CLE 9 @ PIT 23, Final","6 RUSH ATT,22 RUSH YD,6 TGT,6 REC,14 REC YD",$15,10.6,6.6,103,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+David Martin-Robinson,TE,"TEN 10 @ LV 20, Final","TGT,REC,REC YD,REC TD",$10,3.3,6.6,104,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Michael Wilson,WR,"ARI 27 @ IND 31, Final","5 TGT,4 REC,44 REC YD",$11,3.6,6.4,105,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Taysom Hill,TE,"NE 25 @ NO 19, Final","RUSH ATT,RUSH YD,RUSH TD",$13,3.4,6.1,106,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Sterling Shepard,WR,"SF 19 @ TB 30, Final","3 TGT,2 REC,51 REC YD",$11,6.6,6.1,107,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Davante Adams,WR,"LA 17 @ BAL 3, Final","9 TGT,4 REC,39 REC YD",$31,11.8,5.9,108,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Javonte Williams,RB,"DAL 27 @ CAR 30, Final","13 RUSH ATT,29 RUSH YD,8 TGT,5 REC,5 REC YD",$31,16.8,5.9,109,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Jakobi Meyers,WR,"TEN 10 @ LV 20, Final","4 TGT,4 REC,39 REC YD",$25,7.9,5.9,110,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Breece Hall,RB,"DEN 13 @ NYJ 11, Final","22 RUSH ATT,59 RUSH YD",$29,10.4,5.9,111,2025-10-13 16:23:39,Week 6,Sunday,
+Tommy Tremble,TE,"DAL 27 @ CAR 30, Final","4 TGT,4 REC,39 REC YD",$10,4.4,5.9,112,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Alec Pierce,WR,"ARI 27 @ IND 31, Final","4 TGT,2 REC,48 REC YD",$18,6.9,5.8,113,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Tony Pollard,RB,"TEN 10 @ LV 20, Final","10 RUSH ATT,34 RUSH YD,2 TGT,2 REC,13 REC YD",$23,9.6,5.7,114,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Jimmy Horn Jr.,WR,"DAL 27 @ CAR 30, Final","RUSH ATT,11 RUSH YD,2 TGT,2 REC,36 REC YD",$10,4.9,5.7,115,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Isiah Pacheco,RB,"DET 17 @ KC 30, Final","12 RUSH ATT,51 RUSH YD,3 TGT,REC",$16,6.2,5.6,116,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Zay Flowers,WR,"LA 17 @ BAL 3, Final","10 TGT,6 REC,46 REC YD,FUM LOST",$28,10.8,5.6,117,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Jerome Ford,RB,"CLE 9 @ PIT 23, Final","2 RUSH ATT,17 RUSH YD,6 TGT,5 REC,13 REC YD",$11,3.8,5.5,118,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Demarcus Robinson,WR,"SF 19 @ TB 30, Final","3 TGT,2 REC,44 REC YD",$10,4.4,5.4,119,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Tennessee Titans,DEF,"TEN 10 @ LV 20, Final","20 PTS ALLOWED,2 SACK,INT",$10,5.3,5.0,120,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+New England Patriots,DEF,"NE 25 @ NO 19, Final","19 PTS ALLOWED,2 SACK,FUM REC",$11,7.7,5.0,121,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Baltimore Ravens,DEF,"LA 17 @ BAL 3, Final","17 PTS ALLOWED,2 SACK,FUM REC",$15,1.3,5.0,122,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Justin Fields,QB,"DEN 13 @ NYJ 11, Final","45 PASS YD,7 RUSH ATT,31 RUSH YD",$29,18.3,4.9,123,2025-10-13 16:23:39,Week 6,Sunday,
+Rashid Shaheed,WR,"NE 25 @ NO 19, Final","6 TGT,4 REC,28 REC YD",$26,9.5,4.8,124,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Ryan Flournoy,WR,"DAL 27 @ CAR 30, Final","RUSH ATT,3 RUSH YD,6 TGT,3 REC,30 REC YD",$10,5.4,4.8,125,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Noah Fant,TE,"CIN 18 @ GB 27, Final","4 TGT,4 REC,27 REC YD",$10,5.7,4.7,126,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Tre' Harris,WR,"LAC 29 @ MIA 27, Final","5 TGT,4 REC,27 REC YD",$10,2.1,4.7,127,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Keenan Allen,WR,"LAC 29 @ MIA 27, Final","7 TGT,4 REC,27 REC YD",$24,11.0,4.7,128,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Julian Hill,TE,"LAC 29 @ MIA 27, Final","3 TGT,3 REC,31 REC YD",$10,2.4,4.6,129,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+Mark Andrews,TE,"LA 17 @ BAL 3, Final","3 RUSH ATT,2 RUSH YD,6 TGT,4 REC,24 REC YD",$16,6.7,4.6,130,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+RJ Harvey,RB,"DEN 13 @ NYJ 11, Final","2 RUSH ATT,4 RUSH YD,4 TGT,4 REC,21 REC YD",$17,6.7,4.5,131,2025-10-13 16:23:39,Week 6,Sunday,
+Elijah Higgins,TE,"ARI 27 @ IND 31, Final","2 TGT,2 REC,34 REC YD",$10,2.3,4.4,132,2025-10-13 16:20:02,6,Sunday,9:30 AM (1 NFL Game)
+David NjokuQ,TE,"CLE 9 @ PIT 23, Final","6 TGT,3 REC,28 REC YD",$17,6.6,4.3,133,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Malik Washington,WR,"LAC 29 @ MIA 27, Final","RUSH ATT,RUSH YD,5 TGT,4 REC,22 REC YD",$12,4.5,4.3,134,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Stefon Diggs,WR,"NE 25 @ NO 19, Final","3 TGT,3 REC,28 REC YD",$24,9.1,4.3,135,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Jonnu Smith,TE,"CLE 9 @ PIT 23, Final","RUSH ATT,10 RUSH YD,4 TGT,3 REC,18 REC YD",$13,4.9,4.3,136,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Kenneth Walker III,RB,"SEA 20 @ JAC 12, Final","10 RUSH ATT,34 RUSH YD,TGT,REC,3 REC YD",$25,10.8,4.2,137,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Zach Charbonnet,RB,"SEA 20 @ JAC 12, Final","12 RUSH ATT,24 RUSH YD,TGT,REC,13 REC YD",$21,7.7,4.2,138,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Marvin Harrison Jr.Q,WR,"ARI 27 @ IND 31, Final","2 TGT,2 REC,32 REC YD",$26,9.5,4.2,139,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Elic Ayomanor,WR,"TEN 10 @ LV 20, Final","5 TGT,3 REC,27 REC YD",$16,6.7,4.2,140,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Hunter Henry,TE,"NE 25 @ NO 19, Final","3 TGT,3 REC,27 REC YD",$17,9.3,4.2,141,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Samaje Perine,RB,"CIN 18 @ GB 27, Final","6 RUSH ATT,16 RUSH YD,3 TGT,2 REC,16 REC YD",$10,1.7,4.2,142,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+TreVeyon Henderson,RB,"NE 25 @ NO 19, Final","9 RUSH ATT,27 RUSH YD,2 TGT,REC,9 REC YD",$19,6.4,4.1,143,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+J.K. Dobbins,RB,"DEN 13 @ NYJ 11, Final","14 RUSH ATT,40 RUSH YD,TGT",$25,12.3,4.0,144,2025-10-13 16:23:39,Week 6,Sunday,
+Josh Reynolds,WR,"DEN 13 @ NYJ 11, Final","3 TGT,3 REC,25 REC YD",$10,3.3,4.0,145,2025-10-13 16:23:39,Week 6,Sunday,
+Indianapolis Colts,DEF,"ARI 27 @ IND 31, Final","27 PTS ALLOWED,2 SACK,INT",$13,9.2,4.0,146,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Parker Washington,WR,"SEA 20 @ JAC 12, Final","4 TGT,2 REC,29 REC YD",$12,5.6,3.9,147,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Kareem Hunt,RB,"DET 17 @ KC 30, Final","6 RUSH ATT,23 RUSH YD,TGT,REC,11 REC YD",$14,7.6,3.9,148,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Marvin Mims Jr.,WR,"DEN 13 @ NYJ 11, Final","RUSH ATT,-2 RUSH YD,3 TGT,2 REC,30 REC YD",$17,5.9,3.8,149,2025-10-13 16:23:39,Week 6,Sunday,
+Jordan Whittington,WR,"LA 17 @ BAL 3, Final","4 TGT,3 REC,23 REC YD",$10,2.9,3.8,150,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Puka NacuaQ,WR,"LA 17 @ BAL 3, Final","3 TGT,2 REC,28 REC YD",$43,18.6,3.8,151,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Bhayshul Tuten,RB,"SEA 20 @ JAC 12, Final","2 RUSH ATT,14 RUSH YD,3 TGT,2 REC,14 REC YD",$15,5.3,3.8,152,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Mack Hollins,WR,"NE 25 @ NO 19, Final","3 TGT,2 REC,28 REC YD",$10,4.7,3.8,153,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Kendre Miller,RB,"NE 25 @ NO 19, Final","8 RUSH ATT,21 RUSH YD,TGT,REC,11 REC YD",$12,5.0,3.7,154,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Quinshon Judkins,RB,"CLE 9 @ PIT 23, Final","12 RUSH ATT,36 RUSH YD,TGT",$28,12.2,3.6,155,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Brashard Smith,RB,"DET 17 @ KC 30, Final","4 TGT,3 REC,21 REC YD",$10,2.6,3.6,156,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Travis Hunter,WR,"SEA 20 @ JAC 12, Final","7 TGT,4 REC,15 REC YD",$17,5.0,3.5,157,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Noah Gray,TE,"DET 17 @ KC 30, Final","2 TGT,2 REC,25 REC YD",$10,1.7,3.5,158,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Dylan Sampson,RB,"CLE 9 @ PIT 23, Final","3 RUSH ATT,12 RUSH YD,2 TGT,2 REC,12 REC YD",$10,4.5,3.4,159,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Emeka EgbukaQ,WR,"SF 19 @ TB 30, Final","4 TGT,2 REC,24 REC YD",$35,15.6,3.4,160,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Gage LarvadainQ,WR,"CLE 9 @ PIT 23, Final","4 TGT,2 REC,22 REC YD",$10,1.6,3.2,161,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Marquez Valdes-Scantling,WR,"SF 19 @ TB 30, Final","3 TGT,2 REC,22 REC YD",$10,1.5,3.2,162,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Pat Bryant,WR,"DEN 13 @ NYJ 11, Final","2 TGT,2 REC,22 REC YD",$10,2.0,3.2,163,2025-10-13 16:23:39,Week 6,Sunday,
+DeAndre Hopkins,WR,"LA 17 @ BAL 3, Final","4 TGT,2 REC,20 REC YD",$10,5.7,3.0,164,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Michael Pittman Jr.,WR,"ARI 27 @ IND 31, Final","3 TGT,2 REC,20 REC YD",$25,11.2,3.0,165,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Alec Ingold,RB,"LAC 29 @ MIA 27, Final","RUSH ATT,3 RUSH YD,TGT,REC,22 REC YD",$10,1.5,3.0,166,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Cincinnati Bengals,DEF,"CIN 18 @ GB 27, Final","27 PTS ALLOWED,SACK,INT",$10,2.8,3.0,167,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Dyami Brown,WR,"SEA 20 @ JAC 12, Final","RUSH ATT,7 RUSH YD,5 TGT,2 REC,13 REC YD",$15,5.9,3.0,168,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Hunter Long,TE,"SEA 20 @ JAC 12, Final","3 TGT,2 REC,19 REC YD",$10,4.6,2.9,169,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Hassan Haskins,RB,"LAC 29 @ MIA 27, Final","6 RUSH ATT,14 RUSH YD,TGT,REC,9 REC YD",$10,0.8,2.8,170,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Will Dissly,TE,"LAC 29 @ MIA 27, Final","2 TGT,2 REC,18 REC YD",$10,2.1,2.8,171,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Garrett WilsonQ,WR,"DEN 13 @ NYJ 11, Final","8 TGT,3 REC,13 REC YD",$29,13.6,2.8,172,2025-10-13 16:23:39,Week 6,Sunday,
+Mitchell Evans,TE,"DAL 27 @ CAR 30, Final","TGT,REC,21 REC YD",$10,4.4,2.6,173,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Brandin Cooks,WR,"NE 25 @ NO 19, Final","TGT,REC,21 REC YD",$10,3.2,2.6,174,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Gunnar Helm,TE,"TEN 10 @ LV 20, Final","3 TGT,2 REC,15 REC YD",$10,3.0,2.5,175,2025-10-13 16:20:03,6,Sunday,9:30 AM (1 NFL Game)
+Dontayvion WicksQ,WR,"CIN 18 @ GB 27, Final","2 TGT,2 REC,15 REC YD",$11,3.8,2.5,176,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Blake CorumQ,RB,"LA 17 @ BAL 3, Final","5 RUSH ATT,23 RUSH YD",$10,4.0,2.3,177,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Brian Robinson Jr.,RB,"SF 19 @ TB 30, Final","3 TGT,3 REC,8 REC YD",$10,2.4,2.3,178,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Calvin RidleyQ,WR,"TEN 10 @ LV 20, Final","TGT,REC,18 REC YD",$22,6.2,2.3,179,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Jamari Thrash,WR,"CLE 9 @ PIT 23, Final","3 TGT,2 REC,13 REC YD",$10,1.8,2.3,180,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Courtland Sutton,WR,"DEN 13 @ NYJ 11, Final","3 TGT,REC,17 REC YD",$27,11.6,2.2,181,2025-10-13 16:23:39,Week 6,Sunday,
+Xavier Legette,WR,"DAL 27 @ CAR 30, Final","2 TGT,2 REC,11 REC YD",$13,3.8,2.1,182,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Ameer Abdullah,RB,"ARI 27 @ IND 31, Final","RUSH ATT,7 RUSH YD,TGT,REC,9 REC YD",$14,4.4,2.1,183,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Mo Alie-Cox,TE,"ARI 27 @ IND 31, Final","2 TGT,REC,16 REC YD",$10,2.0,2.1,184,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Kansas City Chiefs,DEF,"DET 17 @ KC 30, Final","17 PTS ALLOWED,SACK",$10,5.8,2.0,185,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Detroit Lions,DEF,"DET 17 @ KC 30, Final","30 PTS ALLOWED,3 SACK",$13,7.8,2.0,186,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Jacksonville Jaguars,DEF,"SEA 20 @ JAC 12, Final","20 PTS ALLOWED,SACK",$12,9.2,2.0,187,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Arizona Cardinals,DEF,"ARI 27 @ IND 31, Final","31 PTS ALLOWED,SACK,INT",$10,6.3,2.0,188,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Miami Dolphins,DEF,"LAC 29 @ MIA 27, Final","29 PTS ALLOWED,SACK,FUM REC",$10,4.3,2.0,189,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Dallas Cowboys,DEF,"DAL 27 @ CAR 30, Final","30 PTS ALLOWED,SACK,INT",$13,2.2,2.0,190,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Green Bay Packers,DEF,"CIN 18 @ GB 27, Final","18 PTS ALLOWED,SACK",$18,4.4,2.0,191,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Johnny Mundt,TE,"SEA 20 @ JAC 12, Final","2 TGT,REC,14 REC YD",$10,0.9,1.9,192,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Isaiah Bond,WR,"CLE 9 @ PIT 23, Final","5 TGT,2 REC,9 REC YD",$10,3.1,1.9,193,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Rhamondre Stevenson,RB,"NE 25 @ NO 19, Final","13 RUSH ATT,18 RUSH YD,TGT",$20,7.6,1.8,194,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Chimere Dike,WR,"TEN 10 @ LV 20, Final","3 TGT,2 REC,8 REC YD",$10,1.5,1.8,195,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Trevor Etienne,RB,"DAL 27 @ CAR 30, Final","3 RUSH ATT,17 RUSH YD",$10,1.6,1.7,196,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Roman Wilson,WR,"CLE 9 @ PIT 23, Final","TGT,REC,12 REC YD",$10,1.5,1.7,197,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+LeQuint Allen Jr.,RB,"SEA 20 @ JAC 12, Final","RUSH ATT,2 RUSH YD,2 TGT,REC,10 REC YD",$10,1.2,1.7,198,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Pat Freiermuth,TE,"CLE 9 @ PIT 23, Final","TGT,REC,11 REC YD",$12,2.9,1.6,199,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Isaiah Likely,TE,"LA 17 @ BAL 3, Final","2 TGT,2 REC,6 REC YD",$12,1.7,1.6,200,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Troy Franklin,WR,"DEN 13 @ NYJ 11, Final","RUSH ATT,2 RUSH YD,4 TGT,3 REC,19 REC YD,FUM LOST",$16,7.4,1.6,201,2025-10-13 16:23:39,Week 6,Sunday,
+Kaleb Johnson,RB,"CLE 9 @ PIT 23, Final","6 RUSH ATT,15 RUSH YD",$10,0.9,1.5,202,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Kyle Juszczyk,RB,"SF 19 @ TB 30, Final","TGT,REC,9 REC YD",$10,3.6,1.4,203,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Foster Moreau,TE,"NE 25 @ NO 19, Final","TGT,REC,9 REC YD",$10,1.4,1.4,204,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Tanner Conner,TE,"LAC 29 @ MIA 27, Final","TGT,REC,8 REC YD",$10,1.7,1.3,205,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Jalen Tolbert,WR,"DAL 27 @ CAR 30, Final","TGT,REC,8 REC YD",$11,3.1,1.3,206,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Rashod Bateman,WR,"LA 17 @ BAL 3, Final","2 TGT,REC,8 REC YD",$15,3.9,1.3,207,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Luke Schoonmaker,TE,"DAL 27 @ CAR 30, Final","2 TGT,REC,8 REC YD",$10,0.8,1.3,208,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Davis Allen,TE,"LA 17 @ BAL 3, Final","2 TGT,REC,7 REC YD",$10,3.5,1.2,209,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Emanuel Wilson,RB,"CIN 18 @ GB 27, Final","3 RUSH ATT,11 RUSH YD,TGT,REC,-4 REC YD",$10,2.7,1.2,210,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Luke Musgrave,TE,"CIN 18 @ GB 27, Final","2 TGT,REC,7 REC YD",$10,1.9,1.2,211,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Hunter Renfrow,WR,"DAL 27 @ CAR 30, Final","2 TGT,REC,7 REC YD",$10,4.7,1.2,212,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Jauan JenningsQ,WR,"SF 19 @ TB 30, Final","3 TGT,REC,7 REC YD",$22,6.7,1.2,213,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Konata Mumpfield,WR,"LA 17 @ BAL 3, Final","2 TGT,REC,7 REC YD",$10,0.4,1.2,214,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Elijah Arroyo,TE,"SEA 20 @ JAC 12, Final","2 TGT,REC,6 REC YD",$10,2.2,1.1,215,2025-10-13 16:20:04,6,Sunday,9:30 AM (1 NFL Game)
+Andrew Beck,RB,"DEN 13 @ NYJ 11, Final","TGT,REC,6 REC YD",$10,2.6,1.1,216,2025-10-13 16:23:39,Week 6,Sunday,
+New Orleans Saints,DEF,"NE 25 @ NO 19, Final","25 PTS ALLOWED,SACK",$16,5.7,1.0,217,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Austin Hooper,TE,"NE 25 @ NO 19, Final","TGT,REC,5 REC YD",$10,2.9,1.0,218,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Andrei Iosivas,WR,"CIN 18 @ GB 27, Final","4 TGT,REC,5 REC YD",$11,4.1,1.0,219,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Ian Thomas,TE,"TEN 10 @ LV 20, Final","TGT,REC,4 REC YD",$10,1.5,0.9,220,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Brevyn Spann-Ford,TE,"DAL 27 @ CAR 30, Final","TGT,REC,2 REC YD",$10,0.3,0.7,221,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Ollie Gordon II,RB,"LAC 29 @ MIA 27, Final","2 RUSH ATT,RUSH YD,TGT,REC,REC YD",$10,2.3,0.7,222,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Mason Taylor,TE,"DEN 13 @ NYJ 11, Final","TGT,REC,2 REC YD",$13,5.0,0.7,223,2025-10-13 16:23:39,Week 6,Sunday,
+KeAndre Lambert-Smith,WR,"LAC 29 @ MIA 27, Final","2 TGT,REC,REC YD",$10,0.2,0.6,224,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Isaiah Davis,RB,"DEN 13 @ NYJ 11, Final","2 RUSH ATT,2 RUSH YD,TGT,REC,-1 REC YD",$10,2.0,0.6,225,2025-10-13 16:23:39,Week 6,Sunday,
+Tyler Lockett,WR,"TEN 10 @ LV 20, Final","3 TGT,REC",$10,1.5,0.5,226,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Blake Whiteheart,TE,"CLE 9 @ PIT 23, Final","TGT,REC",$10,0.2,0.5,227,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Juwan Johnson,TE,"NE 25 @ NO 19, Final","2 TGT,2 REC,15 REC YD,FUM LOST",$15,6.8,0.5,228,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Adam Prentice,RB,"DEN 13 @ NYJ 11, Final","RUSH ATT,3 RUSH YD",$10,0.6,0.3,229,2025-10-13 16:23:39,Week 6,Sunday,
+Drew Sample,TE,"CIN 18 @ GB 27, Final","2 TGT,REC,-2 REC YD",$10,2.2,0.3,230,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Savion Williams,WR,"CIN 18 @ GB 27, Final","RUSH ATT,3 RUSH YD",$10,1.4,0.3,231,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Emari DemercadoQ,RB,"ARI 27 @ IND 31, Final","RUSH ATT,RUSH YD,TGT",$13,3.1,0.1,232,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Chris Brooks,RB,"CIN 18 @ GB 27, Final","RUSH ATT,RUSH YD",$10,1.1,0.1,233,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Omarion HamptonIR,RB,"LAC 29 @ MIA 27, Final",,$32,13.4,0.0,234,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Tahj Washington,WR,"LAC 29 @ MIA 27, Final",,$10,—,0.0,235,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Josh WilliamsO,RB,"SF 19 @ TB 30, Final",,$10,—,0.0,236,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Jordan WatkinsO,WR,"SF 19 @ TB 30, Final",,$10,—,0.0,237,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+George Holani,RB,"SEA 20 @ JAC 12, Final",,$10,1.5,0.0,238,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Tory Horton,WR,"SEA 20 @ JAC 12, Final",TGT,$16,6.6,0.0,239,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Tyler Conklin,TE,"LAC 29 @ MIA 27, Final",,$10,2.8,0.0,240,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Cedrick Wilson Jr.,WR,"LAC 29 @ MIA 27, Final",,$10,3.2,0.0,241,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Quinn Ewers,QB,"LAC 29 @ MIA 27, Final",,$20,—,0.0,242,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Jaylen Wright,RB,"LAC 29 @ MIA 27, Final",,$10,1.9,0.0,243,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Jalen Milroe,QB,"SEA 20 @ JAC 12, Final",,$20,-0.5,0.0,244,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Dee Eskridge,WR,"LAC 29 @ MIA 27, Final",TGT,$10,0.5,0.0,245,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Zach Wilson,QB,"LAC 29 @ MIA 27, Final",,$20,1.6,0.0,246,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Nick Westbrook-Ikhine,WR,"LAC 29 @ MIA 27, Final",TGT,$11,0.9,0.0,247,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Trey Lance,QB,"LAC 29 @ MIA 27, Final",,$20,2.9,0.0,248,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Tucker Fisk,TE,"LAC 29 @ MIA 27, Final",,$10,—,0.0,249,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Cody Schrader,RB,"SEA 20 @ JAC 12, Final",,$10,0.7,0.0,250,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Scott MatlockO,RB,"LAC 29 @ MIA 27, Final",,$10,0.6,0.0,251,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Quentin JohnstonO,WR,"LAC 29 @ MIA 27, Final",,$27,14.7,0.0,252,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Dont'e Thornton Jr.,WR,"TEN 10 @ LV 20, Final",,$10,2.4,0.0,253,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Mike EvansO,WR,"SF 19 @ TB 30, Final",,$29,9.0,0.0,254,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Jarquez Hunter,RB,"LA 17 @ BAL 3, Final",,$10,—,0.0,255,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Riley Leonard,QB,"ARI 27 @ IND 31, Final",,$20,—,0.0,256,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Jimmy Garoppolo,QB,"LA 17 @ BAL 3, Final",,$20,—,0.0,257,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Colby ParkinsonO,TE,"LA 17 @ BAL 3, Final",,$10,0.4,0.0,258,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Tutu AtwellO,WR,"LA 17 @ BAL 3, Final",,$11,4.9,0.0,259,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Stetson Bennett IV,QB,"LA 17 @ BAL 3, Final",,$20,—,0.0,260,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Xavier Smith,WR,"LA 17 @ BAL 3, Final",,$10,0.7,0.0,261,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Terrance Ferguson,TE,"LA 17 @ BAL 3, Final",RUSH ATT,$10,1.3,0.0,262,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Patrick RicardO,RB,"LA 17 @ BAL 3, Final",,$10,2.2,0.0,263,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Brenton StrangeIR,TE,"SEA 20 @ JAC 12, Final",,$13,6.1,0.0,264,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Lamar JacksonO,QB,"LA 17 @ BAL 3, Final",,$43,23.6,0.0,265,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Brayden Willis,TE,"SF 19 @ TB 30, Final",,$10,—,0.0,266,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Ricky PearsallO,WR,"SF 19 @ TB 30, Final",,$25,10.6,0.0,267,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Isaac Guerendo,RB,"SF 19 @ TB 30, Final",,$10,—,0.0,268,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Derius DavisO,WR,"LAC 29 @ MIA 27, Final",,$10,-0.5,0.0,269,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Nick Kallerup,TE,"SEA 20 @ JAC 12, Final",,$10,—,0.0,270,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Nick Mullens,QB,"SEA 20 @ JAC 12, Final",,$20,0.3,0.0,271,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Jordan James,RB,"SF 19 @ TB 30, Final",,$10,—,0.0,272,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+San Francisco 49ers,DEF,"SF 19 @ TB 30, Final","30 PTS ALLOWED,SACK",$10,4.3,0.0,273,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Teddy Bridgewater,QB,"SF 19 @ TB 30, Final",,$20,0.1,0.0,274,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Allen LazardO,WR,"DEN 13 @ NYJ 11, Final",,$10,3.5,0.0,275,2025-10-13 16:23:40,Week 6,Sunday,
+Jarrett Stidham,QB,"DEN 13 @ NYJ 11, Final",,$20,0.2,0.0,276,2025-10-13 16:23:39,Week 6,Sunday,
+Adam Trautman,TE,"DEN 13 @ NYJ 11, Final",,$10,3.8,0.0,277,2025-10-13 16:23:39,Week 6,Sunday,
+Sam Ehlinger,QB,"DEN 13 @ NYJ 11, Final",,$20,—,0.0,278,2025-10-13 16:23:40,Week 6,Sunday,
+Tyler Badie,RB,"DEN 13 @ NYJ 11, Final",,$10,1.9,0.0,279,2025-10-13 16:23:40,Week 6,Sunday,
+Lucas KrullIR,TE,"DEN 13 @ NYJ 11, Final",,$10,0.8,0.0,280,2025-10-13 16:23:40,Week 6,Sunday,
+Jaleel McLaughlin,RB,"DEN 13 @ NYJ 11, Final","RUSH ATT,TGT",$10,—,0.0,281,2025-10-13 16:23:40,Week 6,Sunday,
+Tyrod Taylor,QB,"DEN 13 @ NYJ 11, Final",,$20,13.0,0.0,282,2025-10-13 16:23:40,Week 6,Sunday,
+Tyler Johnson,WR,"DEN 13 @ NYJ 11, Final",TGT,$10,2.1,0.0,283,2025-10-13 16:23:40,Week 6,Sunday,
+Carter Runyon,TE,"TEN 10 @ LV 20, Final",,$10,—,0.0,284,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Kene Nwangwu,RB,"DEN 13 @ NYJ 11, Final",,$10,—,0.0,285,2025-10-13 16:23:40,Week 6,Sunday,
+Jelani Woods,TE,"DEN 13 @ NYJ 11, Final",,$10,—,0.0,286,2025-10-13 16:23:40,Week 6,Sunday,
+Jeremy Ruckert,TE,"DEN 13 @ NYJ 11, Final",,$10,3.4,0.0,287,2025-10-13 16:23:40,Week 6,Sunday,
+Irvin CharlesPUP,WR,"DEN 13 @ NYJ 11, Final",,$10,—,0.0,288,2025-10-13 16:23:40,Week 6,Sunday,
+Stone Smartt,TE,"DEN 13 @ NYJ 11, Final",,$10,—,0.0,289,2025-10-13 16:23:40,Week 6,Sunday,
+Arian Smith,WR,"DEN 13 @ NYJ 11, Final",TGT,$10,0.7,0.0,290,2025-10-13 16:23:40,Week 6,Sunday,
+Khalil Herbert,RB,"DEN 13 @ NYJ 11, Final",,$10,—,0.0,291,2025-10-13 16:23:40,Week 6,Sunday,
+Trent Sherfield Sr.,WR,"DEN 13 @ NYJ 11, Final",,$10,1.2,0.0,292,2025-10-13 16:23:39,Week 6,Sunday,
+Kyle Williams,WR,"NE 25 @ NO 19, Final",2 TGT,$10,0.7,0.0,293,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Chris Godwin Jr.O,WR,"SF 19 @ TB 30, Final",,$23,4.1,0.0,294,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Eric Saubert,TE,"SEA 20 @ JAC 12, Final",,$10,0.3,0.0,295,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Payne Durham,TE,"SF 19 @ TB 30, Final",,$10,—,0.0,296,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Ryan Miller,WR,"SF 19 @ TB 30, Final",,$10,2.1,0.0,297,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Bucky IrvingO,RB,"SF 19 @ TB 30, Final",,$37,15.6,0.0,298,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Devin Culp,TE,"SF 19 @ TB 30, Final",,$10,5.7,0.0,299,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Efton Chism III,WR,"NE 25 @ NO 19, Final",,$10,—,0.0,300,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Brady Russell,RB,"SEA 20 @ JAC 12, Final",,$10,—,0.0,301,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Adrian Martinez,QB,"SF 19 @ TB 30, Final",,$20,—,0.0,302,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Drew Lock,QB,"SEA 20 @ JAC 12, Final",,$20,0.5,0.0,303,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Justin Shorter,WR,"TEN 10 @ LV 20, Final",,$10,—,0.0,304,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Cody White,WR,"SEA 20 @ JAC 12, Final",,$10,—,0.0,305,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Dareke Young,WR,"SEA 20 @ JAC 12, Final",,$10,1.2,0.0,306,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Jake Bobo,WR,"SEA 20 @ JAC 12, Final",,$10,2.2,0.0,307,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Elijah Mitchell,RB,"DET 17 @ KC 30, Final",,$10,—,0.0,308,2025-10-13 16:21:19,6,Sunday,8:20 PM (1 NFL Game)
+Jack Bech,WR,"TEN 10 @ LV 20, Final",TGT,$10,1.7,0.0,309,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Dylan LaubeQ,RB,"TEN 10 @ LV 20, Final",,$10,0.5,0.0,310,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Brock BowersO,TE,"TEN 10 @ LV 20, Final",,$23,8.5,0.0,311,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+DJ Giddens,RB,"ARI 27 @ IND 31, Final",,$10,1.7,0.0,312,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Anthony Gould,WR,"ARI 27 @ IND 31, Final",,$10,—,0.0,313,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Adonai Mitchell,WR,"ARI 27 @ IND 31, Final",,$10,3.0,0.0,314,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Simi Fehoko,WR,"ARI 27 @ IND 31, Final",,$10,—,0.0,315,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Jalen BrooksQ,WR,"DAL 27 @ CAR 30, Final",,$10,—,0.0,316,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jalen Cropper,WR,"DAL 27 @ CAR 30, Final",,$10,—,0.0,317,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Brandon Allen,QB,"TEN 10 @ LV 20, Final",,$20,2.8,0.0,318,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jack Stoll,TE,"NE 25 @ NO 19, Final",,$10,3.4,0.0,319,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jake Browning,QB,"CIN 18 @ GB 27, Final",,$25,14.0,0.0,320,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Trey PalmerIR,WR,"NE 25 @ NO 19, Final",,$10,1.9,0.0,321,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Craig Reynolds,RB,"DET 17 @ KC 30, Final",,$10,0.1,0.0,322,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Tip ReimanIR,TE,"ARI 27 @ IND 31, Final",,$10,0.8,0.0,323,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Travis VokolekQ,TE,"ARI 27 @ IND 31, Final",,$10,—,0.0,324,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Kyler MurrayO,QB,"ARI 27 @ IND 31, Final",,$33,16.2,0.0,325,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Malik Heath,WR,"CIN 18 @ GB 27, Final",,$10,2.8,0.0,326,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Kalif Raymond,WR,"DET 17 @ KC 30, Final",,$10,2.9,0.0,327,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Kyle Allen,QB,"DET 17 @ KC 30, Final",,$20,-0.2,0.0,328,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Brock Wright,TE,"DET 17 @ KC 30, Final",,$10,9.1,0.0,329,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Devaughn Vele,WR,"NE 25 @ NO 19, Final",,$10,2.7,0.0,330,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jacob Saylors,RB,"DET 17 @ KC 30, Final",,$10,0.2,0.0,331,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Sione VakiO,RB,"DET 17 @ KC 30, Final",,$10,—,0.0,332,2025-10-13 16:21:18,6,Sunday,8:20 PM (1 NFL Game)
+Isaac TeSlaa,WR,"DET 17 @ KC 30, Final",,$10,4.7,0.0,333,2025-10-13 16:21:19,6,Sunday,8:20 PM (1 NFL Game)
+Dominic Lovett,WR,"DET 17 @ KC 30, Final",,$10,—,0.0,334,2025-10-13 16:21:19,6,Sunday,8:20 PM (1 NFL Game)
+Robert Tonyan,TE,"DET 17 @ KC 30, Final",,$10,—,0.0,335,2025-10-13 16:21:19,6,Sunday,8:20 PM (1 NFL Game)
+Velus Jones Jr.,RB,"NE 25 @ NO 19, Final",,$10,—,0.0,336,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jonathan MingoIR,WR,"DAL 27 @ CAR 30, Final",,$10,1.7,0.0,337,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+DeeJay Dallas,RB,"DAL 27 @ CAR 30, Final",RUSH ATT,$10,—,0.0,338,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Julius Chestnut,RB,"TEN 10 @ LV 20, Final",,$10,0.6,0.0,339,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jack Westover,RB,"NE 25 @ NO 19, Final",,$10,—,0.0,340,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Alex Bachman,WR,"TEN 10 @ LV 20, Final",,$10,0.5,0.0,341,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Tommy DeVito,QB,"NE 25 @ NO 19, Final",,$20,6.7,0.0,342,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Antonio GibsonIR,RB,"NE 25 @ NO 19, Final",,$10,4.4,0.0,343,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Joshua Dobbs,QB,"NE 25 @ NO 19, Final",,$20,-0.2,0.0,344,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Albert Okwuegbunam Jr.,TE,"TEN 10 @ LV 20, Final",,$10,6.1,0.0,345,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+James Proche II,WR,"TEN 10 @ LV 20, Final",,$10,0.4,0.0,346,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Kenny Pickett,QB,"TEN 10 @ LV 20, Final",,$20,3.6,0.0,347,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Zamir White,RB,"TEN 10 @ LV 20, Final",,$10,2.0,0.0,348,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Xavier Weaver,WR,"ARI 27 @ IND 31, Final",,$10,—,0.0,349,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Bryce OliverO,WR,"TEN 10 @ LV 20, Final",,$10,0.7,0.0,350,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Ja'Tavion SandersO,TE,"DAL 27 @ CAR 30, Final",,$11,4.9,0.0,351,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Jaydon Blue,RB,"DAL 27 @ CAR 30, Final",3 RUSH ATT,$10,0.4,0.0,352,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Andy Dalton,QB,"DAL 27 @ CAR 30, Final",,$20,3.1,0.0,353,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Chuba HubbardO,RB,"DAL 27 @ CAR 30, Final",,$28,12.4,0.0,354,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+James Mitchell,TE,"DAL 27 @ CAR 30, Final",,$10,2.2,0.0,355,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Brycen Tremayne,WR,"DAL 27 @ CAR 30, Final",,$10,3.1,0.0,356,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Jonathon BrooksPUP,RB,"DAL 27 @ CAR 30, Final",,$10,2.0,0.0,357,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Carolina Panthers,DEF,"DAL 27 @ CAR 30, Final",27 PTS ALLOWED,$12,4.5,0.0,358,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Will Mallory,TE,"ARI 27 @ IND 31, Final",,$10,0.7,0.0,359,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Gardner Minshew,QB,"DET 17 @ KC 30, Final",,$20,-0.3,0.0,360,2025-10-13 16:21:19,6,Sunday,8:20 PM (1 NFL Game)
+Ben Sims,TE,"CIN 18 @ GB 27, Final",,$10,1.5,0.0,361,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Brandon AiyukPUP,WR,"SF 19 @ TB 30, Final",,$15,7.1,0.0,362,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Deshaun WatsonPUP,QB,"CLE 9 @ PIT 23, Final",,$20,11.4,0.0,363,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Shedeur Sanders,QB,"CLE 9 @ PIT 23, Final",,$20,—,0.0,364,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Raheim Sanders,RB,"CLE 9 @ PIT 23, Final",,$10,6.3,0.0,365,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Mason Rudolph,QB,"CLE 9 @ PIT 23, Final",3 RUSH ATT,$20,0.2,0.0,366,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Scotty Miller,WR,"CLE 9 @ PIT 23, Final",,$10,—,0.0,367,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Ben Skowronek,WR,"CLE 9 @ PIT 23, Final",,$10,1.7,0.0,368,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Calvin Austin IIIO,WR,"CLE 9 @ PIT 23, Final",,$18,7.7,0.0,369,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Cleveland Browns,DEF,"CLE 9 @ PIT 23, Final",23 PTS ALLOWED,$14,4.0,0.0,370,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Malachi Corley,WR,"CLE 9 @ PIT 23, Final",,$10,1.1,0.0,371,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Luke Farrell,TE,"SF 19 @ TB 30, Final",,$10,2.3,0.0,372,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Zaire Mitchell-Paden,TE,"LA 17 @ BAL 3, Final",,$10,0.4,0.0,373,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Skyy Moore,WR,"SF 19 @ TB 30, Final",,$10,0.3,0.0,374,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Brock PurdyO,QB,"SF 19 @ TB 30, Final",,$38,19.2,0.0,375,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Devontez WalkerO,WR,"LA 17 @ BAL 3, Final",,$10,6.5,0.0,376,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Charlie Kolar,TE,"LA 17 @ BAL 3, Final",TGT,$10,1.2,0.0,377,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Miles SandersIR,RB,"DAL 27 @ CAR 30, Final",,$12,5.7,0.0,378,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Tylan Wallace,WR,"LA 17 @ BAL 3, Final",,$10,2.3,0.0,379,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Drew Ogletree,TE,"ARI 27 @ IND 31, Final",,$10,—,0.0,380,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Tyler GoodsonO,RB,"ARI 27 @ IND 31, Final",,$10,0.6,0.0,381,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Anthony Richardson Sr.D,QB,"ARI 27 @ IND 31, Final",,$20,0.8,0.0,382,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Joe Flacco,QB,"CLE 9 @ PIT 23, Final",,$20,10.1,0.0,383,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+LaJohntay Wester,WR,"LA 17 @ BAL 3, Final",,$10,—,0.0,384,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+John FitzPatrick,TE,"CIN 18 @ GB 27, Final",,$10,3.0,0.0,385,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Rasheen Ali,RB,"LA 17 @ BAL 3, Final",,$10,0.1,0.0,386,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Malik Willis,QB,"CIN 18 @ GB 27, Final",,$20,8.6,0.0,387,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Christian WatsonPUP,WR,"CIN 18 @ GB 27, Final",,$10,6.5,0.0,388,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Tahj Brooks,RB,"CIN 18 @ GB 27, Final",,$10,0.6,0.0,389,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Cam Grandy,TE,"CIN 18 @ GB 27, Final",,$10,1.1,0.0,390,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Erick All Jr.PUP,TE,"CIN 18 @ GB 27, Final",,$10,3.2,0.0,391,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Jermaine Burton,WR,"CIN 18 @ GB 27, Final",,$10,1.6,0.0,392,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Mitch Tinsley,WR,"CIN 18 @ GB 27, Final",,$10,3.1,0.0,393,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Charlie Jones,WR,"CIN 18 @ GB 27, Final",,$10,—,0.0,394,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Brett Rypien,QB,"CIN 18 @ GB 27, Final",,$20,—,0.0,395,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Ashton Dulin,WR,"ARI 27 @ IND 31, Final",,$10,1.7,0.0,396,2025-10-13 16:20:05,6,Sunday,9:30 AM (1 NFL Game)
+Mike GesickiO,TE,"CIN 18 @ GB 27, Final",,$10,2.0,0.0,397,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Devin Neal,RB,"NE 25 @ NO 19, Final",,$10,0.9,0.0,398,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Tyler Shough,QB,"NE 25 @ NO 19, Final",,$20,—,0.0,399,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Mason Tipton,WR,"NE 25 @ NO 19, Final",,$10,—,0.0,400,2025-10-13 16:20:08,6,Sunday,9:30 AM (1 NFL Game)
+Joe Milton III,QB,"DAL 27 @ CAR 30, Final",,$20,0.6,0.0,401,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+KaVontae TurpinO,WR,"DAL 27 @ CAR 30, Final",,$14,7.4,0.0,402,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+CeeDee LambO,WR,"DAL 27 @ CAR 30, Final",,$33,10.1,0.0,403,2025-10-13 16:20:07,6,Sunday,9:30 AM (1 NFL Game)
+Keaton Mitchell,RB,"LA 17 @ BAL 3, Final",,$10,0.9,0.0,404,2025-10-13 16:20:06,6,Sunday,9:30 AM (1 NFL Game)
+Avery Williams,WR,"DEN 13 @ NYJ 11, Final",,$10,—,0.0,405,2025-10-13 16:23:40,Week 6,Sunday,
+Cooper Rush,QB,"LA 17 @ BAL 3, Final","72 PASS YD,INT,RUSH ATT,FUM LOST",$20,1.4,-0.12,406,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
+Raheem Mostert,RB,"TEN 10 @ LV 20, Final","5 RUSH ATT,-4 RUSH YD",$10,3.2,-0.4,407,2025-10-13 16:20:09,6,Sunday,9:30 AM (1 NFL Game)
