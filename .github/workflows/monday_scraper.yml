@@ -44,7 +44,37 @@ jobs:
       - name: Run Monday scraper
         run: |
           echo "Starting Monday morning scraper..."
-          python3 scrapers/automated_yahoo_scraper.py --headless --week $(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)") --day Sunday || echo "Yahoo scraper completed with warnings"
+          WEEK=$(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)")
+          echo "Scraping Week $WEEK Sunday games..."
+          
+          # Run scraper with better error handling
+          if python3 scrapers/automated_yahoo_scraper.py --headless --week $WEEK --day Sunday; then
+            echo "✅ Scraper completed successfully"
+          else
+            echo "❌ Scraper failed with exit code $?"
+            echo "📝 This may be due to:"
+            echo "   - No games available for Week $WEEK Sunday"
+            echo "   - Yahoo website changes"
+            echo "   - Network connectivity issues"
+            echo "   - Chrome/ChromeDriver issues"
+            exit 1
+          fi
+      
+      - name: Check for output files
+        run: |
+          echo "🔍 Checking for output files..."
+          WEEK=$(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)")
+          FILE="data_csv/week${WEEK}_Sunday_all_games.csv"
+          
+          if [ -f "$FILE" ]; then
+            echo "✅ Found output file: $FILE"
+            ls -la "$FILE"
+          else
+            echo "❌ No output file found: $FILE"
+            echo "📁 Available files in data_csv/:"
+            ls -la data_csv/ || echo "data_csv directory not found"
+            exit 1
+          fi
       
       - name: Verify scraping results
         run: |
