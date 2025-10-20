@@ -1,13 +1,5 @@
 name: Monday Morning Scraper (Sunday Games)
 
-# 📊 EXPECTED RESULTS (based on Week 6 manual scraper success):
-# - Raw scraped data: ~700-800 players (with duplicates across game times)
-# - After deduplication: ~400 unique players
-# - Position breakdown: QB(~55-60), RB(~90-95), WR(~135-140), TE(~80-85), DEF(~25-30)
-# - File output: weekX_Sunday_all_games.csv (comprehensive data with duplicates)
-# - Note: Duplicates occur because same players appear in multiple game time slates
-#   Example: Patrick Mahomes appears in both "1:00 PM (10 NFL Games)" and "1:00 PM (7 NFL Games)"
-
 on:
   schedule:
     # Runs every Monday at 8:00 AM PST (16:00 UTC)
@@ -44,86 +36,7 @@ jobs:
       - name: Run Monday scraper
         run: |
           echo "Starting Monday morning scraper..."
-          WEEK=$(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)")
-          echo "Scraping Week $WEEK Sunday games..."
-          
-          # Run scraper with better error handling
-          if python3 scrapers/automated_yahoo_scraper.py --headless --week $WEEK --day Sunday; then
-            echo "✅ Scraper completed successfully"
-          else
-            echo "❌ Scraper failed with exit code $?"
-            echo "📝 This may be due to:"
-            echo "   - No games available for Week $WEEK Sunday"
-            echo "   - Yahoo website changes"
-            echo "   - Network connectivity issues"
-            echo "   - Chrome/ChromeDriver issues"
-            exit 1
-          fi
-      
-      - name: Check for output files
-        run: |
-          echo "🔍 Checking for output files..."
-          WEEK=$(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)")
-          FILE="data_csv/week${WEEK}_Sunday_all_games.csv"
-          
-          if [ -f "$FILE" ]; then
-            echo "✅ Found output file: $FILE"
-            ls -la "$FILE"
-          else
-            echo "❌ No output file found: $FILE"
-            echo "📁 Available files in data_csv/:"
-            ls -la data_csv/ || echo "data_csv directory not found"
-            exit 1
-          fi
-      
-      - name: Verify scraping results
-        run: |
-          echo "🔍 Verifying scraping results..."
-          WEEK=$(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)")
-          FILE="data_csv/week${WEEK}_Sunday_all_games.csv"
-          
-          if [ -f "$FILE" ]; then
-            TOTAL_ROWS=$(wc -l < "$FILE")
-            PLAYER_COUNT=$((TOTAL_ROWS - 1))  # Subtract header row
-            
-            echo "📊 Scraping Results Summary:"
-            echo "  - File: $FILE"
-            echo "  - Total rows: $TOTAL_ROWS"
-            echo "  - Players scraped: $PLAYER_COUNT"
-            
-            if [ $PLAYER_COUNT -ge 600 ]; then
-              echo "  ✅ SUCCESS: Comprehensive data captured (~$PLAYER_COUNT players)"
-              echo "  📝 Expected after deduplication: ~400 unique players"
-            elif [ $PLAYER_COUNT -ge 300 ]; then
-              echo "  ⚠️  PARTIAL: Some data captured ($PLAYER_COUNT players)"
-              echo "  📝 May need manual verification"
-            else
-              echo "  ❌ ISSUE: Low player count ($PLAYER_COUNT players)"
-              echo "  📝 May need manual scraping"
-            fi
-            
-            # Show position breakdown if possible
-            if command -v python3 >/dev/null 2>&1; then
-              echo ""
-              echo "📈 Position breakdown:"
-              python3 << 'EOF'
-import pandas as pd
-try:
-    df = pd.read_csv('$FILE')
-    if 'position' in df.columns:
-        print(df['position'].value_counts().sort_index().to_string())
-    elif 'Position' in df.columns:
-        print(df['Position'].value_counts().sort_index().to_string())
-    else:
-        print('Position column not found')
-except Exception as e:
-    print(f'Could not analyze positions: {e}')
-EOF
-            fi
-          else
-            echo "❌ ERROR: Expected file $FILE not found"
-            echo "📝 Scraping may have failed"
-          fi
+          python3 scrapers/automated_yahoo_scraper.py --headless --week $(python3 -c "from datetime import datetime; start = datetime(2025, 9, 4); print((datetime.now() - start).days // 7 + 1)") --day Sunday
       
       - name: Commit and push changes
         run: |
@@ -148,4 +61,3 @@ EOF
           name: monday-logs-${{ github.run_number }}
           path: logs/
           retention-days: 30
-
