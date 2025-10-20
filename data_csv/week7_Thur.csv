@@ -1,0 +1,35 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Ja'Marr Chase,WR,"PIT 31 @ CIN 33, Final","23 TGT,16 REC,161 REC YD,REC TD",$37,17.2,30.10,1,2025-10-17 16:14:44,Week 7,Thursday
+Joe Flacco,QB,"PIT 31 @ CIN 33, Final","342 PASS YD,3 PASS TD,5 RUSH ATT,3 RUSH YD",$23,12.8,25.98,2,2025-10-17 16:14:44,Week 7,Thursday
+Pat Freiermuth,TE,"PIT 31 @ CIN 33, Final","6 TGT,5 REC,111 REC YD,2 REC TD",$10,7.4,25.60,3,2025-10-17 16:14:44,Week 7,Thursday
+Aaron Rodgers,QB,"PIT 31 @ CIN 33, Final","249 PASS YD,4 PASS TD,2 INT,RUSH ATT,6 RUSH YD",$30,17.6,24.56,4,2025-10-17 16:14:44,Week 7,Thursday
+Tee Higgins,WR,"PIT 31 @ CIN 33, Final","10 TGT,6 REC,96 REC YD,REC TD",$23,8.8,18.60,5,2025-10-17 16:14:44,Week 7,Thursday
+Jaylen Warren,RB,"PIT 31 @ CIN 33, Final","16 RUSH ATT,127 RUSH YD,5 TGT,4 REC,31 REC YD",$24,12.8,17.80,6,2025-10-17 16:14:44,Week 7,Thursday
+Noah Fant,TE,"PIT 31 @ CIN 33, Final","4 TGT,4 REC,44 REC YD,REC TD",$10,7.0,12.40,7,2025-10-17 16:14:44,Week 7,Thursday
+Chase Brown,RB,"PIT 31 @ CIN 33, Final","11 RUSH ATT,108 RUSH YD,4 TGT,2 REC,-8 REC YD",$27,8.5,11.00,8,2025-10-17 16:14:44,Week 7,Thursday
+Jonnu Smith,TE,"PIT 31 @ CIN 33, Final","6 TGT,3 REC,28 REC YD,REC TD",$12,5.8,10.30,9,2025-10-17 16:14:44,Week 7,Thursday
+Darnell Washington,TE,"PIT 31 @ CIN 33, Final","5 TGT,3 REC,2 REC YD,REC TD",$10,4.2,7.70,10,2025-10-17 16:14:45,Week 7,Thursday
+DK Metcalf,WR,"PIT 31 @ CIN 33, Final","5 TGT,3 REC,50 REC YD",$28,12.6,6.50,11,2025-10-17 16:14:45,Week 7,Thursday
+Andrei Iosivas,WR,"PIT 31 @ CIN 33, Final","4 TGT,3 REC,49 REC YD",$11,4.6,6.40,12,2025-10-17 16:14:45,Week 7,Thursday
+Samaje Perine,RB,"PIT 31 @ CIN 33, Final","7 RUSH ATT,31 RUSH YD",$10,1.9,3.10,13,2025-10-17 16:14:45,Week 7,Thursday
+Cincinnati Bengals,DEF,"PIT 31 @ CIN 33, Final","31 PTS ALLOWED,2 INT",$10,2.9,3.00,14,2025-10-17 16:14:45,Week 7,Thursday
+Roman Wilson,WR,"PIT 31 @ CIN 33, Final","2 TGT,2 REC,17 REC YD",$10,1.9,2.70,15,2025-10-17 16:14:45,Week 7,Thursday
+Kenneth Gainwell,RB,"PIT 31 @ CIN 33, Final","3 RUSH ATT,14 RUSH YD,2 TGT,2 REC,REC YD",$17,9.3,2.50,16,2025-10-17 16:14:45,Week 7,Thursday
+Scotty Miller,WR,"PIT 31 @ CIN 33, Final","TGT,REC,9 REC YD",$10,0.7,1.40,17,2025-10-17 16:14:45,Week 7,Thursday
+Pittsburgh Steelers,DEF,"PIT 31 @ CIN 33, Final","33 PTS ALLOWED,2 SACK",$18,7.3,1.00,18,2025-10-17 16:14:45,Week 7,Thursday
+Mason Rudolph,QB,"PIT 31 @ CIN 33, Final",,$20,0.2,0.00,19,2025-10-17 16:14:45,Week 7,Thursday
+Ben Skowronek,WR,"PIT 31 @ CIN 33, Final",,$10,1.5,0.00,20,2025-10-17 16:14:45,Week 7,Thursday
+Calvin Austin IIIO,WR,"PIT 31 @ CIN 33, Final",,$16,7.7,0.00,21,2025-10-17 16:14:45,Week 7,Thursday
+Connor Heyward,TE,"PIT 31 @ CIN 33, Final",TGT,$10,2.3,0.00,22,2025-10-17 16:14:45,Week 7,Thursday
+Kaleb Johnson,RB,"PIT 31 @ CIN 33, Final",,$10,0.9,0.00,23,2025-10-17 16:14:45,Week 7,Thursday
+Mike GesickiIR,TE,"PIT 31 @ CIN 33, Final",,$10,2.0,0.00,24,2025-10-17 16:14:45,Week 7,Thursday
+Tanner HudsonO,TE,"PIT 31 @ CIN 33, Final",,$10,9.0,0.00,25,2025-10-17 16:14:45,Week 7,Thursday
+Drew Sample,TE,"PIT 31 @ CIN 33, Final",,$10,1.8,0.00,26,2025-10-17 16:14:45,Week 7,Thursday
+Jake Browning,QB,"PIT 31 @ CIN 33, Final",,$20,14.0,0.00,27,2025-10-17 16:14:45,Week 7,Thursday
+Charlie Jones,WR,"PIT 31 @ CIN 33, Final",,$10,—,0.00,28,2025-10-17 16:14:45,Week 7,Thursday
+Mitch Tinsley,WR,"PIT 31 @ CIN 33, Final",,$10,3.1,0.00,29,2025-10-17 16:14:45,Week 7,Thursday
+Jermaine BurtonO,WR,"PIT 31 @ CIN 33, Final",,$10,1.6,0.00,30,2025-10-17 16:14:45,Week 7,Thursday
+Erick All Jr.PUP,TE,"PIT 31 @ CIN 33, Final",,$10,3.2,0.00,31,2025-10-17 16:14:45,Week 7,Thursday
+Cam Grandy,TE,"PIT 31 @ CIN 33, Final",,$10,1.1,0.00,32,2025-10-17 16:14:45,Week 7,Thursday
+Tahj Brooks,RB,"PIT 31 @ CIN 33, Final",,$10,0.4,0.00,33,2025-10-17 16:14:45,Week 7,Thursday
+Ke'Shawn Williams,WR,"PIT 31 @ CIN 33, Final",,$10,—,0.00,34,2025-10-17 16:14:46,Week 7,Thursday
