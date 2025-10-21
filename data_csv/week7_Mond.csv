@@ -1,0 +1,73 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Jahmyr Gibbs,RB,"TB 9 @ DET 24, Final","17 RUSH ATT,136 RUSH YD,2 RUSH TD,3 TGT,3 REC,82 REC YD",$39,18.1,35.30,1,2025-10-21 16:28:46,Week 7,Monday
+Jaxon Smith-Njigba,WR,"HOU 19 @ SEA 27, Final","14 TGT,8 REC,123 REC YD,REC TD",$38,18.6,22.30,2,2025-10-21 16:28:46,Week 7,Monday
+Zach Charbonnet,RB,"HOU 19 @ SEA 27, Final","12 RUSH ATT,49 RUSH YD,2 RUSH TD,2 TGT,2 REC,6 REC YD",$19,9.5,18.50,3,2025-10-21 16:28:46,Week 7,Monday
+Houston Texans,DEF,"HOU 19 @ SEA 27, Final","27 PTS ALLOWED,2 SACK,2 INT,2 FUM REC,BLK KICK,TD",$16,10.2,18.00,4,2025-10-21 16:28:46,Week 7,Monday
+Amon-Ra St. Brown,WR,"TB 9 @ DET 24, Final","10 TGT,6 REC,86 REC YD,REC TD",$36,17.4,17.60,5,2025-10-21 16:28:46,Week 7,Monday
+C.J. Stroud,QB,"HOU 19 @ SEA 27, Final","229 PASS YD,PASS TD,INT,2 RUSH ATT,25 RUSH YD",$28,16.5,14.66,6,2025-10-21 16:28:46,Week 7,Monday
+Dalton Schultz,TE,"HOU 19 @ SEA 27, Final","10 TGT,9 REC,98 REC YD",$12,7.2,14.30,7,2025-10-21 16:28:46,Week 7,Monday
+Tez Johnson,WR,"TB 9 @ DET 24, Final","9 TGT,4 REC,58 REC YD,REC TD",$10,5.8,13.80,8,2025-10-21 16:28:46,Week 7,Monday
+Baker Mayfield,QB,"TB 9 @ DET 24, Final","228 PASS YD,PASS TD,INT",$39,19.8,12.12,9,2025-10-21 16:28:46,Week 7,Monday
+Detroit Lions,DEF,"TB 9 @ DET 24, Final","9 PTS ALLOWED,4 SACK,INT,FUM REC",$15,8.4,12.00,10,2025-10-21 16:28:46,Week 7,Monday
+Jared Goff,QB,"TB 9 @ DET 24, Final","241 PASS YD,PASS TD,INT,2 RUSH ATT,7 RUSH YD,FUM LOST",$35,17.2,11.34,11,2025-10-21 16:28:46,Week 7,Monday
+Woody Marks,RB,"HOU 19 @ SEA 27, Final","10 RUSH ATT,15 RUSH YD,5 TGT,3 REC,20 REC YD,REC TD",$18,8.2,11.00,12,2025-10-21 16:28:46,Week 7,Monday
+Cade Otton,TE,"TB 9 @ DET 24, Final","9 TGT,7 REC,65 REC YD",$11,5.7,10.00,13,2025-10-21 16:28:46,Week 7,Monday
+Jaylin Noel,WR,"HOU 19 @ SEA 27, Final","7 TGT,4 REC,77 REC YD",$10,3.5,9.70,14,2025-10-21 16:28:46,Week 7,Monday
+Sam Darnold,QB,"HOU 19 @ SEA 27, Final","213 PASS YD,PASS TD,INT,3 RUSH ATT,RUSH YD,FUM LOST",$34,16.3,9.62,15,2025-10-21 16:28:46,Week 7,Monday
+Seattle Seahawks,DEF,"HOU 19 @ SEA 27, Final","13 PTS ALLOWED,3 SACK,INT",$17,9.4,9.00,16,2025-10-21 16:28:46,Week 7,Monday
+Tampa Bay Buccaneers,DEF,"TB 9 @ DET 24, Final","24 PTS ALLOWED,4 SACK,INT,FUM REC",$12,6.0,8.00,17,2025-10-21 16:28:46,Week 7,Monday
+Emeka Egbuka,WR,"TB 9 @ DET 24, Final","12 TGT,4 REC,58 REC YD",$31,14.4,7.80,18,2025-10-21 16:28:46,Week 7,Monday
+Kenneth Walker III,RB,"HOU 19 @ SEA 27, Final","17 RUSH ATT,66 RUSH YD",$22,10.2,6.60,19,2025-10-21 16:28:46,Week 7,Monday
+Rachaad White,RB,"TB 9 @ DET 24, Final","10 RUSH ATT,38 RUSH YD,6 TGT,4 REC,6 REC YD",$22,9.7,6.40,20,2025-10-21 16:28:46,Week 7,Monday
+David Montgomery,RB,"TB 9 @ DET 24, Final","13 RUSH ATT,21 RUSH YD,3 TGT,2 REC,18 REC YD",$26,11.2,4.90,21,2025-10-21 16:28:46,Week 7,Monday
+Nico CollinsQ,WR,"HOU 19 @ SEA 27, Final","10 TGT,4 REC,27 REC YD",$30,10.6,4.70,22,2025-10-21 16:28:47,Week 7,Monday
+Elijah Arroyo,TE,"HOU 19 @ SEA 27, Final","5 TGT,4 REC,42 REC YD,FUM LOST",$10,2.5,4.20,23,2025-10-21 16:28:47,Week 7,Monday
+Sterling Shepard,WR,"TB 9 @ DET 24, Final","7 TGT,7 REC,25 REC YD,FUM LOST",$11,6.3,4.00,24,2025-10-21 16:28:47,Week 7,Monday
+Brock Wright,TE,"TB 9 @ DET 24, Final","3 TGT,3 REC,23 REC YD",$10,7.3,3.80,25,2025-10-21 16:28:47,Week 7,Monday
+Kalif Raymond,WR,"TB 9 @ DET 24, Final","3 TGT,3 REC,17 REC YD",$10,3.0,3.20,26,2025-10-21 16:28:47,Week 7,Monday
+Sam LaPorta,TE,"TB 9 @ DET 24, Final","3 TGT,3 REC,15 REC YD",$20,8.6,3.00,27,2025-10-21 16:28:47,Week 7,Monday
+Cooper Kupp,WR,"HOU 19 @ SEA 27, Final","INT,TGT,REC,32 REC YD",$18,6.6,2.70,28,2025-10-21 16:28:47,Week 7,Monday
+Ryan Miller,WR,"TB 9 @ DET 24, Final","TGT,REC,14 REC YD",$10,2.1,1.90,29,2025-10-21 16:28:47,Week 7,Monday
+Xavier Hutchinson,WR,"HOU 19 @ SEA 27, Final","4 TGT,REC,13 REC YD",$10,5.2,1.80,30,2025-10-21 16:28:47,Week 7,Monday
+Nick Chubb,RB,"HOU 19 @ SEA 27, Final","5 RUSH ATT,16 RUSH YD,3 TGT,REC,-5 REC YD",$16,7.8,1.60,31,2025-10-21 16:28:47,Week 7,Monday
+AJ Barner,TE,"HOU 19 @ SEA 27, Final","RUSH ATT,2 RUSH YD,3 TGT,REC,7 REC YD",$14,7.8,1.40,32,2025-10-21 16:28:47,Week 7,Monday
+Sean Tucker,RB,"TB 9 @ DET 24, Final","RUSH ATT,4 RUSH YD,TGT,REC,2 REC YD",$11,1.6,1.10,33,2025-10-21 16:28:47,Week 7,Monday
+Jake Bobo,WR,"HOU 19 @ SEA 27, Final","TGT,REC,3 REC YD",$10,1.5,0.80,34,2025-10-21 16:28:47,Week 7,Monday
+Braxton Berrios,WR,"HOU 19 @ SEA 27, Final","3 TGT,REC,-1 REC YD",$10,0.4,0.40,35,2025-10-21 16:28:47,Week 7,Monday
+Mike EvansO,WR,"TB 9 @ DET 24, Final",4 TGT,$28,6.8,0.00,36,2025-10-21 16:28:47,Week 7,Monday
+Chris Godwin Jr.Q,WR,"TB 9 @ DET 24, Final",,$19,4.1,0.00,37,2025-10-21 16:28:47,Week 7,Monday
+Payne Durham,TE,"TB 9 @ DET 24, Final",,$10,—,0.00,38,2025-10-21 16:28:47,Week 7,Monday
+Bucky IrvingQ,RB,"TB 9 @ DET 24, Final",,$34,15.6,0.00,39,2025-10-21 16:28:47,Week 7,Monday
+Devin Culp,TE,"TB 9 @ DET 24, Final",,$10,5.7,0.00,40,2025-10-21 16:28:47,Week 7,Monday
+Kameron Johnson,WR,"TB 9 @ DET 24, Final",TGT,$10,2.1,0.00,41,2025-10-21 16:28:47,Week 7,Monday
+Josh WilliamsQ,RB,"TB 9 @ DET 24, Final",,$10,—,0.00,42,2025-10-21 16:28:47,Week 7,Monday
+Kyle Allen,QB,"TB 9 @ DET 24, Final",,$20,-0.2,0.00,43,2025-10-21 16:28:47,Week 7,Monday
+Ross Dwelley,TE,"TB 9 @ DET 24, Final",,$10,0.5,0.00,44,2025-10-21 16:28:47,Week 7,Monday
+Craig ReynoldsQ,RB,"TB 9 @ DET 24, Final",,$10,0.1,0.00,45,2025-10-21 16:28:47,Week 7,Monday
+Jameson Williams,WR,"TB 9 @ DET 24, Final",2 TGT,$22,7.1,0.00,46,2025-10-21 16:28:47,Week 7,Monday
+Jacob Saylors,RB,"TB 9 @ DET 24, Final",,$10,0.2,0.00,47,2025-10-21 16:28:47,Week 7,Monday
+Sione VakiO,RB,"TB 9 @ DET 24, Final",,$10,—,0.00,48,2025-10-21 16:28:48,Week 7,Monday
+Isaac TeSlaa,WR,"TB 9 @ DET 24, Final",TGT,$11,3.8,0.00,49,2025-10-21 16:28:48,Week 7,Monday
+Dominic Lovett,WR,"TB 9 @ DET 24, Final",,$10,—,0.00,50,2025-10-21 16:28:48,Week 7,Monday
+Owen Wright,RB,"TB 9 @ DET 24, Final",,$10,—,0.00,51,2025-10-21 16:28:48,Week 7,Monday
+Jalen McMillanIR,WR,"TB 9 @ DET 24, Final",,$18,—,0.00,52,2025-10-21 16:28:48,Week 7,Monday
+Dare Ogunbowale,RB,"HOU 19 @ SEA 27, Final",TGT,$10,0.3,0.00,53,2025-10-21 16:28:48,Week 7,Monday
+Christian KirkQ,WR,"HOU 19 @ SEA 27, Final",,$14,5.3,0.00,54,2025-10-21 16:28:48,Week 7,Monday
+Harrison Bryant,TE,"HOU 19 @ SEA 27, Final",,$10,0.3,0.00,55,2025-10-21 16:28:48,Week 7,Monday
+Davis Mills,QB,"HOU 19 @ SEA 27, Final",,$20,1.2,0.00,56,2025-10-21 16:28:48,Week 7,Monday
+Dameon Pierce,RB,"HOU 19 @ SEA 27, Final",,$10,1.3,0.00,57,2025-10-21 16:28:48,Week 7,Monday
+Tank DellPUP,WR,"HOU 19 @ SEA 27, Final",,$11,8.2,0.00,58,2025-10-21 16:28:48,Week 7,Monday
+British Brooks,RB,"HOU 19 @ SEA 27, Final",,$10,1.5,0.00,59,2025-10-21 16:28:48,Week 7,Monday
+Brenden Bates,TE,"HOU 19 @ SEA 27, Final",,$10,3.3,0.00,60,2025-10-21 16:28:48,Week 7,Monday
+Jayden Higgins,WR,"HOU 19 @ SEA 27, Final",3 TGT,$12,3.8,0.00,61,2025-10-21 16:28:48,Week 7,Monday
+Graham Mertz,QB,"HOU 19 @ SEA 27, Final",,$20,—,0.00,62,2025-10-21 16:28:48,Week 7,Monday
+Eric Saubert,TE,"HOU 19 @ SEA 27, Final",,$10,0.3,0.00,63,2025-10-21 16:28:48,Week 7,Monday
+Drew Lock,QB,"HOU 19 @ SEA 27, Final",,$20,0.5,0.00,64,2025-10-21 16:28:48,Week 7,Monday
+Dareke YoungQ,WR,"HOU 19 @ SEA 27, Final",,$10,1.0,0.00,65,2025-10-21 16:28:48,Week 7,Monday
+Brady Russell,RB,"HOU 19 @ SEA 27, Final",,$10,—,0.00,66,2025-10-21 16:28:48,Week 7,Monday
+George Holani,RB,"HOU 19 @ SEA 27, Final",,$10,1.3,0.00,67,2025-10-21 16:28:48,Week 7,Monday
+Jalen Milroe,QB,"HOU 19 @ SEA 27, Final",,$20,-0.5,0.00,68,2025-10-21 16:28:48,Week 7,Monday
+Tory Horton,WR,"HOU 19 @ SEA 27, Final",3 TGT,$13,5.7,0.00,69,2025-10-21 16:28:48,Week 7,Monday
+Nick Kallerup,TE,"HOU 19 @ SEA 27, Final",,$10,—,0.00,70,2025-10-21 16:28:48,Week 7,Monday
+Cade StoverIR,TE,"HOU 19 @ SEA 27, Final",,$11,4.2,0.00,71,2025-10-21 16:28:48,Week 7,Monday
+Teddy Bridgewater,QB,"TB 9 @ DET 24, Final","RUSH ATT,-1 RUSH YD",$20,-0.1,-0.10,72,2025-10-21 16:28:48,Week 7,Monday
