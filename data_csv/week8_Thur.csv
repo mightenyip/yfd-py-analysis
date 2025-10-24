@@ -1,0 +1,37 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Justin Herbert,QB,"MIN 10 @ LAC 37, Final","227 PASS YD,3 PASS TD,INT,7 RUSH ATT,62 RUSH YD",$38,20.9,26.28,1,2025-10-24 16:14:24,Week 8,Thursday
+Kimani Vidal,RB,"MIN 10 @ LAC 37, Final","23 RUSH ATT,117 RUSH YD,RUSH TD,2 TGT,REC,10 REC YD",$17,9.7,19.20,2,2025-10-24 16:14:24,Week 8,Thursday
+Ladd McConkey,WR,"MIN 10 @ LAC 37, Final","10 TGT,6 REC,88 REC YD,REC TD",$27,10.8,17.80,3,2025-10-24 16:14:24,Week 8,Thursday
+Oronde Gadsden,TE,"MIN 10 @ LAC 37, Final","5 TGT,5 REC,77 REC YD,REC TD",$16,10.3,16.20,4,2025-10-24 16:14:24,Week 8,Thursday
+Los Angeles Chargers,DEF,"MIN 10 @ LAC 37, Final","10 PTS ALLOWED,5 SACK,INT",$12,5.4,11.00,5,2025-10-24 16:14:24,Week 8,Thursday
+Justin Jefferson,WR,"MIN 10 @ LAC 37, Final","11 TGT,7 REC,74 REC YD",$32,12.4,10.90,6,2025-10-24 16:14:24,Week 8,Thursday
+Jordan Addison,WR,"MIN 10 @ LAC 37, Final","4 TGT,3 REC,26 REC YD,REC TD",$26,13.4,10.10,7,2025-10-24 16:14:24,Week 8,Thursday
+Carson WentzQ,QB,"MIN 10 @ LAC 37, Final","144 PASS YD,PASS TD,INT",$23,15.1,8.76,8,2025-10-24 16:14:24,Week 8,Thursday
+Tre' Harris,WR,"MIN 10 @ LAC 37, Final","2 TGT,2 REC,8 REC YD,REC TD",$10,3.1,7.80,9,2025-10-24 16:14:24,Week 8,Thursday
+Keenan Allen,WR,"MIN 10 @ LAC 37, Final","5 TGT,4 REC,44 REC YD",$23,12.0,6.40,10,2025-10-24 16:14:24,Week 8,Thursday
+Aaron Jones Sr.,RB,"MIN 10 @ LAC 37, Final","5 RUSH ATT,15 RUSH YD,4 TGT,2 REC,15 REC YD",$21,6.8,4.00,11,2025-10-24 16:14:24,Week 8,Thursday
+T.J. Hockenson,TE,"MIN 10 @ LAC 37, Final","3 TGT,2 REC,26 REC YD",$15,6.0,3.60,12,2025-10-24 16:14:24,Week 8,Thursday
+Zavier Scott,RB,"MIN 10 @ LAC 37, Final","2 RUSH ATT,16 RUSH YD,2 TGT,2 REC,8 REC YD",$10,4.6,3.40,13,2025-10-24 16:14:24,Week 8,Thursday
+Jordan Mason,RB,"MIN 10 @ LAC 37, Final","4 RUSH ATT,3 RUSH YD,TGT,REC,3 REC YD",$23,9.9,1.10,14,2025-10-24 16:14:24,Week 8,Thursday
+Ben Yurosek,TE,"MIN 10 @ LAC 37, Final","2 TGT,REC,5 REC YD",$10,0.5,1.00,15,2025-10-24 16:14:24,Week 8,Thursday
+Max Brosmer,QB,"MIN 10 @ LAC 37, Final",13 PASS YD,$20,0.5,0.52,16,2025-10-24 16:14:24,Week 8,Thursday
+Adam Thielen,WR,"MIN 10 @ LAC 37, Final",2 TGT,$10,1.5,0.00,17,2025-10-24 16:14:24,Week 8,Thursday
+C.J. HamO,RB,"MIN 10 @ LAC 37, Final",,$10,0.5,0.00,18,2025-10-24 16:14:25,Week 8,Thursday
+Josh OliverQ,TE,"MIN 10 @ LAC 37, Final",,$10,4.1,0.00,19,2025-10-24 16:14:25,Week 8,Thursday
+Jalen Nailor,WR,"MIN 10 @ LAC 37, Final",TGT,$12,4.6,0.00,20,2025-10-24 16:14:25,Week 8,Thursday
+J.J. McCarthyO,QB,"MIN 10 @ LAC 37, Final",,$23,14.0,0.00,21,2025-10-24 16:14:25,Week 8,Thursday
+Tai Felton,WR,"MIN 10 @ LAC 37, Final",,$10,0.4,0.00,22,2025-10-24 16:14:25,Week 8,Thursday
+Gavin BartholomewPUP,TE,"MIN 10 @ LAC 37, Final",,$10,—,0.00,23,2025-10-24 16:14:25,Week 8,Thursday
+Myles Price,WR,"MIN 10 @ LAC 37, Final",,$10,—,0.00,24,2025-10-24 16:14:25,Week 8,Thursday
+Will DisslyO,TE,"MIN 10 @ LAC 37, Final",,$10,1.6,0.00,25,2025-10-24 16:14:25,Week 8,Thursday
+Tyler Conklin,TE,"MIN 10 @ LAC 37, Final",,$10,2.8,0.00,26,2025-10-24 16:14:25,Week 8,Thursday
+Trey Lance,QB,"MIN 10 @ LAC 37, Final",,$20,2.9,0.00,27,2025-10-24 16:14:25,Week 8,Thursday
+Hassan HaskinsO,RB,"MIN 10 @ LAC 37, Final",,$10,0.9,0.00,28,2025-10-24 16:14:25,Week 8,Thursday
+Tucker Fisk,TE,"MIN 10 @ LAC 37, Final",,$10,—,0.00,29,2025-10-24 16:14:25,Week 8,Thursday
+Quentin Johnston,WR,"MIN 10 @ LAC 37, Final",,$25,13.9,0.00,30,2025-10-24 16:14:25,Week 8,Thursday
+Derius Davis,WR,"MIN 10 @ LAC 37, Final",,$10,-0.3,0.00,31,2025-10-24 16:14:25,Week 8,Thursday
+Scott Matlock,RB,"MIN 10 @ LAC 37, Final",,$10,0.6,0.00,32,2025-10-24 16:14:25,Week 8,Thursday
+KeAndre Lambert-SmithO,WR,"MIN 10 @ LAC 37, Final",,$10,0.2,0.00,33,2025-10-24 16:14:25,Week 8,Thursday
+Minnesota Vikings,DEF,"MIN 10 @ LAC 37, Final","37 PTS ALLOWED,2 SACK,INT",$16,7.1,0.00,34,2025-10-24 16:14:25,Week 8,Thursday
+Ty ChandlerIR,RB,"MIN 10 @ LAC 37, Final",,$10,—,0.00,35,2025-10-24 16:14:25,Week 8,Thursday
+Nyheim Hines,RB,"MIN 10 @ LAC 37, Final","2 RUSH ATT,-2 RUSH YD",$10,-0.1,-0.20,36,2025-10-24 16:14:25,Week 8,Thursday
