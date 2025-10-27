@@ -1,0 +1,731 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Jonathan Taylor,RB,"TEN 14 @ IND 38, Final","12 RUSH ATT,153 RUSH YD,2 RUSH TD,2 TGT,2 REC,21 REC YD,REC TD",$45,25.5,36.40,1,2025-10-27 16:26:53,Week 8,Sunday
+James Cook III,RB,"BUF 40 @ CAR 9, Final","19 RUSH ATT,216 RUSH YD,2 RUSH TD",$34,18.9,33.60,2,2025-10-27 16:26:53,Week 8,Sunday
+Breece Hall,RB,"NYJ 39 @ CIN 38, Final","4 PASS YD,PASS TD,18 RUSH ATT,133 RUSH YD,2 RUSH TD,3 TGT,2 REC,14 REC YD",$27,12.6,31.86,3,2025-10-27 16:26:53,Week 8,Sunday
+Saquon BarkleyQ,RB,"NYG 20 @ PHI 38, Final","14 RUSH ATT,150 RUSH YD,RUSH TD,5 TGT,4 REC,24 REC YD,REC TD",$33,14.5,31.40,4,2025-10-27 16:26:53,Week 8,Sunday
+Drake Maye,QB,"CLE 13 @ NE 32, Final","282 PASS YD,3 PASS TD,INT,7 RUSH ATT,50 RUSH YD",$37,22.0,27.28,5,2025-10-27 16:26:53,Week 8,Sunday
+Tampa Bay Buccaneers,DEF,"TB 23 @ NO 3, Final","3 PTS ALLOWED,5 SACK,2 INT,2 FUM REC,TD",$14,8.5,26.00,6,2025-10-27 16:26:53,Week 8,Sunday
+Jalen Hurts,QB,"NYG 20 @ PHI 38, Final","179 PASS YD,4 PASS TD,4 RUSH ATT,22 RUSH YD",$41,21.8,25.36,7,2025-10-27 16:26:53,Week 8,Sunday
+Bo Nix,QB,"DAL 24 @ DEN 44, Final","247 PASS YD,4 PASS TD,INT,RUSH ATT,-1 RUSH YD",$39,20.8,24.78,8,2025-10-27 16:26:53,Week 8,Sunday
+Joe Flacco,QB,"NYJ 39 @ CIN 38, Final","223 PASS YD,2 PASS TD,2 RUSH ATT,14 RUSH YD,RUSH TD",$28,14.4,24.32,9,2025-10-27 16:26:53,Week 8,Sunday
+Tua Tagovailoa,QB,"MIA 34 @ ATL 10, Final","205 PASS YD,4 PASS TD",$24,14.3,24.20,10,2025-10-27 16:26:53,Week 8,Sunday
+Chase Brown,RB,"NYJ 39 @ CIN 38, Final","12 RUSH ATT,73 RUSH YD,RUSH TD,3 TGT,3 REC,32 REC YD,REC TD",$25,10.4,24.00,11,2025-10-27 16:26:53,Week 8,Sunday
+Troy Franklin,WR,"DAL 24 @ DEN 44, Final","8 TGT,6 REC,89 REC YD,2 REC TD",$15,10.0,23.90,12,2025-10-27 16:26:53,Week 8,Sunday
+RJ Harvey,RB,"DAL 24 @ DEN 44, Final","7 RUSH ATT,46 RUSH YD,2 RUSH TD,TGT,REC,5 REC YD,REC TD",$17,8.8,23.60,13,2025-10-27 16:26:53,Week 8,Sunday
+Josh Allen,QB,"BUF 40 @ CAR 9, Final","163 PASS YD,PASS TD,3 RUSH ATT,7 RUSH YD,2 RUSH TD",$43,22.9,23.22,14,2025-10-27 16:26:53,Week 8,Sunday
+Daniel Jones,QB,"TEN 14 @ IND 38, Final","272 PASS YD,3 PASS TD,RUSH ATT,3 RUSH YD",$38,20.8,23.18,15,2025-10-27 16:26:53,Week 8,Sunday
+C.J. Stroud,QB,"SF 15 @ HOU 26, Final","318 PASS YD,2 PASS TD,INT,7 RUSH ATT,30 RUSH YD",$29,17.4,22.72,16,2025-10-27 16:26:53,Week 8,Sunday
+Justin Fields,QB,"NYJ 39 @ CIN 38, Final","244 PASS YD,PASS TD,11 RUSH ATT,31 RUSH YD,2 2PT",$27,16.6,20.86,17,2025-10-27 16:26:53,Week 8,Sunday
+Michael Pittman Jr.,WR,"TEN 14 @ IND 38, Final","9 TGT,8 REC,95 REC YD,REC TD",$25,13.0,19.50,18,2025-10-27 16:26:54,Week 8,Sunday
+Jaxson Dart,QB,"NYG 20 @ PHI 38, Final","193 PASS YD,PASS TD,6 RUSH ATT,17 RUSH YD,RUSH TD",$30,15.7,19.42,19,2025-10-27 16:26:54,Week 8,Sunday
+Derrick Henry,RB,"CHI 16 @ BAL 30, Final","21 RUSH ATT,71 RUSH YD,2 RUSH TD,TGT",$30,12.8,19.10,20,2025-10-27 16:26:54,Week 8,Sunday
+Mac Jones,QB,"SF 15 @ HOU 26, Final","193 PASS YD,2 PASS TD,INT,2 RUSH ATT,23 RUSH YD,2PT",$22,16.1,19.02,21,2025-10-27 16:26:54,Week 8,Sunday
+Jaylen Waddle,WR,"MIA 34 @ ATL 10, Final","6 TGT,5 REC,99 REC YD,REC TD",$25,11.5,18.40,22,2025-10-27 16:26:54,Week 8,Sunday
+Khalil Shakir,WR,"BUF 40 @ CAR 9, Final","7 TGT,6 REC,88 REC YD,REC TD",$21,9.9,17.80,23,2025-10-27 16:26:54,Week 8,Sunday
+De'Von Achane,RB,"MIA 34 @ ATL 10, Final","18 RUSH ATT,67 RUSH YD,7 TGT,5 REC,24 REC YD,REC TD",$37,17.2,17.60,24,2025-10-27 16:26:54,Week 8,Sunday
+Javonte Williams,RB,"DAL 24 @ DEN 44, Final","13 RUSH ATT,41 RUSH YD,2 RUSH TD,2 TGT,REC,8 REC YD",$33,17.1,17.40,25,2025-10-27 16:26:54,Week 8,Sunday
+Buffalo Bills,DEF,"BUF 40 @ CAR 9, Final","9 PTS ALLOWED,7 SACK,INT,2 FUM REC",$11,6.4,17.00,26,2025-10-27 16:26:54,Week 8,Sunday
+Samaje Perine,RB,"NYJ 39 @ CIN 38, Final","9 RUSH ATT,94 RUSH YD,RUSH TD,TGT,REC,6 REC YD",$10,3.7,16.50,27,2025-10-27 16:26:54,Week 8,Sunday
+Dallas Goedert,TE,"NYG 20 @ PHI 38, Final","3 TGT,3 REC,28 REC YD,2 REC TD",$20,12.3,16.30,28,2025-10-27 16:26:54,Week 8,Sunday
+Tyjae Spears,RB,"TEN 14 @ IND 38, Final","9 RUSH ATT,59 RUSH YD,RUSH TD,3 TGT,3 REC,23 REC YD",$15,7.4,15.70,29,2025-10-27 16:26:54,Week 8,Sunday
+Isaiah Davis,RB,"NYJ 39 @ CIN 38, Final","7 RUSH ATT,65 RUSH YD,5 TGT,5 REC,44 REC YD,2PT",$10,4.0,15.40,30,2025-10-27 16:26:54,Week 8,Sunday
+Xavier Hutchinson,WR,"SF 15 @ HOU 26, Final","6 TGT,5 REC,69 REC YD,REC TD",$10,6.7,15.40,31,2025-10-27 16:26:54,Week 8,Sunday
+Harold Fannin Jr.,TE,"CLE 13 @ NE 32, Final","RUSH ATT,2 RUSH YD,8 TGT,6 REC,62 REC YD,REC TD",$14,8.4,15.40,32,2025-10-27 16:26:54,Week 8,Sunday
+Ja'Marr Chase,WR,"NYJ 39 @ CIN 38, Final","19 TGT,12 REC,91 REC YD",$40,17.0,15.10,33,2025-10-27 16:26:54,Week 8,Sunday
+Kayshon Boutte,WR,"CLE 13 @ NE 32, Final","5 TGT,3 REC,75 REC YD,REC TD",$20,10.6,15.00,34,2025-10-27 16:26:54,Week 8,Sunday
+Rome Odunze,WR,"CHI 16 @ BAL 30, Final","10 TGT,7 REC,114 REC YD",$25,13.3,14.90,35,2025-10-27 16:26:54,Week 8,Sunday
+D'Andre Swift,RB,"CHI 16 @ BAL 30, Final","11 RUSH ATT,45 RUSH YD,RUSH TD,2 TGT,2 REC,26 REC YD",$29,14.7,14.10,36,2025-10-27 16:26:54,Week 8,Sunday
+Tyler Johnson,WR,"NYJ 39 @ CIN 38, Final","5 TGT,3 REC,64 REC YD,REC TD",$10,4.9,13.90,37,2025-10-27 16:26:54,Week 8,Sunday
+Cam Ward,QB,"TEN 14 @ IND 38, Final","259 PASS YD,PASS TD,INT,2 RUSH ATT,4 RUSH YD",$21,9.1,13.76,38,2025-10-27 16:26:54,Week 8,Sunday
+Dillon Gabriel,QB,"CLE 13 @ NE 32, Final","156 PASS YD,2 PASS TD,2 INT,RUSH ATT,13 RUSH YD",$20,8.2,13.54,39,2025-10-27 16:26:54,Week 8,Sunday
+Tetairoa McMillan,WR,"BUF 40 @ CAR 9, Final","10 TGT,7 REC,99 REC YD",$26,10.2,13.40,40,2025-10-27 16:26:55,Week 8,Sunday
+Woody Marks,RB,"SF 15 @ HOU 26, Final","11 RUSH ATT,62 RUSH YD,4 TGT,4 REC,49 REC YD",$18,8.9,13.10,41,2025-10-27 16:26:55,Week 8,Sunday
+Ollie Gordon II,RB,"MIA 34 @ ATL 10, Final","10 RUSH ATT,46 RUSH YD,TGT,REC,20 REC YD,REC TD",$10,3.6,13.10,42,2025-10-27 16:26:55,Week 8,Sunday
+J.K. Dobbins,RB,"DAL 24 @ DEN 44, Final","15 RUSH ATT,111 RUSH YD,2 TGT,2 REC,10 REC YD",$24,11.9,13.10,43,2025-10-27 16:26:55,Week 8,Sunday
+Chimere Dike,WR,"TEN 14 @ IND 38, Final","RUSH ATT,RUSH YD,8 TGT,7 REC,93 REC YD",$10,4.6,12.90,44,2025-10-27 16:26:55,Week 8,Sunday
+Caleb Williams,QB,"CHI 16 @ BAL 30, Final","285 PASS YD,INT,3 RUSH ATT,24 RUSH YD",$34,17.5,12.80,45,2025-10-27 16:26:55,Week 8,Sunday
+Mack Hollins,WR,"CLE 13 @ NE 32, Final","7 TGT,7 REC,89 REC YD",$10,6.0,12.40,46,2025-10-27 16:26:55,Week 8,Sunday
+George Kittle,TE,"SF 15 @ HOU 26, Final","5 TGT,4 REC,43 REC YD,REC TD",$20,7.6,12.30,47,2025-10-27 16:26:55,Week 8,Sunday
+Mason Taylor,TE,"NYJ 39 @ CIN 38, Final","8 TGT,5 REC,34 REC YD,REC TD",$13,5.8,11.90,48,2025-10-27 16:26:55,Week 8,Sunday
+David Njoku,TE,"CLE 13 @ NE 32, Final","5 TGT,4 REC,37 REC YD,REC TD",$15,7.4,11.70,49,2025-10-27 16:26:55,Week 8,Sunday
+Jalen Tolbert,WR,"DAL 24 @ DEN 44, Final","2 TGT,2 REC,47 REC YD,REC TD",$10,4.0,11.70,50,2025-10-27 16:26:55,Week 8,Sunday
+Malik Washington,WR,"MIA 34 @ ATL 10, Final","5 TGT,4 REC,36 REC YD,REC TD",$11,5.5,11.60,51,2025-10-27 16:26:55,Week 8,Sunday
+Jayden Higgins,WR,"SF 15 @ HOU 26, Final","8 TGT,4 REC,34 REC YD,REC TD",$11,4.9,11.40,52,2025-10-27 16:26:55,Week 8,Sunday
+DeVonta Smith,WR,"NYG 20 @ PHI 38, Final","9 TGT,6 REC,84 REC YD",$28,11.6,11.40,53,2025-10-27 16:26:55,Week 8,Sunday
+Josh Downs,WR,"TEN 14 @ IND 38, Final","3 TGT,3 REC,39 REC YD,REC TD",$18,7.4,11.40,54,2025-10-27 16:26:55,Week 8,Sunday
+George Pickens,WR,"DAL 24 @ DEN 44, Final","9 TGT,7 REC,78 REC YD",$34,15.8,11.30,55,2025-10-27 16:26:55,Week 8,Sunday
+CeeDee Lamb,WR,"DAL 24 @ DEN 44, Final","RUSH ATT,2 RUSH YD,10 TGT,7 REC,74 REC YD",$35,12.2,11.10,56,2025-10-27 16:26:55,Week 8,Sunday
+New England Patriots,DEF,"CLE 13 @ NE 32, Final","13 PTS ALLOWED,SACK,SAFETY,2 INT",$18,9.5,11.00,57,2025-10-27 16:26:55,Week 8,Sunday
+Pat Bryant,WR,"DAL 24 @ DEN 44, Final","4 TGT,2 REC,40 REC YD,REC TD",$10,3.6,11.00,58,2025-10-27 16:26:55,Week 8,Sunday
+Tee Higgins,WR,"NYJ 39 @ CIN 38, Final","2 TGT,REC,44 REC YD,REC TD",$26,9.1,10.90,59,2025-10-27 16:26:55,Week 8,Sunday
+Zay Flowers,WR,"CHI 16 @ BAL 30, Final","RUSH ATT,8 RUSH YD,9 TGT,7 REC,63 REC YD",$24,10.7,10.60,60,2025-10-27 16:26:55,Week 8,Sunday
+Jahan Dotson,WR,"NYG 20 @ PHI 38, Final","2 TGT,REC,40 REC YD,REC TD",$10,3.6,10.50,61,2025-10-27 16:26:55,Week 8,Sunday
+Tank Bigsby,RB,"NYG 20 @ PHI 38, Final","9 RUSH ATT,104 RUSH YD",$10,1.9,10.40,62,2025-10-27 16:26:56,Week 8,Sunday
+Kyle Pitts Sr.,TE,"MIA 34 @ ATL 10, Final","9 TGT,9 REC,59 REC YD",$16,8.6,10.40,63,2025-10-27 16:26:56,Week 8,Sunday
+Sean Tucker,RB,"TB 23 @ NO 3, Final","12 RUSH ATT,42 RUSH YD,RUSH TD",$10,2.7,10.20,64,2025-10-27 16:26:56,Week 8,Sunday
+Chris Olave,WR,"TB 23 @ NO 3, Final","RUSH ATT,-3 RUSH YD,12 TGT,8 REC,63 REC YD",$28,11.6,10.00,65,2025-10-27 16:26:56,Week 8,Sunday
+Rashid Shaheed,WR,"TB 23 @ NO 3, Final","12 TGT,9 REC,75 REC YD,FUM LOST",$24,9.1,10.00,66,2025-10-27 16:26:56,Week 8,Sunday
+DJ Moore,WR,"CHI 16 @ BAL 30, Final","2 RUSH ATT,3 RUSH YD,7 TGT,4 REC,73 REC YD",$21,7.7,9.60,67,2025-10-27 16:26:56,Week 8,Sunday
+Cam SkatteboO,RB,"NYG 20 @ PHI 38, Final","3 RUSH ATT,12 RUSH YD,2 TGT,REC,18 REC YD,REC TD",$31,14.5,9.50,68,2025-10-27 16:26:56,Week 8,Sunday
+Chuba Hubbard,RB,"BUF 40 @ CAR 9, Final","12 RUSH ATT,34 RUSH YD,RUSH TD,TGT",$23,10.9,9.40,69,2025-10-27 16:26:56,Week 8,Sunday
+Gunnar Helm,TE,"TEN 14 @ IND 38, Final","3 TGT,2 REC,23 REC YD,REC TD",$10,4.1,9.30,70,2025-10-27 16:26:56,Week 8,Sunday
+Cleveland Browns,DEF,"CLE 13 @ NE 32, Final","30 PTS ALLOWED,6 SACK,INT,FUM REC",$14,7.3,9.00,71,2025-10-27 16:26:56,Week 8,Sunday
+Stefon Diggs,WR,"CLE 13 @ NE 32, Final","5 TGT,3 REC,14 REC YD,REC TD",$27,9.3,8.90,72,2025-10-27 16:26:56,Week 8,Sunday
+Jaylin Noel,WR,"SF 15 @ HOU 26, Final","6 TGT,5 REC,63 REC YD",$10,4.3,8.80,73,2025-10-27 16:26:56,Week 8,Sunday
+Courtland Sutton,WR,"DAL 24 @ DEN 44, Final","6 TGT,4 REC,67 REC YD",$28,11.5,8.70,74,2025-10-27 16:26:56,Week 8,Sunday
+Dak Prescott,QB,"DAL 24 @ DEN 44, Final","188 PASS YD,2 INT,6 RUSH ATT,31 RUSH YD",$40,19.8,8.62,75,2025-10-27 16:26:56,Week 8,Sunday
+Tyler Allgeier,RB,"MIA 34 @ ATL 10, Final","4 RUSH ATT,4 RUSH YD,RUSH TD,2 TGT,2 REC,10 REC YD",$14,7.0,8.40,76,2025-10-27 16:26:56,Week 8,Sunday
+Christian McCaffrey,RB,"SF 15 @ HOU 26, Final","8 RUSH ATT,25 RUSH YD,6 TGT,3 REC,43 REC YD",$44,21.1,8.30,77,2025-10-27 16:26:56,Week 8,Sunday
+Nick Chubb,RB,"SF 15 @ HOU 26, Final","17 RUSH ATT,56 RUSH YD,2 TGT,2 REC,13 REC YD",$19,7.8,7.90,78,2025-10-27 16:26:56,Week 8,Sunday
+Alec Pierce,WR,"TEN 14 @ IND 38, Final","5 TGT,2 REC,69 REC YD",$19,7.9,7.90,79,2025-10-27 16:26:56,Week 8,Sunday
+Juwan Johnson,TE,"TB 23 @ NO 3, Final","8 TGT,5 REC,53 REC YD",$13,7.4,7.80,80,2025-10-27 16:26:56,Week 8,Sunday
+Charlie Kolar,TE,"CHI 16 @ BAL 30, Final","TGT,REC,10 REC YD,REC TD",$10,2.4,7.50,81,2025-10-27 16:26:56,Week 8,Sunday
+Chig Okonkwo,TE,"TEN 14 @ IND 38, Final","5 TGT,4 REC,53 REC YD",$11,5.1,7.30,82,2025-10-27 16:26:56,Week 8,Sunday
+Tyler Warren,TE,"TEN 14 @ IND 38, Final","5 TGT,4 REC,53 REC YD",$25,11.5,7.30,83,2025-10-27 16:26:56,Week 8,Sunday
+Hunter Henry,TE,"CLE 13 @ NE 32, Final","TGT,REC,7 REC YD,REC TD",$15,8.5,7.20,84,2025-10-27 16:26:56,Week 8,Sunday
+Elic Ayomanor,WR,"TEN 14 @ IND 38, Final","8 TGT,4 REC,52 REC YD",$13,6.4,7.20,85,2025-10-27 16:26:56,Week 8,Sunday
+Kirk Cousins,QB,"MIA 34 @ ATL 10, Final","173 PASS YD,2 RUSH ATT,2 RUSH YD",$20,4.1,7.12,86,2025-10-27 16:26:56,Week 8,Sunday
+Isaiah Williams,WR,"NYJ 39 @ CIN 38, Final","RUSH ATT,25 RUSH YD,4 TGT,3 REC,31 REC YD",$10,1.4,7.10,87,2025-10-27 16:26:57,Week 8,Sunday
+Rachaad White,RB,"TB 23 @ NO 3, Final","13 RUSH ATT,35 RUSH YD,2 TGT,2 REC,26 REC YD",$23,9.4,7.10,88,2025-10-27 16:26:57,Week 8,Sunday
+Miami Dolphins,DEF,"MIA 34 @ ATL 10, Final","10 PTS ALLOWED,SACK,FUM REC",$10,4.4,7.00,89,2025-10-27 16:26:57,Week 8,Sunday
+Indianapolis Colts,DEF,"TEN 14 @ IND 38, Final","14 PTS ALLOWED,4 SACK,INT",$18,8.6,7.00,90,2025-10-27 16:26:57,Week 8,Sunday
+Olamide Zaccheaus,WR,"CHI 16 @ BAL 30, Final","7 TGT,7 REC,33 REC YD",$10,4.8,6.80,91,2025-10-27 16:26:57,Week 8,Sunday
+Tez Johnson,WR,"TB 23 @ NO 3, Final","6 TGT,5 REC,43 REC YD",$10,5.9,6.80,92,2025-10-27 16:26:57,Week 8,Sunday
+Jake Tonges,TE,"SF 15 @ HOU 26, Final","TGT,REC,2 REC YD,REC TD",$10,8.5,6.70,93,2025-10-27 16:26:57,Week 8,Sunday
+Jauan Jennings,WR,"SF 15 @ HOU 26, Final","7 TGT,4 REC,45 REC YD",$20,6.4,6.50,94,2025-10-27 16:26:57,Week 8,Sunday
+Joe Milton III,QB,"DAL 24 @ DEN 44, Final","58 PASS YD,PASS TD",$20,3.5,6.32,95,2025-10-27 16:26:57,Week 8,Sunday
+Braxton Berrios,WR,"SF 15 @ HOU 26, Final","5 TGT,5 REC,38 REC YD",$10,3.4,6.30,96,2025-10-27 16:26:57,Week 8,Sunday
+Wan'Dale Robinson,WR,"NYG 20 @ PHI 38, Final","4 TGT,3 REC,48 REC YD",$22,10.1,6.30,97,2025-10-27 16:26:57,Week 8,Sunday
+Tyrone Tracy Jr.,RB,"NYG 20 @ PHI 38, Final","10 RUSH ATT,39 RUSH YD,3 TGT,2 REC,14 REC YD",$14,5.6,6.30,98,2025-10-27 16:26:57,Week 8,Sunday
+Rashod Bateman,WR,"CHI 16 @ BAL 30, Final","4 TGT,2 REC,51 REC YD",$15,4.2,6.10,99,2025-10-27 16:26:57,Week 8,Sunday
+Philadelphia Eagles,DEF,"NYG 20 @ PHI 38, Final","20 PTS ALLOWED,5 SACK",$14,7.0,6.00,100,2025-10-27 16:26:57,Week 8,Sunday
+Cade Otton,TE,"TB 23 @ NO 3, Final","5 TGT,4 REC,40 REC YD",$12,5.7,6.00,101,2025-10-27 16:26:57,Week 8,Sunday
+New Orleans Saints,DEF,"TB 23 @ NO 3, Final","17 PTS ALLOWED,3 SACK,FUM REC",$12,5.4,6.00,102,2025-10-27 16:26:57,Week 8,Sunday
+Denver Broncos,DEF,"DAL 24 @ DEN 44, Final","24 PTS ALLOWED,2 SACK,2 INT",$15,8.0,6.00,103,2025-10-27 16:26:57,Week 8,Sunday
+Kendrick Bourne,WR,"SF 15 @ HOU 26, Final","4 TGT,3 REC,44 REC YD",$15,8.1,5.90,104,2025-10-27 16:26:57,Week 8,Sunday
+Tony Pollard,RB,"TEN 14 @ IND 38, Final","11 RUSH ATT,44 RUSH YD,2 TGT,REC,9 REC YD",$22,9.1,5.80,105,2025-10-27 16:26:57,Week 8,Sunday
+Noah Fant,TE,"NYJ 39 @ CIN 38, Final","3 TGT,3 REC,41 REC YD",$11,6.8,5.60,106,2025-10-27 16:26:57,Week 8,Sunday
+Evan Engram,TE,"DAL 24 @ DEN 44, Final","4 TGT,4 REC,36 REC YD",$14,5.9,5.60,107,2025-10-27 16:26:57,Week 8,Sunday
+TreVeyon Henderson,RB,"CLE 13 @ NE 32, Final","10 RUSH ATT,75 RUSH YD,FUM LOST",$16,5.6,5.50,108,2025-10-27 16:26:57,Week 8,Sunday
+Alvin Kamara,RB,"TB 23 @ NO 3, Final","6 RUSH ATT,21 RUSH YD,2 TGT,2 REC,24 REC YD",$22,8.6,5.50,109,2025-10-27 16:26:57,Week 8,Sunday
+Rico Dowdle,RB,"BUF 40 @ CAR 9, Final","8 RUSH ATT,54 RUSH YD",$28,12.1,5.40,110,2025-10-27 16:26:57,Week 8,Sunday
+Dylan Sampson,RB,"CLE 13 @ NE 32, Final","3 RUSH ATT,6 TGT,5 REC,29 REC YD",$10,4.3,5.40,111,2025-10-27 16:26:58,Week 8,Sunday
+Rhamondre Stevenson,RB,"CLE 13 @ NE 32, Final","14 RUSH ATT,34 RUSH YD,2 TGT,REC,15 REC YD",$20,8.4,5.40,112,2025-10-27 16:26:58,Week 8,Sunday
+Tyler Shough,QB,"TB 23 @ NO 3, Final","128 PASS YD,INT,3 RUSH ATT,12 RUSH YD",$20,2.7,5.32,113,2025-10-27 16:26:58,Week 8,Sunday
+Colston Loveland,TE,"CHI 16 @ BAL 30, Final","5 TGT,3 REC,38 REC YD",$10,2.8,5.30,114,2025-10-27 16:26:58,Week 8,Sunday
+DeMario Douglas,WR,"CLE 13 @ NE 32, Final","2 RUSH ATT,3 RUSH YD,TGT,REC,44 REC YD",$11,5.1,5.20,115,2025-10-27 16:26:58,Week 8,Sunday
+Jalen Coker,WR,"BUF 40 @ CAR 9, Final","4 TGT,3 REC,36 REC YD",$10,2.6,5.10,116,2025-10-27 16:26:58,Week 8,Sunday
+Houston Texans,DEF,"SF 15 @ HOU 26, Final","15 PTS ALLOWED,2 SACK,INT",$15,9.4,5.00,117,2025-10-27 16:26:58,Week 8,Sunday
+Emeka Egbuka,WR,"TB 23 @ NO 3, Final","9 TGT,3 REC,35 REC YD",$28,13.3,5.00,118,2025-10-27 16:26:58,Week 8,Sunday
+Mark Andrews,TE,"CHI 16 @ BAL 30, Final","3 TGT,3 REC,34 REC YD",$16,6.5,4.90,119,2025-10-27 16:26:58,Week 8,Sunday
+Austin Hooper,TE,"CLE 13 @ NE 32, Final","2 TGT,2 REC,38 REC YD",$10,3.9,4.80,120,2025-10-27 16:26:58,Week 8,Sunday
+KhaDarel Hodge,WR,"MIA 34 @ ATL 10, Final","8 TGT,3 REC,31 REC YD",$10,1.2,4.60,121,2025-10-27 16:26:58,Week 8,Sunday
+Keon Coleman,WR,"BUF 40 @ CAR 9, Final","4 TGT,3 REC,30 REC YD",$17,7.2,4.50,122,2025-10-27 16:26:58,Week 8,Sunday
+Keaton Mitchell,RB,"CHI 16 @ BAL 30, Final","4 RUSH ATT,43 RUSH YD",$10,2.0,4.30,123,2025-10-27 16:26:58,Week 8,Sunday
+Bijan Robinson,RB,"MIA 34 @ ATL 10, Final","9 RUSH ATT,25 RUSH YD,3 TGT,3 REC,23 REC YD,FUM LOST",$44,19.2,4.30,124,2025-10-27 16:26:58,Week 8,Sunday
+Jamari Thrash,WR,"CLE 13 @ NE 32, Final","3 TGT,2 REC,31 REC YD",$10,2.2,4.10,125,2025-10-27 16:26:58,Week 8,Sunday
+Baker Mayfield,QB,"TB 23 @ NO 3, Final","152 PASS YD,FUM LOST",$40,17.8,4.08,126,2025-10-27 16:26:58,Week 8,Sunday
+Baltimore Ravens,DEF,"CHI 16 @ BAL 30, Final","16 PTS ALLOWED,SACK,INT",$10,1.7,4.00,127,2025-10-27 16:26:58,Week 8,Sunday
+Brandin Cooks,WR,"TB 23 @ NO 3, Final","4 TGT,3 REC,22 REC YD",$10,2.9,3.70,128,2025-10-27 16:26:58,Week 8,Sunday
+Spencer Rattler,QB,"TB 23 @ NO 3, Final","136 PASS YD,INT,3 RUSH ATT,12 RUSH YD,FUM LOST",$26,13.0,3.64,129,2025-10-27 16:26:58,Week 8,Sunday
+Darius Slayton,WR,"NYG 20 @ PHI 38, Final","5 TGT,2 REC,26 REC YD",$15,4.0,3.60,130,2025-10-27 16:26:58,Week 8,Sunday
+Demarcus Robinson,WR,"SF 15 @ HOU 26, Final","3 TGT,2 REC,5 REC YD,2PT",$10,3.4,3.50,131,2025-10-27 16:26:58,Week 8,Sunday
+Theo Johnson,TE,"NYG 20 @ PHI 38, Final","4 TGT,3 REC,20 REC YD",$16,7.1,3.50,132,2025-10-27 16:26:58,Week 8,Sunday
+Luke Schoonmaker,TE,"DAL 24 @ DEN 44, Final","3 TGT,2 REC,25 REC YD",$10,1.2,3.50,133,2025-10-27 16:26:58,Week 8,Sunday
+Ja'Tavion Sanders,TE,"BUF 40 @ CAR 9, Final","3 TGT,3 REC,19 REC YD",$10,3.6,3.40,134,2025-10-27 16:26:59,Week 8,Sunday
+Dalton Schultz,TE,"SF 15 @ HOU 26, Final","3 TGT,2 REC,24 REC YD",$13,6.7,3.40,135,2025-10-27 16:26:59,Week 8,Sunday
+Devin Singletary,RB,"NYG 20 @ PHI 38, Final","2 RUSH ATT,TGT,REC,28 REC YD",$10,1.6,3.30,136,2025-10-27 16:26:59,Week 8,Sunday
+Jaylen Wright,RB,"MIA 34 @ ATL 10, Final","9 RUSH ATT,28 RUSH YD,TGT,REC",$10,3.3,3.30,137,2025-10-27 16:26:59,Week 8,Sunday
+Quinshon JudkinsQ,RB,"CLE 13 @ NE 32, Final","9 RUSH ATT,19 RUSH YD,3 TGT,3 REC,-2 REC YD",$30,12.9,3.20,138,2025-10-27 16:26:59,Week 8,Sunday
+Malachi Corley,WR,"CLE 13 @ NE 32, Final","RUSH ATT,31 RUSH YD",$10,2.3,3.10,139,2025-10-27 16:26:59,Week 8,Sunday
+Casey Washington,WR,"MIA 34 @ ATL 10, Final","TGT,REC,25 REC YD",$10,2.5,3.00,140,2025-10-27 16:26:59,Week 8,Sunday
+Jeremy Ruckert,TE,"NYJ 39 @ CIN 38, Final","TGT,REC,24 REC YD",$10,2.9,2.90,141,2025-10-27 16:26:59,Week 8,Sunday
+Jaydon Blue,RB,"DAL 24 @ DEN 44, Final","8 RUSH ATT,29 RUSH YD",$10,1.9,2.90,142,2025-10-27 16:26:59,Week 8,Sunday
+Arian Smith,WR,"NYJ 39 @ CIN 38, Final","TGT,REC,23 REC YD",$10,1.0,2.80,143,2025-10-27 16:26:59,Week 8,Sunday
+Dalton Kincaid,TE,"BUF 40 @ CAR 9, Final","3 TGT,REC,23 REC YD",$17,9.9,2.80,144,2025-10-27 16:26:59,Week 8,Sunday
+Xavier Legette,WR,"BUF 40 @ CAR 9, Final","3 TGT,2 REC,17 REC YD",$14,6.2,2.70,145,2025-10-27 16:26:59,Week 8,Sunday
+Daniel BellingerQ,TE,"NYG 20 @ PHI 38, Final","TGT,REC,21 REC YD",$10,5.2,2.60,146,2025-10-27 16:26:59,Week 8,Sunday
+Devin Neal,RB,"TB 23 @ NO 3, Final","3 TGT,3 REC,11 REC YD",$10,1.2,2.60,147,2025-10-27 16:26:59,Week 8,Sunday
+Jackson Hawes,TE,"BUF 40 @ CAR 9, Final","3 TGT,2 REC,15 REC YD",$10,3.2,2.50,148,2025-10-27 16:26:59,Week 8,Sunday
+Kyle Monangai,RB,"CHI 16 @ BAL 30, Final","7 RUSH ATT,24 RUSH YD",$11,4.8,2.40,149,2025-10-27 16:26:59,Week 8,Sunday
+David Sills V,WR,"MIA 34 @ ATL 10, Final","3 TGT,2 REC,14 REC YD",$10,1.9,2.40,150,2025-10-27 16:26:59,Week 8,Sunday
+Beaux Collins,WR,"NYG 20 @ PHI 38, Final","2 TGT,REC,18 REC YD",$10,0.9,2.30,151,2025-10-27 16:26:59,Week 8,Sunday
+Nick Westbrook-Ikhine,WR,"MIA 34 @ ATL 10, Final","3 TGT,REC,18 REC YD",$10,1.4,2.30,152,2025-10-27 16:26:59,Week 8,Sunday
+Dare Ogunbowale,RB,"SF 15 @ HOU 26, Final","RUSH ATT,9 RUSH YD,TGT,REC,8 REC YD",$10,0.6,2.20,153,2025-10-27 16:26:59,Week 8,Sunday
+Andy Dalton,QB,"BUF 40 @ CAR 9, Final","175 PASS YD,INT,2 RUSH ATT,RUSH YD,2 FUM LOST",$20,2.6,2.10,154,2025-10-27 16:26:59,Week 8,Sunday
+Dawson Knox,TE,"BUF 40 @ CAR 9, Final","TGT,REC,15 REC YD",$10,3.1,2.00,155,2025-10-27 16:26:59,Week 8,Sunday
+San Francisco 49ers,DEF,"SF 15 @ HOU 26, Final","26 PTS ALLOWED,INT",$10,4.5,2.00,156,2025-10-27 16:26:59,Week 8,Sunday
+Elijah Moore,WR,"BUF 40 @ CAR 9, Final","4 TGT,REC,14 REC YD",$10,3.1,1.90,157,2025-10-27 16:27:00,Week 8,Sunday
+DeAndre Hopkins,WR,"CHI 16 @ BAL 30, Final","TGT,REC,14 REC YD",$10,5.2,1.90,158,2025-10-27 16:27:00,Week 8,Sunday
+Isaiah Likely,TE,"CHI 16 @ BAL 30, Final","2 TGT,2 REC,8 REC YD",$11,1.7,1.80,159,2025-10-27 16:27:00,Week 8,Sunday
+Marvin Mims Jr.Q,WR,"DAL 24 @ DEN 44, Final","3 RUSH ATT,18 RUSH YD,TGT",$19,6.2,1.80,160,2025-10-27 16:27:00,Week 8,Sunday
+Taysom Hill,TE,"TB 23 @ NO 3, Final","2 RUSH ATT,6 RUSH YD,TGT,REC,6 REC YD",$10,2.6,1.70,161,2025-10-27 16:27:00,Week 8,Sunday
+Ray Davis,RB,"BUF 40 @ CAR 9, Final","9 RUSH ATT,16 RUSH YD,TGT",$10,2.0,1.60,162,2025-10-27 16:27:00,Week 8,Sunday
+Trevor Etienne,RB,"BUF 40 @ CAR 9, Final","4 RUSH ATT,16 RUSH YD",$10,1.4,1.60,163,2025-10-27 16:27:00,Week 8,Sunday
+Tanner Conner,TE,"MIA 34 @ ATL 10, Final","2 TGT,2 REC,6 REC YD",$10,1.9,1.60,164,2025-10-27 16:27:00,Week 8,Sunday
+Darnell Mooney,WR,"MIA 34 @ ATL 10, Final","4 TGT,REC,11 REC YD",$17,4.3,1.60,165,2025-10-27 16:27:00,Week 8,Sunday
+Terrell Jennings,RB,"CLE 13 @ NE 32, Final","2 RUSH ATT,15 RUSH YD",$10,1.7,1.50,166,2025-10-27 16:27:00,Week 8,Sunday
+Devaughn Vele,WR,"TB 23 @ NO 3, Final","5 TGT,REC,10 REC YD",$10,2.1,1.50,167,2025-10-27 16:27:00,Week 8,Sunday
+Andrew Beck,RB,"NYJ 39 @ CIN 38, Final","TGT,REC,9 REC YD",$10,1.8,1.40,168,2025-10-27 16:27:00,Week 8,Sunday
+Tanner Hudson,TE,"NYJ 39 @ CIN 38, Final","2 TGT,REC,9 REC YD",$10,5.2,1.40,169,2025-10-27 16:27:00,Week 8,Sunday
+Nathan Carter,RB,"MIA 34 @ ATL 10, Final","2 RUSH ATT,14 RUSH YD",$10,2.0,1.40,170,2025-10-27 16:27:00,Week 8,Sunday
+Brevyn Spann-Ford,TE,"DAL 24 @ DEN 44, Final","TGT,REC,9 REC YD",$10,0.4,1.40,171,2025-10-27 16:27:00,Week 8,Sunday
+Sterling Shepard,WR,"TB 23 @ NO 3, Final","2 TGT,REC,8 REC YD",$13,5.6,1.30,172,2025-10-27 16:27:00,Week 8,Sunday
+Ameer Abdullah,RB,"TEN 14 @ IND 38, Final","2 RUSH ATT,5 RUSH YD,TGT,REC,3 REC YD",$10,3.3,1.30,173,2025-10-27 16:27:00,Week 8,Sunday
+Jordan Watkins,WR,"SF 15 @ HOU 26, Final","2 TGT,REC,7 REC YD",$10,1.2,1.20,174,2025-10-27 16:27:00,Week 8,Sunday
+Ryan Flournoy,WR,"DAL 24 @ DEN 44, Final","2 TGT,REC,7 REC YD",$10,4.0,1.20,175,2025-10-27 16:27:00,Week 8,Sunday
+Tylan Wallace,WR,"CHI 16 @ BAL 30, Final","TGT,REC,6 REC YD",$10,2.1,1.10,176,2025-10-27 16:27:00,Week 8,Sunday
+Josh Williams,RB,"TB 23 @ NO 3, Final","4 RUSH ATT,11 RUSH YD",$10,0.6,1.10,177,2025-10-27 16:27:00,Week 8,Sunday
+Van Jefferson,WR,"TEN 14 @ IND 38, Final","8 TGT,REC,6 REC YD",$10,3.5,1.10,178,2025-10-27 16:27:00,Week 8,Sunday
+Allen Lazard,WR,"NYJ 39 @ CIN 38, Final","2 TGT,REC,5 REC YD",$10,2.8,1.00,179,2025-10-27 16:27:00,Week 8,Sunday
+Chicago Bears,DEF,"CHI 16 @ BAL 30, Final","30 PTS ALLOWED,2 SACK",$17,7.3,1.00,180,2025-10-27 16:27:00,Week 8,Sunday
+Tommy Tremble,TE,"BUF 40 @ CAR 9, Final","TGT,REC,4 REC YD",$10,3.5,0.90,181,2025-10-27 16:27:01,Week 8,Sunday
+Jimmy Horn Jr.Q,WR,"BUF 40 @ CAR 9, Final","2 RUSH ATT,9 RUSH YD,TGT",$10,3.2,0.90,182,2025-10-27 16:27:01,Week 8,Sunday
+Kyle Juszczyk,RB,"SF 15 @ HOU 26, Final","2 TGT,REC,4 REC YD",$10,2.9,0.90,183,2025-10-27 16:27:01,Week 8,Sunday
+Mitchell Trubisky,QB,"BUF 40 @ CAR 9, Final",22 PASS YD,$20,0.9,0.88,184,2025-10-27 16:27:01,Week 8,Sunday
+Xavier Gipson,WR,"NYG 20 @ PHI 38, Final","TGT,REC,3 REC YD",$10,0.3,0.80,185,2025-10-27 16:27:01,Week 8,Sunday
+Devin Duvernay,WR,"CHI 16 @ BAL 30, Final","3 TGT,REC,2 REC YD",$10,0.1,0.70,186,2025-10-27 16:27:01,Week 8,Sunday
+Cedrick Wilson Jr.,WR,"MIA 34 @ ATL 10, Final","TGT,REC,2 REC YD",$10,0.7,0.70,187,2025-10-27 16:27:01,Week 8,Sunday
+Ty Johnson,RB,"BUF 40 @ CAR 9, Final","4 RUSH ATT,6 RUSH YD",$10,1.3,0.60,188,2025-10-27 16:27:01,Week 8,Sunday
+Tyler Badie,RB,"DAL 24 @ DEN 44, Final","RUSH ATT,6 RUSH YD",$10,1.9,0.60,189,2025-10-27 16:27:01,Week 8,Sunday
+Alec Ingold,RB,"MIA 34 @ ATL 10, Final","TGT,REC",$10,1.3,0.50,190,2025-10-27 16:27:01,Week 8,Sunday
+Julius Chestnut,RB,"TEN 14 @ IND 38, Final","2 RUSH ATT,5 RUSH YD",$10,0.5,0.50,191,2025-10-27 16:27:01,Week 8,Sunday
+Jerome Ford,RB,"CLE 13 @ NE 32, Final","2 TGT,REC,-1 REC YD",$10,3.2,0.40,192,2025-10-27 16:27:01,Week 8,Sunday
+Luther Burden IIIQ,WR,"CHI 16 @ BAL 30, Final","TGT,REC,-1 REC YD",$12,4.3,0.40,193,2025-10-27 16:27:01,Week 8,Sunday
+Gage Larvadain,WR,"CLE 13 @ NE 32, Final","RUSH ATT,3 RUSH YD",$10,0.9,0.30,194,2025-10-27 16:27:01,Week 8,Sunday
+KaVontae Turpin,WR,"DAL 24 @ DEN 44, Final","5 TGT,REC,-2 REC YD",$11,5.4,0.30,195,2025-10-27 16:27:01,Week 8,Sunday
+Malik Davis,RB,"DAL 24 @ DEN 44, Final","2 RUSH ATT,3 RUSH YD",$10,0.2,0.30,196,2025-10-27 16:27:01,Week 8,Sunday
+Will Shipley,RB,"NYG 20 @ PHI 38, Final","3 RUSH ATT,2 RUSH YD",$10,0.8,0.20,197,2025-10-27 16:27:01,Week 8,Sunday
+Justice Hill,RB,"CHI 16 @ BAL 30, Final","RUSH ATT,2 RUSH YD",$15,6.3,0.20,198,2025-10-27 16:27:01,Week 8,Sunday
+Hunter Luepke,RB,"DAL 24 @ DEN 44, Final","RUSH ATT,2 RUSH YD",$10,1.8,0.20,199,2025-10-27 16:27:01,Week 8,Sunday
+Tyler Goodson,RB,"TEN 14 @ IND 38, Final","2 RUSH ATT,2 RUSH YD",$10,0.4,0.20,200,2025-10-27 16:27:01,Week 8,Sunday
+Riley Leonard,QB,"TEN 14 @ IND 38, Final","RUSH ATT,RUSH YD",$20,0.1,0.10,201,2025-10-27 16:27:01,Week 8,Sunday
+Tyrod TaylorO,QB,"NYJ 39 @ CIN 38, Final",,$20,10.1,0.00,202,2025-10-27 16:27:01,Week 8,Sunday
+Josh ReynoldsIR,WR,"NYJ 39 @ CIN 38, Final",,$10,3.5,0.00,203,2025-10-27 16:27:01,Week 8,Sunday
+Kene NwangwuO,RB,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,204,2025-10-27 16:27:02,Week 8,Sunday
+Khalil Herbert,RB,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,205,2025-10-27 16:27:02,Week 8,Sunday
+Garrett WilsonO,WR,"NYJ 39 @ CIN 38, Final",,$23,13.6,0.00,206,2025-10-27 16:27:02,Week 8,Sunday
+Jelani Woods,TE,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,207,2025-10-27 16:27:02,Week 8,Sunday
+Irvin CharlesPUP,WR,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,208,2025-10-27 16:27:02,Week 8,Sunday
+Stone SmarttO,TE,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,209,2025-10-27 16:27:02,Week 8,Sunday
+Mike GesickiIR,TE,"NYJ 39 @ CIN 38, Final",,$10,2.0,0.00,210,2025-10-27 16:27:02,Week 8,Sunday
+Drew Sample,TE,"NYJ 39 @ CIN 38, Final",,$10,1.8,0.00,211,2025-10-27 16:27:02,Week 8,Sunday
+Jake Browning,QB,"NYJ 39 @ CIN 38, Final",,$20,14.0,0.00,212,2025-10-27 16:27:02,Week 8,Sunday
+Charlie Jones,WR,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,213,2025-10-27 16:27:02,Week 8,Sunday
+Andrei Iosivas,WR,"NYJ 39 @ CIN 38, Final",3 TGT,$12,3.8,0.00,214,2025-10-27 16:27:02,Week 8,Sunday
+Mitch Tinsley,WR,"NYJ 39 @ CIN 38, Final",,$10,3.1,0.00,215,2025-10-27 16:27:02,Week 8,Sunday
+Jermaine Burton,WR,"NYJ 39 @ CIN 38, Final",,$10,1.6,0.00,216,2025-10-27 16:27:02,Week 8,Sunday
+Erick All Jr.PUP,TE,"NYJ 39 @ CIN 38, Final",,$10,3.2,0.00,217,2025-10-27 16:27:02,Week 8,Sunday
+Cam Grandy,TE,"NYJ 39 @ CIN 38, Final",,$10,1.1,0.00,218,2025-10-27 16:27:02,Week 8,Sunday
+Tahj Brooks,RB,"NYJ 39 @ CIN 38, Final",,$10,0.3,0.00,219,2025-10-27 16:27:02,Week 8,Sunday
+Curtis Samuel,WR,"BUF 40 @ CAR 9, Final",,$10,3.7,0.00,220,2025-10-27 16:27:02,Week 8,Sunday
+Reggie Gilliam,RB,"BUF 40 @ CAR 9, Final",,$10,—,0.00,221,2025-10-27 16:27:02,Week 8,Sunday
+Joshua PalmerO,WR,"BUF 40 @ CAR 9, Final",,$12,5.1,0.00,222,2025-10-27 16:27:02,Week 8,Sunday
+Tyrell Shavers,WR,"BUF 40 @ CAR 9, Final",,$10,1.5,0.00,223,2025-10-27 16:27:02,Week 8,Sunday
+Hunter Renfrow,WR,"BUF 40 @ CAR 9, Final",,$10,4.7,0.00,224,2025-10-27 16:27:02,Week 8,Sunday
+DeeJay Dallas,RB,"BUF 40 @ CAR 9, Final",,$10,—,0.00,225,2025-10-27 16:27:02,Week 8,Sunday
+James Mitchell,TE,"BUF 40 @ CAR 9, Final",,$10,2.2,0.00,226,2025-10-27 16:27:02,Week 8,Sunday
+Bryce YoungO,QB,"BUF 40 @ CAR 9, Final",,$25,13.9,0.00,227,2025-10-27 16:27:02,Week 8,Sunday
+Brycen Tremayne,WR,"BUF 40 @ CAR 9, Final",,$10,2.2,0.00,228,2025-10-27 16:27:03,Week 8,Sunday
+Jonathon BrooksPUP,RB,"BUF 40 @ CAR 9, Final",,$10,2.0,0.00,229,2025-10-27 16:27:03,Week 8,Sunday
+Mitchell Evans,TE,"BUF 40 @ CAR 9, Final",,$10,4.3,0.00,230,2025-10-27 16:27:03,Week 8,Sunday
+Brandon AiyukPUP,WR,"SF 15 @ HOU 26, Final",,$14,7.1,0.00,231,2025-10-27 16:27:03,Week 8,Sunday
+Luke Farrell,TE,"SF 15 @ HOU 26, Final",,$10,1.9,0.00,232,2025-10-27 16:27:03,Week 8,Sunday
+Skyy Moore,WR,"SF 15 @ HOU 26, Final",TGT,$10,0.5,0.00,233,2025-10-27 16:27:03,Week 8,Sunday
+Brian Robinson Jr.,RB,"SF 15 @ HOU 26, Final",,$10,2.3,0.00,234,2025-10-27 16:27:03,Week 8,Sunday
+Brock PurdyO,QB,"SF 15 @ HOU 26, Final",,$33,19.2,0.00,235,2025-10-27 16:27:03,Week 8,Sunday
+Adrian Martinez,QB,"SF 15 @ HOU 26, Final",,$20,—,0.00,236,2025-10-27 16:27:03,Week 8,Sunday
+Ricky PearsallO,WR,"SF 15 @ HOU 26, Final",,$23,10.6,0.00,237,2025-10-27 16:27:03,Week 8,Sunday
+Isaac Guerendo,RB,"SF 15 @ HOU 26, Final",,$10,—,0.00,238,2025-10-27 16:27:03,Week 8,Sunday
+Jordan James,RB,"SF 15 @ HOU 26, Final",,$10,—,0.00,239,2025-10-27 16:27:03,Week 8,Sunday
+Christian KirkO,WR,"SF 15 @ HOU 26, Final",,$16,5.3,0.00,240,2025-10-27 16:27:03,Week 8,Sunday
+Harrison Bryant,TE,"SF 15 @ HOU 26, Final",TGT,$10,0.3,0.00,241,2025-10-27 16:27:03,Week 8,Sunday
+Davis Mills,QB,"SF 15 @ HOU 26, Final",,$20,1.2,0.00,242,2025-10-27 16:27:03,Week 8,Sunday
+Nico CollinsO,WR,"SF 15 @ HOU 26, Final",,$31,10.6,0.00,243,2025-10-27 16:27:03,Week 8,Sunday
+Dameon Pierce,RB,"SF 15 @ HOU 26, Final",,$10,0.9,0.00,244,2025-10-27 16:27:03,Week 8,Sunday
+Tank DellPUP,WR,"SF 15 @ HOU 26, Final",,$11,8.2,0.00,245,2025-10-27 16:27:03,Week 8,Sunday
+British Brooks,RB,"SF 15 @ HOU 26, Final",,$10,0.8,0.00,246,2025-10-27 16:27:03,Week 8,Sunday
+Graham Mertz,QB,"SF 15 @ HOU 26, Final",,$20,—,0.00,247,2025-10-27 16:27:03,Week 8,Sunday
+Malik Turner,WR,"SF 15 @ HOU 26, Final",,$10,—,0.00,248,2025-10-27 16:27:03,Week 8,Sunday
+Cade StoverIR,TE,"SF 15 @ HOU 26, Final",,$10,4.2,0.00,249,2025-10-27 16:27:03,Week 8,Sunday
+Jacob CowingIR,WR,"SF 15 @ HOU 26, Final",,$10,—,0.00,250,2025-10-27 16:27:03,Week 8,Sunday
+Russell Wilson,QB,"NYG 20 @ PHI 38, Final",,$20,10.0,0.00,251,2025-10-27 16:27:03,Week 8,Sunday
+Chris Manhertz,TE,"NYG 20 @ PHI 38, Final",,$10,0.6,0.00,252,2025-10-27 16:27:04,Week 8,Sunday
+Jameis Winston,QB,"NYG 20 @ PHI 38, Final",,$20,13.0,0.00,253,2025-10-27 16:27:04,Week 8,Sunday
+Gunner Olszewski,WR,"NYG 20 @ PHI 38, Final",,$10,—,0.00,254,2025-10-27 16:27:04,Week 8,Sunday
+Jalin Hyatt,WR,"NYG 20 @ PHI 38, Final",,$10,1.1,0.00,255,2025-10-27 16:27:04,Week 8,Sunday
+Eric GrayPUP,RB,"NYG 20 @ PHI 38, Final",,$10,—,0.00,256,2025-10-27 16:27:04,Week 8,Sunday
+Thomas Fidone II,TE,"NYG 20 @ PHI 38, Final",,$10,—,0.00,257,2025-10-27 16:27:04,Week 8,Sunday
+A.J. BrownO,WR,"NYG 20 @ PHI 38, Final",,$26,10.3,0.00,258,2025-10-27 16:27:04,Week 8,Sunday
+A.J. Dillon,RB,"NYG 20 @ PHI 38, Final",,$10,1.4,0.00,259,2025-10-27 16:27:04,Week 8,Sunday
+Kylen Granson,TE,"NYG 20 @ PHI 38, Final",,$10,0.3,0.00,260,2025-10-27 16:27:04,Week 8,Sunday
+John Metchie III,WR,"NYG 20 @ PHI 38, Final",,$10,1.0,0.00,261,2025-10-27 16:27:04,Week 8,Sunday
+Sam Howell,QB,"NYG 20 @ PHI 38, Final",,$20,0.2,0.00,262,2025-10-27 16:27:04,Week 8,Sunday
+Grant Calcaterra,TE,"NYG 20 @ PHI 38, Final",,$10,1.5,0.00,263,2025-10-27 16:27:04,Week 8,Sunday
+Cameron Latu,TE,"NYG 20 @ PHI 38, Final",,$10,—,0.00,264,2025-10-27 16:27:04,Week 8,Sunday
+New York Giants,DEF,"NYG 20 @ PHI 38, Final","38 PTS ALLOWED,4 SACK",$10,2.9,0.00,265,2025-10-27 16:27:04,Week 8,Sunday
+E.J. Jenkins,TE,"NYG 20 @ PHI 38, Final",,$10,3.6,0.00,266,2025-10-27 16:27:04,Week 8,Sunday
+Lil'Jordan Humphrey,WR,"NYG 20 @ PHI 38, Final",,$10,3.8,0.00,267,2025-10-27 16:27:04,Week 8,Sunday
+Deshaun WatsonPUP,QB,"CLE 13 @ NE 32, Final",,$20,11.4,0.00,268,2025-10-27 16:27:04,Week 8,Sunday
+Jerry Jeudy,WR,"CLE 13 @ NE 32, Final",2 TGT,$16,4.6,0.00,269,2025-10-27 16:27:04,Week 8,Sunday
+Blake Whiteheart,TE,"CLE 13 @ NE 32, Final",,$10,0.4,0.00,270,2025-10-27 16:27:04,Week 8,Sunday
+Shedeur SandersO,QB,"CLE 13 @ NE 32, Final",,$20,—,0.00,271,2025-10-27 16:27:04,Week 8,Sunday
+Raheim Sanders,RB,"CLE 13 @ NE 32, Final",,$10,6.3,0.00,272,2025-10-27 16:27:04,Week 8,Sunday
+Isaiah Bond,WR,"CLE 13 @ NE 32, Final",4 TGT,$10,2.7,0.00,273,2025-10-27 16:27:04,Week 8,Sunday
+Joshua Dobbs,QB,"CLE 13 @ NE 32, Final",,$20,0.0,0.00,274,2025-10-27 16:27:04,Week 8,Sunday
+Tommy DeVito,QB,"CLE 13 @ NE 32, Final",,$20,6.7,0.00,275,2025-10-27 16:27:05,Week 8,Sunday
+Jack Westover,RB,"CLE 13 @ NE 32, Final",,$10,—,0.00,276,2025-10-27 16:27:05,Week 8,Sunday
+Kyle Williams,WR,"CLE 13 @ NE 32, Final",,$10,0.6,0.00,277,2025-10-27 16:27:05,Week 8,Sunday
+Efton Chism III,WR,"CLE 13 @ NE 32, Final",,$10,—,0.00,278,2025-10-27 16:27:05,Week 8,Sunday
+Brenden Bates,TE,"CLE 13 @ NE 32, Final",,$10,3.3,0.00,279,2025-10-27 16:27:05,Week 8,Sunday
+Case Keenum,QB,"CHI 16 @ BAL 30, Final",,$20,—,0.00,280,2025-10-27 16:27:05,Week 8,Sunday
+Durham Smythe,TE,"CHI 16 @ BAL 30, Final",,$10,0.8,0.00,281,2025-10-27 16:27:05,Week 8,Sunday
+Cole KmetO,TE,"CHI 16 @ BAL 30, Final",,$10,3.9,0.00,282,2025-10-27 16:27:05,Week 8,Sunday
+Roschon JohnsonO,RB,"CHI 16 @ BAL 30, Final",,$10,0.3,0.00,283,2025-10-27 16:27:05,Week 8,Sunday
+Tyson Bagent,QB,"CHI 16 @ BAL 30, Final",,$20,1.8,0.00,284,2025-10-27 16:27:05,Week 8,Sunday
+Jahdae Walker,WR,"CHI 16 @ BAL 30, Final",,$10,—,0.00,285,2025-10-27 16:27:05,Week 8,Sunday
+Patrick Ricard,RB,"CHI 16 @ BAL 30, Final",,$10,—,0.00,286,2025-10-27 16:27:05,Week 8,Sunday
+Cooper Rush,QB,"CHI 16 @ BAL 30, Final",,$20,1.4,0.00,287,2025-10-27 16:27:05,Week 8,Sunday
+Lamar JacksonO,QB,"CHI 16 @ BAL 30, Final",,$42,23.6,0.00,288,2025-10-27 16:27:05,Week 8,Sunday
+Zaire Mitchell-Paden,TE,"CHI 16 @ BAL 30, Final",,$10,0.4,0.00,289,2025-10-27 16:27:05,Week 8,Sunday
+Devontez Walker,WR,"CHI 16 @ BAL 30, Final",,$10,6.5,0.00,290,2025-10-27 16:27:05,Week 8,Sunday
+Rasheen Ali,RB,"CHI 16 @ BAL 30, Final",,$10,0.1,0.00,291,2025-10-27 16:27:05,Week 8,Sunday
+LaJohntay Wester,WR,"CHI 16 @ BAL 30, Final",,$10,—,0.00,292,2025-10-27 16:27:05,Week 8,Sunday
+Travis Homer,RB,"CHI 16 @ BAL 30, Final",,$10,—,0.00,293,2025-10-27 16:27:05,Week 8,Sunday
+Darren WallerIR,TE,"MIA 34 @ ATL 10, Final",,$21,13.6,0.00,294,2025-10-27 16:27:05,Week 8,Sunday
+Zach Wilson,QB,"MIA 34 @ ATL 10, Final",,$20,0.8,0.00,295,2025-10-27 16:27:05,Week 8,Sunday
+Dee EskridgeQ,WR,"MIA 34 @ ATL 10, Final",,$10,0.9,0.00,296,2025-10-27 16:27:05,Week 8,Sunday
+Julian HillO,TE,"MIA 34 @ ATL 10, Final",,$10,2.1,0.00,297,2025-10-27 16:27:05,Week 8,Sunday
+Tahj Washington,WR,"MIA 34 @ ATL 10, Final",,$10,—,0.00,298,2025-10-27 16:27:05,Week 8,Sunday
+Quinn Ewers,QB,"MIA 34 @ ATL 10, Final",,$20,2.1,0.00,299,2025-10-27 16:27:05,Week 8,Sunday
+Jamal Agnew,WR,"MIA 34 @ ATL 10, Final",,$10,—,0.00,300,2025-10-27 16:27:06,Week 8,Sunday
+Ray-Ray McCloud III,WR,"MIA 34 @ ATL 10, Final",,$10,2.3,0.00,301,2025-10-27 16:27:06,Week 8,Sunday
+Charlie Woerner,TE,"MIA 34 @ ATL 10, Final",,$10,—,0.00,302,2025-10-27 16:27:06,Week 8,Sunday
+Feleipe Franks,TE,"MIA 34 @ ATL 10, Final",,$10,0.1,0.00,303,2025-10-27 16:27:06,Week 8,Sunday
+Drake LondonO,WR,"MIA 34 @ ATL 10, Final",,$36,12.7,0.00,304,2025-10-27 16:27:06,Week 8,Sunday
+Teagan Quitoriano,TE,"MIA 34 @ ATL 10, Final",,$10,—,0.00,305,2025-10-27 16:27:06,Week 8,Sunday
+Michael Penix Jr.O,QB,"MIA 34 @ ATL 10, Final",,$29,13.6,0.00,306,2025-10-27 16:27:06,Week 8,Sunday
+Atlanta Falcons,DEF,"MIA 34 @ ATL 10, Final","34 PTS ALLOWED,SACK",$15,6.0,0.00,307,2025-10-27 16:27:06,Week 8,Sunday
+Mike EvansIR,WR,"TB 23 @ NO 3, Final",,$30,6.8,0.00,308,2025-10-27 16:27:06,Week 8,Sunday
+Teddy Bridgewater,QB,"TB 23 @ NO 3, Final",,$20,-0.1,0.00,309,2025-10-27 16:27:06,Week 8,Sunday
+Chris Godwin Jr.O,WR,"TB 23 @ NO 3, Final",,$22,4.1,0.00,310,2025-10-27 16:27:06,Week 8,Sunday
+Payne Durham,TE,"TB 23 @ NO 3, Final",,$10,—,0.00,311,2025-10-27 16:27:06,Week 8,Sunday
+Ryan Miller,WR,"TB 23 @ NO 3, Final",,$10,2.1,0.00,312,2025-10-27 16:27:06,Week 8,Sunday
+Bucky IrvingO,RB,"TB 23 @ NO 3, Final",,$26,15.6,0.00,313,2025-10-27 16:27:06,Week 8,Sunday
+Devin Culp,TE,"TB 23 @ NO 3, Final",,$10,5.7,0.00,314,2025-10-27 16:27:06,Week 8,Sunday
+Kameron Johnson,WR,"TB 23 @ NO 3, Final",,$10,1.8,0.00,315,2025-10-27 16:27:06,Week 8,Sunday
+Foster Moreau,TE,"TB 23 @ NO 3, Final",TGT,$10,0.7,0.00,316,2025-10-27 16:27:06,Week 8,Sunday
+Jack Stoll,TE,"TB 23 @ NO 3, Final",TGT,$10,2.1,0.00,317,2025-10-27 16:27:06,Week 8,Sunday
+Kendre MillerIR,RB,"TB 23 @ NO 3, Final",,$12,4.4,0.00,318,2025-10-27 16:27:06,Week 8,Sunday
+Mason Tipton,WR,"TB 23 @ NO 3, Final",TGT,$10,—,0.00,319,2025-10-27 16:27:06,Week 8,Sunday
+Jake Ferguson,TE,"DAL 24 @ DEN 44, Final",TGT,$22,11.9,0.00,320,2025-10-27 16:27:06,Week 8,Sunday
+Trent Sherfield Sr.,WR,"DAL 24 @ DEN 44, Final",,$10,1.2,0.00,321,2025-10-27 16:27:06,Week 8,Sunday
+Adam Trautman,TE,"DAL 24 @ DEN 44, Final",,$10,3.8,0.00,322,2025-10-27 16:27:06,Week 8,Sunday
+Adam Prentice,RB,"DAL 24 @ DEN 44, Final",,$10,0.5,0.00,323,2025-10-27 16:27:06,Week 8,Sunday
+Jaleel McLaughlin,RB,"DAL 24 @ DEN 44, Final",,$10,—,0.00,324,2025-10-27 16:27:06,Week 8,Sunday
+Nate AdkinsQ,TE,"DAL 24 @ DEN 44, Final",TGT,$10,2.3,0.00,325,2025-10-27 16:27:06,Week 8,Sunday
+Jonathan Mingo,WR,"DAL 24 @ DEN 44, Final",,$10,1.7,0.00,326,2025-10-27 16:27:07,Week 8,Sunday
+Tyler Lockett,WR,"TEN 14 @ IND 38, Final",,$10,1.7,0.00,327,2025-10-27 16:27:07,Week 8,Sunday
+Brandon Allen,QB,"TEN 14 @ IND 38, Final",,$20,2.8,0.00,328,2025-10-27 16:27:07,Week 8,Sunday
+Calvin RidleyO,WR,"TEN 14 @ IND 38, Final",,$21,6.2,0.00,329,2025-10-27 16:27:07,Week 8,Sunday
+Bryce OliverO,WR,"TEN 14 @ IND 38, Final",,$10,0.7,0.00,330,2025-10-27 16:27:07,Week 8,Sunday
+David Martin-Robinson,TE,"TEN 14 @ IND 38, Final",,$10,2.2,0.00,331,2025-10-27 16:27:07,Week 8,Sunday
+Mo Alie-Cox,TE,"TEN 14 @ IND 38, Final",,$10,1.8,0.00,332,2025-10-27 16:27:07,Week 8,Sunday
+Drew Ogletree,TE,"TEN 14 @ IND 38, Final",TGT,$10,—,0.00,333,2025-10-27 16:27:07,Week 8,Sunday
+Will Mallory,TE,"TEN 14 @ IND 38, Final",,$10,0.7,0.00,334,2025-10-27 16:27:07,Week 8,Sunday
+Adonai Mitchell,WR,"TEN 14 @ IND 38, Final",TGT,$10,2.4,0.00,335,2025-10-27 16:27:07,Week 8,Sunday
+Anthony GouldQ,WR,"TEN 14 @ IND 38, Final",,$10,0.1,0.00,336,2025-10-27 16:27:07,Week 8,Sunday
+DJ Giddens,RB,"TEN 14 @ IND 38, Final",,$10,1.7,0.00,337,2025-10-27 16:27:07,Week 8,Sunday
+Laquon Treadwell,WR,"TEN 14 @ IND 38, Final",,$10,—,0.00,338,2025-10-27 16:27:07,Week 8,Sunday
+Mason Kinsey,WR,"TEN 14 @ IND 38, Final",,$10,—,0.00,339,2025-10-27 16:27:07,Week 8,Sunday
+Kalel MullingsIR,RB,"TEN 14 @ IND 38, Final",,$10,—,0.00,340,2025-10-27 16:27:07,Week 8,Sunday
+Jarrett Stidham,QB,"DAL 24 @ DEN 44, Final","RUSH ATT,-1 RUSH YD",$20,-0.1,-0.10,341,2025-10-27 16:27:07,Week 8,Sunday
+Tanner McKee,QB,"NYG 20 @ PHI 38, Final","3 RUSH ATT,-2 RUSH YD",$20,-0.2,-0.20,342,2025-10-27 16:27:07,Week 8,Sunday
+Ashton Dulin,WR,"TEN 14 @ IND 38, Final","TGT,REC,-8 REC YD",$10,1.4,-0.30,343,2025-10-27 16:27:07,Week 8,Sunday
+Tennessee Titans,DEF,"TEN 14 @ IND 38, Final","38 PTS ALLOWED,3 SACK",$11,4.4,-1.00,344,2025-10-27 16:27:07,Week 8,Sunday
+Carolina Panthers,DEF,"BUF 40 @ CAR 9, Final","40 PTS ALLOWED,2 SACK",$12,5.3,-2.00,345,2025-10-27 16:27:07,Week 8,Sunday
+Dallas Cowboys,DEF,"DAL 24 @ DEN 44, Final","44 PTS ALLOWED,INT",$11,3.3,-2.00,346,2025-10-27 16:27:07,Week 8,Sunday
+New York Jets,DEF,"NYJ 39 @ CIN 38, Final","38 PTS ALLOWED,SACK",$10,2.6,-3.00,347,2025-10-27 16:27:07,Week 8,Sunday
+Cincinnati Bengals,DEF,"NYJ 39 @ CIN 38, Final",39 PTS ALLOWED,$10,2.0,-4.00,348,2025-10-27 16:27:07,Week 8,Sunday
+James Cook III,RB,"BUF 40 @ CAR 9, Final","19 RUSH ATT,216 RUSH YD,2 RUSH TD",$34,18.9,33.60,1,2025-10-27 16:27:24,Week 8,Sunday
+Breece Hall,RB,"NYJ 39 @ CIN 38, Final","4 PASS YD,PASS TD,18 RUSH ATT,133 RUSH YD,2 RUSH TD,3 TGT,2 REC,14 REC YD",$27,12.6,31.86,2,2025-10-27 16:27:24,Week 8,Sunday
+Saquon BarkleyQ,RB,"NYG 20 @ PHI 38, Final","14 RUSH ATT,150 RUSH YD,RUSH TD,5 TGT,4 REC,24 REC YD,REC TD",$33,14.5,31.40,3,2025-10-27 16:27:24,Week 8,Sunday
+Drake Maye,QB,"CLE 13 @ NE 32, Final","282 PASS YD,3 PASS TD,INT,7 RUSH ATT,50 RUSH YD",$37,22.0,27.28,4,2025-10-27 16:27:24,Week 8,Sunday
+Jalen Hurts,QB,"NYG 20 @ PHI 38, Final","179 PASS YD,4 PASS TD,4 RUSH ATT,22 RUSH YD",$41,21.8,25.36,5,2025-10-27 16:27:24,Week 8,Sunday
+Joe Flacco,QB,"NYJ 39 @ CIN 38, Final","223 PASS YD,2 PASS TD,2 RUSH ATT,14 RUSH YD,RUSH TD",$28,14.4,24.32,6,2025-10-27 16:27:24,Week 8,Sunday
+Tua Tagovailoa,QB,"MIA 34 @ ATL 10, Final","205 PASS YD,4 PASS TD",$24,14.3,24.20,7,2025-10-27 16:27:24,Week 8,Sunday
+Chase Brown,RB,"NYJ 39 @ CIN 38, Final","12 RUSH ATT,73 RUSH YD,RUSH TD,3 TGT,3 REC,32 REC YD,REC TD",$25,10.4,24.00,8,2025-10-27 16:27:24,Week 8,Sunday
+Josh Allen,QB,"BUF 40 @ CAR 9, Final","163 PASS YD,PASS TD,3 RUSH ATT,7 RUSH YD,2 RUSH TD",$43,22.9,23.22,9,2025-10-27 16:27:24,Week 8,Sunday
+C.J. Stroud,QB,"SF 15 @ HOU 26, Final","318 PASS YD,2 PASS TD,INT,7 RUSH ATT,30 RUSH YD",$29,17.4,22.72,10,2025-10-27 16:27:24,Week 8,Sunday
+Justin Fields,QB,"NYJ 39 @ CIN 38, Final","244 PASS YD,PASS TD,11 RUSH ATT,31 RUSH YD,2 2PT",$27,16.6,20.86,11,2025-10-27 16:27:24,Week 8,Sunday
+Jaxson Dart,QB,"NYG 20 @ PHI 38, Final","193 PASS YD,PASS TD,6 RUSH ATT,17 RUSH YD,RUSH TD",$30,15.7,19.42,12,2025-10-27 16:27:24,Week 8,Sunday
+Derrick Henry,RB,"CHI 16 @ BAL 30, Final","21 RUSH ATT,71 RUSH YD,2 RUSH TD,TGT",$30,12.8,19.10,13,2025-10-27 16:27:24,Week 8,Sunday
+Mac Jones,QB,"SF 15 @ HOU 26, Final","193 PASS YD,2 PASS TD,INT,2 RUSH ATT,23 RUSH YD,2PT",$22,16.1,19.02,14,2025-10-27 16:27:24,Week 8,Sunday
+Jaylen Waddle,WR,"MIA 34 @ ATL 10, Final","6 TGT,5 REC,99 REC YD,REC TD",$25,11.5,18.40,15,2025-10-27 16:27:24,Week 8,Sunday
+Khalil Shakir,WR,"BUF 40 @ CAR 9, Final","7 TGT,6 REC,88 REC YD,REC TD",$21,9.9,17.80,16,2025-10-27 16:27:24,Week 8,Sunday
+De'Von Achane,RB,"MIA 34 @ ATL 10, Final","18 RUSH ATT,67 RUSH YD,7 TGT,5 REC,24 REC YD,REC TD",$37,17.2,17.60,17,2025-10-27 16:27:24,Week 8,Sunday
+Buffalo Bills,DEF,"BUF 40 @ CAR 9, Final","9 PTS ALLOWED,7 SACK,INT,2 FUM REC",$11,6.4,17.00,18,2025-10-27 16:27:25,Week 8,Sunday
+Samaje Perine,RB,"NYJ 39 @ CIN 38, Final","9 RUSH ATT,94 RUSH YD,RUSH TD,TGT,REC,6 REC YD",$10,3.7,16.50,19,2025-10-27 16:27:25,Week 8,Sunday
+Dallas Goedert,TE,"NYG 20 @ PHI 38, Final","3 TGT,3 REC,28 REC YD,2 REC TD",$20,12.3,16.30,20,2025-10-27 16:27:25,Week 8,Sunday
+Isaiah Davis,RB,"NYJ 39 @ CIN 38, Final","7 RUSH ATT,65 RUSH YD,5 TGT,5 REC,44 REC YD,2PT",$10,4.0,15.40,21,2025-10-27 16:27:25,Week 8,Sunday
+Xavier Hutchinson,WR,"SF 15 @ HOU 26, Final","6 TGT,5 REC,69 REC YD,REC TD",$10,6.7,15.40,22,2025-10-27 16:27:25,Week 8,Sunday
+Harold Fannin Jr.,TE,"CLE 13 @ NE 32, Final","RUSH ATT,2 RUSH YD,8 TGT,6 REC,62 REC YD,REC TD",$14,8.4,15.40,23,2025-10-27 16:27:25,Week 8,Sunday
+Ja'Marr Chase,WR,"NYJ 39 @ CIN 38, Final","19 TGT,12 REC,91 REC YD",$40,17.0,15.10,24,2025-10-27 16:27:25,Week 8,Sunday
+Kayshon Boutte,WR,"CLE 13 @ NE 32, Final","5 TGT,3 REC,75 REC YD,REC TD",$20,10.6,15.00,25,2025-10-27 16:27:25,Week 8,Sunday
+Rome Odunze,WR,"CHI 16 @ BAL 30, Final","10 TGT,7 REC,114 REC YD",$25,13.3,14.90,26,2025-10-27 16:27:25,Week 8,Sunday
+D'Andre Swift,RB,"CHI 16 @ BAL 30, Final","11 RUSH ATT,45 RUSH YD,RUSH TD,2 TGT,2 REC,26 REC YD",$29,14.7,14.10,27,2025-10-27 16:27:25,Week 8,Sunday
+Tyler Johnson,WR,"NYJ 39 @ CIN 38, Final","5 TGT,3 REC,64 REC YD,REC TD",$10,4.9,13.90,28,2025-10-27 16:27:25,Week 8,Sunday
+Dillon Gabriel,QB,"CLE 13 @ NE 32, Final","156 PASS YD,2 PASS TD,2 INT,RUSH ATT,13 RUSH YD",$20,8.2,13.54,29,2025-10-27 16:27:25,Week 8,Sunday
+Tetairoa McMillan,WR,"BUF 40 @ CAR 9, Final","10 TGT,7 REC,99 REC YD",$26,10.2,13.40,30,2025-10-27 16:27:25,Week 8,Sunday
+Woody Marks,RB,"SF 15 @ HOU 26, Final","11 RUSH ATT,62 RUSH YD,4 TGT,4 REC,49 REC YD",$18,8.9,13.10,31,2025-10-27 16:27:25,Week 8,Sunday
+Ollie Gordon II,RB,"MIA 34 @ ATL 10, Final","10 RUSH ATT,46 RUSH YD,TGT,REC,20 REC YD,REC TD",$10,3.6,13.10,32,2025-10-27 16:27:25,Week 8,Sunday
+Caleb Williams,QB,"CHI 16 @ BAL 30, Final","285 PASS YD,INT,3 RUSH ATT,24 RUSH YD",$34,17.5,12.80,33,2025-10-27 16:27:25,Week 8,Sunday
+Mack Hollins,WR,"CLE 13 @ NE 32, Final","7 TGT,7 REC,89 REC YD",$10,6.0,12.40,34,2025-10-27 16:27:25,Week 8,Sunday
+George Kittle,TE,"SF 15 @ HOU 26, Final","5 TGT,4 REC,43 REC YD,REC TD",$20,7.6,12.30,35,2025-10-27 16:27:25,Week 8,Sunday
+Mason Taylor,TE,"NYJ 39 @ CIN 38, Final","8 TGT,5 REC,34 REC YD,REC TD",$13,5.8,11.90,36,2025-10-27 16:27:25,Week 8,Sunday
+David Njoku,TE,"CLE 13 @ NE 32, Final","5 TGT,4 REC,37 REC YD,REC TD",$15,7.4,11.70,37,2025-10-27 16:27:25,Week 8,Sunday
+Malik Washington,WR,"MIA 34 @ ATL 10, Final","5 TGT,4 REC,36 REC YD,REC TD",$11,5.5,11.60,38,2025-10-27 16:27:25,Week 8,Sunday
+Jayden Higgins,WR,"SF 15 @ HOU 26, Final","8 TGT,4 REC,34 REC YD,REC TD",$11,4.9,11.40,39,2025-10-27 16:27:25,Week 8,Sunday
+DeVonta Smith,WR,"NYG 20 @ PHI 38, Final","9 TGT,6 REC,84 REC YD",$28,11.6,11.40,40,2025-10-27 16:27:26,Week 8,Sunday
+New England Patriots,DEF,"CLE 13 @ NE 32, Final","13 PTS ALLOWED,SACK,SAFETY,2 INT",$18,9.5,11.00,41,2025-10-27 16:27:26,Week 8,Sunday
+Tee Higgins,WR,"NYJ 39 @ CIN 38, Final","2 TGT,REC,44 REC YD,REC TD",$26,9.1,10.90,42,2025-10-27 16:27:26,Week 8,Sunday
+Zay Flowers,WR,"CHI 16 @ BAL 30, Final","RUSH ATT,8 RUSH YD,9 TGT,7 REC,63 REC YD",$24,10.7,10.60,43,2025-10-27 16:27:26,Week 8,Sunday
+Jahan Dotson,WR,"NYG 20 @ PHI 38, Final","2 TGT,REC,40 REC YD,REC TD",$10,3.6,10.50,44,2025-10-27 16:27:26,Week 8,Sunday
+Tank Bigsby,RB,"NYG 20 @ PHI 38, Final","9 RUSH ATT,104 RUSH YD",$10,1.9,10.40,45,2025-10-27 16:27:26,Week 8,Sunday
+Kyle Pitts Sr.,TE,"MIA 34 @ ATL 10, Final","9 TGT,9 REC,59 REC YD",$16,8.6,10.40,46,2025-10-27 16:27:26,Week 8,Sunday
+DJ Moore,WR,"CHI 16 @ BAL 30, Final","2 RUSH ATT,3 RUSH YD,7 TGT,4 REC,73 REC YD",$21,7.7,9.60,47,2025-10-27 16:27:26,Week 8,Sunday
+Cam SkatteboO,RB,"NYG 20 @ PHI 38, Final","3 RUSH ATT,12 RUSH YD,2 TGT,REC,18 REC YD,REC TD",$31,14.5,9.50,48,2025-10-27 16:27:26,Week 8,Sunday
+Chuba Hubbard,RB,"BUF 40 @ CAR 9, Final","12 RUSH ATT,34 RUSH YD,RUSH TD,TGT",$23,10.9,9.40,49,2025-10-27 16:27:26,Week 8,Sunday
+Cleveland Browns,DEF,"CLE 13 @ NE 32, Final","30 PTS ALLOWED,6 SACK,INT,FUM REC",$14,7.3,9.00,50,2025-10-27 16:27:26,Week 8,Sunday
+Stefon Diggs,WR,"CLE 13 @ NE 32, Final","5 TGT,3 REC,14 REC YD,REC TD",$27,9.3,8.90,51,2025-10-27 16:27:26,Week 8,Sunday
+Jaylin Noel,WR,"SF 15 @ HOU 26, Final","6 TGT,5 REC,63 REC YD",$10,4.3,8.80,52,2025-10-27 16:27:26,Week 8,Sunday
+Tyler Allgeier,RB,"MIA 34 @ ATL 10, Final","4 RUSH ATT,4 RUSH YD,RUSH TD,2 TGT,2 REC,10 REC YD",$14,7.0,8.40,53,2025-10-27 16:27:26,Week 8,Sunday
+Christian McCaffrey,RB,"SF 15 @ HOU 26, Final","8 RUSH ATT,25 RUSH YD,6 TGT,3 REC,43 REC YD",$44,21.1,8.30,54,2025-10-27 16:27:26,Week 8,Sunday
+Nick Chubb,RB,"SF 15 @ HOU 26, Final","17 RUSH ATT,56 RUSH YD,2 TGT,2 REC,13 REC YD",$19,7.8,7.90,55,2025-10-27 16:27:26,Week 8,Sunday
+Charlie Kolar,TE,"CHI 16 @ BAL 30, Final","TGT,REC,10 REC YD,REC TD",$10,2.4,7.50,56,2025-10-27 16:27:26,Week 8,Sunday
+Hunter Henry,TE,"CLE 13 @ NE 32, Final","TGT,REC,7 REC YD,REC TD",$15,8.5,7.20,57,2025-10-27 16:27:26,Week 8,Sunday
+Kirk Cousins,QB,"MIA 34 @ ATL 10, Final","173 PASS YD,2 RUSH ATT,2 RUSH YD",$20,4.1,7.12,58,2025-10-27 16:27:26,Week 8,Sunday
+Isaiah Williams,WR,"NYJ 39 @ CIN 38, Final","RUSH ATT,25 RUSH YD,4 TGT,3 REC,31 REC YD",$10,1.4,7.10,59,2025-10-27 16:27:26,Week 8,Sunday
+Miami Dolphins,DEF,"MIA 34 @ ATL 10, Final","10 PTS ALLOWED,SACK,FUM REC",$10,4.4,7.00,60,2025-10-27 16:27:26,Week 8,Sunday
+Olamide Zaccheaus,WR,"CHI 16 @ BAL 30, Final","7 TGT,7 REC,33 REC YD",$10,4.8,6.80,61,2025-10-27 16:27:27,Week 8,Sunday
+Jake Tonges,TE,"SF 15 @ HOU 26, Final","TGT,REC,2 REC YD,REC TD",$10,8.5,6.70,62,2025-10-27 16:27:27,Week 8,Sunday
+Jauan Jennings,WR,"SF 15 @ HOU 26, Final","7 TGT,4 REC,45 REC YD",$20,6.4,6.50,63,2025-10-27 16:27:27,Week 8,Sunday
+Braxton Berrios,WR,"SF 15 @ HOU 26, Final","5 TGT,5 REC,38 REC YD",$10,3.4,6.30,64,2025-10-27 16:27:27,Week 8,Sunday
+Wan'Dale Robinson,WR,"NYG 20 @ PHI 38, Final","4 TGT,3 REC,48 REC YD",$22,10.1,6.30,65,2025-10-27 16:27:27,Week 8,Sunday
+Tyrone Tracy Jr.,RB,"NYG 20 @ PHI 38, Final","10 RUSH ATT,39 RUSH YD,3 TGT,2 REC,14 REC YD",$14,5.6,6.30,66,2025-10-27 16:27:27,Week 8,Sunday
+Rashod Bateman,WR,"CHI 16 @ BAL 30, Final","4 TGT,2 REC,51 REC YD",$15,4.2,6.10,67,2025-10-27 16:27:27,Week 8,Sunday
+Philadelphia Eagles,DEF,"NYG 20 @ PHI 38, Final","20 PTS ALLOWED,5 SACK",$14,7.0,6.00,68,2025-10-27 16:27:27,Week 8,Sunday
+Kendrick Bourne,WR,"SF 15 @ HOU 26, Final","4 TGT,3 REC,44 REC YD",$15,8.1,5.90,69,2025-10-27 16:27:27,Week 8,Sunday
+Noah Fant,TE,"NYJ 39 @ CIN 38, Final","3 TGT,3 REC,41 REC YD",$11,6.8,5.60,70,2025-10-27 16:27:27,Week 8,Sunday
+TreVeyon Henderson,RB,"CLE 13 @ NE 32, Final","10 RUSH ATT,75 RUSH YD,FUM LOST",$16,5.6,5.50,71,2025-10-27 16:27:27,Week 8,Sunday
+Rico Dowdle,RB,"BUF 40 @ CAR 9, Final","8 RUSH ATT,54 RUSH YD",$28,12.1,5.40,72,2025-10-27 16:27:27,Week 8,Sunday
+Dylan Sampson,RB,"CLE 13 @ NE 32, Final","3 RUSH ATT,6 TGT,5 REC,29 REC YD",$10,4.3,5.40,73,2025-10-27 16:27:27,Week 8,Sunday
+Rhamondre Stevenson,RB,"CLE 13 @ NE 32, Final","14 RUSH ATT,34 RUSH YD,2 TGT,REC,15 REC YD",$20,8.4,5.40,74,2025-10-27 16:27:27,Week 8,Sunday
+Colston Loveland,TE,"CHI 16 @ BAL 30, Final","5 TGT,3 REC,38 REC YD",$10,2.8,5.30,75,2025-10-27 16:27:27,Week 8,Sunday
+DeMario Douglas,WR,"CLE 13 @ NE 32, Final","2 RUSH ATT,3 RUSH YD,TGT,REC,44 REC YD",$11,5.1,5.20,76,2025-10-27 16:27:27,Week 8,Sunday
+Jalen Coker,WR,"BUF 40 @ CAR 9, Final","4 TGT,3 REC,36 REC YD",$10,2.6,5.10,77,2025-10-27 16:27:27,Week 8,Sunday
+Houston Texans,DEF,"SF 15 @ HOU 26, Final","15 PTS ALLOWED,2 SACK,INT",$15,9.4,5.00,78,2025-10-27 16:27:27,Week 8,Sunday
+Mark Andrews,TE,"CHI 16 @ BAL 30, Final","3 TGT,3 REC,34 REC YD",$16,6.5,4.90,79,2025-10-27 16:27:27,Week 8,Sunday
+Austin Hooper,TE,"CLE 13 @ NE 32, Final","2 TGT,2 REC,38 REC YD",$10,3.9,4.80,80,2025-10-27 16:27:27,Week 8,Sunday
+KhaDarel Hodge,WR,"MIA 34 @ ATL 10, Final","8 TGT,3 REC,31 REC YD",$10,1.2,4.60,81,2025-10-27 16:27:27,Week 8,Sunday
+Keon Coleman,WR,"BUF 40 @ CAR 9, Final","4 TGT,3 REC,30 REC YD",$17,7.2,4.50,82,2025-10-27 16:27:27,Week 8,Sunday
+Keaton Mitchell,RB,"CHI 16 @ BAL 30, Final","4 RUSH ATT,43 RUSH YD",$10,2.0,4.30,83,2025-10-27 16:27:27,Week 8,Sunday
+Bijan Robinson,RB,"MIA 34 @ ATL 10, Final","9 RUSH ATT,25 RUSH YD,3 TGT,3 REC,23 REC YD,FUM LOST",$44,19.2,4.30,84,2025-10-27 16:27:28,Week 8,Sunday
+Jamari Thrash,WR,"CLE 13 @ NE 32, Final","3 TGT,2 REC,31 REC YD",$10,2.2,4.10,85,2025-10-27 16:27:28,Week 8,Sunday
+Baltimore Ravens,DEF,"CHI 16 @ BAL 30, Final","16 PTS ALLOWED,SACK,INT",$10,1.7,4.00,86,2025-10-27 16:27:28,Week 8,Sunday
+Darius Slayton,WR,"NYG 20 @ PHI 38, Final","5 TGT,2 REC,26 REC YD",$15,4.0,3.60,87,2025-10-27 16:27:28,Week 8,Sunday
+Demarcus Robinson,WR,"SF 15 @ HOU 26, Final","3 TGT,2 REC,5 REC YD,2PT",$10,3.4,3.50,88,2025-10-27 16:27:28,Week 8,Sunday
+Theo Johnson,TE,"NYG 20 @ PHI 38, Final","4 TGT,3 REC,20 REC YD",$16,7.1,3.50,89,2025-10-27 16:27:28,Week 8,Sunday
+Ja'Tavion Sanders,TE,"BUF 40 @ CAR 9, Final","3 TGT,3 REC,19 REC YD",$10,3.6,3.40,90,2025-10-27 16:27:28,Week 8,Sunday
+Dalton Schultz,TE,"SF 15 @ HOU 26, Final","3 TGT,2 REC,24 REC YD",$13,6.7,3.40,91,2025-10-27 16:27:28,Week 8,Sunday
+Devin Singletary,RB,"NYG 20 @ PHI 38, Final","2 RUSH ATT,TGT,REC,28 REC YD",$10,1.6,3.30,92,2025-10-27 16:27:28,Week 8,Sunday
+Jaylen Wright,RB,"MIA 34 @ ATL 10, Final","9 RUSH ATT,28 RUSH YD,TGT,REC",$10,3.3,3.30,93,2025-10-27 16:27:28,Week 8,Sunday
+Quinshon JudkinsQ,RB,"CLE 13 @ NE 32, Final","9 RUSH ATT,19 RUSH YD,3 TGT,3 REC,-2 REC YD",$30,12.9,3.20,94,2025-10-27 16:27:28,Week 8,Sunday
+Malachi Corley,WR,"CLE 13 @ NE 32, Final","RUSH ATT,31 RUSH YD",$10,2.3,3.10,95,2025-10-27 16:27:28,Week 8,Sunday
+Casey Washington,WR,"MIA 34 @ ATL 10, Final","TGT,REC,25 REC YD",$10,2.5,3.00,96,2025-10-27 16:27:28,Week 8,Sunday
+Jeremy Ruckert,TE,"NYJ 39 @ CIN 38, Final","TGT,REC,24 REC YD",$10,2.9,2.90,97,2025-10-27 16:27:28,Week 8,Sunday
+Arian Smith,WR,"NYJ 39 @ CIN 38, Final","TGT,REC,23 REC YD",$10,1.0,2.80,98,2025-10-27 16:27:28,Week 8,Sunday
+Dalton Kincaid,TE,"BUF 40 @ CAR 9, Final","3 TGT,REC,23 REC YD",$17,9.9,2.80,99,2025-10-27 16:27:28,Week 8,Sunday
+Xavier Legette,WR,"BUF 40 @ CAR 9, Final","3 TGT,2 REC,17 REC YD",$14,6.2,2.70,100,2025-10-27 16:27:28,Week 8,Sunday
+Daniel BellingerQ,TE,"NYG 20 @ PHI 38, Final","TGT,REC,21 REC YD",$10,5.2,2.60,101,2025-10-27 16:27:28,Week 8,Sunday
+Jackson Hawes,TE,"BUF 40 @ CAR 9, Final","3 TGT,2 REC,15 REC YD",$10,3.2,2.50,102,2025-10-27 16:27:28,Week 8,Sunday
+Kyle Monangai,RB,"CHI 16 @ BAL 30, Final","7 RUSH ATT,24 RUSH YD",$11,4.8,2.40,103,2025-10-27 16:27:28,Week 8,Sunday
+David Sills V,WR,"MIA 34 @ ATL 10, Final","3 TGT,2 REC,14 REC YD",$10,1.9,2.40,104,2025-10-27 16:27:28,Week 8,Sunday
+Beaux Collins,WR,"NYG 20 @ PHI 38, Final","2 TGT,REC,18 REC YD",$10,0.9,2.30,105,2025-10-27 16:27:28,Week 8,Sunday
+Nick Westbrook-Ikhine,WR,"MIA 34 @ ATL 10, Final","3 TGT,REC,18 REC YD",$10,1.4,2.30,106,2025-10-27 16:27:29,Week 8,Sunday
+Dare Ogunbowale,RB,"SF 15 @ HOU 26, Final","RUSH ATT,9 RUSH YD,TGT,REC,8 REC YD",$10,0.6,2.20,107,2025-10-27 16:27:29,Week 8,Sunday
+Andy Dalton,QB,"BUF 40 @ CAR 9, Final","175 PASS YD,INT,2 RUSH ATT,RUSH YD,2 FUM LOST",$20,2.6,2.10,108,2025-10-27 16:27:29,Week 8,Sunday
+Dawson Knox,TE,"BUF 40 @ CAR 9, Final","TGT,REC,15 REC YD",$10,3.1,2.00,109,2025-10-27 16:27:29,Week 8,Sunday
+San Francisco 49ers,DEF,"SF 15 @ HOU 26, Final","26 PTS ALLOWED,INT",$10,4.5,2.00,110,2025-10-27 16:27:29,Week 8,Sunday
+Elijah Moore,WR,"BUF 40 @ CAR 9, Final","4 TGT,REC,14 REC YD",$10,3.1,1.90,111,2025-10-27 16:27:29,Week 8,Sunday
+DeAndre Hopkins,WR,"CHI 16 @ BAL 30, Final","TGT,REC,14 REC YD",$10,5.2,1.90,112,2025-10-27 16:27:29,Week 8,Sunday
+Isaiah Likely,TE,"CHI 16 @ BAL 30, Final","2 TGT,2 REC,8 REC YD",$11,1.7,1.80,113,2025-10-27 16:27:29,Week 8,Sunday
+Ray Davis,RB,"BUF 40 @ CAR 9, Final","9 RUSH ATT,16 RUSH YD,TGT",$10,2.0,1.60,114,2025-10-27 16:27:29,Week 8,Sunday
+Trevor Etienne,RB,"BUF 40 @ CAR 9, Final","4 RUSH ATT,16 RUSH YD",$10,1.4,1.60,115,2025-10-27 16:27:29,Week 8,Sunday
+Tanner Conner,TE,"MIA 34 @ ATL 10, Final","2 TGT,2 REC,6 REC YD",$10,1.9,1.60,116,2025-10-27 16:27:29,Week 8,Sunday
+Darnell Mooney,WR,"MIA 34 @ ATL 10, Final","4 TGT,REC,11 REC YD",$17,4.3,1.60,117,2025-10-27 16:27:29,Week 8,Sunday
+Terrell Jennings,RB,"CLE 13 @ NE 32, Final","2 RUSH ATT,15 RUSH YD",$10,1.7,1.50,118,2025-10-27 16:27:29,Week 8,Sunday
+Andrew Beck,RB,"NYJ 39 @ CIN 38, Final","TGT,REC,9 REC YD",$10,1.8,1.40,119,2025-10-27 16:27:29,Week 8,Sunday
+Tanner Hudson,TE,"NYJ 39 @ CIN 38, Final","2 TGT,REC,9 REC YD",$10,5.2,1.40,120,2025-10-27 16:27:29,Week 8,Sunday
+Nathan Carter,RB,"MIA 34 @ ATL 10, Final","2 RUSH ATT,14 RUSH YD",$10,2.0,1.40,121,2025-10-27 16:27:29,Week 8,Sunday
+Jordan Watkins,WR,"SF 15 @ HOU 26, Final","2 TGT,REC,7 REC YD",$10,1.2,1.20,122,2025-10-27 16:27:29,Week 8,Sunday
+Tylan Wallace,WR,"CHI 16 @ BAL 30, Final","TGT,REC,6 REC YD",$10,2.1,1.10,123,2025-10-27 16:27:29,Week 8,Sunday
+Allen Lazard,WR,"NYJ 39 @ CIN 38, Final","2 TGT,REC,5 REC YD",$10,2.8,1.00,124,2025-10-27 16:27:29,Week 8,Sunday
+Chicago Bears,DEF,"CHI 16 @ BAL 30, Final","30 PTS ALLOWED,2 SACK",$17,7.3,1.00,125,2025-10-27 16:27:29,Week 8,Sunday
+Tommy Tremble,TE,"BUF 40 @ CAR 9, Final","TGT,REC,4 REC YD",$10,3.5,0.90,126,2025-10-27 16:27:29,Week 8,Sunday
+Jimmy Horn Jr.Q,WR,"BUF 40 @ CAR 9, Final","2 RUSH ATT,9 RUSH YD,TGT",$10,3.2,0.90,127,2025-10-27 16:27:29,Week 8,Sunday
+Kyle Juszczyk,RB,"SF 15 @ HOU 26, Final","2 TGT,REC,4 REC YD",$10,2.9,0.90,128,2025-10-27 16:27:29,Week 8,Sunday
+Mitchell Trubisky,QB,"BUF 40 @ CAR 9, Final",22 PASS YD,$20,0.9,0.88,129,2025-10-27 16:27:30,Week 8,Sunday
+Xavier Gipson,WR,"NYG 20 @ PHI 38, Final","TGT,REC,3 REC YD",$10,0.3,0.80,130,2025-10-27 16:27:30,Week 8,Sunday
+Devin Duvernay,WR,"CHI 16 @ BAL 30, Final","3 TGT,REC,2 REC YD",$10,0.1,0.70,131,2025-10-27 16:27:30,Week 8,Sunday
+Cedrick Wilson Jr.,WR,"MIA 34 @ ATL 10, Final","TGT,REC,2 REC YD",$10,0.7,0.70,132,2025-10-27 16:27:30,Week 8,Sunday
+Ty Johnson,RB,"BUF 40 @ CAR 9, Final","4 RUSH ATT,6 RUSH YD",$10,1.3,0.60,133,2025-10-27 16:27:30,Week 8,Sunday
+Alec Ingold,RB,"MIA 34 @ ATL 10, Final","TGT,REC",$10,1.3,0.50,134,2025-10-27 16:27:30,Week 8,Sunday
+Jerome Ford,RB,"CLE 13 @ NE 32, Final","2 TGT,REC,-1 REC YD",$10,3.2,0.40,135,2025-10-27 16:27:30,Week 8,Sunday
+Luther Burden IIIQ,WR,"CHI 16 @ BAL 30, Final","TGT,REC,-1 REC YD",$12,4.3,0.40,136,2025-10-27 16:27:30,Week 8,Sunday
+Gage Larvadain,WR,"CLE 13 @ NE 32, Final","RUSH ATT,3 RUSH YD",$10,0.9,0.30,137,2025-10-27 16:27:30,Week 8,Sunday
+Will Shipley,RB,"NYG 20 @ PHI 38, Final","3 RUSH ATT,2 RUSH YD",$10,0.8,0.20,138,2025-10-27 16:27:30,Week 8,Sunday
+Justice Hill,RB,"CHI 16 @ BAL 30, Final","RUSH ATT,2 RUSH YD",$15,6.3,0.20,139,2025-10-27 16:27:30,Week 8,Sunday
+Tyrod TaylorO,QB,"NYJ 39 @ CIN 38, Final",,$20,10.1,0.00,140,2025-10-27 16:27:30,Week 8,Sunday
+Josh ReynoldsIR,WR,"NYJ 39 @ CIN 38, Final",,$10,3.5,0.00,141,2025-10-27 16:27:30,Week 8,Sunday
+Kene NwangwuO,RB,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,142,2025-10-27 16:27:30,Week 8,Sunday
+Khalil Herbert,RB,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,143,2025-10-27 16:27:30,Week 8,Sunday
+Garrett WilsonO,WR,"NYJ 39 @ CIN 38, Final",,$23,13.6,0.00,144,2025-10-27 16:27:30,Week 8,Sunday
+Jelani Woods,TE,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,145,2025-10-27 16:27:30,Week 8,Sunday
+Irvin CharlesPUP,WR,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,146,2025-10-27 16:27:30,Week 8,Sunday
+Stone SmarttO,TE,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,147,2025-10-27 16:27:30,Week 8,Sunday
+Mike GesickiIR,TE,"NYJ 39 @ CIN 38, Final",,$10,2.0,0.00,148,2025-10-27 16:27:30,Week 8,Sunday
+Drew Sample,TE,"NYJ 39 @ CIN 38, Final",,$10,1.8,0.00,149,2025-10-27 16:27:30,Week 8,Sunday
+Jake Browning,QB,"NYJ 39 @ CIN 38, Final",,$20,14.0,0.00,150,2025-10-27 16:27:30,Week 8,Sunday
+Charlie Jones,WR,"NYJ 39 @ CIN 38, Final",,$10,—,0.00,151,2025-10-27 16:27:30,Week 8,Sunday
+Andrei Iosivas,WR,"NYJ 39 @ CIN 38, Final",3 TGT,$12,3.8,0.00,152,2025-10-27 16:27:30,Week 8,Sunday
+Mitch Tinsley,WR,"NYJ 39 @ CIN 38, Final",,$10,3.1,0.00,153,2025-10-27 16:27:30,Week 8,Sunday
+Jermaine Burton,WR,"NYJ 39 @ CIN 38, Final",,$10,1.6,0.00,154,2025-10-27 16:27:31,Week 8,Sunday
+Erick All Jr.PUP,TE,"NYJ 39 @ CIN 38, Final",,$10,3.2,0.00,155,2025-10-27 16:27:31,Week 8,Sunday
+Cam Grandy,TE,"NYJ 39 @ CIN 38, Final",,$10,1.1,0.00,156,2025-10-27 16:27:31,Week 8,Sunday
+Tahj Brooks,RB,"NYJ 39 @ CIN 38, Final",,$10,0.3,0.00,157,2025-10-27 16:27:31,Week 8,Sunday
+Curtis Samuel,WR,"BUF 40 @ CAR 9, Final",,$10,3.7,0.00,158,2025-10-27 16:27:31,Week 8,Sunday
+Reggie Gilliam,RB,"BUF 40 @ CAR 9, Final",,$10,—,0.00,159,2025-10-27 16:27:31,Week 8,Sunday
+Joshua PalmerO,WR,"BUF 40 @ CAR 9, Final",,$12,5.1,0.00,160,2025-10-27 16:27:31,Week 8,Sunday
+Tyrell Shavers,WR,"BUF 40 @ CAR 9, Final",,$10,1.5,0.00,161,2025-10-27 16:27:31,Week 8,Sunday
+Hunter Renfrow,WR,"BUF 40 @ CAR 9, Final",,$10,4.7,0.00,162,2025-10-27 16:27:31,Week 8,Sunday
+DeeJay Dallas,RB,"BUF 40 @ CAR 9, Final",,$10,—,0.00,163,2025-10-27 16:27:31,Week 8,Sunday
+James Mitchell,TE,"BUF 40 @ CAR 9, Final",,$10,2.2,0.00,164,2025-10-27 16:27:31,Week 8,Sunday
+Bryce YoungO,QB,"BUF 40 @ CAR 9, Final",,$25,13.9,0.00,165,2025-10-27 16:27:31,Week 8,Sunday
+Brycen Tremayne,WR,"BUF 40 @ CAR 9, Final",,$10,2.2,0.00,166,2025-10-27 16:27:31,Week 8,Sunday
+Jonathon BrooksPUP,RB,"BUF 40 @ CAR 9, Final",,$10,2.0,0.00,167,2025-10-27 16:27:31,Week 8,Sunday
+Mitchell Evans,TE,"BUF 40 @ CAR 9, Final",,$10,4.3,0.00,168,2025-10-27 16:27:31,Week 8,Sunday
+Brandon AiyukPUP,WR,"SF 15 @ HOU 26, Final",,$14,7.1,0.00,169,2025-10-27 16:27:31,Week 8,Sunday
+Luke Farrell,TE,"SF 15 @ HOU 26, Final",,$10,1.9,0.00,170,2025-10-27 16:27:31,Week 8,Sunday
+Skyy Moore,WR,"SF 15 @ HOU 26, Final",TGT,$10,0.5,0.00,171,2025-10-27 16:27:31,Week 8,Sunday
+Brian Robinson Jr.,RB,"SF 15 @ HOU 26, Final",,$10,2.3,0.00,172,2025-10-27 16:27:31,Week 8,Sunday
+Brock PurdyO,QB,"SF 15 @ HOU 26, Final",,$33,19.2,0.00,173,2025-10-27 16:27:31,Week 8,Sunday
+Adrian Martinez,QB,"SF 15 @ HOU 26, Final",,$20,—,0.00,174,2025-10-27 16:27:31,Week 8,Sunday
+Ricky PearsallO,WR,"SF 15 @ HOU 26, Final",,$23,10.6,0.00,175,2025-10-27 16:27:31,Week 8,Sunday
+Isaac Guerendo,RB,"SF 15 @ HOU 26, Final",,$10,—,0.00,176,2025-10-27 16:27:31,Week 8,Sunday
+Jordan James,RB,"SF 15 @ HOU 26, Final",,$10,—,0.00,177,2025-10-27 16:27:31,Week 8,Sunday
+Christian KirkO,WR,"SF 15 @ HOU 26, Final",,$16,5.3,0.00,178,2025-10-27 16:27:32,Week 8,Sunday
+Harrison Bryant,TE,"SF 15 @ HOU 26, Final",TGT,$10,0.3,0.00,179,2025-10-27 16:27:32,Week 8,Sunday
+Davis Mills,QB,"SF 15 @ HOU 26, Final",,$20,1.2,0.00,180,2025-10-27 16:27:32,Week 8,Sunday
+Nico CollinsO,WR,"SF 15 @ HOU 26, Final",,$31,10.6,0.00,181,2025-10-27 16:27:32,Week 8,Sunday
+Dameon Pierce,RB,"SF 15 @ HOU 26, Final",,$10,0.9,0.00,182,2025-10-27 16:27:32,Week 8,Sunday
+Tank DellPUP,WR,"SF 15 @ HOU 26, Final",,$11,8.2,0.00,183,2025-10-27 16:27:32,Week 8,Sunday
+British Brooks,RB,"SF 15 @ HOU 26, Final",,$10,0.8,0.00,184,2025-10-27 16:27:32,Week 8,Sunday
+Graham Mertz,QB,"SF 15 @ HOU 26, Final",,$20,—,0.00,185,2025-10-27 16:27:32,Week 8,Sunday
+Malik Turner,WR,"SF 15 @ HOU 26, Final",,$10,—,0.00,186,2025-10-27 16:27:32,Week 8,Sunday
+Cade StoverIR,TE,"SF 15 @ HOU 26, Final",,$10,4.2,0.00,187,2025-10-27 16:27:32,Week 8,Sunday
+Jacob CowingIR,WR,"SF 15 @ HOU 26, Final",,$10,—,0.00,188,2025-10-27 16:27:32,Week 8,Sunday
+Russell Wilson,QB,"NYG 20 @ PHI 38, Final",,$20,10.0,0.00,189,2025-10-27 16:27:32,Week 8,Sunday
+Chris Manhertz,TE,"NYG 20 @ PHI 38, Final",,$10,0.6,0.00,190,2025-10-27 16:27:32,Week 8,Sunday
+Jameis Winston,QB,"NYG 20 @ PHI 38, Final",,$20,13.0,0.00,191,2025-10-27 16:27:32,Week 8,Sunday
+Gunner Olszewski,WR,"NYG 20 @ PHI 38, Final",,$10,—,0.00,192,2025-10-27 16:27:32,Week 8,Sunday
+Jalin Hyatt,WR,"NYG 20 @ PHI 38, Final",,$10,1.1,0.00,193,2025-10-27 16:27:32,Week 8,Sunday
+Eric GrayPUP,RB,"NYG 20 @ PHI 38, Final",,$10,—,0.00,194,2025-10-27 16:27:32,Week 8,Sunday
+Thomas Fidone II,TE,"NYG 20 @ PHI 38, Final",,$10,—,0.00,195,2025-10-27 16:27:32,Week 8,Sunday
+A.J. BrownO,WR,"NYG 20 @ PHI 38, Final",,$26,10.3,0.00,196,2025-10-27 16:27:32,Week 8,Sunday
+A.J. Dillon,RB,"NYG 20 @ PHI 38, Final",,$10,1.4,0.00,197,2025-10-27 16:27:32,Week 8,Sunday
+Kylen Granson,TE,"NYG 20 @ PHI 38, Final",,$10,0.3,0.00,198,2025-10-27 16:27:32,Week 8,Sunday
+John Metchie III,WR,"NYG 20 @ PHI 38, Final",,$10,1.0,0.00,199,2025-10-27 16:27:32,Week 8,Sunday
+Sam Howell,QB,"NYG 20 @ PHI 38, Final",,$20,0.2,0.00,200,2025-10-27 16:27:32,Week 8,Sunday
+Grant Calcaterra,TE,"NYG 20 @ PHI 38, Final",,$10,1.5,0.00,201,2025-10-27 16:27:32,Week 8,Sunday
+Cameron Latu,TE,"NYG 20 @ PHI 38, Final",,$10,—,0.00,202,2025-10-27 16:27:33,Week 8,Sunday
+New York Giants,DEF,"NYG 20 @ PHI 38, Final","38 PTS ALLOWED,4 SACK",$10,2.9,0.00,203,2025-10-27 16:27:33,Week 8,Sunday
+E.J. Jenkins,TE,"NYG 20 @ PHI 38, Final",,$10,3.6,0.00,204,2025-10-27 16:27:33,Week 8,Sunday
+Lil'Jordan Humphrey,WR,"NYG 20 @ PHI 38, Final",,$10,3.8,0.00,205,2025-10-27 16:27:33,Week 8,Sunday
+Deshaun WatsonPUP,QB,"CLE 13 @ NE 32, Final",,$20,11.4,0.00,206,2025-10-27 16:27:33,Week 8,Sunday
+Jerry Jeudy,WR,"CLE 13 @ NE 32, Final",2 TGT,$16,4.6,0.00,207,2025-10-27 16:27:33,Week 8,Sunday
+Blake Whiteheart,TE,"CLE 13 @ NE 32, Final",,$10,0.4,0.00,208,2025-10-27 16:27:33,Week 8,Sunday
+Shedeur SandersO,QB,"CLE 13 @ NE 32, Final",,$20,—,0.00,209,2025-10-27 16:27:33,Week 8,Sunday
+Raheim Sanders,RB,"CLE 13 @ NE 32, Final",,$10,6.3,0.00,210,2025-10-27 16:27:33,Week 8,Sunday
+Isaiah Bond,WR,"CLE 13 @ NE 32, Final",4 TGT,$10,2.7,0.00,211,2025-10-27 16:27:33,Week 8,Sunday
+Joshua Dobbs,QB,"CLE 13 @ NE 32, Final",,$20,0.0,0.00,212,2025-10-27 16:27:33,Week 8,Sunday
+Tommy DeVito,QB,"CLE 13 @ NE 32, Final",,$20,6.7,0.00,213,2025-10-27 16:27:33,Week 8,Sunday
+Jack Westover,RB,"CLE 13 @ NE 32, Final",,$10,—,0.00,214,2025-10-27 16:27:33,Week 8,Sunday
+Kyle Williams,WR,"CLE 13 @ NE 32, Final",,$10,0.6,0.00,215,2025-10-27 16:27:33,Week 8,Sunday
+Efton Chism III,WR,"CLE 13 @ NE 32, Final",,$10,—,0.00,216,2025-10-27 16:27:33,Week 8,Sunday
+Brenden Bates,TE,"CLE 13 @ NE 32, Final",,$10,3.3,0.00,217,2025-10-27 16:27:33,Week 8,Sunday
+Case Keenum,QB,"CHI 16 @ BAL 30, Final",,$20,—,0.00,218,2025-10-27 16:27:33,Week 8,Sunday
+Durham Smythe,TE,"CHI 16 @ BAL 30, Final",,$10,0.8,0.00,219,2025-10-27 16:27:33,Week 8,Sunday
+Cole KmetO,TE,"CHI 16 @ BAL 30, Final",,$10,3.9,0.00,220,2025-10-27 16:27:33,Week 8,Sunday
+Roschon JohnsonO,RB,"CHI 16 @ BAL 30, Final",,$10,0.3,0.00,221,2025-10-27 16:27:33,Week 8,Sunday
+Tyson Bagent,QB,"CHI 16 @ BAL 30, Final",,$20,1.8,0.00,222,2025-10-27 16:27:33,Week 8,Sunday
+Jahdae Walker,WR,"CHI 16 @ BAL 30, Final",,$10,—,0.00,223,2025-10-27 16:27:33,Week 8,Sunday
+Patrick Ricard,RB,"CHI 16 @ BAL 30, Final",,$10,—,0.00,224,2025-10-27 16:27:33,Week 8,Sunday
+Cooper Rush,QB,"CHI 16 @ BAL 30, Final",,$20,1.4,0.00,225,2025-10-27 16:27:34,Week 8,Sunday
+Lamar JacksonO,QB,"CHI 16 @ BAL 30, Final",,$42,23.6,0.00,226,2025-10-27 16:27:34,Week 8,Sunday
+Zaire Mitchell-Paden,TE,"CHI 16 @ BAL 30, Final",,$10,0.4,0.00,227,2025-10-27 16:27:34,Week 8,Sunday
+Devontez Walker,WR,"CHI 16 @ BAL 30, Final",,$10,6.5,0.00,228,2025-10-27 16:27:34,Week 8,Sunday
+Rasheen Ali,RB,"CHI 16 @ BAL 30, Final",,$10,0.1,0.00,229,2025-10-27 16:27:34,Week 8,Sunday
+LaJohntay Wester,WR,"CHI 16 @ BAL 30, Final",,$10,—,0.00,230,2025-10-27 16:27:34,Week 8,Sunday
+Travis Homer,RB,"CHI 16 @ BAL 30, Final",,$10,—,0.00,231,2025-10-27 16:27:34,Week 8,Sunday
+Darren WallerIR,TE,"MIA 34 @ ATL 10, Final",,$21,13.6,0.00,232,2025-10-27 16:27:34,Week 8,Sunday
+Zach Wilson,QB,"MIA 34 @ ATL 10, Final",,$20,0.8,0.00,233,2025-10-27 16:27:34,Week 8,Sunday
+Dee EskridgeQ,WR,"MIA 34 @ ATL 10, Final",,$10,0.9,0.00,234,2025-10-27 16:27:34,Week 8,Sunday
+Julian HillO,TE,"MIA 34 @ ATL 10, Final",,$10,2.1,0.00,235,2025-10-27 16:27:34,Week 8,Sunday
+Tahj Washington,WR,"MIA 34 @ ATL 10, Final",,$10,—,0.00,236,2025-10-27 16:27:34,Week 8,Sunday
+Quinn Ewers,QB,"MIA 34 @ ATL 10, Final",,$20,2.1,0.00,237,2025-10-27 16:27:34,Week 8,Sunday
+Jamal Agnew,WR,"MIA 34 @ ATL 10, Final",,$10,—,0.00,238,2025-10-27 16:27:34,Week 8,Sunday
+Ray-Ray McCloud III,WR,"MIA 34 @ ATL 10, Final",,$10,2.3,0.00,239,2025-10-27 16:27:34,Week 8,Sunday
+Charlie Woerner,TE,"MIA 34 @ ATL 10, Final",,$10,—,0.00,240,2025-10-27 16:27:34,Week 8,Sunday
+Feleipe Franks,TE,"MIA 34 @ ATL 10, Final",,$10,0.1,0.00,241,2025-10-27 16:27:34,Week 8,Sunday
+Drake LondonO,WR,"MIA 34 @ ATL 10, Final",,$36,12.7,0.00,242,2025-10-27 16:27:34,Week 8,Sunday
+Teagan Quitoriano,TE,"MIA 34 @ ATL 10, Final",,$10,—,0.00,243,2025-10-27 16:27:34,Week 8,Sunday
+Michael Penix Jr.O,QB,"MIA 34 @ ATL 10, Final",,$29,13.6,0.00,244,2025-10-27 16:27:34,Week 8,Sunday
+Atlanta Falcons,DEF,"MIA 34 @ ATL 10, Final","34 PTS ALLOWED,SACK",$15,6.0,0.00,245,2025-10-27 16:27:34,Week 8,Sunday
+Tanner McKee,QB,"NYG 20 @ PHI 38, Final","3 RUSH ATT,-2 RUSH YD",$20,-0.2,-0.20,246,2025-10-27 16:27:34,Week 8,Sunday
+Carolina Panthers,DEF,"BUF 40 @ CAR 9, Final","40 PTS ALLOWED,2 SACK",$12,5.3,-2.00,247,2025-10-27 16:27:34,Week 8,Sunday
+New York Jets,DEF,"NYJ 39 @ CIN 38, Final","38 PTS ALLOWED,SACK",$10,2.6,-3.00,248,2025-10-27 16:27:35,Week 8,Sunday
+Cincinnati Bengals,DEF,"NYJ 39 @ CIN 38, Final",39 PTS ALLOWED,$10,2.0,-4.00,249,2025-10-27 16:27:35,Week 8,Sunday
+Jonathan Taylor,RB,"TEN 14 @ IND 38, Final","12 RUSH ATT,153 RUSH YD,2 RUSH TD,2 TGT,2 REC,21 REC YD,REC TD",$45,25.5,36.40,1,2025-10-27 16:27:51,Week 8,Sunday
+Tampa Bay Buccaneers,DEF,"TB 23 @ NO 3, Final","3 PTS ALLOWED,5 SACK,2 INT,2 FUM REC,TD",$14,8.5,26.00,2,2025-10-27 16:27:51,Week 8,Sunday
+Bo Nix,QB,"DAL 24 @ DEN 44, Final","247 PASS YD,4 PASS TD,INT,RUSH ATT,-1 RUSH YD",$39,20.8,24.78,3,2025-10-27 16:27:51,Week 8,Sunday
+Troy Franklin,WR,"DAL 24 @ DEN 44, Final","8 TGT,6 REC,89 REC YD,2 REC TD",$15,10.0,23.90,4,2025-10-27 16:27:51,Week 8,Sunday
+RJ Harvey,RB,"DAL 24 @ DEN 44, Final","7 RUSH ATT,46 RUSH YD,2 RUSH TD,TGT,REC,5 REC YD,REC TD",$17,8.8,23.60,5,2025-10-27 16:27:51,Week 8,Sunday
+Daniel Jones,QB,"TEN 14 @ IND 38, Final","272 PASS YD,3 PASS TD,RUSH ATT,3 RUSH YD",$38,20.8,23.18,6,2025-10-27 16:27:51,Week 8,Sunday
+Michael Pittman Jr.,WR,"TEN 14 @ IND 38, Final","9 TGT,8 REC,95 REC YD,REC TD",$25,13.0,19.50,7,2025-10-27 16:27:51,Week 8,Sunday
+Javonte Williams,RB,"DAL 24 @ DEN 44, Final","13 RUSH ATT,41 RUSH YD,2 RUSH TD,2 TGT,REC,8 REC YD",$33,17.1,17.40,8,2025-10-27 16:27:51,Week 8,Sunday
+Tyjae Spears,RB,"TEN 14 @ IND 38, Final","9 RUSH ATT,59 RUSH YD,RUSH TD,3 TGT,3 REC,23 REC YD",$15,7.4,15.70,9,2025-10-27 16:27:51,Week 8,Sunday
+Cam Ward,QB,"TEN 14 @ IND 38, Final","259 PASS YD,PASS TD,INT,2 RUSH ATT,4 RUSH YD",$21,9.1,13.76,10,2025-10-27 16:27:51,Week 8,Sunday
+J.K. Dobbins,RB,"DAL 24 @ DEN 44, Final","15 RUSH ATT,111 RUSH YD,2 TGT,2 REC,10 REC YD",$24,11.9,13.10,11,2025-10-27 16:27:51,Week 8,Sunday
+Chimere Dike,WR,"TEN 14 @ IND 38, Final","RUSH ATT,RUSH YD,8 TGT,7 REC,93 REC YD",$10,4.6,12.90,12,2025-10-27 16:27:51,Week 8,Sunday
+Jalen Tolbert,WR,"DAL 24 @ DEN 44, Final","2 TGT,2 REC,47 REC YD,REC TD",$10,4.0,11.70,13,2025-10-27 16:27:51,Week 8,Sunday
+Josh Downs,WR,"TEN 14 @ IND 38, Final","3 TGT,3 REC,39 REC YD,REC TD",$18,7.4,11.40,14,2025-10-27 16:27:51,Week 8,Sunday
+George Pickens,WR,"DAL 24 @ DEN 44, Final","9 TGT,7 REC,78 REC YD",$34,15.8,11.30,15,2025-10-27 16:27:52,Week 8,Sunday
+CeeDee Lamb,WR,"DAL 24 @ DEN 44, Final","RUSH ATT,2 RUSH YD,10 TGT,7 REC,74 REC YD",$35,12.2,11.10,16,2025-10-27 16:27:52,Week 8,Sunday
+Pat Bryant,WR,"DAL 24 @ DEN 44, Final","4 TGT,2 REC,40 REC YD,REC TD",$10,3.6,11.00,17,2025-10-27 16:27:52,Week 8,Sunday
+Sean Tucker,RB,"TB 23 @ NO 3, Final","12 RUSH ATT,42 RUSH YD,RUSH TD",$10,2.7,10.20,18,2025-10-27 16:27:52,Week 8,Sunday
+Chris Olave,WR,"TB 23 @ NO 3, Final","RUSH ATT,-3 RUSH YD,12 TGT,8 REC,63 REC YD",$28,11.6,10.00,19,2025-10-27 16:27:52,Week 8,Sunday
+Rashid Shaheed,WR,"TB 23 @ NO 3, Final","12 TGT,9 REC,75 REC YD,FUM LOST",$24,9.1,10.00,20,2025-10-27 16:27:52,Week 8,Sunday
+Gunnar Helm,TE,"TEN 14 @ IND 38, Final","3 TGT,2 REC,23 REC YD,REC TD",$10,4.1,9.30,21,2025-10-27 16:27:52,Week 8,Sunday
+Courtland Sutton,WR,"DAL 24 @ DEN 44, Final","6 TGT,4 REC,67 REC YD",$28,11.5,8.70,22,2025-10-27 16:27:52,Week 8,Sunday
+Dak Prescott,QB,"DAL 24 @ DEN 44, Final","188 PASS YD,2 INT,6 RUSH ATT,31 RUSH YD",$40,19.8,8.62,23,2025-10-27 16:27:52,Week 8,Sunday
+Alec Pierce,WR,"TEN 14 @ IND 38, Final","5 TGT,2 REC,69 REC YD",$19,7.9,7.90,24,2025-10-27 16:27:52,Week 8,Sunday
+Juwan Johnson,TE,"TB 23 @ NO 3, Final","8 TGT,5 REC,53 REC YD",$13,7.4,7.80,25,2025-10-27 16:27:52,Week 8,Sunday
+Chig Okonkwo,TE,"TEN 14 @ IND 38, Final","5 TGT,4 REC,53 REC YD",$11,5.1,7.30,26,2025-10-27 16:27:52,Week 8,Sunday
+Tyler Warren,TE,"TEN 14 @ IND 38, Final","5 TGT,4 REC,53 REC YD",$25,11.5,7.30,27,2025-10-27 16:27:52,Week 8,Sunday
+Elic Ayomanor,WR,"TEN 14 @ IND 38, Final","8 TGT,4 REC,52 REC YD",$13,6.4,7.20,28,2025-10-27 16:27:52,Week 8,Sunday
+Rachaad White,RB,"TB 23 @ NO 3, Final","13 RUSH ATT,35 RUSH YD,2 TGT,2 REC,26 REC YD",$23,9.4,7.10,29,2025-10-27 16:27:52,Week 8,Sunday
+Indianapolis Colts,DEF,"TEN 14 @ IND 38, Final","14 PTS ALLOWED,4 SACK,INT",$18,8.6,7.00,30,2025-10-27 16:27:52,Week 8,Sunday
+Tez Johnson,WR,"TB 23 @ NO 3, Final","6 TGT,5 REC,43 REC YD",$10,5.9,6.80,31,2025-10-27 16:27:52,Week 8,Sunday
+Joe Milton III,QB,"DAL 24 @ DEN 44, Final","58 PASS YD,PASS TD",$20,3.5,6.32,32,2025-10-27 16:27:52,Week 8,Sunday
+Cade Otton,TE,"TB 23 @ NO 3, Final","5 TGT,4 REC,40 REC YD",$12,5.7,6.00,33,2025-10-27 16:27:52,Week 8,Sunday
+New Orleans Saints,DEF,"TB 23 @ NO 3, Final","17 PTS ALLOWED,3 SACK,FUM REC",$12,5.4,6.00,34,2025-10-27 16:27:52,Week 8,Sunday
+Denver Broncos,DEF,"DAL 24 @ DEN 44, Final","24 PTS ALLOWED,2 SACK,2 INT",$15,8.0,6.00,35,2025-10-27 16:27:52,Week 8,Sunday
+Tony Pollard,RB,"TEN 14 @ IND 38, Final","11 RUSH ATT,44 RUSH YD,2 TGT,REC,9 REC YD",$22,9.1,5.80,36,2025-10-27 16:27:52,Week 8,Sunday
+Evan Engram,TE,"DAL 24 @ DEN 44, Final","4 TGT,4 REC,36 REC YD",$14,5.9,5.60,37,2025-10-27 16:27:52,Week 8,Sunday
+Alvin Kamara,RB,"TB 23 @ NO 3, Final","6 RUSH ATT,21 RUSH YD,2 TGT,2 REC,24 REC YD",$22,8.6,5.50,38,2025-10-27 16:27:52,Week 8,Sunday
+Tyler Shough,QB,"TB 23 @ NO 3, Final","128 PASS YD,INT,3 RUSH ATT,12 RUSH YD",$20,2.7,5.32,39,2025-10-27 16:27:53,Week 8,Sunday
+Emeka Egbuka,WR,"TB 23 @ NO 3, Final","9 TGT,3 REC,35 REC YD",$28,13.3,5.00,40,2025-10-27 16:27:53,Week 8,Sunday
+Baker Mayfield,QB,"TB 23 @ NO 3, Final","152 PASS YD,FUM LOST",$40,17.8,4.08,41,2025-10-27 16:27:53,Week 8,Sunday
+Brandin Cooks,WR,"TB 23 @ NO 3, Final","4 TGT,3 REC,22 REC YD",$10,2.9,3.70,42,2025-10-27 16:27:53,Week 8,Sunday
+Spencer Rattler,QB,"TB 23 @ NO 3, Final","136 PASS YD,INT,3 RUSH ATT,12 RUSH YD,FUM LOST",$26,13.0,3.64,43,2025-10-27 16:27:53,Week 8,Sunday
+Luke Schoonmaker,TE,"DAL 24 @ DEN 44, Final","3 TGT,2 REC,25 REC YD",$10,1.2,3.50,44,2025-10-27 16:27:53,Week 8,Sunday
+Jaydon Blue,RB,"DAL 24 @ DEN 44, Final","8 RUSH ATT,29 RUSH YD",$10,1.9,2.90,45,2025-10-27 16:27:53,Week 8,Sunday
+Devin Neal,RB,"TB 23 @ NO 3, Final","3 TGT,3 REC,11 REC YD",$10,1.2,2.60,46,2025-10-27 16:27:53,Week 8,Sunday
+Marvin Mims Jr.Q,WR,"DAL 24 @ DEN 44, Final","3 RUSH ATT,18 RUSH YD,TGT",$19,6.2,1.80,47,2025-10-27 16:27:53,Week 8,Sunday
+Taysom Hill,TE,"TB 23 @ NO 3, Final","2 RUSH ATT,6 RUSH YD,TGT,REC,6 REC YD",$10,2.6,1.70,48,2025-10-27 16:27:53,Week 8,Sunday
+Devaughn Vele,WR,"TB 23 @ NO 3, Final","5 TGT,REC,10 REC YD",$10,2.1,1.50,49,2025-10-27 16:27:53,Week 8,Sunday
+Brevyn Spann-Ford,TE,"DAL 24 @ DEN 44, Final","TGT,REC,9 REC YD",$10,0.4,1.40,50,2025-10-27 16:27:53,Week 8,Sunday
+Sterling Shepard,WR,"TB 23 @ NO 3, Final","2 TGT,REC,8 REC YD",$13,5.6,1.30,51,2025-10-27 16:27:53,Week 8,Sunday
+Ameer Abdullah,RB,"TEN 14 @ IND 38, Final","2 RUSH ATT,5 RUSH YD,TGT,REC,3 REC YD",$10,3.3,1.30,52,2025-10-27 16:27:53,Week 8,Sunday
+Ryan Flournoy,WR,"DAL 24 @ DEN 44, Final","2 TGT,REC,7 REC YD",$10,4.0,1.20,53,2025-10-27 16:27:53,Week 8,Sunday
+Josh Williams,RB,"TB 23 @ NO 3, Final","4 RUSH ATT,11 RUSH YD",$10,0.6,1.10,54,2025-10-27 16:27:53,Week 8,Sunday
+Van Jefferson,WR,"TEN 14 @ IND 38, Final","8 TGT,REC,6 REC YD",$10,3.5,1.10,55,2025-10-27 16:27:53,Week 8,Sunday
+Tyler Badie,RB,"DAL 24 @ DEN 44, Final","RUSH ATT,6 RUSH YD",$10,1.9,0.60,56,2025-10-27 16:27:53,Week 8,Sunday
+Julius Chestnut,RB,"TEN 14 @ IND 38, Final","2 RUSH ATT,5 RUSH YD",$10,0.5,0.50,57,2025-10-27 16:27:53,Week 8,Sunday
+KaVontae Turpin,WR,"DAL 24 @ DEN 44, Final","5 TGT,REC,-2 REC YD",$11,5.4,0.30,58,2025-10-27 16:27:53,Week 8,Sunday
+Malik Davis,RB,"DAL 24 @ DEN 44, Final","2 RUSH ATT,3 RUSH YD",$10,0.2,0.30,59,2025-10-27 16:27:53,Week 8,Sunday
+Hunter Luepke,RB,"DAL 24 @ DEN 44, Final","RUSH ATT,2 RUSH YD",$10,1.8,0.20,60,2025-10-27 16:27:53,Week 8,Sunday
+Tyler Goodson,RB,"TEN 14 @ IND 38, Final","2 RUSH ATT,2 RUSH YD",$10,0.4,0.20,61,2025-10-27 16:27:53,Week 8,Sunday
+Riley Leonard,QB,"TEN 14 @ IND 38, Final","RUSH ATT,RUSH YD",$20,0.1,0.10,62,2025-10-27 16:27:53,Week 8,Sunday
+Mike EvansIR,WR,"TB 23 @ NO 3, Final",,$30,6.8,0.00,63,2025-10-27 16:27:54,Week 8,Sunday
+Teddy Bridgewater,QB,"TB 23 @ NO 3, Final",,$20,-0.1,0.00,64,2025-10-27 16:27:54,Week 8,Sunday
+Chris Godwin Jr.O,WR,"TB 23 @ NO 3, Final",,$22,4.1,0.00,65,2025-10-27 16:27:54,Week 8,Sunday
+Payne Durham,TE,"TB 23 @ NO 3, Final",,$10,—,0.00,66,2025-10-27 16:27:54,Week 8,Sunday
+Ryan Miller,WR,"TB 23 @ NO 3, Final",,$10,2.1,0.00,67,2025-10-27 16:27:54,Week 8,Sunday
+Bucky IrvingO,RB,"TB 23 @ NO 3, Final",,$26,15.6,0.00,68,2025-10-27 16:27:54,Week 8,Sunday
+Devin Culp,TE,"TB 23 @ NO 3, Final",,$10,5.7,0.00,69,2025-10-27 16:27:54,Week 8,Sunday
+Kameron Johnson,WR,"TB 23 @ NO 3, Final",,$10,1.8,0.00,70,2025-10-27 16:27:54,Week 8,Sunday
+Foster Moreau,TE,"TB 23 @ NO 3, Final",TGT,$10,0.7,0.00,71,2025-10-27 16:27:54,Week 8,Sunday
+Jack Stoll,TE,"TB 23 @ NO 3, Final",TGT,$10,2.1,0.00,72,2025-10-27 16:27:54,Week 8,Sunday
+Kendre MillerIR,RB,"TB 23 @ NO 3, Final",,$12,4.4,0.00,73,2025-10-27 16:27:54,Week 8,Sunday
+Mason Tipton,WR,"TB 23 @ NO 3, Final",TGT,$10,—,0.00,74,2025-10-27 16:27:54,Week 8,Sunday
+Jake Ferguson,TE,"DAL 24 @ DEN 44, Final",TGT,$22,11.9,0.00,75,2025-10-27 16:27:54,Week 8,Sunday
+Trent Sherfield Sr.,WR,"DAL 24 @ DEN 44, Final",,$10,1.2,0.00,76,2025-10-27 16:27:54,Week 8,Sunday
+Adam Trautman,TE,"DAL 24 @ DEN 44, Final",,$10,3.8,0.00,77,2025-10-27 16:27:54,Week 8,Sunday
+Adam Prentice,RB,"DAL 24 @ DEN 44, Final",,$10,0.5,0.00,78,2025-10-27 16:27:54,Week 8,Sunday
+Jaleel McLaughlin,RB,"DAL 24 @ DEN 44, Final",,$10,—,0.00,79,2025-10-27 16:27:54,Week 8,Sunday
+Nate AdkinsQ,TE,"DAL 24 @ DEN 44, Final",TGT,$10,2.3,0.00,80,2025-10-27 16:27:54,Week 8,Sunday
+Jonathan Mingo,WR,"DAL 24 @ DEN 44, Final",,$10,1.7,0.00,81,2025-10-27 16:27:54,Week 8,Sunday
+Tyler Lockett,WR,"TEN 14 @ IND 38, Final",,$10,1.7,0.00,82,2025-10-27 16:27:54,Week 8,Sunday
+Brandon Allen,QB,"TEN 14 @ IND 38, Final",,$20,2.8,0.00,83,2025-10-27 16:27:54,Week 8,Sunday
+Calvin RidleyO,WR,"TEN 14 @ IND 38, Final",,$21,6.2,0.00,84,2025-10-27 16:27:54,Week 8,Sunday
+Bryce OliverO,WR,"TEN 14 @ IND 38, Final",,$10,0.7,0.00,85,2025-10-27 16:27:54,Week 8,Sunday
+David Martin-Robinson,TE,"TEN 14 @ IND 38, Final",,$10,2.2,0.00,86,2025-10-27 16:27:55,Week 8,Sunday
+Mo Alie-Cox,TE,"TEN 14 @ IND 38, Final",,$10,1.8,0.00,87,2025-10-27 16:27:55,Week 8,Sunday
+Drew Ogletree,TE,"TEN 14 @ IND 38, Final",TGT,$10,—,0.00,88,2025-10-27 16:27:55,Week 8,Sunday
+Will Mallory,TE,"TEN 14 @ IND 38, Final",,$10,0.7,0.00,89,2025-10-27 16:27:55,Week 8,Sunday
+Adonai Mitchell,WR,"TEN 14 @ IND 38, Final",TGT,$10,2.4,0.00,90,2025-10-27 16:27:55,Week 8,Sunday
+Anthony GouldQ,WR,"TEN 14 @ IND 38, Final",,$10,0.1,0.00,91,2025-10-27 16:27:55,Week 8,Sunday
+DJ Giddens,RB,"TEN 14 @ IND 38, Final",,$10,1.7,0.00,92,2025-10-27 16:27:55,Week 8,Sunday
+Laquon Treadwell,WR,"TEN 14 @ IND 38, Final",,$10,—,0.00,93,2025-10-27 16:27:55,Week 8,Sunday
+Mason Kinsey,WR,"TEN 14 @ IND 38, Final",,$10,—,0.00,94,2025-10-27 16:27:55,Week 8,Sunday
+Kalel MullingsIR,RB,"TEN 14 @ IND 38, Final",,$10,—,0.00,95,2025-10-27 16:27:55,Week 8,Sunday
+Jarrett Stidham,QB,"DAL 24 @ DEN 44, Final","RUSH ATT,-1 RUSH YD",$20,-0.1,-0.10,96,2025-10-27 16:27:55,Week 8,Sunday
+Ashton Dulin,WR,"TEN 14 @ IND 38, Final","TGT,REC,-8 REC YD",$10,1.4,-0.30,97,2025-10-27 16:27:55,Week 8,Sunday
+Tennessee Titans,DEF,"TEN 14 @ IND 38, Final","38 PTS ALLOWED,3 SACK",$11,4.4,-1.00,98,2025-10-27 16:27:55,Week 8,Sunday
+Dallas Cowboys,DEF,"DAL 24 @ DEN 44, Final","44 PTS ALLOWED,INT",$11,3.3,-2.00,99,2025-10-27 16:27:55,Week 8,Sunday
+Tucker Kraft,TE,"GB 35 @ PIT 25, Final","9 TGT,7 REC,143 REC YD,2 REC TD",$19,14.0,29.80,1,2025-10-27 16:28:11,Week 8,Sunday
+Jordan Love,QB,"GB 35 @ PIT 25, Final","360 PASS YD,3 PASS TD,RUSH ATT,-1 RUSH YD,2PT",$32,19.0,28.30,2,2025-10-27 16:28:11,Week 8,Sunday
+Aaron Rodgers,QB,"GB 35 @ PIT 25, Final","219 PASS YD,2 PASS TD",$32,17.5,16.76,3,2025-10-27 16:28:11,Week 8,Sunday
+Roman Wilson,WR,"GB 35 @ PIT 25, Final","5 TGT,4 REC,74 REC YD,REC TD",$10,5.3,15.40,4,2025-10-27 16:28:11,Week 8,Sunday
+DK Metcalf,WR,"GB 35 @ PIT 25, Final","7 TGT,5 REC,55 REC YD,REC TD",$29,12.8,14.00,5,2025-10-27 16:28:11,Week 8,Sunday
+Josh Jacobs,RB,"GB 35 @ PIT 25, Final","13 RUSH ATT,33 RUSH YD,RUSH TD,3 TGT,3 REC,12 REC YD",$39,18.2,12.00,6,2025-10-27 16:28:12,Week 8,Sunday
+Christian Watson,WR,"GB 35 @ PIT 25, Final","4 TGT,4 REC,85 REC YD",$10,10.5,10.50,7,2025-10-27 16:28:12,Week 8,Sunday
+Emanuel Wilson,RB,"GB 35 @ PIT 25, Final","11 RUSH ATT,61 RUSH YD,4 TGT,3 REC,26 REC YD",$10,3.7,10.20,8,2025-10-27 16:28:12,Week 8,Sunday
+Jaylen Warren,RB,"GB 35 @ PIT 25, Final","13 RUSH ATT,62 RUSH YD,3 TGT,2 REC,11 REC YD",$25,12.0,8.30,9,2025-10-27 16:28:12,Week 8,Sunday
+Romeo Doubs,WR,"GB 35 @ PIT 25, Final","6 TGT,3 REC,44 REC YD,2PT",$23,10.6,7.90,10,2025-10-27 16:28:12,Week 8,Sunday
+Savion Williams,WR,"GB 35 @ PIT 25, Final","RUSH ATT,RUSH YD,TGT,REC,8 REC YD,REC TD",$10,2.1,7.40,11,2025-10-27 16:28:12,Week 8,Sunday
+Green Bay Packers,DEF,"GB 35 @ PIT 25, Final","25 PTS ALLOWED,3 SACK,FUM REC",$13,5.0,5.00,12,2025-10-27 16:28:12,Week 8,Sunday
+Calvin Austin III,WR,"GB 35 @ PIT 25, Final","6 TGT,4 REC,28 REC YD",$16,7.1,4.80,13,2025-10-27 16:28:12,Week 8,Sunday
+Malik Heath,WR,"GB 35 @ PIT 25, Final","3 TGT,3 REC,29 REC YD",$10,3.3,4.40,14,2025-10-27 16:28:12,Week 8,Sunday
+Pat Freiermuth,TE,"GB 35 @ PIT 25, Final","4 TGT,3 REC,13 REC YD",$13,6.7,2.80,15,2025-10-27 16:28:12,Week 8,Sunday
+Jonnu Smith,TE,"GB 35 @ PIT 25, Final","3 TGT,2 REC,17 REC YD",$13,5.3,2.70,16,2025-10-27 16:28:12,Week 8,Sunday
+Kenneth Gainwell,RB,"GB 35 @ PIT 25, Final","5 RUSH ATT,31 RUSH YD,2 TGT,2 REC,4 REC YD,FUM LOST",$18,8.3,2.50,17,2025-10-27 16:28:12,Week 8,Sunday
+Matthew Golden,WR,"GB 35 @ PIT 25, Final","3 TGT,3 REC,4 REC YD",$19,5.8,1.90,18,2025-10-27 16:28:12,Week 8,Sunday
+Ben Skowronek,WR,"GB 35 @ PIT 25, Final","TGT,REC,13 REC YD",$10,1.5,1.80,19,2025-10-27 16:28:12,Week 8,Sunday
+Luke Musgrave,TE,"GB 35 @ PIT 25, Final","TGT,REC,5 REC YD",$10,1.7,1.00,20,2025-10-27 16:28:12,Week 8,Sunday
+John FitzPatrick,TE,"GB 35 @ PIT 25, Final","TGT,REC,4 REC YD",$10,2.2,0.90,21,2025-10-27 16:28:12,Week 8,Sunday
+Malik Willis,QB,"GB 35 @ PIT 25, Final",,$20,8.6,0.00,22,2025-10-27 16:28:12,Week 8,Sunday
+Dontayvion WicksO,WR,"GB 35 @ PIT 25, Final",,$10,3.3,0.00,23,2025-10-27 16:28:12,Week 8,Sunday
+Ben Sims,TE,"GB 35 @ PIT 25, Final",,$10,1.5,0.00,24,2025-10-27 16:28:12,Week 8,Sunday
+Chris Brooks,RB,"GB 35 @ PIT 25, Final",,$10,1.0,0.00,25,2025-10-27 16:28:12,Week 8,Sunday
+Mason Rudolph,QB,"GB 35 @ PIT 25, Final",,$20,0.2,0.00,26,2025-10-27 16:28:12,Week 8,Sunday
+Scotty MillerO,WR,"GB 35 @ PIT 25, Final",,$10,0.7,0.00,27,2025-10-27 16:28:12,Week 8,Sunday
+Connor Heyward,TE,"GB 35 @ PIT 25, Final",,$10,1.8,0.00,28,2025-10-27 16:28:12,Week 8,Sunday
+Darnell Washington,TE,"GB 35 @ PIT 25, Final",,$10,3.5,0.00,29,2025-10-27 16:28:12,Week 8,Sunday
+Kaleb Johnson,RB,"GB 35 @ PIT 25, Final",,$10,0.9,0.00,30,2025-10-27 16:28:13,Week 8,Sunday
+Ke'Shawn Williams,WR,"GB 35 @ PIT 25, Final",,$10,—,0.00,31,2025-10-27 16:28:13,Week 8,Sunday
+Pierre Strong Jr.,RB,"GB 35 @ PIT 25, Final",,$10,2.4,0.00,32,2025-10-27 16:28:13,Week 8,Sunday
+MarShawn LloydIR,RB,"GB 35 @ PIT 25, Final",,$10,—,0.00,33,2025-10-27 16:28:13,Week 8,Sunday
+Pittsburgh Steelers,DEF,"GB 35 @ PIT 25, Final",35 PTS ALLOWED,$14,5.7,-4.00,34,2025-10-27 16:28:13,Week 8,Sunday
