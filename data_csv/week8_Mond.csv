@@ -1,0 +1,36 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Patrick Mahomes,QB,"WAS 7 @ KC 28, Final","299 PASS YD,3 PASS TD,2 INT,4 RUSH ATT,30 RUSH YD",$45,25.0,24.96,1,2025-10-28 16:30:14,Week 8,Monday
+Rashee Rice,WR,"WAS 7 @ KC 28, Final","2 RUSH ATT,12 RUSH YD,9 TGT,9 REC,93 REC YD,REC TD",$34,20.4,21.00,2,2025-10-28 16:30:14,Week 8,Monday
+Travis Kelce,TE,"WAS 7 @ KC 28, Final","8 TGT,6 REC,99 REC YD,REC TD",$18,10.5,18.90,3,2025-10-28 16:30:15,Week 8,Monday
+Kareem Hunt,RB,"WAS 7 @ KC 28, Final","9 RUSH ATT,40 RUSH YD,RUSH TD,TGT,REC,2 REC YD,REC TD",$15,8.0,16.70,4,2025-10-28 16:30:15,Week 8,Monday
+Marcus Mariota,QB,"WAS 7 @ KC 28, Final","213 PASS YD,PASS TD,2 INT,8 RUSH ATT,28 RUSH YD",$20,11.2,13.32,5,2025-10-28 16:30:15,Week 8,Monday
+Terry McLaurinQ,WR,"WAS 7 @ KC 28, Final","4 TGT,3 REC,54 REC YD,REC TD",$25,8.2,12.90,6,2025-10-28 16:30:15,Week 8,Monday
+Kansas City Chiefs,DEF,"WAS 7 @ KC 28, Final","7 PTS ALLOWED,2 SACK,2 INT",$14,7.3,10.00,7,2025-10-28 16:30:15,Week 8,Monday
+Jeremy McNichols,RB,"WAS 7 @ KC 28, Final","RUSH ATT,4 RUSH YD,6 TGT,5 REC,64 REC YD",$10,5.6,9.30,8,2025-10-28 16:30:15,Week 8,Monday
+Xavier Worthy,WR,"WAS 7 @ KC 28, Final","7 TGT,5 REC,53 REC YD",$24,7.7,7.80,9,2025-10-28 16:30:15,Week 8,Monday
+Washington Commanders,DEF,"WAS 7 @ KC 28, Final","28 PTS ALLOWED,3 SACK,2 INT",$11,5.9,6.00,10,2025-10-28 16:30:15,Week 8,Monday
+Isiah Pacheco,RB,"WAS 7 @ KC 28, Final","12 RUSH ATT,58 RUSH YD",$19,6.8,5.80,11,2025-10-28 16:30:15,Week 8,Monday
+Luke McCaffrey,WR,"WAS 7 @ KC 28, Final","3 TGT,3 REC,24 REC YD",$10,5.7,3.90,12,2025-10-28 16:30:15,Week 8,Monday
+JuJu Smith-Schuster,WR,"WAS 7 @ KC 28, Final","2 TGT,2 REC,29 REC YD",$10,5.9,3.90,13,2025-10-28 16:30:15,Week 8,Monday
+Zach Ertz,TE,"WAS 7 @ KC 28, Final","6 TGT,4 REC,16 REC YD",$15,8.0,3.60,14,2025-10-28 16:30:15,Week 8,Monday
+Noah Gray,TE,"WAS 7 @ KC 28, Final","4 TGT,2 REC,23 REC YD",$10,2.2,3.30,15,2025-10-28 16:30:15,Week 8,Monday
+Deebo Samuel,WR,"WAS 7 @ KC 28, Final","RUSH ATT,RUSH YD,6 TGT,3 REC,11 REC YD",$28,11.4,2.70,16,2025-10-28 16:30:15,Week 8,Monday
+John Bates,TE,"WAS 7 @ KC 28, Final","TGT,REC,22 REC YD",$10,1.7,2.70,17,2025-10-28 16:30:15,Week 8,Monday
+Ben Sinnott,TE,"WAS 7 @ KC 28, Final","TGT,REC,22 REC YD",$10,2.0,2.70,18,2025-10-28 16:30:15,Week 8,Monday
+Jacory Croskey-Merritt,RB,"WAS 7 @ KC 28, Final","9 RUSH ATT,25 RUSH YD,TGT",$21,8.7,2.50,19,2025-10-28 16:30:15,Week 8,Monday
+Brashard Smith,RB,"WAS 7 @ KC 28, Final","3 RUSH ATT,8 RUSH YD",$10,3.3,0.80,20,2025-10-28 16:30:15,Week 8,Monday
+Jaylin Lane,WR,"WAS 7 @ KC 28, Final","2 TGT,REC",$10,3.3,0.50,21,2025-10-28 16:30:15,Week 8,Monday
+Chris Rodriguez Jr.,RB,"WAS 7 @ KC 28, Final","RUSH ATT,2 RUSH YD",$10,3.6,0.20,22,2025-10-28 16:30:15,Week 8,Monday
+Josh Johnson,QB,"WAS 7 @ KC 28, Final",,$20,0.2,0.00,23,2025-10-28 16:30:15,Week 8,Monday
+Chris Moore,WR,"WAS 7 @ KC 28, Final",,$10,3.9,0.00,24,2025-10-28 16:30:15,Week 8,Monday
+Jayden DanielsQ,QB,"WAS 7 @ KC 28, Final",,$36,19.5,0.00,25,2025-10-28 16:30:15,Week 8,Monday
+Colson YankoffQ,TE,"WAS 7 @ KC 28, Final",,$10,—,0.00,26,2025-10-28 16:30:15,Week 8,Monday
+Robert Tonyan,TE,"WAS 7 @ KC 28, Final",,$10,—,0.00,27,2025-10-28 16:30:15,Week 8,Monday
+Hollywood Brown,WR,"WAS 7 @ KC 28, Final",TGT,$18,9.0,0.00,28,2025-10-28 16:30:16,Week 8,Monday
+Gardner Minshew,QB,"WAS 7 @ KC 28, Final",,$20,-0.3,0.00,29,2025-10-28 16:30:16,Week 8,Monday
+Elijah Mitchell,RB,"WAS 7 @ KC 28, Final",,$10,—,0.00,30,2025-10-28 16:30:16,Week 8,Monday
+Tyquan Thornton,WR,"WAS 7 @ KC 28, Final",,$11,9.4,0.00,31,2025-10-28 16:30:16,Week 8,Monday
+Nikko Remigio,WR,"WAS 7 @ KC 28, Final",,$10,0.5,0.00,32,2025-10-28 16:30:16,Week 8,Monday
+Jared Wiley,TE,"WAS 7 @ KC 28, Final",,$10,1.2,0.00,33,2025-10-28 16:30:16,Week 8,Monday
+Jalen Royals,WR,"WAS 7 @ KC 28, Final",,$10,—,0.00,34,2025-10-28 16:30:16,Week 8,Monday
+Robbie Chosen,WR,"WAS 7 @ KC 28, Final",,$10,5.6,0.00,35,2025-10-28 16:30:16,Week 8,Monday
