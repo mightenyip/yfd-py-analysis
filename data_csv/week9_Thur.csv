@@ -1,0 +1,37 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Lamar Jackson,QB,"BAL 28 @ MIA 6, Final","204 PASS YD,4 PASS TD,5 RUSH ATT,14 RUSH YD",$43,24.0,25.56,1,2025-10-31 16:14:41,Week 9,Thursday
+Mark Andrews,TE,"BAL 28 @ MIA 6, Final","2 RUSH ATT,4 RUSH YD,3 TGT,2 REC,22 REC YD,2 REC TD",$13,7.6,15.60,2,2025-10-31 16:14:41,Week 9,Thursday
+Baltimore Ravens,DEF,"BAL 28 @ MIA 6, Final","6 PTS ALLOWED,2 SACK,INT,2 FUM REC",$10,3.4,15.00,3,2025-10-31 16:14:41,Week 9,Thursday
+De'Von Achane,RB,"BAL 28 @ MIA 6, Final","14 RUSH ATT,67 RUSH YD,10 TGT,6 REC,39 REC YD",$37,16.8,13.60,4,2025-10-31 16:14:41,Week 9,Thursday
+Derrick Henry,RB,"BAL 28 @ MIA 6, Final","19 RUSH ATT,119 RUSH YD,TGT,REC,2 REC YD",$34,12.8,12.60,5,2025-10-31 16:14:42,Week 9,Thursday
+Jaylen Waddle,WR,"BAL 28 @ MIA 6, Final","9 TGT,6 REC,82 REC YD",$28,11.5,11.20,6,2025-10-31 16:14:42,Week 9,Thursday
+Tua Tagovailoa,QB,"BAL 28 @ MIA 6, Final","261 PASS YD,INT,RUSH ATT,RUSH YD",$29,13.8,9.54,7,2025-10-31 16:14:42,Week 9,Thursday
+Charlie Kolar,TE,"BAL 28 @ MIA 6, Final","2 TGT,2 REC,23 REC YD,REC TD",$10,3.6,9.30,8,2025-10-31 16:14:42,Week 9,Thursday
+Zay Flowers,WR,"BAL 28 @ MIA 6, Final","5 TGT,5 REC,64 REC YD",$25,10.5,8.90,9,2025-10-31 16:14:42,Week 9,Thursday
+Rashod Bateman,WR,"BAL 28 @ MIA 6, Final","4 TGT,2 REC,13 REC YD,REC TD",$14,4.7,8.30,10,2025-10-31 16:14:42,Week 9,Thursday
+Isaiah Likely,TE,"BAL 28 @ MIA 6, Final","4 TGT,3 REC,60 REC YD",$10,3.2,7.50,11,2025-10-31 16:14:42,Week 9,Thursday
+Greg Dulcich,TE,"BAL 28 @ MIA 6, Final","5 TGT,5 REC,49 REC YD",$10,7.4,7.40,12,2025-10-31 16:14:42,Week 9,Thursday
+Malik Washington,WR,"BAL 28 @ MIA 6, Final","3 RUSH ATT,13 RUSH YD,3 TGT,3 REC,48 REC YD,FUM LOST",$13,5.5,5.60,13,2025-10-31 16:14:42,Week 9,Thursday
+Nick Westbrook-Ikhine,WR,"BAL 28 @ MIA 6, Final","4 TGT,2 REC,22 REC YD",$10,1.7,3.20,14,2025-10-31 16:14:42,Week 9,Thursday
+Justice Hill,RB,"BAL 28 @ MIA 6, Final","RUSH ATT,2 RUSH YD,2 TGT,2 REC,13 REC YD",$14,5.9,2.50,15,2025-10-31 16:14:42,Week 9,Thursday
+Keaton Mitchell,RB,"BAL 28 @ MIA 6, Final","4 RUSH ATT,11 RUSH YD,TGT,REC,7 REC YD",$10,2.1,2.30,16,2025-10-31 16:14:42,Week 9,Thursday
+Ollie Gordon IIQ,RB,"BAL 28 @ MIA 6, Final","2 RUSH ATT,6 RUSH YD,TGT,REC,3 REC YD",$10,3.4,1.40,17,2025-10-31 16:14:42,Week 9,Thursday
+Cedrick Wilson Jr.,WR,"BAL 28 @ MIA 6, Final","TGT,REC,7 REC YD",$10,1.0,1.20,18,2025-10-31 16:14:42,Week 9,Thursday
+Miami Dolphins,DEF,"BAL 28 @ MIA 6, Final","28 PTS ALLOWED,2 SACK",$10,4.0,1.00,19,2025-10-31 16:14:42,Week 9,Thursday
+DeAndre Hopkins,WR,"BAL 28 @ MIA 6, Final",TGT,$10,4.5,0.00,20,2025-10-31 16:14:42,Week 9,Thursday
+Patrick Ricard,RB,"BAL 28 @ MIA 6, Final",,$10,—,0.00,21,2025-10-31 16:14:42,Week 9,Thursday
+Cooper RushO,QB,"BAL 28 @ MIA 6, Final",,$20,1.4,0.00,22,2025-10-31 16:14:42,Week 9,Thursday
+Tylan Wallace,WR,"BAL 28 @ MIA 6, Final",,$10,1.8,0.00,23,2025-10-31 16:14:42,Week 9,Thursday
+Devontez WalkerO,WR,"BAL 28 @ MIA 6, Final",,$10,6.5,0.00,24,2025-10-31 16:14:42,Week 9,Thursday
+Rasheen Ali,RB,"BAL 28 @ MIA 6, Final",,$10,0.1,0.00,25,2025-10-31 16:14:42,Week 9,Thursday
+LaJohntay Wester,WR,"BAL 28 @ MIA 6, Final",,$10,—,0.00,26,2025-10-31 16:14:42,Week 9,Thursday
+Alec Ingold,RB,"BAL 28 @ MIA 6, Final",,$10,1.3,0.00,27,2025-10-31 16:14:42,Week 9,Thursday
+Zach Wilson,QB,"BAL 28 @ MIA 6, Final",,$20,0.8,0.00,28,2025-10-31 16:14:42,Week 9,Thursday
+Dee Eskridge,WR,"BAL 28 @ MIA 6, Final",TGT,$10,0.8,0.00,29,2025-10-31 16:14:43,Week 9,Thursday
+Tanner Conner,TE,"BAL 28 @ MIA 6, Final",TGT,$10,1.7,0.00,30,2025-10-31 16:14:43,Week 9,Thursday
+Julian HillO,TE,"BAL 28 @ MIA 6, Final",,$10,2.1,0.00,31,2025-10-31 16:14:43,Week 9,Thursday
+Jaylen WrightO,RB,"BAL 28 @ MIA 6, Final",,$10,3.3,0.00,32,2025-10-31 16:14:43,Week 9,Thursday
+Quinn EwersO,QB,"BAL 28 @ MIA 6, Final",,$20,2.1,0.00,33,2025-10-31 16:14:43,Week 9,Thursday
+Tyler Huntley,QB,"BAL 28 @ MIA 6, Final",,$22,11.7,0.00,34,2025-10-31 16:14:43,Week 9,Thursday
+Hayden Rucci,TE,"BAL 28 @ MIA 6, Final",,$10,—,0.00,35,2025-10-31 16:14:43,Week 9,Thursday
+Tahj Washington,WR,"BAL 28 @ MIA 6, Final","2 TGT,REC,11 REC YD,FUM LOST",$10,-0.4,-0.40,36,2025-10-31 16:14:43,Week 9,Thursday
