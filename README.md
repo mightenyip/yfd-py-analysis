@@ -14,13 +14,30 @@ This project scrapes Yahoo's Daily Fantasy Sports completed games page to extrac
 
 The scraper captures data from all completed NFL games and organizes players by position into separate CSV files.
 
-**📅 Note: Current analysis includes Week 1-4 data from the 2025 NFL season. Results may vary significantly as the season progresses and sample sizes increase.**
+**📅 Note: Current analysis now includes data through Week 10 of the 2025 NFL season (TNF Week 2-10, SNF/MNF as noted). Results will continue to evolve as more games are added.**
 
 ## 📊 Thursday Night Football Analysis
 
+### Week 2-10 Snapshot (Through TNF Week 10)
+
+| Position | Entries | Avg Points | Avg Salary | Avg Points/$ | Median Points/$ | Season-High Points |
+|----------|---------|------------|------------|--------------|-----------------|--------------------|
+| DEF | 18 | 5.44 | 13.56 | **0.441** | 0.289 | 15.0 |
+| TE | 69 | 3.83 | 11.10 | **0.312** | 0.000 | 25.6 |
+| QB | 46 | 7.37 | 24.85 | 0.249 | 0.000 | 26.28 |
+| WR | 107 | 4.23 | 14.94 | 0.242 | 0.127 | 30.10 |
+| RB | 74 | 4.44 | 15.64 | 0.201 | 0.085 | 30.00 |
+
+**Latest TNF takeaways (Week 2-10):**
+- **Defenses remain the best per-dollar play**, delivering 0.44 pts/$ with double-digit point ceilings in 6 of 9 slates.
+- **Tight ends offer boom-or-bust value**—they average 0.31 pts/$ thanks to early-season spikes, but the Week 10 dud dragged the median back to 0.
+- **Quarterbacks carry the highest raw points (7.37),** yet their 0.25 pts/$ trails DEF/TE because of premium salaries.
+- **Wide receivers provide steady mid-tier value** (median 0.13 pts/$) with the top individual score (30.1 pts).
+- **Running backs lag in efficiency** at 0.20 pts/$ despite similar salaries to WR; the position has produced just one 30+ point outing.
+
 ### Position-Salary Heatmap
 
-Our analysis of Thursday Night Football games (Week 2-4) reveals optimal salary ranges for each position:
+Our deep-dive of Thursday Night Football games (Week 2-4 sample) reveals optimal salary ranges for each position:
 
 ![Thursday Night Football Position-Salary Heatmap](plots_images/thursday_position_salary_heatmap.png)
 
