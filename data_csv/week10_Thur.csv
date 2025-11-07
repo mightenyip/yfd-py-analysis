@@ -1,0 +1,35 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Denver Broncos,DEF,"LV 7 @ DEN 10, Final","7 PTS ALLOWED,6 SACK,INT,BLK KICK",$15,8.3,14.00,1,2025-11-07 16:13:11,Week 10,Thursday
+Ashton Jeanty,RB,"LV 7 @ DEN 10, Final","19 RUSH ATT,60 RUSH YD,RUSH TD,5 TGT,3 REC,3 REC YD",$34,13.3,13.80,2,2025-11-07 16:13:11,Week 10,Thursday
+Troy Franklin,WR,"LV 7 @ DEN 10, Final","9 TGT,5 REC,40 REC YD,REC TD",$21,9.8,12.50,3,2025-11-07 16:13:11,Week 10,Thursday
+Las Vegas Raiders,DEF,"LV 7 @ DEN 10, Final","10 PTS ALLOWED,2 SACK,2 INT",$10,4.6,10.00,4,2025-11-07 16:13:11,Week 10,Thursday
+J.K. Dobbins,RB,"LV 7 @ DEN 10, Final","18 RUSH ATT,77 RUSH YD,TGT,REC,7 REC YD",$24,11.0,8.90,5,2025-11-07 16:13:11,Week 10,Thursday
+Bo Nix,QB,"LV 7 @ DEN 10, Final","150 PASS YD,PASS TD,2 INT,5 RUSH ATT,-2 RUSH YD",$41,19.4,7.80,6,2025-11-07 16:13:11,Week 10,Thursday
+Tyler Lockett,WR,"LV 7 @ DEN 10, Final","6 TGT,5 REC,44 REC YD",$10,2.1,6.90,7,2025-11-07 16:13:11,Week 10,Thursday
+Geno SmithQ,QB,"LV 7 @ DEN 10, Final","143 PASS YD,INT,3 RUSH ATT,7 RUSH YD",$26,13.0,5.42,8,2025-11-07 16:13:11,Week 10,Thursday
+Pat Bryant,WR,"LV 7 @ DEN 10, Final","2 TGT,REC,43 REC YD",$10,3.7,4.80,9,2025-11-07 16:13:11,Week 10,Thursday
+Tre Tucker,WR,"LV 7 @ DEN 10, Final","RUSH ATT,7 RUSH YD,3 TGT,2 REC,28 REC YD",$17,10.0,4.50,10,2025-11-07 16:13:11,Week 10,Thursday
+Courtland Sutton,WR,"LV 7 @ DEN 10, Final","4 TGT,3 REC,24 REC YD",$27,10.5,3.90,11,2025-11-07 16:13:11,Week 10,Thursday
+Michael Mayer,TE,"LV 7 @ DEN 10, Final","4 TGT,3 REC,22 REC YD",$10,4.4,3.70,12,2025-11-07 16:13:11,Week 10,Thursday
+Brock Bowers,TE,"LV 7 @ DEN 10, Final","RUSH ATT,-4 RUSH YD,3 TGT,REC,31 REC YD",$21,12.4,3.20,13,2025-11-07 16:13:11,Week 10,Thursday
+RJ Harvey,RB,"LV 7 @ DEN 10, Final","4 RUSH ATT,9 RUSH YD,3 TGT,2 REC,9 REC YD",$20,8.7,2.80,14,2025-11-07 16:13:11,Week 10,Thursday
+Evan Engram,TE,"LV 7 @ DEN 10, Final","5 TGT,2 REC,12 REC YD",$14,4.8,2.20,15,2025-11-07 16:13:11,Week 10,Thursday
+Raheem Mostert,RB,"LV 7 @ DEN 10, Final","RUSH ATT,4 RUSH YD,TGT,REC,11 REC YD",$10,2.4,2.00,16,2025-11-07 16:13:11,Week 10,Thursday
+Adam Prentice,RB,"LV 7 @ DEN 10, Final","TGT,REC,13 REC YD",$10,0.6,1.80,17,2025-11-07 16:13:11,Week 10,Thursday
+Dont'e Thornton Jr.,WR,"LV 7 @ DEN 10, Final","2 TGT,REC,4 REC YD",$10,1.8,0.90,18,2025-11-07 16:13:11,Week 10,Thursday
+Adam Trautman,TE,"LV 7 @ DEN 10, Final","TGT,REC,2 REC YD",$10,3.3,0.70,19,2025-11-07 16:13:12,Week 10,Thursday
+Ian Thomas,TE,"LV 7 @ DEN 10, Final",,$10,1.5,0.00,20,2025-11-07 16:13:12,Week 10,Thursday
+Alex Bachman,WR,"LV 7 @ DEN 10, Final",,$10,0.3,0.00,21,2025-11-07 16:13:12,Week 10,Thursday
+Jakobi Meyers,WR,"LV 7 @ DEN 10, Final",,$23,7.4,0.00,22,2025-11-07 16:13:12,Week 10,Thursday
+Kenny Pickett,QB,"LV 7 @ DEN 10, Final",,$20,-0.8,0.00,23,2025-11-07 16:13:12,Week 10,Thursday
+Zamir WhiteO,RB,"LV 7 @ DEN 10, Final",,$10,2.0,0.00,24,2025-11-07 16:13:12,Week 10,Thursday
+Dylan Laube,RB,"LV 7 @ DEN 10, Final",,$10,0.4,0.00,25,2025-11-07 16:13:12,Week 10,Thursday
+Jack Bech,WR,"LV 7 @ DEN 10, Final",TGT,$10,1.4,0.00,26,2025-11-07 16:13:12,Week 10,Thursday
+Carter RunyonO,TE,"LV 7 @ DEN 10, Final",,$10,0.4,0.00,27,2025-11-07 16:13:12,Week 10,Thursday
+Trent Sherfield Sr.,WR,"LV 7 @ DEN 10, Final",,$10,0.9,0.00,28,2025-11-07 16:13:12,Week 10,Thursday
+Jarrett Stidham,QB,"LV 7 @ DEN 10, Final",,$20,-0.1,0.00,29,2025-11-07 16:13:12,Week 10,Thursday
+Tyler Badie,RB,"LV 7 @ DEN 10, Final",TGT,$10,1.6,0.00,30,2025-11-07 16:13:12,Week 10,Thursday
+Marvin Mims Jr.O,WR,"LV 7 @ DEN 10, Final",,$15,5.5,0.00,31,2025-11-07 16:13:12,Week 10,Thursday
+Jaleel McLaughlinO,RB,"LV 7 @ DEN 10, Final",,$10,—,0.00,32,2025-11-07 16:13:12,Week 10,Thursday
+Nate AdkinsO,TE,"LV 7 @ DEN 10, Final",,$10,2.3,0.00,33,2025-11-07 16:13:12,Week 10,Thursday
+Aidan O'ConnellIR,QB,"LV 7 @ DEN 10, Final",,$20,10.8,0.00,34,2025-11-07 16:13:12,Week 10,Thursday
