@@ -1,0 +1,38 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+TreVeyon Henderson,RB,"NYJ 14 @ NE 27, Final","19 RUSH ATT,62 RUSH YD,2 RUSH TD,5 TGT,5 REC,31 REC YD,REC TD",$25,10.2,29.80,1,2025-11-14 16:15:19,Week 11,Thursday
+Justin Fields,QB,"NYJ 14 @ NE 27, Final","116 PASS YD,PASS TD,11 RUSH ATT,67 RUSH YD,RUSH TD,TGT,FUM LOST",$27,16.0,19.34,2,2025-11-14 16:15:19,Week 11,Thursday
+Drake Maye,QB,"NYJ 14 @ NE 27, Final","281 PASS YD,PASS TD,4 RUSH ATT,2 RUSH YD",$41,20.7,15.44,3,2025-11-14 16:15:19,Week 11,Thursday
+Stefon Diggs,WR,"NYJ 14 @ NE 27, Final","11 TGT,9 REC,105 REC YD",$29,10.3,15.00,4,2025-11-14 16:15:19,Week 11,Thursday
+John Metchie III,WR,"NYJ 14 @ NE 27, Final","3 TGT,3 REC,45 REC YD,REC TD",$10,2.7,12.00,5,2025-11-14 16:15:19,Week 11,Thursday
+Mack Hollins,WR,"NYJ 14 @ NE 27, Final","5 TGT,4 REC,64 REC YD",$14,6.6,8.40,6,2025-11-14 16:15:20,Week 11,Thursday
+Breece Hall,RB,"NYJ 14 @ NE 27, Final","14 RUSH ATT,58 RUSH YD,2 TGT,2 REC,6 REC YD",$33,12.7,7.40,7,2025-11-14 16:15:20,Week 11,Thursday
+Hunter Henry,TE,"NYJ 14 @ NE 27, Final","6 TGT,4 REC,45 REC YD",$16,7.6,6.50,8,2025-11-14 16:15:20,Week 11,Thursday
+Mason Taylor,TE,"NYJ 14 @ NE 27, Final","4 TGT,4 REC,30 REC YD",$11,5.3,5.00,9,2025-11-14 16:15:20,Week 11,Thursday
+New England Patriots,DEF,"NYJ 14 @ NE 27, Final","14 PTS ALLOWED,2 SACK,FUM REC",$17,7.6,5.00,10,2025-11-14 16:15:20,Week 11,Thursday
+DeMario Douglas,WR,"NYJ 14 @ NE 27, Final","RUSH ATT,-5 RUSH YD,3 TGT,3 REC,36 REC YD",$15,6.3,4.60,11,2025-11-14 16:15:20,Week 11,Thursday
+Jeremy Ruckert,TE,"NYJ 14 @ NE 27, Final","5 TGT,4 REC,23 REC YD",$10,2.8,4.30,12,2025-11-14 16:15:20,Week 11,Thursday
+Adonai Mitchell,WR,"NYJ 14 @ NE 27, Final","6 TGT,REC,10 REC YD",$10,2.1,1.50,13,2025-11-14 16:15:20,Week 11,Thursday
+Isaiah Davis,RB,"NYJ 14 @ NE 27, Final","2 RUSH ATT,11 RUSH YD,TGT",$11,3.4,1.10,14,2025-11-14 16:15:20,Week 11,Thursday
+Isaiah Williams,WR,"NYJ 14 @ NE 27, Final","RUSH ATT,4 RUSH YD,4 TGT,REC,2 REC YD",$10,2.2,1.10,15,2025-11-14 16:15:20,Week 11,Thursday
+New York Jets,DEF,"NYJ 14 @ NE 27, Final","27 PTS ALLOWED,SACK",$11,4.1,1.00,16,2025-11-14 16:15:20,Week 11,Thursday
+D'Ernest Johnson,RB,"NYJ 14 @ NE 27, Final","3 RUSH ATT,6 RUSH YD",$10,0.2,0.60,17,2025-11-14 16:15:20,Week 11,Thursday
+Tyrod Taylor,QB,"NYJ 14 @ NE 27, Final",,$20,10.1,0.00,18,2025-11-14 16:15:20,Week 11,Thursday
+Allen Lazard,WR,"NYJ 14 @ NE 27, Final",,$10,2.8,0.00,19,2025-11-14 16:15:20,Week 11,Thursday
+Andrew Beck,RB,"NYJ 14 @ NE 27, Final",,$10,1.5,0.00,20,2025-11-14 16:15:20,Week 11,Thursday
+Tyler Johnson,WR,"NYJ 14 @ NE 27, Final",,$10,4.2,0.00,21,2025-11-14 16:15:20,Week 11,Thursday
+Kene Nwangwu,RB,"NYJ 14 @ NE 27, Final",,$10,1.2,0.00,22,2025-11-14 16:15:20,Week 11,Thursday
+Khalil HerbertO,RB,"NYJ 14 @ NE 27, Final",,$10,—,0.00,23,2025-11-14 16:15:20,Week 11,Thursday
+Garrett WilsonIR,WR,"NYJ 14 @ NE 27, Final",,$25,11.6,0.00,24,2025-11-14 16:15:20,Week 11,Thursday
+Jelani WoodsO,TE,"NYJ 14 @ NE 27, Final",,$10,—,0.00,25,2025-11-14 16:15:20,Week 11,Thursday
+Irvin CharlesPUP,WR,"NYJ 14 @ NE 27, Final",,$10,—,0.00,26,2025-11-14 16:15:20,Week 11,Thursday
+Stone Smartt,TE,"NYJ 14 @ NE 27, Final",,$10,—,0.00,27,2025-11-14 16:15:20,Week 11,Thursday
+Arian Smith,WR,"NYJ 14 @ NE 27, Final",,$10,1.0,0.00,28,2025-11-14 16:15:20,Week 11,Thursday
+Austin HooperO,TE,"NYJ 14 @ NE 27, Final",,$10,3.3,0.00,29,2025-11-14 16:15:20,Week 11,Thursday
+Joshua Dobbs,QB,"NYJ 14 @ NE 27, Final",,$20,0.0,0.00,30,2025-11-14 16:15:20,Week 11,Thursday
+Rhamondre StevensonO,RB,"NYJ 14 @ NE 27, Final",,$18,8.4,0.00,31,2025-11-14 16:15:21,Week 11,Thursday
+Kayshon BoutteO,WR,"NYJ 14 @ NE 27, Final",,$17,9.4,0.00,32,2025-11-14 16:15:21,Week 11,Thursday
+Tommy DeVitoO,QB,"NYJ 14 @ NE 27, Final",,$20,6.7,0.00,33,2025-11-14 16:15:21,Week 11,Thursday
+Jack Westover,RB,"NYJ 14 @ NE 27, Final",,$10,—,0.00,34,2025-11-14 16:15:21,Week 11,Thursday
+Kyle Williams,WR,"NYJ 14 @ NE 27, Final",3 TGT,$10,2.1,0.00,35,2025-11-14 16:15:21,Week 11,Thursday
+Efton Chism III,WR,"NYJ 14 @ NE 27, Final",,$10,—,0.00,36,2025-11-14 16:15:21,Week 11,Thursday
+Terrell Jennings,RB,"NYJ 14 @ NE 27, Final",,$10,3.7,0.00,37,2025-11-14 16:15:21,Week 11,Thursday
