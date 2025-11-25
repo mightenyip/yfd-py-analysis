@@ -1,0 +1,36 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Christian McCaffrey,RB,"CAR 9 @ SF 20, Final","24 RUSH ATT,89 RUSH YD,RUSH TD,7 TGT,7 REC,53 REC YD",$47,22.5,23.70,1,2025-11-25 16:30:43,Week 12,Monday
+Jauan Jennings,WR,"CAR 9 @ SF 20, Final","7 TGT,5 REC,41 REC YD,REC TD",$24,8.4,12.60,2,2025-11-25 16:30:43,Week 12,Monday
+George Kittle,TE,"CAR 9 @ SF 20, Final","10 TGT,6 REC,78 REC YD",$24,11.3,10.80,3,2025-11-25 16:30:43,Week 12,Monday
+Tetairoa McMillan,WR,"CAR 9 @ SF 20, Final","7 TGT,2 REC,35 REC YD,REC TD",$31,11.4,10.50,4,2025-11-25 16:30:43,Week 12,Monday
+Brock Purdy,QB,"CAR 9 @ SF 20, Final","193 PASS YD,PASS TD,3 INT,6 RUSH ATT,16 RUSH YD",$36,17.0,10.32,5,2025-11-25 16:30:43,Week 12,Monday
+Bryce Young,QB,"CAR 9 @ SF 20, Final","169 PASS YD,PASS TD,2 INT,4 RUSH ATT,15 RUSH YD",$28,13.3,10.26,6,2025-11-25 16:30:43,Week 12,Monday
+Rico Dowdle,RB,"CAR 9 @ SF 20, Final","6 RUSH ATT,38 RUSH YD,4 TGT,4 REC,36 REC YD",$32,13.3,9.40,7,2025-11-25 16:30:43,Week 12,Monday
+San Francisco 49ers,DEF,"CAR 9 @ SF 20, Final","9 PTS ALLOWED,SACK,2 INT",$10,4.2,9.00,8,2025-11-25 16:30:44,Week 12,Monday
+Carolina Panthers,DEF,"CAR 9 @ SF 20, Final","20 PTS ALLOWED,3 INT",$11,5.4,7.00,9,2025-11-25 16:30:44,Week 12,Monday
+Chuba Hubbard,RB,"CAR 9 @ SF 20, Final","3 RUSH ATT,16 RUSH YD,4 TGT,4 REC,27 REC YD",$15,7.9,6.30,10,2025-11-25 16:30:44,Week 12,Monday
+Brian Robinson Jr.,RB,"CAR 9 @ SF 20, Final","7 RUSH ATT,40 RUSH YD,2 TGT,REC,4 REC YD",$11,4.0,4.90,11,2025-11-25 16:30:44,Week 12,Monday
+Jalen Coker,WR,"CAR 9 @ SF 20, Final","4 TGT,3 REC,32 REC YD",$13,4.0,4.70,12,2025-11-25 16:30:44,Week 12,Monday
+Xavier Legette,WR,"CAR 9 @ SF 20, Final","5 TGT,3 REC,22 REC YD",$14,6.0,3.70,13,2025-11-25 16:30:44,Week 12,Monday
+Ricky Pearsall,WR,"CAR 9 @ SF 20, Final","RUSH ATT,2 RUSH YD,4 TGT,2 REC,6 REC YD",$20,6.4,1.80,14,2025-11-25 16:30:44,Week 12,Monday
+Jimmy Horn Jr.,WR,"CAR 9 @ SF 20, Final","TGT,REC,11 REC YD",$10,2.6,1.60,15,2025-11-25 16:30:44,Week 12,Monday
+Demarcus Robinson,WR,"CAR 9 @ SF 20, Final","TGT,REC,8 REC YD",$10,2.8,1.30,16,2025-11-25 16:30:44,Week 12,Monday
+Ja'Tavion Sanders,TE,"CAR 9 @ SF 20, Final","TGT,REC,6 REC YD",$10,3.3,1.10,17,2025-11-25 16:30:44,Week 12,Monday
+Luke Farrell,TE,"CAR 9 @ SF 20, Final","TGT,REC,3 REC YD",$10,2.2,0.80,18,2025-11-25 16:30:44,Week 12,Monday
+Andy Dalton,QB,"CAR 9 @ SF 20, Final",,$20,2.6,0.00,19,2025-11-25 16:30:44,Week 12,Monday
+Hunter Renfrow,WR,"CAR 9 @ SF 20, Final",,$10,4.7,0.00,20,2025-11-25 16:30:44,Week 12,Monday
+Tommy Tremble,TE,"CAR 9 @ SF 20, Final",,$10,3.1,0.00,21,2025-11-25 16:30:44,Week 12,Monday
+James Mitchell,TE,"CAR 9 @ SF 20, Final",,$10,2.2,0.00,22,2025-11-25 16:30:44,Week 12,Monday
+Brycen Tremayne,WR,"CAR 9 @ SF 20, Final",,$10,1.9,0.00,23,2025-11-25 16:30:44,Week 12,Monday
+Jonathon BrooksPUP,RB,"CAR 9 @ SF 20, Final",,$10,2.0,0.00,24,2025-11-25 16:30:44,Week 12,Monday
+Trevor Etienne,RB,"CAR 9 @ SF 20, Final",,$10,0.9,0.00,25,2025-11-25 16:30:44,Week 12,Monday
+Mitchell Evans,TE,"CAR 9 @ SF 20, Final",TGT,$10,3.3,0.00,26,2025-11-25 16:30:44,Week 12,Monday
+Kyle Juszczyk,RB,"CAR 9 @ SF 20, Final",,$10,2.6,0.00,27,2025-11-25 16:30:44,Week 12,Monday
+Kendrick Bourne,WR,"CAR 9 @ SF 20, Final",,$10,7.1,0.00,28,2025-11-25 16:30:44,Week 12,Monday
+Brandon AiyukPUP,WR,"CAR 9 @ SF 20, Final",,$14,7.1,0.00,29,2025-11-25 16:30:44,Week 12,Monday
+Mac Jones,QB,"CAR 9 @ SF 20, Final",,$20,15.1,0.00,30,2025-11-25 16:30:44,Week 12,Monday
+Skyy Moore,WR,"CAR 9 @ SF 20, Final",,$10,0.7,0.00,31,2025-11-25 16:30:44,Week 12,Monday
+Jake Tonges,TE,"CAR 9 @ SF 20, Final",,$10,7.5,0.00,32,2025-11-25 16:30:45,Week 12,Monday
+Isaac Guerendo,RB,"CAR 9 @ SF 20, Final",,$10,—,0.00,33,2025-11-25 16:30:45,Week 12,Monday
+Jordan Watkins,WR,"CAR 9 @ SF 20, Final",,$10,1.8,0.00,34,2025-11-25 16:30:45,Week 12,Monday
+Jordan James,RB,"CAR 9 @ SF 20, Final",,$10,—,0.00,35,2025-11-25 16:30:45,Week 12,Monday
