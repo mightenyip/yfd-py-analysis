@@ -1,0 +1,110 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Patrick Mahomes,QB,"KC 28 @ DAL 31, Final","261 PASS YD,4 PASS TD,3 RUSH ATT,30 RUSH YD",$41,22.8,29.44,1,2025-11-28 16:14:54,Week 13,Thursday
+Jordan Love,QB,"GB 31 @ DET 24, Final","234 PASS YD,4 PASS TD,5 RUSH ATT,4 RUSH YD",$29,16.8,25.76,2,2025-11-28 16:14:54,Week 13,Thursday
+Rashee Rice,WR,"KC 28 @ DAL 31, Final","RUSH ATT,2 RUSH YD,12 TGT,8 REC,92 REC YD,2 REC TD",$37,18.3,25.40,3,2025-11-28 16:14:54,Week 13,Thursday
+Dontayvion Wicks,WR,"GB 31 @ DET 24, Final","RUSH ATT,6 RUSH YD,7 TGT,6 REC,94 REC YD,2 REC TD",$10,5.6,25.00,4,2025-11-28 16:14:54,Week 13,Thursday
+Jameson Williams,WR,"GB 31 @ DET 24, Final","RUSH ATT,-5 RUSH YD,10 TGT,7 REC,144 REC YD,REC TD",$22,10.5,23.40,5,2025-11-28 16:14:54,Week 13,Thursday
+Dak Prescott,QB,"KC 28 @ DAL 31, Final","320 PASS YD,2 PASS TD,INT,3 RUSH ATT,-2 RUSH YD,2PT",$41,20.7,21.60,6,2025-11-28 16:14:54,Week 13,Thursday
+CeeDee Lamb,WR,"KC 28 @ DAL 31, Final","9 TGT,7 REC,112 REC YD,REC TD",$34,13.1,20.70,7,2025-11-28 16:14:54,Week 13,Thursday
+Jared Goff,QB,"GB 31 @ DET 24, Final","256 PASS YD,2 PASS TD,RUSH ATT,24 RUSH YD",$35,18.1,20.64,8,2025-11-28 16:14:54,Week 13,Thursday
+Joe Burrow,QB,"CIN 32 @ BAL 14, Final","261 PASS YD,2 PASS TD,3 RUSH ATT,8 RUSH YD",$34,11.7,19.24,9,2025-11-28 16:14:54,Week 13,Thursday
+Derrick Henry,RB,"CIN 32 @ BAL 14, Final","10 RUSH ATT,60 RUSH YD,RUSH TD,TGT,REC,44 REC YD",$36,14.2,16.90,10,2025-11-28 16:14:54,Week 13,Thursday
+Christian Watson,WR,"GB 31 @ DET 24, Final","RUSH ATT,3 RUSH YD,10 TGT,4 REC,80 REC YD,REC TD",$17,10.9,16.30,11,2025-11-28 16:14:54,Week 13,Thursday
+Javonte Williams,RB,"KC 28 @ DAL 31, Final","17 RUSH ATT,59 RUSH YD,3 TGT,3 REC,21 REC YD,REC TD",$32,15.0,15.50,12,2025-11-28 16:14:54,Week 13,Thursday
+Chase Brown,RB,"CIN 32 @ BAL 14, Final","15 RUSH ATT,78 RUSH YD,7 TGT,7 REC,35 REC YD",$32,11.9,14.80,13,2025-11-28 16:14:54,Week 13,Thursday
+Ja'Marr Chase,WR,"CIN 32 @ BAL 14, Final","14 TGT,7 REC,110 REC YD",$38,15.3,14.50,14,2025-11-28 16:14:54,Week 13,Thursday
+George Pickens,WR,"KC 28 @ DAL 31, Final","13 TGT,6 REC,88 REC YD,2PT",$39,16.7,13.80,15,2025-11-28 16:14:54,Week 13,Thursday
+Travis Kelce,TE,"KC 28 @ DAL 31, Final","6 TGT,5 REC,45 REC YD,REC TD",$20,11.1,13.00,16,2025-11-28 16:14:54,Week 13,Thursday
+Cincinnati Bengals,DEF,"CIN 32 @ BAL 14, Final","14 PTS ALLOWED,3 SACK,INT,3 FUM REC",$10,3.8,12.00,17,2025-11-28 16:14:54,Week 13,Thursday
+David Montgomery,RB,"GB 31 @ DET 24, Final","8 RUSH ATT,32 RUSH YD,RUSH TD,2 TGT,2 REC,16 REC YD",$22,10.0,11.80,18,2025-11-28 16:14:54,Week 13,Thursday
+Malik Davis,RB,"KC 28 @ DAL 31, Final","3 RUSH ATT,47 RUSH YD,RUSH TD",$10,2.6,10.70,19,2025-11-28 16:14:54,Week 13,Thursday
+Isaac TeSlaa,WR,"GB 31 @ DET 24, Final","2 TGT,2 REC,35 REC YD,REC TD",$10,3.4,10.50,20,2025-11-28 16:14:55,Week 13,Thursday
+Jahmyr Gibbs,RB,"GB 31 @ DET 24, Final","20 RUSH ATT,68 RUSH YD,4 TGT,3 REC,18 REC YD",$46,20.4,10.10,21,2025-11-28 16:14:55,Week 13,Thursday
+Keaton Mitchell,RB,"CIN 32 @ BAL 14, Final","2 RUSH ATT,19 RUSH YD,RUSH TD,3 TGT,2 REC,12 REC YD",$10,3.8,10.10,22,2025-11-28 16:14:55,Week 13,Thursday
+Romeo Doubs,WR,"GB 31 @ DET 24, Final","4 TGT,4 REC,20 REC YD,REC TD",$18,9.1,10.00,23,2025-11-28 16:14:55,Week 13,Thursday
+Isaiah Likely,TE,"CIN 32 @ BAL 14, Final","6 TGT,5 REC,95 REC YD,FUM LOST",$10,3.7,10.00,24,2025-11-28 16:14:55,Week 13,Thursday
+Josh Jacobs,RB,"GB 31 @ DET 24, Final","17 RUSH ATT,83 RUSH YD,TGT,REC,8 REC YD",$34,16.0,9.60,25,2025-11-28 16:14:55,Week 13,Thursday
+Xavier Worthy,WR,"KC 28 @ DAL 31, Final","2 RUSH ATT,13 RUSH YD,6 TGT,4 REC,61 REC YD",$22,7.2,9.40,26,2025-11-28 16:14:55,Week 13,Thursday
+Andrei Iosivas,WR,"CIN 32 @ BAL 14, Final","2 TGT,REC,29 REC YD,REC TD",$14,6.0,9.40,27,2025-11-28 16:14:55,Week 13,Thursday
+Hollywood Brown,WR,"KC 28 @ DAL 31, Final","2 TGT,2 REC,20 REC YD,REC TD",$12,8.0,9.00,28,2025-11-28 16:14:55,Week 13,Thursday
+Kareem Hunt,RB,"KC 28 @ DAL 31, Final","14 RUSH ATT,58 RUSH YD,2 TGT,REC,22 REC YD",$24,9.7,8.50,29,2025-11-28 16:14:55,Week 13,Thursday
+Tanner Hudson,TE,"CIN 32 @ BAL 14, Final","2 TGT,REC,14 REC YD,REC TD",$10,4.8,7.90,30,2025-11-28 16:14:55,Week 13,Thursday
+Lamar Jackson,QB,"CIN 32 @ BAL 14, Final","246 PASS YD,INT,6 RUSH ATT,27 RUSH YD,2 FUM LOST",$39,17.6,7.54,31,2025-11-28 16:14:55,Week 13,Thursday
+KaVontae Turpin,WR,"KC 28 @ DAL 31, Final","3 RUSH ATT,33 RUSH YD,2 TGT,2 REC,28 REC YD",$10,4.6,7.10,32,2025-11-28 16:14:55,Week 13,Thursday
+Mark Andrews,TE,"CIN 32 @ BAL 14, Final","6 TGT,4 REC,47 REC YD",$17,7.7,6.70,33,2025-11-28 16:14:55,Week 13,Thursday
+Jake Ferguson,TE,"KC 28 @ DAL 31, Final","6 TGT,5 REC,36 REC YD",$18,10.4,6.10,34,2025-11-28 16:14:55,Week 13,Thursday
+Ryan Flournoy,WR,"KC 28 @ DAL 31, Final","3 TGT,3 REC,34 REC YD",$10,4.4,4.90,35,2025-11-28 16:14:55,Week 13,Thursday
+Samaje Perine,RB,"CIN 32 @ BAL 14, Final","14 RUSH ATT,39 RUSH YD,2 TGT,2 REC,15 REC YD,FUM LOST",$11,3.5,4.40,36,2025-11-28 16:14:55,Week 13,Thursday
+Isiah Pacheco,RB,"KC 28 @ DAL 31, Final","3 RUSH ATT,16 RUSH YD,2 TGT,2 REC,17 REC YD",$18,6.6,4.30,37,2025-11-28 16:14:55,Week 13,Thursday
+DeAndre Hopkins,WR,"CIN 32 @ BAL 14, Final","3 TGT,2 REC,25 REC YD",$10,3.9,3.50,38,2025-11-28 16:14:55,Week 13,Thursday
+Mitch Tinsley,WR,"CIN 32 @ BAL 14, Final","9 TGT,2 REC,22 REC YD",$10,4.3,3.20,39,2025-11-28 16:14:55,Week 13,Thursday
+Green Bay Packers,DEF,"GB 31 @ DET 24, Final","24 PTS ALLOWED,3 SACK",$14,6.1,3.00,40,2025-11-28 16:14:55,Week 13,Thursday
+Mike Gesicki,TE,"CIN 32 @ BAL 14, Final","4 TGT,2 REC,19 REC YD",$10,2.6,2.90,41,2025-11-28 16:14:55,Week 13,Thursday
+Luke Musgrave,TE,"GB 31 @ DET 24, Final","TGT,REC,23 REC YD",$10,2.1,2.80,42,2025-11-28 16:14:55,Week 13,Thursday
+Drew Sample,TE,"CIN 32 @ BAL 14, Final","RUSH ATT,3 RUSH YD,2 TGT,REC,14 REC YD",$10,1.7,2.20,43,2025-11-28 16:14:55,Week 13,Thursday
+Charlie Kolar,TE,"CIN 32 @ BAL 14, Final","TGT,REC,17 REC YD",$10,2.7,2.20,44,2025-11-28 16:14:56,Week 13,Thursday
+Dallas Cowboys,DEF,"KC 28 @ DAL 31, Final","28 PTS ALLOWED,3 SACK",$11,4.6,2.00,45,2025-11-28 16:14:56,Week 13,Thursday
+Baltimore Ravens,DEF,"CIN 32 @ BAL 14, Final","32 PTS ALLOWED,SACK,FUM REC",$15,4.8,2.00,46,2025-11-28 16:14:56,Week 13,Thursday
+Chris Brooks,RB,"GB 31 @ DET 24, Final","2 TGT,2 REC,9 REC YD",$10,1.4,1.90,47,2025-11-28 16:14:56,Week 13,Thursday
+Rasheen Ali,RB,"CIN 32 @ BAL 14, Final","4 RUSH ATT,17 RUSH YD",$10,0.4,1.70,48,2025-11-28 16:14:56,Week 13,Thursday
+Bo Melton,WR,"GB 31 @ DET 24, Final","2 RUSH ATT,15 RUSH YD,TGT",$10,1.0,1.50,49,2025-11-28 16:14:56,Week 13,Thursday
+Emanuel Wilson,RB,"GB 31 @ DET 24, Final","4 RUSH ATT,14 RUSH YD",$19,5.8,1.40,50,2025-11-28 16:14:56,Week 13,Thursday
+Kansas City Chiefs,DEF,"KC 28 @ DAL 31, Final","31 PTS ALLOWED,INT",$11,5.3,1.00,51,2025-11-28 16:14:56,Week 13,Thursday
+Anthony Firkser,TE,"GB 31 @ DET 24, Final","TGT,REC,4 REC YD",$10,0.9,0.90,52,2025-11-28 16:14:56,Week 13,Thursday
+Jared Wiley,TE,"KC 28 @ DAL 31, Final","TGT,REC,4 REC YD",$10,0.9,0.90,53,2025-11-28 16:14:56,Week 13,Thursday
+Ross Dwelley,TE,"GB 31 @ DET 24, Final","3 TGT,REC,3 REC YD",$10,0.3,0.80,54,2025-11-28 16:14:56,Week 13,Thursday
+Noah Fant,TE,"CIN 32 @ BAL 14, Final","2 TGT,REC,3 REC YD",$10,5.7,0.80,55,2025-11-28 16:14:56,Week 13,Thursday
+Luke Schoonmaker,TE,"KC 28 @ DAL 31, Final","TGT,REC,REC YD",$10,1.1,0.60,56,2025-11-28 16:14:56,Week 13,Thursday
+Malik Willis,QB,"GB 31 @ DET 24, Final",,$20,3.2,0.00,57,2025-11-28 16:14:56,Week 13,Thursday
+John FitzPatrick,TE,"GB 31 @ DET 24, Final",TGT,$10,1.7,0.00,58,2025-11-28 16:14:56,Week 13,Thursday
+Josh Whyle,TE,"GB 31 @ DET 24, Final",TGT,$10,2.4,0.00,59,2025-11-28 16:14:56,Week 13,Thursday
+Malik Heath,WR,"GB 31 @ DET 24, Final",TGT,$10,2.3,0.00,60,2025-11-28 16:14:56,Week 13,Thursday
+Matthew GoldenO,WR,"GB 31 @ DET 24, Final",,$16,5.0,0.00,61,2025-11-28 16:14:56,Week 13,Thursday
+Savion WilliamsO,WR,"GB 31 @ DET 24, Final",,$10,1.8,0.00,62,2025-11-28 16:14:56,Week 13,Thursday
+Kalif RaymondO,WR,"GB 31 @ DET 24, Final",,$10,3.0,0.00,63,2025-11-28 16:14:56,Week 13,Thursday
+Kyle Allen,QB,"GB 31 @ DET 24, Final",,$20,-0.2,0.00,64,2025-11-28 16:14:56,Week 13,Thursday
+Craig Reynolds,RB,"GB 31 @ DET 24, Final",,$10,0.1,0.00,65,2025-11-28 16:14:56,Week 13,Thursday
+Amon-Ra St. BrownQ,WR,"GB 31 @ DET 24, Final",TGT,$37,15.1,0.00,66,2025-11-28 16:14:56,Week 13,Thursday
+Brock WrightO,TE,"GB 31 @ DET 24, Final",,$10,4.3,0.00,67,2025-11-28 16:14:56,Week 13,Thursday
+Jacob Saylors,RB,"GB 31 @ DET 24, Final",,$10,0.1,0.00,68,2025-11-28 16:14:56,Week 13,Thursday
+Sione Vaki,RB,"GB 31 @ DET 24, Final",,$10,0.1,0.00,69,2025-11-28 16:14:57,Week 13,Thursday
+Dominic Lovett,WR,"GB 31 @ DET 24, Final",,$10,—,0.00,70,2025-11-28 16:14:57,Week 13,Thursday
+Jayden ReedIR,WR,"GB 31 @ DET 24, Final",,$14,6.0,0.00,71,2025-11-28 16:14:57,Week 13,Thursday
+Pierre Strong Jr.,RB,"GB 31 @ DET 24, Final",,$10,2.4,0.00,72,2025-11-28 16:14:57,Week 13,Thursday
+MarShawn LloydIR,RB,"GB 31 @ DET 24, Final",,$10,—,0.00,73,2025-11-28 16:14:57,Week 13,Thursday
+JuJu Smith-Schuster,WR,"KC 28 @ DAL 31, Final",TGT,$10,4.4,0.00,74,2025-11-28 16:14:57,Week 13,Thursday
+Robert Tonyan,TE,"KC 28 @ DAL 31, Final",,$10,0.2,0.00,75,2025-11-28 16:14:57,Week 13,Thursday
+Gardner Minshew,QB,"KC 28 @ DAL 31, Final",,$20,-0.3,0.00,76,2025-11-28 16:14:57,Week 13,Thursday
+Noah GrayO,TE,"KC 28 @ DAL 31, Final",,$10,2.1,0.00,77,2025-11-28 16:14:57,Week 13,Thursday
+Elijah MitchellO,RB,"KC 28 @ DAL 31, Final",,$10,—,0.00,78,2025-11-28 16:14:57,Week 13,Thursday
+Tyquan Thornton,WR,"KC 28 @ DAL 31, Final",,$10,6.3,0.00,79,2025-11-28 16:14:57,Week 13,Thursday
+Nikko Remigio,WR,"KC 28 @ DAL 31, Final",,$10,0.3,0.00,80,2025-11-28 16:14:57,Week 13,Thursday
+Jalen RoyalsO,WR,"KC 28 @ DAL 31, Final",,$10,—,0.00,81,2025-11-28 16:14:57,Week 13,Thursday
+Brashard Smith,RB,"KC 28 @ DAL 31, Final",,$10,2.9,0.00,82,2025-11-28 16:14:57,Week 13,Thursday
+Jalen Tolbert,WR,"KC 28 @ DAL 31, Final",,$10,3.6,0.00,83,2025-11-28 16:14:57,Week 13,Thursday
+Jonathan MingoO,WR,"KC 28 @ DAL 31, Final",,$10,1.7,0.00,84,2025-11-28 16:14:57,Week 13,Thursday
+Hunter Luepke,RB,"KC 28 @ DAL 31, Final",,$10,2.0,0.00,85,2025-11-28 16:14:57,Week 13,Thursday
+Joe Milton III,QB,"KC 28 @ DAL 31, Final",,$20,3.5,0.00,86,2025-11-28 16:14:57,Week 13,Thursday
+Brevyn Spann-Ford,TE,"KC 28 @ DAL 31, Final",,$10,1.0,0.00,87,2025-11-28 16:14:57,Week 13,Thursday
+Jaydon BlueO,RB,"KC 28 @ DAL 31, Final",,$10,1.9,0.00,88,2025-11-28 16:14:57,Week 13,Thursday
+Clyde Edwards-Helaire,RB,"KC 28 @ DAL 31, Final",,$10,1.6,0.00,89,2025-11-28 16:14:57,Week 13,Thursday
+Joe Flacco,QB,"CIN 32 @ BAL 14, Final",,$29,15.5,0.00,90,2025-11-28 16:14:57,Week 13,Thursday
+Jake BrowningO,QB,"CIN 32 @ BAL 14, Final",,$20,11.3,0.00,91,2025-11-28 16:14:57,Week 13,Thursday
+Tee HigginsO,WR,"CIN 32 @ BAL 14, Final",,$29,11.0,0.00,92,2025-11-28 16:14:57,Week 13,Thursday
+Charlie Jones,WR,"CIN 32 @ BAL 14, Final",,$10,0.5,0.00,93,2025-11-28 16:14:57,Week 13,Thursday
+Sean Clifford,QB,"CIN 32 @ BAL 14, Final",,$20,—,0.00,94,2025-11-28 16:14:58,Week 13,Thursday
+Jermaine BurtonO,WR,"CIN 32 @ BAL 14, Final",,$10,1.6,0.00,95,2025-11-28 16:14:58,Week 13,Thursday
+Erick All Jr.PUP,TE,"CIN 32 @ BAL 14, Final",,$10,3.2,0.00,96,2025-11-28 16:14:58,Week 13,Thursday
+Cam GrandyO,TE,"CIN 32 @ BAL 14, Final",,$10,1.1,0.00,97,2025-11-28 16:14:58,Week 13,Thursday
+Tahj BrooksO,RB,"CIN 32 @ BAL 14, Final",,$10,0.4,0.00,98,2025-11-28 16:14:58,Week 13,Thursday
+Patrick Ricard,RB,"CIN 32 @ BAL 14, Final",,$10,0.1,0.00,99,2025-11-28 16:14:58,Week 13,Thursday
+Cooper RushO,QB,"CIN 32 @ BAL 14, Final",,$20,1.4,0.00,100,2025-11-28 16:14:58,Week 13,Thursday
+Justice HillIR,RB,"CIN 32 @ BAL 14, Final",,$10,5.5,0.00,101,2025-11-28 16:14:58,Week 13,Thursday
+Tyler Huntley,QB,"CIN 32 @ BAL 14, Final",,$20,11.7,0.00,102,2025-11-28 16:14:58,Week 13,Thursday
+Rashod Bateman,WR,"CIN 32 @ BAL 14, Final",TGT,$15,4.1,0.00,103,2025-11-28 16:14:58,Week 13,Thursday
+Tylan WallaceO,WR,"CIN 32 @ BAL 14, Final",,$10,1.3,0.00,104,2025-11-28 16:14:58,Week 13,Thursday
+Devontez Walker,WR,"CIN 32 @ BAL 14, Final",2 TGT,$10,4.6,0.00,105,2025-11-28 16:14:58,Week 13,Thursday
+LaJohntay Wester,WR,"CIN 32 @ BAL 14, Final",,$10,—,0.00,106,2025-11-28 16:14:58,Week 13,Thursday
+Gary Brightwell,RB,"CIN 32 @ BAL 14, Final",,$10,—,0.00,107,2025-11-28 16:14:58,Week 13,Thursday
+Zay Flowers,WR,"CIN 32 @ BAL 14, Final","7 TGT,2 REC,6 REC YD,FUM LOST",$27,9.4,-0.40,108,2025-11-28 16:14:58,Week 13,Thursday
+Detroit Lions,DEF,"GB 31 @ DET 24, Final",31 PTS ALLOWED,$12,6.0,-1.00,109,2025-11-28 16:14:58,Week 13,Thursday
