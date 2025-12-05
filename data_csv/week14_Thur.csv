@@ -1,0 +1,33 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Jahmyr Gibbs,RB,"DAL 30 @ DET 44, Final","12 RUSH ATT,43 RUSH YD,3 RUSH TD,7 TGT,7 REC,77 REC YD",$45,21.4,33.50,1,2025-12-05 16:15:44,Week 14,Thursday
+Ryan Flournoy,WR,"DAL 30 @ DET 44, Final","13 TGT,9 REC,115 REC YD,REC TD",$10,5.8,22.00,2,2025-12-05 16:15:44,Week 14,Thursday
+Dak Prescott,QB,"DAL 30 @ DET 44, Final","376 PASS YD,PASS TD,2 INT,3 RUSH ATT,14 RUSH YD,2PT",$43,20.7,20.44,3,2025-12-05 16:15:44,Week 14,Thursday
+Jared Goff,QB,"DAL 30 @ DET 44, Final","309 PASS YD,PASS TD,2 RUSH ATT,-2 RUSH YD",$39,17.9,16.16,4,2025-12-05 16:15:44,Week 14,Thursday
+CeeDee LambQ,WR,"DAL 30 @ DET 44, Final","8 TGT,6 REC,121 REC YD",$36,13.3,15.10,5,2025-12-05 16:15:44,Week 14,Thursday
+David Montgomery,RB,"DAL 30 @ DET 44, Final","6 RUSH ATT,60 RUSH YD,RUSH TD,TGT,REC,13 REC YD",$24,10.3,13.80,6,2025-12-05 16:15:44,Week 14,Thursday
+Jameson Williams,WR,"DAL 30 @ DET 44, Final","RUSH ATT,7 RUSH YD,9 TGT,7 REC,96 REC YD",$30,10.8,13.80,7,2025-12-05 16:15:44,Week 14,Thursday
+Javonte Williams,RB,"DAL 30 @ DET 44, Final","17 RUSH ATT,67 RUSH YD,RUSH TD,4 TGT,2 REC",$33,14.9,13.70,8,2025-12-05 16:15:44,Week 14,Thursday
+Amon-Ra St. Brown,WR,"DAL 30 @ DET 44, Final","9 TGT,6 REC,92 REC YD",$36,14.8,12.20,9,2025-12-05 16:15:44,Week 14,Thursday
+Detroit Lions,DEF,"DAL 30 @ DET 44, Final","30 PTS ALLOWED,5 SACK,2 INT,FUM REC",$10,6.3,10.00,10,2025-12-05 16:15:44,Week 14,Thursday
+Isaac TeSlaa,WR,"DAL 30 @ DET 44, Final","3 TGT,2 REC,20 REC YD,REC TD",$12,4.0,9.00,11,2025-12-05 16:15:44,Week 14,Thursday
+Jake Ferguson,TE,"DAL 30 @ DET 44, Final","7 TGT,5 REC,58 REC YD,FUM LOST,2PT",$17,10.2,8.30,12,2025-12-05 16:15:45,Week 14,Thursday
+George Pickens,WR,"DAL 30 @ DET 44, Final","9 TGT,5 REC,37 REC YD",$40,15.9,6.20,13,2025-12-05 16:15:45,Week 14,Thursday
+KaVontae Turpin,WR,"DAL 30 @ DET 44, Final","RUSH ATT,4 RUSH YD,2 TGT,2 REC,26 REC YD",$10,4.5,4.00,14,2025-12-05 16:15:45,Week 14,Thursday
+Luke Schoonmaker,TE,"DAL 30 @ DET 44, Final","2 TGT,REC,12 REC YD",$10,1.1,1.70,15,2025-12-05 16:15:45,Week 14,Thursday
+Brevyn Spann-Ford,TE,"DAL 30 @ DET 44, Final","TGT,REC,7 REC YD",$10,1.0,1.20,16,2025-12-05 16:15:45,Week 14,Thursday
+Anthony Firkser,TE,"DAL 30 @ DET 44, Final","TGT,REC,7 REC YD",$10,1.1,1.20,17,2025-12-05 16:15:45,Week 14,Thursday
+Ross Dwelley,TE,"DAL 30 @ DET 44, Final","TGT,REC,4 REC YD",$10,0.4,0.90,18,2025-12-05 16:15:45,Week 14,Thursday
+Malik Davis,RB,"DAL 30 @ DET 44, Final","3 RUSH ATT,6 RUSH YD",$13,2.3,0.60,19,2025-12-05 16:15:45,Week 14,Thursday
+Jalen Tolbert,WR,"DAL 30 @ DET 44, Final",,$10,3.6,0.00,20,2025-12-05 16:15:45,Week 14,Thursday
+Jonathan Mingo,WR,"DAL 30 @ DET 44, Final",TGT,$10,—,0.00,21,2025-12-05 16:15:45,Week 14,Thursday
+Hunter Luepke,RB,"DAL 30 @ DET 44, Final",,$10,1.8,0.00,22,2025-12-05 16:15:45,Week 14,Thursday
+Joe Milton III,QB,"DAL 30 @ DET 44, Final",,$20,3.5,0.00,23,2025-12-05 16:15:45,Week 14,Thursday
+Jaydon Blue,RB,"DAL 30 @ DET 44, Final",,$10,1.9,0.00,24,2025-12-05 16:15:45,Week 14,Thursday
+Kalif RaymondO,WR,"DAL 30 @ DET 44, Final",,$10,3.0,0.00,25,2025-12-05 16:15:45,Week 14,Thursday
+Kyle Allen,QB,"DAL 30 @ DET 44, Final",,$20,-0.2,0.00,26,2025-12-05 16:15:45,Week 14,Thursday
+Brock WrightIR,TE,"DAL 30 @ DET 44, Final",,$10,4.3,0.00,27,2025-12-05 16:15:45,Week 14,Thursday
+Jacob Saylors,RB,"DAL 30 @ DET 44, Final",,$10,0.1,0.00,28,2025-12-05 16:15:45,Week 14,Thursday
+Sione Vaki,RB,"DAL 30 @ DET 44, Final",,$10,0.1,0.00,29,2025-12-05 16:15:45,Week 14,Thursday
+Dominic Lovett,WR,"DAL 30 @ DET 44, Final",,$10,—,0.00,30,2025-12-05 16:15:45,Week 14,Thursday
+Tom Kennedy,WR,"DAL 30 @ DET 44, Final",,$10,2.8,0.00,31,2025-12-05 16:15:45,Week 14,Thursday
+Dallas Cowboys,DEF,"DAL 30 @ DET 44, Final","44 PTS ALLOWED,SACK,BLK KICK",$12,4.2,-1.00,32,2025-12-05 16:15:45,Week 14,Thursday
