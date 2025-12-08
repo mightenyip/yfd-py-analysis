@@ -1,0 +1,816 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Josh Allen,QB,"CIN 34 @ BUF 39, Final","251 PASS YD,3 PASS TD,9 RUSH ATT,78 RUSH YD,RUSH TD,2PT",$44,24.6,37.84,1,2025-12-08 16:29:23,Week 14,Sunday
+Shedeur Sanders,QB,"TEN 31 @ CLE 29, Final","364 PASS YD,3 PASS TD,INT,3 RUSH ATT,29 RUSH YD,RUSH TD",$21,14.7,34.46,2,2025-12-08 16:29:23,Week 14,Sunday
+Puka Nacua,WR,"LA 45 @ ARI 17, Final","11 TGT,7 REC,167 REC YD,2 REC TD",$36,17.7,32.20,3,2025-12-08 16:29:23,Week 14,Sunday
+Michael Wilson,WR,"LA 45 @ ARI 17, Final","16 TGT,11 REC,142 REC YD,2 REC TD",$19,9.2,31.70,4,2025-12-08 16:29:23,Week 14,Sunday
+Tony Pollard,RB,"TEN 31 @ CLE 29, Final","25 RUSH ATT,161 RUSH YD,2 RUSH TD",$16,9.5,28.10,5,2025-12-08 16:29:23,Week 14,Sunday
+Blake Corum,RB,"LA 45 @ ARI 17, Final","12 RUSH ATT,128 RUSH YD,2 RUSH TD,TGT,REC,3 REC YD",$13,6.4,25.60,6,2025-12-08 16:29:23,Week 14,Sunday
+Joe Burrow,QB,"CIN 34 @ BUF 39, Final","284 PASS YD,4 PASS TD,2 INT",$36,15.1,25.36,7,2025-12-08 16:29:23,Week 14,Sunday
+Jaxon Smith-Njigba,WR,"SEA 37 @ ATL 9, Final","RUSH ATT,-1 RUSH YD,10 TGT,7 REC,92 REC YD,2 REC TD",$42,18.7,24.60,8,2025-12-08 16:29:23,Week 14,Sunday
+Tee Higgins,WR,"CIN 34 @ BUF 39, Final","11 TGT,6 REC,92 REC YD,2 REC TD",$28,12.1,24.20,9,2025-12-08 16:29:23,Week 14,Sunday
+Sam Darnold,QB,"SEA 37 @ ATL 9, Final","249 PASS YD,3 PASS TD,INT,3 RUSH ATT,23 RUSH YD",$29,15.4,23.26,10,2025-12-08 16:29:23,Week 14,Sunday
+Matthew Stafford,QB,"LA 45 @ ARI 17, Final","281 PASS YD,3 PASS TD",$39,20.2,23.24,11,2025-12-08 16:29:23,Week 14,Sunday
+Christian Watson,WR,"CHI 21 @ GB 28, Final","4 TGT,4 REC,89 REC YD,2 REC TD",$20,12.6,22.90,12,2025-12-08 16:29:24,Week 14,Sunday
+Tyler Shough,QB,"NO 24 @ TB 20, Final","144 PASS YD,INT,7 RUSH ATT,55 RUSH YD,2 RUSH TD",$27,12.0,22.26,13,2025-12-08 16:29:24,Week 14,Sunday
+Lamar Jackson,QB,"PIT 27 @ BAL 22, Final","219 PASS YD,PASS TD,INT,7 RUSH ATT,43 RUSH YD,RUSH TD",$35,18.0,22.06,14,2025-12-08 16:29:24,Week 14,Sunday
+Harold Fannin Jr.,TE,"TEN 31 @ CLE 29, Final","11 TGT,8 REC,114 REC YD,REC TD",$15,8.8,21.40,15,2025-12-08 16:29:24,Week 14,Sunday
+Aaron Rodgers,QB,"PIT 27 @ BAL 22, Final","284 PASS YD,PASS TD,2 RUSH ATT,RUSH TD,TGT,REC,-9 REC YD",$25,14.7,20.96,16,2025-12-08 16:29:24,Week 14,Sunday
+Travis Etienne Jr.,RB,"IND 19 @ JAC 36, Final","20 RUSH ATT,74 RUSH YD,2 RUSH TD,TGT,REC,8 REC YD",$28,13.6,20.70,17,2025-12-08 16:29:24,Week 14,Sunday
+J.J. McCarthy,QB,"WAS 0 @ MIN 31, Final","163 PASS YD,3 PASS TD,6 RUSH ATT,19 RUSH YD",$23,13.7,20.42,18,2025-12-08 16:29:24,Week 14,Sunday
+Jordan Love,QB,"CHI 21 @ GB 28, Final","234 PASS YD,3 PASS TD,INT,RUSH ATT,-1 RUSH YD",$34,17.0,20.26,19,2025-12-08 16:29:24,Week 14,Sunday
+Jacoby Brissett,QB,"LA 45 @ ARI 17, Final","271 PASS YD,2 PASS TD,INT,4 RUSH ATT,22 RUSH YD",$34,16.9,20.04,20,2025-12-08 16:29:24,Week 14,Sunday
+Trevor Lawrence,QB,"IND 19 @ JAC 36, Final","244 PASS YD,2 PASS TD,4 RUSH ATT,16 RUSH YD",$34,17.5,19.36,21,2025-12-08 16:29:24,Week 14,Sunday
+Seattle Seahawks,DEF,"SEA 37 @ ATL 9, Final","9 PTS ALLOWED,SACK,2 INT,FUM REC,BLK KICK,RET TD",$20,11.6,19.00,22,2025-12-08 16:29:24,Week 14,Sunday
+RJ Harvey,RB,"DEN 24 @ LV 17, Final","17 RUSH ATT,75 RUSH YD,RUSH TD,6 TGT,6 REC,25 REC YD",$27,10.2,19.00,23,2025-12-08 16:29:24,Week 14,Sunday
+DK MetcalfQ,WR,"PIT 27 @ BAL 22, Final","12 TGT,7 REC,148 REC YD",$22,10.7,18.30,24,2025-12-08 16:29:24,Week 14,Sunday
+Minnesota Vikings,DEF,"WAS 0 @ MIN 31, Final","0 PTS ALLOWED,2 SACK,2 INT,FUM REC",$11,7.0,18.00,25,2025-12-08 16:29:24,Week 14,Sunday
+Mike Gesicki,TE,"CIN 34 @ BUF 39, Final","6 TGT,6 REC,86 REC YD,REC TD",$10,4.5,17.60,26,2025-12-08 16:29:24,Week 14,Sunday
+De'Von AchaneQ,RB,"MIA 34 @ NYJ 10, Final","7 RUSH ATT,92 RUSH YD,RUSH TD,TGT,REC,13 REC YD",$46,18.8,17.00,27,2025-12-08 16:29:24,Week 14,Sunday
+Chase Brown,RB,"CIN 34 @ BUF 39, Final","12 RUSH ATT,23 RUSH YD,RUSH TD,4 TGT,3 REC,12 REC YD,REC TD",$32,12.3,17.00,28,2025-12-08 16:29:24,Week 14,Sunday
+Jaylen Wright,RB,"MIA 34 @ NYJ 10, Final","24 RUSH ATT,107 RUSH YD,RUSH TD,3 TGT",$10,3.9,16.70,29,2025-12-08 16:29:24,Week 14,Sunday
+Kyren Williams,RB,"LA 45 @ ARI 17, Final","13 RUSH ATT,84 RUSH YD,RUSH TD,2 TGT,2 REC,13 REC YD",$35,14.6,16.70,30,2025-12-08 16:29:24,Week 14,Sunday
+Zay Flowers,WR,"PIT 27 @ BAL 22, Final","RUSH ATT,2 RUSH YD,11 TGT,8 REC,124 REC YD",$24,10.0,16.60,31,2025-12-08 16:29:24,Week 14,Sunday
+Tim Patrick,WR,"IND 19 @ JAC 36, Final","6 TGT,5 REC,78 REC YD,REC TD",$10,4.2,16.30,32,2025-12-08 16:29:24,Week 14,Sunday
+Josh Jacobs,RB,"CHI 21 @ GB 28, Final","20 RUSH ATT,86 RUSH YD,RUSH TD,2 TGT,2 REC,6 REC YD",$34,16.0,16.20,33,2025-12-08 16:29:24,Week 14,Sunday
+Miami Dolphins,DEF,"MIA 34 @ NYJ 10, Final","10 PTS ALLOWED,6 SACK,3 INT",$14,6.5,16.00,34,2025-12-08 16:29:24,Week 14,Sunday
+Bo Nix,QB,"DEN 24 @ LV 17, Final","212 PASS YD,3 RUSH ATT,15 RUSH YD,RUSH TD",$33,18.4,15.98,35,2025-12-08 16:29:24,Week 14,Sunday
+Caleb Williams,QB,"CHI 21 @ GB 28, Final","186 PASS YD,2 PASS TD,INT,4 RUSH ATT,15 RUSH YD",$35,18.7,15.94,36,2025-12-08 16:29:24,Week 14,Sunday
+Jaylen Waddle,WR,"MIA 34 @ NYJ 10, Final","RUSH ATT,21 RUSH YD,7 TGT,5 REC,50 REC YD,REC TD",$28,11.4,15.60,37,2025-12-08 16:29:24,Week 14,Sunday
+Josh Oliver,TE,"WAS 0 @ MIN 31, Final","2 TGT,2 REC,24 REC YD,2 REC TD",$10,4.6,15.40,38,2025-12-08 16:29:25,Week 14,Sunday
+Jerry Jeudy,WR,"TEN 31 @ CLE 29, Final","5 TGT,3 REC,76 REC YD,REC TD",$17,6.1,15.10,39,2025-12-08 16:29:25,Week 14,Sunday
+Bucky Irving,RB,"NO 24 @ TB 20, Final","15 RUSH ATT,55 RUSH YD,3 TGT,2 REC,26 REC YD,REC TD",$33,15.5,15.10,40,2025-12-08 16:29:25,Week 14,Sunday
+Devin Neal,RB,"NO 24 @ TB 20, Final","19 RUSH ATT,70 RUSH YD,RUSH TD,TGT,REC,14 REC YD",$15,5.2,14.90,41,2025-12-08 16:29:25,Week 14,Sunday
+Rashid Shaheed,WR,"SEA 37 @ ATL 9, Final","5 TGT,4 REC,67 REC YD,KRTD",$10,7.6,14.70,42,2025-12-08 16:29:25,Week 14,Sunday
+Dawson Knox,TE,"CIN 34 @ BUF 39, Final","7 TGT,6 REC,93 REC YD,2PT",$10,4.3,14.30,43,2025-12-08 16:29:25,Week 14,Sunday
+Jaylen Warren,RB,"PIT 27 @ BAL 22, Final","8 RUSH ATT,13 RUSH YD,3 TGT,3 REC,49 REC YD,REC TD",$27,12.0,13.70,44,2025-12-08 16:29:25,Week 14,Sunday
+Kenneth Gainwell,RB,"PIT 27 @ BAL 22, Final","4 RUSH ATT,15 RUSH YD,RUSH TD,7 TGT,6 REC,27 REC YD",$20,9.6,13.20,45,2025-12-08 16:29:25,Week 14,Sunday
+Jakobi Meyers,WR,"IND 19 @ JAC 36, Final","3 RUSH ATT,9 RUSH YD,10 TGT,4 REC,39 REC YD,REC TD",$21,9.2,12.80,46,2025-12-08 16:29:25,Week 14,Sunday
+Brock Bowers,TE,"DEN 24 @ LV 17, Final","5 TGT,4 REC,46 REC YD,REC TD",$26,12.7,12.60,47,2025-12-08 16:29:25,Week 14,Sunday
+Michael Pittman Jr.,WR,"IND 19 @ JAC 36, Final","12 TGT,9 REC,79 REC YD",$23,11.4,12.40,48,2025-12-08 16:29:25,Week 14,Sunday
+Dalton Kincaid,TE,"CIN 34 @ BUF 39, Final","5 TGT,4 REC,41 REC YD,REC TD",$16,10.6,12.10,49,2025-12-08 16:29:25,Week 14,Sunday
+Cam Ward,QB,"TEN 31 @ CLE 29, Final","117 PASS YD,2 PASS TD,INT,2 RUSH ATT,4 RUSH YD",$22,10.3,12.08,50,2025-12-08 16:29:25,Week 14,Sunday
+Baker Mayfield,QB,"NO 24 @ TB 20, Final","122 PASS YD,PASS TD,INT,6 RUSH ATT,42 RUSH YD",$32,16.6,12.08,51,2025-12-08 16:29:25,Week 14,Sunday
+Kyle Pitts Sr.,TE,"SEA 37 @ ATL 9, Final","10 TGT,6 REC,90 REC YD",$15,7.7,12.00,52,2025-12-08 16:29:25,Week 14,Sunday
+Jonathan Taylor,RB,"IND 19 @ JAC 36, Final","21 RUSH ATT,74 RUSH YD,RUSH TD,FUM LOST",$41,22.4,11.40,53,2025-12-08 16:29:25,Week 14,Sunday
+Riley Leonard,QB,"IND 19 @ JAC 36, Final","145 PASS YD,INT,2 RUSH ATT,5 RUSH YD,RUSH TD",$20,5.7,11.30,54,2025-12-08 16:29:25,Week 14,Sunday
+Jordan Mason,RB,"WAS 0 @ MIN 31, Final","11 RUSH ATT,52 RUSH YD,RUSH TD",$16,8.3,11.20,55,2025-12-08 16:29:25,Week 14,Sunday
+Bo Melton,WR,"CHI 21 @ GB 28, Final","2 TGT,REC,45 REC YD,REC TD",$10,2.3,11.00,56,2025-12-08 16:29:25,Week 14,Sunday
+Denver Broncos,DEF,"DEN 24 @ LV 17, Final","17 PTS ALLOWED,4 SACK,RET TD",$18,8.2,11.00,57,2025-12-08 16:29:25,Week 14,Sunday
+Chimere Dike,WR,"TEN 31 @ CLE 29, Final","8 TGT,5 REC,24 REC YD,REC TD",$14,5.8,10.90,58,2025-12-08 16:29:25,Week 14,Sunday
+Colston Loveland,TE,"CHI 21 @ GB 28, Final","5 TGT,4 REC,29 REC YD,REC TD",$13,7.1,10.90,59,2025-12-08 16:29:25,Week 14,Sunday
+Derrick Henry,RB,"PIT 27 @ BAL 22, Final","25 RUSH ATT,94 RUSH YD,2 TGT,REC,8 REC YD",$36,13.9,10.70,60,2025-12-08 16:29:25,Week 14,Sunday
+Colby Parkinson,TE,"LA 45 @ ARI 17, Final","5 TGT,3 REC,32 REC YD,REC TD",$11,5.7,10.70,61,2025-12-08 16:29:25,Week 14,Sunday
+Isaiah Likely,TE,"PIT 27 @ BAL 22, Final","6 TGT,4 REC,25 REC YD,REC TD",$10,4.4,10.50,62,2025-12-08 16:29:25,Week 14,Sunday
+Cooper Kupp,WR,"SEA 37 @ ATL 9, Final","3 TGT,2 REC,35 REC YD,REC TD",$16,6.4,10.50,63,2025-12-08 16:29:26,Week 14,Sunday
+Alec PierceQ,WR,"IND 19 @ JAC 36, Final","8 TGT,5 REC,80 REC YD",$24,9.8,10.50,64,2025-12-08 16:29:26,Week 14,Sunday
+Brian Thomas Jr.,WR,"IND 19 @ JAC 36, Final","6 TGT,3 REC,87 REC YD",$21,8.5,10.20,65,2025-12-08 16:29:26,Week 14,Sunday
+James Cook III,RB,"CIN 34 @ BUF 39, Final","18 RUSH ATT,80 RUSH YD,2 TGT,2 REC,31 REC YD,FUM LOST",$39,16.9,10.10,66,2025-12-08 16:29:26,Week 14,Sunday
+Jacksonville Jaguars,DEF,"IND 19 @ JAC 36, Final","19 PTS ALLOWED,SACK,SAFETY,2 INT,FUM REC",$16,8.3,10.00,67,2025-12-08 16:29:26,Week 14,Sunday
+Buffalo Bills,DEF,"CIN 34 @ BUF 39, Final","34 PTS ALLOWED,SACK,2 INT,TD",$13,6.8,10.00,68,2025-12-08 16:29:26,Week 14,Sunday
+D'Andre Swift,RB,"CHI 21 @ GB 28, Final","13 RUSH ATT,63 RUSH YD,4 TGT,3 REC,19 REC YD",$29,12.9,9.70,69,2025-12-08 16:29:26,Week 14,Sunday
+Isaiah Williams,WR,"MIA 34 @ NYJ 10, Final","3 TGT,2 REC,24 REC YD,PRTD",$10,2.5,9.40,70,2025-12-08 16:29:26,Week 14,Sunday
+Courtland Sutton,WR,"DEN 24 @ LV 17, Final","10 TGT,6 REC,62 REC YD",$26,10.6,9.20,71,2025-12-08 16:29:26,Week 14,Sunday
+Tua Tagovailoa,QB,"MIA 34 @ NYJ 10, Final","127 PASS YD,PASS TD,RUSH ATT",$25,12.2,9.08,72,2025-12-08 16:29:26,Week 14,Sunday
+Geno SmithQ,QB,"DEN 24 @ LV 17, Final","116 PASS YD,PASS TD,RUSH ATT,4 RUSH YD",$24,12.8,9.04,73,2025-12-08 16:29:26,Week 14,Sunday
+Luther Burden III,WR,"CHI 21 @ GB 28, Final","RUSH ATT,3 RUSH YD,6 TGT,4 REC,67 REC YD",$12,5.3,9.00,74,2025-12-08 16:29:26,Week 14,Sunday
+Quinshon Judkins,RB,"TEN 31 @ CLE 29, Final","14 RUSH ATT,26 RUSH YD,3 TGT,REC,58 REC YD",$28,12.2,8.90,75,2025-12-08 16:29:26,Week 14,Sunday
+Sean Tucker,RB,"NO 24 @ TB 20, Final","7 RUSH ATT,29 RUSH YD,RUSH TD",$16,5.7,8.90,76,2025-12-08 16:29:26,Week 14,Sunday
+Khalil Shakir,WR,"CIN 34 @ BUF 39, Final","3 TGT,2 REC,16 REC YD,REC TD",$20,8.4,8.60,77,2025-12-08 16:29:26,Week 14,Sunday
+Kenny Pickett,QB,"DEN 24 @ LV 17, Final","97 PASS YD,PASS TD,RUSH ATT,6 RUSH YD",$20,2.3,8.48,78,2025-12-08 16:29:26,Week 14,Sunday
+Bijan Robinson,RB,"SEA 37 @ ATL 9, Final","20 RUSH ATT,86 RUSH YD,2 TGT,2 REC,8 REC YD,FUM LOST",$43,18.2,8.40,79,2025-12-08 16:29:26,Week 14,Sunday
+Trey McBride,TE,"LA 45 @ ARI 17, Final","9 TGT,5 REC,58 REC YD",$30,14.5,8.30,80,2025-12-08 16:29:26,Week 14,Sunday
+Kyle Monangai,RB,"CHI 21 @ GB 28, Final","14 RUSH ATT,57 RUSH YD,2 TGT,REC,2PT",$21,8.6,8.20,81,2025-12-08 16:29:26,Week 14,Sunday
+T.J. Hockenson,TE,"WAS 0 @ MIN 31, Final","3 TGT,2 REC,12 REC YD,REC TD",$14,6.0,8.20,82,2025-12-08 16:29:26,Week 14,Sunday
+Jordan Addison,WR,"WAS 0 @ MIN 31, Final","7 TGT,4 REC,62 REC YD",$16,8.9,8.20,83,2025-12-08 16:29:26,Week 14,Sunday
+Chris Godwin Jr.,WR,"NO 24 @ TB 20, Final","8 TGT,5 REC,55 REC YD",$22,5.5,8.00,84,2025-12-08 16:29:26,Week 14,Sunday
+Jack Bech,WR,"DEN 24 @ LV 17, Final","6 TGT,6 REC,50 REC YD",$10,2.0,8.00,85,2025-12-08 16:29:26,Week 14,Sunday
+Elic Ayomanor,WR,"TEN 31 @ CLE 29, Final","3 TGT,REC,14 REC YD,REC TD",$15,5.7,7.90,86,2025-12-08 16:29:26,Week 14,Sunday
+Tyler Allgeier,RB,"SEA 37 @ ATL 9, Final","11 RUSH ATT,34 RUSH YD,2 TGT,2 REC,33 REC YD",$19,7.8,7.70,87,2025-12-08 16:29:26,Week 14,Sunday
+Ollie Gordon II,RB,"MIA 34 @ NYJ 10, Final","5 RUSH ATT,17 RUSH YD,RUSH TD",$10,3.8,7.70,88,2025-12-08 16:29:26,Week 14,Sunday
+Olamide Zaccheaus,WR,"CHI 21 @ GB 28, Final","3 TGT,2 REC,7 REC YD,REC TD",$10,5.1,7.70,89,2025-12-08 16:29:27,Week 14,Sunday
+Ja'Marr Chase,WR,"CIN 34 @ BUF 39, Final","RUSH ATT,8 RUSH YD,8 TGT,5 REC,44 REC YD",$37,14.7,7.70,90,2025-12-08 16:29:27,Week 14,Sunday
+Keaton MitchellQ,RB,"PIT 27 @ BAL 22, Final","6 RUSH ATT,76 RUSH YD",$11,4.2,7.60,91,2025-12-08 16:29:27,Week 14,Sunday
+Zach Charbonnet,RB,"SEA 37 @ ATL 9, Final","7 RUSH ATT,46 RUSH YD,3 TGT,2 REC,20 REC YD",$25,9.2,7.60,92,2025-12-08 16:29:27,Week 14,Sunday
+Mason Taylor,TE,"MIA 34 @ NYJ 10, Final","8 TGT,5 REC,51 REC YD",$12,5.1,7.60,93,2025-12-08 16:29:27,Week 14,Sunday
+Aaron Jones Sr.,RB,"WAS 0 @ MIN 31, Final","14 RUSH ATT,76 RUSH YD,TGT",$20,8.1,7.60,94,2025-12-08 16:29:27,Week 14,Sunday
+Dylan Sampson,RB,"TEN 31 @ CLE 29, Final","2 RUSH ATT,4 RUSH YD,6 TGT,5 REC,64 REC YD,FUM LOST",$11,4.7,7.30,95,2025-12-08 16:29:27,Week 14,Sunday
+Jayden Reed,WR,"CHI 21 @ GB 28, Final","2 RUSH ATT,22 RUSH YD,4 TGT,4 REC,31 REC YD",$14,6.4,7.30,96,2025-12-08 16:29:27,Week 14,Sunday
+Marvin Mims Jr.,WR,"DEN 24 @ LV 17, Final","RUSH ATT,2 RUSH YD,TGT,REC,5 REC YD,PRTD",$10,5.0,7.20,97,2025-12-08 16:29:27,Week 14,Sunday
+Tennessee Titans,DEF,"TEN 31 @ CLE 29, Final","29 PTS ALLOWED,2 SACK,INT,FUM REC,BLK KICK",$14,5.8,7.00,98,2025-12-08 16:29:27,Week 14,Sunday
+Jackson Hawes,TE,"CIN 34 @ BUF 39, Final","TGT,REC,3 REC YD,REC TD",$10,3.9,6.80,99,2025-12-08 16:29:27,Week 14,Sunday
+David NjokuQ,TE,"TEN 31 @ CLE 29, Final","TGT,REC,REC YD,REC TD",$13,6.3,6.60,100,2025-12-08 16:29:27,Week 14,Sunday
+New York Jets,DEF,"MIA 34 @ NYJ 10, Final","34 PTS ALLOWED,SACK,RET TD",$10,4.0,6.00,101,2025-12-08 16:29:27,Week 14,Sunday
+Rachaad White,RB,"NO 24 @ TB 20, Final","11 RUSH ATT,53 RUSH YD,2 TGT,REC,2 REC YD",$14,8.1,6.00,102,2025-12-08 16:29:27,Week 14,Sunday
+Los Angeles Rams,DEF,"LA 45 @ ARI 17, Final","17 PTS ALLOWED,3 SACK,INT",$17,8.5,6.00,103,2025-12-08 16:29:27,Week 14,Sunday
+Juwan Johnson,TE,"NO 24 @ TB 20, Final","4 TGT,4 REC,38 REC YD",$17,8.2,5.80,104,2025-12-08 16:29:27,Week 14,Sunday
+Tyjae Spears,RB,"TEN 31 @ CLE 29, Final","8 RUSH ATT,19 RUSH YD,4 TGT,2 REC,28 REC YD",$16,6.5,5.70,105,2025-12-08 16:29:27,Week 14,Sunday
+Greg Dulcich,TE,"MIA 34 @ NYJ 10, Final","3 TGT,3 REC,41 REC YD",$10,4.4,5.60,106,2025-12-08 16:29:27,Week 14,Sunday
+Terry McLaurin,WR,"WAS 0 @ MIN 31, Final","6 TGT,3 REC,41 REC YD",$27,9.6,5.60,107,2025-12-08 16:29:27,Week 14,Sunday
+Tyler Lockett,WR,"DEN 24 @ LV 17, Final","4 TGT,3 REC,41 REC YD",$10,3.0,5.60,108,2025-12-08 16:29:27,Week 14,Sunday
+Devaughn Vele,WR,"NO 24 @ TB 20, Final","5 TGT,3 REC,40 REC YD",$13,4.4,5.50,109,2025-12-08 16:29:27,Week 14,Sunday
+John Metchie III,WR,"MIA 34 @ NYJ 10, Final","8 TGT,4 REC,34 REC YD",$13,4.5,5.40,110,2025-12-08 16:29:27,Week 14,Sunday
+Cole Kmet,TE,"CHI 21 @ GB 28, Final","3 TGT,2 REC,42 REC YD",$10,4.2,5.20,111,2025-12-08 16:29:27,Week 14,Sunday
+Chris Rodriguez Jr.,RB,"WAS 0 @ MIN 31, Final","10 RUSH ATT,52 RUSH YD",$18,6.2,5.20,112,2025-12-08 16:29:27,Week 14,Sunday
+Pat Bryant,WR,"DEN 24 @ LV 17, Final","4 TGT,4 REC,32 REC YD",$13,4.8,5.20,113,2025-12-08 16:29:27,Week 14,Sunday
+Tampa Bay Buccaneers,DEF,"NO 24 @ TB 20, Final","24 PTS ALLOWED,3 SACK,INT",$13,6.5,5.00,114,2025-12-08 16:29:28,Week 14,Sunday
+Ty Johnson,RB,"CIN 34 @ BUF 39, Final","2 RUSH ATT,25 RUSH YD,3 TGT,2 REC,14 REC YD",$12,4.0,4.90,115,2025-12-08 16:29:28,Week 14,Sunday
+Davante Adams,WR,"LA 45 @ ARI 17, Final","6 TGT,4 REC,29 REC YD",$37,14.1,4.90,116,2025-12-08 16:29:28,Week 14,Sunday
+Bam Knight,RB,"LA 45 @ ARI 17, Final","7 RUSH ATT,16 RUSH YD,6 TGT,3 REC,18 REC YD",$18,7.5,4.90,117,2025-12-08 16:29:28,Week 14,Sunday
+Ashton Jeanty,RB,"DEN 24 @ LV 17, Final","10 RUSH ATT,30 RUSH YD,4 TGT,2 REC,8 REC YD",$30,12.4,4.80,118,2025-12-08 16:29:28,Week 14,Sunday
+Deebo Samuel,WR,"WAS 0 @ MIN 31, Final","6 TGT,4 REC,27 REC YD",$24,10.7,4.70,119,2025-12-08 16:29:28,Week 14,Sunday
+Chris Olave,WR,"NO 24 @ TB 20, Final","5 TGT,3 REC,30 REC YD",$31,11.4,4.50,120,2025-12-08 16:29:28,Week 14,Sunday
+Jalen Nailor,WR,"WAS 0 @ MIN 31, Final","3 TGT,3 REC,30 REC YD",$14,4.8,4.50,121,2025-12-08 16:29:28,Week 14,Sunday
+Kirk Cousins,QB,"SEA 37 @ ATL 9, Final","162 PASS YD,2 INT",$24,7.3,4.48,122,2025-12-08 16:29:28,Week 14,Sunday
+Breece Hall,RB,"MIA 34 @ NYJ 10, Final","14 RUSH ATT,43 RUSH YD,TGT",$32,12.1,4.30,123,2025-12-08 16:29:28,Week 14,Sunday
+Josh Downs,WR,"IND 19 @ JAC 36, Final","5 TGT,4 REC,23 REC YD",$17,6.4,4.30,124,2025-12-08 16:29:28,Week 14,Sunday
+Adam Prentice,RB,"DEN 24 @ LV 17, Final","2 RUSH ATT,22 RUSH YD,2 TGT,2 REC,11 REC YD",$10,1.3,4.30,125,2025-12-08 16:29:28,Week 14,Sunday
+Samaje Perine,RB,"CIN 34 @ BUF 39, Final","6 RUSH ATT,31 RUSH YD,TGT,REC,7 REC YD",$11,3.5,4.30,126,2025-12-08 16:29:28,Week 14,Sunday
+AJ Barner,TE,"SEA 37 @ ATL 9, Final","4 TGT,3 REC,27 REC YD",$13,6.9,4.20,127,2025-12-08 16:29:28,Week 14,Sunday
+Brenton Strange,TE,"IND 19 @ JAC 36, Final","6 TGT,3 REC,27 REC YD",$16,7.3,4.20,128,2025-12-08 16:29:28,Week 14,Sunday
+Lil'Jordan Humphrey,WR,"DEN 24 @ LV 17, Final","3 TGT,3 REC,27 REC YD",$10,2.9,4.20,129,2025-12-08 16:29:28,Week 14,Sunday
+Ronnie Rivers,RB,"LA 45 @ ARI 17, Final","8 RUSH ATT,41 RUSH YD",$10,2.1,4.10,130,2025-12-08 16:29:28,Week 14,Sunday
+Michael Carter,RB,"LA 45 @ ARI 17, Final","3 RUSH ATT,13 RUSH YD,4 TGT,2 REC,18 REC YD",$10,6.0,4.10,131,2025-12-08 16:29:28,Week 14,Sunday
+Pittsburgh Steelers,DEF,"PIT 27 @ BAL 22, Final","22 PTS ALLOWED,2 SACK,INT",$15,7.9,4.00,132,2025-12-08 16:29:28,Week 14,Sunday
+Cincinnati Bengals,DEF,"CIN 34 @ BUF 39, Final","33 PTS ALLOWED,3 SACK,FUM REC",$10,3.8,4.00,133,2025-12-08 16:29:28,Week 14,Sunday
+Jayden DanielsQ,QB,"WAS 0 @ MIN 31, Final","78 PASS YD,INT,4 RUSH ATT,16 RUSH YD",$31,16.8,3.72,134,2025-12-08 16:29:28,Week 14,Sunday
+Calvin Austin III,WR,"PIT 27 @ BAL 22, Final","2 TGT,REC,31 REC YD",$12,5.1,3.60,135,2025-12-08 16:29:28,Week 14,Sunday
+Dylan Drummond,WR,"SEA 37 @ ATL 9, Final","5 TGT,3 REC,21 REC YD",$10,2.6,3.60,136,2025-12-08 16:29:28,Week 14,Sunday
+Jaleel McLaughlin,RB,"DEN 24 @ LV 17, Final","4 RUSH ATT,22 RUSH YD,TGT,REC,9 REC YD",$10,3.8,3.60,137,2025-12-08 16:29:28,Week 14,Sunday
+Cade Otton,TE,"NO 24 @ TB 20, Final","4 TGT,3 REC,19 REC YD",$12,5.5,3.40,138,2025-12-08 16:29:29,Week 14,Sunday
+Tre Tucker,WR,"DEN 24 @ LV 17, Final","5 TGT,2 REC,24 REC YD",$16,8.8,3.40,139,2025-12-08 16:29:29,Week 14,Sunday
+Rashod Bateman,WR,"PIT 27 @ BAL 22, Final","3 TGT,2 REC,23 REC YD",$14,4.1,3.30,140,2025-12-08 16:29:29,Week 14,Sunday
+Kenneth Walker III,RB,"SEA 37 @ ATL 9, Final","10 RUSH ATT,29 RUSH YD,3 TGT,REC,-1 REC YD",$22,9.9,3.30,141,2025-12-08 16:29:29,Week 14,Sunday
+Velus Jones Jr.,RB,"SEA 37 @ ATL 9, Final","4 RUSH ATT,32 RUSH YD",$10,0.6,3.20,142,2025-12-08 16:29:29,Week 14,Sunday
+Luke Musgrave,TE,"CHI 21 @ GB 28, Final","4 TGT,2 REC,22 REC YD",$10,2.2,3.20,143,2025-12-08 16:29:29,Week 14,Sunday
+Jacory Croskey-Merritt,RB,"WAS 0 @ MIN 31, Final","7 RUSH ATT,32 RUSH YD",$13,6.6,3.20,144,2025-12-08 16:29:29,Week 14,Sunday
+Gabe Davis,WR,"CIN 34 @ BUF 39, Final","2 TGT,2 REC,21 REC YD",$10,3.1,3.10,145,2025-12-08 16:29:29,Week 14,Sunday
+Davis Allen,TE,"LA 45 @ ARI 17, Final","2 TGT,2 REC,21 REC YD",$10,3.6,3.10,146,2025-12-08 16:29:29,Week 14,Sunday
+Chig Okonkwo,TE,"TEN 31 @ CLE 29, Final","2 TGT,2 REC,20 REC YD",$12,4.9,3.00,147,2025-12-08 16:29:29,Week 14,Sunday
+New Orleans Saints,DEF,"NO 24 @ TB 20, Final","20 PTS ALLOWED,INT",$12,5.9,3.00,148,2025-12-08 16:29:29,Week 14,Sunday
+Green Bay Packers,DEF,"CHI 21 @ GB 28, Final","21 PTS ALLOWED,SACK,INT",$14,5.8,3.00,149,2025-12-08 16:29:29,Week 14,Sunday
+Washington Commanders,DEF,"WAS 0 @ MIN 31, Final","31 PTS ALLOWED,4 SACK",$10,4.1,3.00,150,2025-12-08 16:29:29,Week 14,Sunday
+Las Vegas Raiders,DEF,"DEN 24 @ LV 17, Final","24 PTS ALLOWED,3 SACK",$10,4.2,3.00,151,2025-12-08 16:29:29,Week 14,Sunday
+Jeremy Ruckert,TE,"MIA 34 @ NYJ 10, Final","3 TGT,2 REC,19 REC YD",$10,2.7,2.90,152,2025-12-08 16:29:29,Week 14,Sunday
+Adonai Mitchell,WR,"MIA 34 @ NYJ 10, Final","6 TGT,REC,24 REC YD",$13,4.0,2.90,153,2025-12-08 16:29:29,Week 14,Sunday
+Devin Duvernay,WR,"CHI 21 @ GB 28, Final","TGT,REC,24 REC YD",$10,0.3,2.90,154,2025-12-08 16:29:29,Week 14,Sunday
+Cedric Tillman,WR,"TEN 31 @ CLE 29, Final","3 TGT,REC,23 REC YD",$12,4.5,2.80,155,2025-12-08 16:29:29,Week 14,Sunday
+Gage Larvadain,WR,"TEN 31 @ CLE 29, Final","3 TGT,2 REC,18 REC YD",$10,0.8,2.80,156,2025-12-08 16:29:29,Week 14,Sunday
+Van Jefferson,WR,"TEN 31 @ CLE 29, Final","4 TGT,2 REC,17 REC YD",$10,3.7,2.70,157,2025-12-08 16:29:29,Week 14,Sunday
+Tyler Warren,TE,"IND 19 @ JAC 36, Final","RUSH ATT,2 RUSH YD,6 TGT,2 REC,15 REC YD",$20,10.1,2.70,158,2025-12-08 16:29:29,Week 14,Sunday
+Adam Trautman,TE,"DEN 24 @ LV 17, Final","2 TGT,2 REC,17 REC YD",$10,3.3,2.70,159,2025-12-08 16:29:29,Week 14,Sunday
+Ian ThomasQ,TE,"DEN 24 @ LV 17, Final","2 TGT,2 REC,17 REC YD",$10,2.2,2.70,160,2025-12-08 16:29:29,Week 14,Sunday
+Andrei Iosivas,WR,"CIN 34 @ BUF 39, Final","3 TGT,2 REC,17 REC YD",$15,5.7,2.70,161,2025-12-08 16:29:29,Week 14,Sunday
+Josh Whyle,TE,"CHI 21 @ GB 28, Final","TGT,REC,21 REC YD",$10,2.5,2.60,162,2025-12-08 16:29:29,Week 14,Sunday
+Tyler Badie,RB,"DEN 24 @ LV 17, Final","4 RUSH ATT,16 RUSH YD,TGT,REC,5 REC YD",$10,1.8,2.60,163,2025-12-08 16:29:30,Week 14,Sunday
+Troy Franklin,WR,"DEN 24 @ LV 17, Final","4 TGT,3 REC,11 REC YD",$19,8.8,2.60,164,2025-12-08 16:29:30,Week 14,Sunday
+Keon Coleman,WR,"CIN 34 @ BUF 39, Final","3 TGT,2 REC,16 REC YD",$17,6.9,2.60,165,2025-12-08 16:29:30,Week 14,Sunday
+Malik Washington,WR,"MIA 34 @ NYJ 10, Final","4 TGT,3 REC,10 REC YD",$13,5.5,2.50,166,2025-12-08 16:29:30,Week 14,Sunday
+Emeka Egbuka,WR,"NO 24 @ TB 20, Final","9 TGT,2 REC,15 REC YD",$26,11.3,2.50,167,2025-12-08 16:29:30,Week 14,Sunday
+Zavier Scott,RB,"WAS 0 @ MIN 31, Final","3 RUSH ATT,15 RUSH YD,TGT,REC,5 REC YD",$10,3.5,2.50,168,2025-12-08 16:29:30,Week 14,Sunday
+Charlie Kolar,TE,"PIT 27 @ BAL 22, Final","TGT,REC,19 REC YD",$10,2.6,2.40,169,2025-12-08 16:29:30,Week 14,Sunday
+John FitzPatrick,TE,"CHI 21 @ GB 28, Final","2 TGT,2 REC,14 REC YD",$10,1.8,2.40,170,2025-12-08 16:29:30,Week 14,Sunday
+Noah Brown,WR,"WAS 0 @ MIN 31, Final","2 TGT,REC,19 REC YD",$11,2.5,2.40,171,2025-12-08 16:29:30,Week 14,Sunday
+Rasheen Ali,RB,"PIT 27 @ BAL 22, Final","RUSH ATT,2 RUSH YD,3 TGT,2 REC,11 REC YD",$10,0.6,2.30,172,2025-12-08 16:29:30,Week 14,Sunday
+Andrew Beck,RB,"MIA 34 @ NYJ 10, Final","TGT,REC,17 REC YD",$10,1.4,2.20,173,2025-12-08 16:29:30,Week 14,Sunday
+Isaiah Davis,RB,"MIA 34 @ NYJ 10, Final","2 RUSH ATT,22 RUSH YD",$10,2.9,2.20,174,2025-12-08 16:29:30,Week 14,Sunday
+Darren Waller,TE,"MIA 34 @ NYJ 10, Final","RUSH ATT,4 RUSH YD,3 TGT,REC,13 REC YD",$18,9.7,2.20,175,2025-12-08 16:29:30,Week 14,Sunday
+Foster Moreau,TE,"NO 24 @ TB 20, Final","TGT,REC,16 REC YD",$10,1.4,2.10,176,2025-12-08 16:29:30,Week 14,Sunday
+Justin Jefferson,WR,"WAS 0 @ MIN 31, Final","4 TGT,2 REC,11 REC YD",$25,9.6,2.10,177,2025-12-08 16:29:30,Week 14,Sunday
+Tyrell Shavers,WR,"CIN 34 @ BUF 39, Final","TGT,REC,16 REC YD",$10,3.4,2.10,178,2025-12-08 16:29:30,Week 14,Sunday
+Jerome Ford,RB,"TEN 31 @ CLE 29, Final","3 TGT,2 REC,10 REC YD",$10,2.4,2.00,179,2025-12-08 16:29:30,Week 14,Sunday
+Cleveland Browns,DEF,"TEN 31 @ CLE 29, Final","31 PTS ALLOWED,SACK,INT",$18,7.6,2.00,180,2025-12-08 16:29:30,Week 14,Sunday
+Chicago Bears,DEF,"CHI 21 @ GB 28, Final","28 PTS ALLOWED,SACK,INT",$12,6.2,2.00,181,2025-12-08 16:29:30,Week 14,Sunday
+Noah Fant,TE,"CIN 34 @ BUF 39, Final","2 TGT,REC,15 REC YD",$10,5.3,2.00,182,2025-12-08 16:29:30,Week 14,Sunday
+Pat Freiermuth,TE,"PIT 27 @ BAL 22, Final","3 TGT,2 REC,9 REC YD",$10,6.2,1.90,183,2025-12-08 16:29:30,Week 14,Sunday
+Ameer Abdullah,RB,"IND 19 @ JAC 36, Final","RUSH ATT,4 RUSH YD,2 TGT,2 REC,5 REC YD",$10,1.9,1.90,184,2025-12-08 16:29:30,Week 14,Sunday
+Ben Skowronek,WR,"PIT 27 @ BAL 22, Final","TGT,REC,13 REC YD",$10,1.1,1.80,185,2025-12-08 16:29:30,Week 14,Sunday
+Daniel JonesD,QB,"IND 19 @ JAC 36, Final","60 PASS YD,INT,RUSH ATT,4 RUSH YD",$33,18.0,1.80,186,2025-12-08 16:29:30,Week 14,Sunday
+LeQuint Allen Jr.,RB,"IND 19 @ JAC 36, Final","2 TGT,2 REC,8 REC YD",$10,1.3,1.80,187,2025-12-08 16:29:30,Week 14,Sunday
+Evan Engram,TE,"DEN 24 @ LV 17, Final","2 TGT,2 REC,8 REC YD",$11,5.1,1.80,188,2025-12-08 16:29:30,Week 14,Sunday
+Darnell WashingtonQ,TE,"PIT 27 @ BAL 22, Final","TGT,REC,12 REC YD",$10,4.0,1.70,189,2025-12-08 16:29:31,Week 14,Sunday
+Zach ErtzD,TE,"WAS 0 @ MIN 31, Final","2 TGT,REC,11 REC YD",$17,7.8,1.60,190,2025-12-08 16:29:31,Week 14,Sunday
+Tanner Hudson,TE,"CIN 34 @ BUF 39, Final","TGT,REC,11 REC YD",$10,4.3,1.60,191,2025-12-08 16:29:31,Week 14,Sunday
+Evan Hull,RB,"NO 24 @ TB 20, Final","RUSH ATT,4 RUSH YD,TGT,REC,6 REC YD",$10,1.5,1.50,192,2025-12-08 16:29:31,Week 14,Sunday
+Tai Felton,WR,"WAS 0 @ MIN 31, Final","TGT,REC,10 REC YD",$10,0.4,1.50,193,2025-12-08 16:29:31,Week 14,Sunday
+Mark Andrews,TE,"PIT 27 @ BAL 22, Final","5 TGT,REC,9 REC YD",$16,7.2,1.40,194,2025-12-08 16:29:31,Week 14,Sunday
+Cody White,WR,"SEA 37 @ ATL 9, Final","TGT,REC,9 REC YD",$10,2.4,1.40,195,2025-12-08 16:29:31,Week 14,Sunday
+Ben Sims,TE,"WAS 0 @ MIN 31, Final","TGT,REC,9 REC YD",$10,1.4,1.40,196,2025-12-08 16:29:31,Week 14,Sunday
+Gunnar Helm,TE,"TEN 31 @ CLE 29, Final","2 TGT,REC,8 REC YD",$10,4.2,1.30,197,2025-12-08 16:29:31,Week 14,Sunday
+Ben Sinnott,TE,"WAS 0 @ MIN 31, Final","TGT,REC,8 REC YD",$10,3.0,1.30,198,2025-12-08 16:29:31,Week 14,Sunday
+Darnell Mooney,WR,"SEA 37 @ ATL 9, Final","4 TGT,REC,6 REC YD",$17,4.5,1.10,199,2025-12-08 16:29:31,Week 14,Sunday
+David Martin-Robinson,TE,"TEN 31 @ CLE 29, Final","TGT,REC,6 REC YD",$10,1.1,1.10,200,2025-12-08 16:29:31,Week 14,Sunday
+Audric Estime,RB,"NO 24 @ TB 20, Final","3 RUSH ATT,11 RUSH YD",$10,0.6,1.10,201,2025-12-08 16:29:31,Week 14,Sunday
+Chris Brooks,RB,"CHI 21 @ GB 28, Final","TGT,REC,6 REC YD",$10,1.3,1.10,202,2025-12-08 16:29:31,Week 14,Sunday
+Xavier Smith,WR,"LA 45 @ ARI 17, Final","TGT,REC,6 REC YD",$10,1.9,1.10,203,2025-12-08 16:29:31,Week 14,Sunday
+Sterling Shepard,WR,"NO 24 @ TB 20, Final","TGT,REC,5 REC YD",$10,4.8,1.00,204,2025-12-08 16:29:31,Week 14,Sunday
+Indianapolis Colts,DEF,"IND 19 @ JAC 36, Final","34 PTS ALLOWED,FUM REC",$15,7.2,1.00,205,2025-12-08 16:29:31,Week 14,Sunday
+Emanuel Wilson,RB,"CHI 21 @ GB 28, Final","3 RUSH ATT,10 RUSH YD",$16,5.4,1.00,206,2025-12-08 16:29:31,Week 14,Sunday
+Jordan Whittington,WR,"LA 45 @ ARI 17, Final","TGT,REC,5 REC YD",$10,2.3,1.00,207,2025-12-08 16:29:31,Week 14,Sunday
+Konata Mumpfield,WR,"LA 45 @ ARI 17, Final","TGT,REC,5 REC YD",$10,1.6,1.00,208,2025-12-08 16:29:31,Week 14,Sunday
+Deven Thompkins,WR,"SEA 37 @ ATL 9, Final","TGT,REC,4 REC YD",$10,1.6,0.90,209,2025-12-08 16:29:31,Week 14,Sunday
+Anthony GouldQ,WR,"IND 19 @ JAC 36, Final","TGT,REC,3 REC YD",$10,0.2,0.80,210,2025-12-08 16:29:31,Week 14,Sunday
+Andre Baccellia,WR,"LA 45 @ ARI 17, Final","3 TGT,REC,3 REC YD",$10,0.6,0.80,211,2025-12-08 16:29:31,Week 14,Sunday
+Durham Smythe,TE,"CHI 21 @ GB 28, Final","TGT,REC,2 REC YD",$10,1.0,0.70,212,2025-12-08 16:29:31,Week 14,Sunday
+Jeremy McNichols,RB,"WAS 0 @ MIN 31, Final","TGT,REC,2 REC YD",$10,4.3,0.70,213,2025-12-08 16:29:31,Week 14,Sunday
+Raheem Mostert,RB,"DEN 24 @ LV 17, Final","TGT,REC,2 REC YD",$10,2.1,0.70,214,2025-12-08 16:29:32,Week 14,Sunday
+Elijah Higgins,TE,"LA 45 @ ARI 17, Final","TGT,REC",$10,2.1,0.50,215,2025-12-08 16:29:32,Week 14,Sunday
+Kaleb Johnson,RB,"PIT 27 @ BAL 22, Final","2 RUSH ATT,4 RUSH YD",$10,0.9,0.40,216,2025-12-08 16:29:32,Week 14,Sunday
+Connor Heyward,TE,"PIT 27 @ BAL 22, Final","RUSH ATT,2 RUSH YD",$10,1.0,0.20,217,2025-12-08 16:29:32,Week 14,Sunday
+Malachi CorleyQ,WR,"TEN 31 @ CLE 29, Final","RUSH ATT,2 RUSH YD",$10,1.7,0.20,218,2025-12-08 16:29:32,Week 14,Sunday
+DJ Moore,WR,"CHI 21 @ GB 28, Final","3 TGT,REC,-4 REC YD",$23,7.9,0.10,219,2025-12-08 16:29:32,Week 14,Sunday
+Nick Mullens,QB,"IND 19 @ JAC 36, Final","3 PASS YD,3 RUSH ATT,-1 RUSH YD",$20,-0.1,0.02,220,2025-12-08 16:29:32,Week 14,Sunday
+Jonnu Smith,TE,"PIT 27 @ BAL 22, Final",TGT,$10,3.7,0.00,221,2025-12-08 16:29:32,Week 14,Sunday
+Mason Rudolph,QB,"PIT 27 @ BAL 22, Final",,$20,3.4,0.00,222,2025-12-08 16:29:32,Week 14,Sunday
+Scotty Miller,WR,"PIT 27 @ BAL 22, Final",,$10,0.7,0.00,223,2025-12-08 16:29:32,Week 14,Sunday
+Roman WilsonO,WR,"PIT 27 @ BAL 22, Final",,$10,3.6,0.00,224,2025-12-08 16:29:32,Week 14,Sunday
+Will HowardO,QB,"PIT 27 @ BAL 22, Final",,$20,—,0.00,225,2025-12-08 16:29:32,Week 14,Sunday
+Ke'Shawn WilliamsO,WR,"PIT 27 @ BAL 22, Final",,$10,—,0.00,226,2025-12-08 16:29:32,Week 14,Sunday
+DeAndre Hopkins,WR,"PIT 27 @ BAL 22, Final",TGT,$10,3.6,0.00,227,2025-12-08 16:29:32,Week 14,Sunday
+Patrick Ricard,RB,"PIT 27 @ BAL 22, Final",TGT,$10,0.1,0.00,228,2025-12-08 16:29:32,Week 14,Sunday
+Cooper Rush,QB,"PIT 27 @ BAL 22, Final",,$20,1.4,0.00,229,2025-12-08 16:29:32,Week 14,Sunday
+Justice HillIR,RB,"PIT 27 @ BAL 22, Final",,$10,5.5,0.00,230,2025-12-08 16:29:32,Week 14,Sunday
+Tyler Huntley,QB,"PIT 27 @ BAL 22, Final",,$20,11.7,0.00,231,2025-12-08 16:29:32,Week 14,Sunday
+Tylan Wallace,WR,"PIT 27 @ BAL 22, Final",,$10,1.3,0.00,232,2025-12-08 16:29:32,Week 14,Sunday
+Devontez Walker,WR,"PIT 27 @ BAL 22, Final",,$10,4.6,0.00,233,2025-12-08 16:29:32,Week 14,Sunday
+LaJohntay Wester,WR,"PIT 27 @ BAL 22, Final",,$10,—,0.00,234,2025-12-08 16:29:32,Week 14,Sunday
+Baltimore Ravens,DEF,"PIT 27 @ BAL 22, Final",27 PTS ALLOWED,$12,4.4,0.00,235,2025-12-08 16:29:32,Week 14,Sunday
+Drew Lock,QB,"SEA 37 @ ATL 9, Final",RUSH ATT,$20,0.0,0.00,236,2025-12-08 16:29:32,Week 14,Sunday
+Jake Bobo,WR,"SEA 37 @ ATL 9, Final",,$10,1.0,0.00,237,2025-12-08 16:29:32,Week 14,Sunday
+Brady Russell,RB,"SEA 37 @ ATL 9, Final",,$10,—,0.00,238,2025-12-08 16:29:32,Week 14,Sunday
+George HolaniIR,RB,"SEA 37 @ ATL 9, Final",,$10,2.0,0.00,239,2025-12-08 16:29:32,Week 14,Sunday
+Elijah ArroyoQ,TE,"SEA 37 @ ATL 9, Final",TGT,$10,2.3,0.00,240,2025-12-08 16:29:33,Week 14,Sunday
+Jalen MilroeO,QB,"SEA 37 @ ATL 9, Final",,$20,-0.4,0.00,241,2025-12-08 16:29:33,Week 14,Sunday
+Robbie Ouzts,RB,"SEA 37 @ ATL 9, Final",,$10,—,0.00,242,2025-12-08 16:29:33,Week 14,Sunday
+Nick Kallerup,TE,"SEA 37 @ ATL 9, Final",,$10,—,0.00,243,2025-12-08 16:29:33,Week 14,Sunday
+Jamal Agnew,WR,"SEA 37 @ ATL 9, Final",,$10,—,0.00,244,2025-12-08 16:29:33,Week 14,Sunday
+KhaDarel Hodge,WR,"SEA 37 @ ATL 9, Final",,$10,0.7,0.00,245,2025-12-08 16:29:33,Week 14,Sunday
+David Sills V,WR,"SEA 37 @ ATL 9, Final",4 TGT,$10,2.8,0.00,246,2025-12-08 16:29:33,Week 14,Sunday
+Charlie Woerner,TE,"SEA 37 @ ATL 9, Final",,$10,1.5,0.00,247,2025-12-08 16:29:33,Week 14,Sunday
+Feleipe Franks,TE,"SEA 37 @ ATL 9, Final",,$10,0.1,0.00,248,2025-12-08 16:29:33,Week 14,Sunday
+Drake LondonO,WR,"SEA 37 @ ATL 9, Final",,$38,16.3,0.00,249,2025-12-08 16:29:33,Week 14,Sunday
+Teagan Quitoriano,TE,"SEA 37 @ ATL 9, Final",,$10,—,0.00,250,2025-12-08 16:29:33,Week 14,Sunday
+Casey Washington,WR,"SEA 37 @ ATL 9, Final",,$10,2.5,0.00,251,2025-12-08 16:29:33,Week 14,Sunday
+Nathan Carter,RB,"SEA 37 @ ATL 9, Final",,$10,2.0,0.00,252,2025-12-08 16:29:33,Week 14,Sunday
+Atlanta Falcons,DEF,"SEA 37 @ ATL 9, Final","37 PTS ALLOWED,2 SACK,INT",$13,6.5,0.00,253,2025-12-08 16:29:33,Week 14,Sunday
+Easton Stick,QB,"SEA 37 @ ATL 9, Final",,$20,—,0.00,254,2025-12-08 16:29:33,Week 14,Sunday
+Cam AkersO,RB,"SEA 37 @ ATL 9, Final",,$10,3.6,0.00,255,2025-12-08 16:29:33,Week 14,Sunday
+Myles Gaskin,RB,"SEA 37 @ ATL 9, Final",,$10,0.6,0.00,256,2025-12-08 16:29:33,Week 14,Sunday
+Brandon Allen,QB,"TEN 31 @ CLE 29, Final",,$20,2.8,0.00,257,2025-12-08 16:29:33,Week 14,Sunday
+James Proche II,WR,"TEN 31 @ CLE 29, Final",TGT,$10,2.5,0.00,258,2025-12-08 16:29:33,Week 14,Sunday
+Mason Kinsey,WR,"TEN 31 @ CLE 29, Final",,$10,0.5,0.00,259,2025-12-08 16:29:33,Week 14,Sunday
+Julius Chestnut,RB,"TEN 31 @ CLE 29, Final",,$10,0.3,0.00,260,2025-12-08 16:29:33,Week 14,Sunday
+Deshaun WatsonPUP,QB,"TEN 31 @ CLE 29, Final",,$20,11.4,0.00,261,2025-12-08 16:29:33,Week 14,Sunday
+Blake Whiteheart,TE,"TEN 31 @ CLE 29, Final",TGT,$10,0.2,0.00,262,2025-12-08 16:29:33,Week 14,Sunday
+Jamari ThrashO,WR,"TEN 31 @ CLE 29, Final",,$10,2.0,0.00,263,2025-12-08 16:29:33,Week 14,Sunday
+Brenden BatesO,TE,"TEN 31 @ CLE 29, Final",,$10,3.3,0.00,264,2025-12-08 16:29:33,Week 14,Sunday
+Dillon Gabriel,QB,"TEN 31 @ CLE 29, Final",,$20,8.0,0.00,265,2025-12-08 16:29:33,Week 14,Sunday
+Raheim SandersO,RB,"TEN 31 @ CLE 29, Final",,$10,3.2,0.00,266,2025-12-08 16:29:34,Week 14,Sunday
+Isaiah Bond,WR,"TEN 31 @ CLE 29, Final",2 TGT,$10,2.7,0.00,267,2025-12-08 16:29:34,Week 14,Sunday
+Kalel Mullings,RB,"TEN 31 @ CLE 29, Final",,$10,—,0.00,268,2025-12-08 16:29:34,Week 14,Sunday
+Xavier RestrepoQ,WR,"TEN 31 @ CLE 29, Final",,$10,2.8,0.00,269,2025-12-08 16:29:34,Week 14,Sunday
+Cedrick Wilson Jr.,WR,"MIA 34 @ NYJ 10, Final",,$10,1.3,0.00,270,2025-12-08 16:29:34,Week 14,Sunday
+Alec Ingold,RB,"MIA 34 @ NYJ 10, Final",,$10,1.2,0.00,271,2025-12-08 16:29:34,Week 14,Sunday
+Nick Westbrook-Ikhine,WR,"MIA 34 @ NYJ 10, Final",,$10,1.3,0.00,272,2025-12-08 16:29:34,Week 14,Sunday
+Dee Eskridge,WR,"MIA 34 @ NYJ 10, Final",,$10,0.7,0.00,273,2025-12-08 16:29:34,Week 14,Sunday
+Julian Hill,TE,"MIA 34 @ NYJ 10, Final",,$10,1.8,0.00,274,2025-12-08 16:29:34,Week 14,Sunday
+Tahj WashingtonO,WR,"MIA 34 @ NYJ 10, Final",,$10,-0.4,0.00,275,2025-12-08 16:29:34,Week 14,Sunday
+Quinn EwersO,QB,"MIA 34 @ NYJ 10, Final",,$20,2.1,0.00,276,2025-12-08 16:29:34,Week 14,Sunday
+Allen Lazard,WR,"MIA 34 @ NYJ 10, Final",TGT,$11,2.1,0.00,277,2025-12-08 16:29:34,Week 14,Sunday
+Tyler JohnsonO,WR,"MIA 34 @ NYJ 10, Final",,$10,4.2,0.00,278,2025-12-08 16:29:34,Week 14,Sunday
+Justin FieldsO,QB,"MIA 34 @ NYJ 10, Final",,$20,16.0,0.00,279,2025-12-08 16:29:34,Week 14,Sunday
+Kene Nwangwu,RB,"MIA 34 @ NYJ 10, Final",,$10,0.9,0.00,280,2025-12-08 16:29:34,Week 14,Sunday
+Khalil Herbert,RB,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,281,2025-12-08 16:29:34,Week 14,Sunday
+Jelani WoodsO,TE,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,282,2025-12-08 16:29:34,Week 14,Sunday
+Irvin CharlesPUP,WR,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,283,2025-12-08 16:29:34,Week 14,Sunday
+Stone Smartt,TE,"MIA 34 @ NYJ 10, Final",TGT,$10,—,0.00,284,2025-12-08 16:29:34,Week 14,Sunday
+Arian Smith,WR,"MIA 34 @ NYJ 10, Final",,$10,1.0,0.00,285,2025-12-08 16:29:34,Week 14,Sunday
+Josh ReynoldsIR,WR,"MIA 34 @ NYJ 10, Final",,$10,3.5,0.00,286,2025-12-08 16:29:34,Week 14,Sunday
+Braelon AllenIR,RB,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,287,2025-12-08 16:29:34,Week 14,Sunday
+Alvin KamaraO,RB,"NO 24 @ TB 20, Final",,$18,7.7,0.00,288,2025-12-08 16:29:34,Week 14,Sunday
+Jack Stoll,TE,"NO 24 @ TB 20, Final",TGT,$10,1.4,0.00,289,2025-12-08 16:29:34,Week 14,Sunday
+Zaire Mitchell-PadenO,TE,"NO 24 @ TB 20, Final",,$10,0.9,0.00,290,2025-12-08 16:29:34,Week 14,Sunday
+Spencer Rattler,QB,"NO 24 @ TB 20, Final",,$20,13.0,0.00,291,2025-12-08 16:29:34,Week 14,Sunday
+Mason Tipton,WR,"NO 24 @ TB 20, Final",,$10,1.4,0.00,292,2025-12-08 16:29:35,Week 14,Sunday
+Teddy Bridgewater,QB,"NO 24 @ TB 20, Final",,$20,1.0,0.00,293,2025-12-08 16:29:35,Week 14,Sunday
+Payne Durham,TE,"NO 24 @ TB 20, Final",,$10,0.3,0.00,294,2025-12-08 16:29:35,Week 14,Sunday
+Ryan Miller,WR,"NO 24 @ TB 20, Final",,$10,1.2,0.00,295,2025-12-08 16:29:35,Week 14,Sunday
+Devin Culp,TE,"NO 24 @ TB 20, Final",,$10,—,0.00,296,2025-12-08 16:29:35,Week 14,Sunday
+Kameron Johnson,WR,"NO 24 @ TB 20, Final",TGT,$10,1.2,0.00,297,2025-12-08 16:29:35,Week 14,Sunday
+Tez Johnson,WR,"NO 24 @ TB 20, Final",,$14,6.1,0.00,298,2025-12-08 16:29:35,Week 14,Sunday
+Josh WilliamsSUSP,RB,"NO 24 @ TB 20, Final",,$10,0.6,0.00,299,2025-12-08 16:29:35,Week 14,Sunday
+Kevin Austin Jr.,WR,"NO 24 @ TB 20, Final",,$10,—,0.00,300,2025-12-08 16:29:35,Week 14,Sunday
+Dante Pettis,WR,"NO 24 @ TB 20, Final",,$10,0.5,0.00,301,2025-12-08 16:29:35,Week 14,Sunday
+Connor BazelakO,QB,"NO 24 @ TB 20, Final",,$20,—,0.00,302,2025-12-08 16:29:35,Week 14,Sunday
+Trey PalmerIR,WR,"NO 24 @ TB 20, Final",,$10,1.9,0.00,303,2025-12-08 16:29:35,Week 14,Sunday
+Jalen McMillanIR,WR,"NO 24 @ TB 20, Final",,$13,8.7,0.00,304,2025-12-08 16:29:35,Week 14,Sunday
+Laquon Treadwell,WR,"IND 19 @ JAC 36, Final",,$10,—,0.00,305,2025-12-08 16:29:35,Week 14,Sunday
+Mo Alie-Cox,TE,"IND 19 @ JAC 36, Final",2 TGT,$10,1.0,0.00,306,2025-12-08 16:29:35,Week 14,Sunday
+Drew Ogletree,TE,"IND 19 @ JAC 36, Final",,$10,1.0,0.00,307,2025-12-08 16:29:35,Week 14,Sunday
+Tyler Goodson,RB,"IND 19 @ JAC 36, Final",,$10,0.4,0.00,308,2025-12-08 16:29:35,Week 14,Sunday
+Will MalloryO,TE,"IND 19 @ JAC 36, Final",,$10,0.7,0.00,309,2025-12-08 16:29:35,Week 14,Sunday
+DJ GiddensO,RB,"IND 19 @ JAC 36, Final",,$10,1.7,0.00,310,2025-12-08 16:29:35,Week 14,Sunday
+Johnny MundtO,TE,"IND 19 @ JAC 36, Final",,$10,1.5,0.00,311,2025-12-08 16:29:35,Week 14,Sunday
+Hunter Long,TE,"IND 19 @ JAC 36, Final",,$10,3.8,0.00,312,2025-12-08 16:29:35,Week 14,Sunday
+Dyami Brown,WR,"IND 19 @ JAC 36, Final",,$11,4.4,0.00,313,2025-12-08 16:29:35,Week 14,Sunday
+Austin Trammell,WR,"IND 19 @ JAC 36, Final",,$10,1.0,0.00,314,2025-12-08 16:29:35,Week 14,Sunday
+Quintin Morris,TE,"IND 19 @ JAC 36, Final",,$10,0.5,0.00,315,2025-12-08 16:29:35,Week 14,Sunday
+Parker WashingtonO,WR,"IND 19 @ JAC 36, Final",,$18,7.8,0.00,316,2025-12-08 16:29:35,Week 14,Sunday
+Cody Schrader,RB,"IND 19 @ JAC 36, Final",,$10,0.7,0.00,317,2025-12-08 16:29:35,Week 14,Sunday
+Anthony Richardson Sr.IR,QB,"IND 19 @ JAC 36, Final",,$20,0.8,0.00,318,2025-12-08 16:29:36,Week 14,Sunday
+Case KeenumO,QB,"CHI 21 @ GB 28, Final",,$20,—,0.00,319,2025-12-08 16:29:36,Week 14,Sunday
+Travis Homer,RB,"CHI 21 @ GB 28, Final",,$10,-0.0,0.00,320,2025-12-08 16:29:36,Week 14,Sunday
+Tyson Bagent,QB,"CHI 21 @ GB 28, Final",,$20,1.3,0.00,321,2025-12-08 16:29:36,Week 14,Sunday
+Rome OdunzeO,WR,"CHI 21 @ GB 28, Final",,$20,10.3,0.00,322,2025-12-08 16:29:36,Week 14,Sunday
+Jahdae Walker,WR,"CHI 21 @ GB 28, Final",,$10,—,0.00,323,2025-12-08 16:29:36,Week 14,Sunday
+Malik Willis,QB,"CHI 21 @ GB 28, Final",,$20,3.2,0.00,324,2025-12-08 16:29:36,Week 14,Sunday
+Romeo Doubs,WR,"CHI 21 @ GB 28, Final",2 TGT,$19,8.4,0.00,325,2025-12-08 16:29:36,Week 14,Sunday
+Dontayvion Wicks,WR,"CHI 21 @ GB 28, Final",,$11,5.6,0.00,326,2025-12-08 16:29:36,Week 14,Sunday
+Malik Heath,WR,"CHI 21 @ GB 28, Final",,$10,2.3,0.00,327,2025-12-08 16:29:36,Week 14,Sunday
+Matthew Golden,WR,"CHI 21 @ GB 28, Final",TGT,$15,4.5,0.00,328,2025-12-08 16:29:36,Week 14,Sunday
+Savion WilliamsO,WR,"CHI 21 @ GB 28, Final",,$10,1.8,0.00,329,2025-12-08 16:29:36,Week 14,Sunday
+Will Sheppard,WR,"CHI 21 @ GB 28, Final",,$10,—,0.00,330,2025-12-08 16:29:36,Week 14,Sunday
+MarShawn LloydIR,RB,"CHI 21 @ GB 28, Final",,$10,2.3,0.00,331,2025-12-08 16:29:36,Week 14,Sunday
+Josh JohnsonO,QB,"WAS 0 @ MIN 31, Final",,$20,0.2,0.00,332,2025-12-08 16:29:36,Week 14,Sunday
+Chris Moore,WR,"WAS 0 @ MIN 31, Final",,$10,3.5,0.00,333,2025-12-08 16:29:36,Week 14,Sunday
+John Bates,TE,"WAS 0 @ MIN 31, Final",,$10,1.6,0.00,334,2025-12-08 16:29:36,Week 14,Sunday
+Treylon Burks,WR,"WAS 0 @ MIN 31, Final",TGT,$12,4.1,0.00,335,2025-12-08 16:29:36,Week 14,Sunday
+Colson Yankoff,TE,"WAS 0 @ MIN 31, Final",TGT,$10,0.3,0.00,336,2025-12-08 16:29:36,Week 14,Sunday
+Jaylin Lane,WR,"WAS 0 @ MIN 31, Final",,$10,2.9,0.00,337,2025-12-08 16:29:36,Week 14,Sunday
+C.J. Ham,RB,"WAS 0 @ MIN 31, Final",,$10,0.3,0.00,338,2025-12-08 16:29:36,Week 14,Sunday
+Gavin BartholomewPUP,TE,"WAS 0 @ MIN 31, Final",,$10,—,0.00,339,2025-12-08 16:29:36,Week 14,Sunday
+Max Brosmer,QB,"WAS 0 @ MIN 31, Final",,$20,0.6,0.00,340,2025-12-08 16:29:36,Week 14,Sunday
+Myles Price,WR,"WAS 0 @ MIN 31, Final",,$10,—,0.00,341,2025-12-08 16:29:36,Week 14,Sunday
+Ben YurosekO,TE,"WAS 0 @ MIN 31, Final",,$10,0.3,0.00,342,2025-12-08 16:29:36,Week 14,Sunday
+John WolfordO,QB,"WAS 0 @ MIN 31, Final",,$20,—,0.00,343,2025-12-08 16:29:36,Week 14,Sunday
+Ty ChandlerIR,RB,"WAS 0 @ MIN 31, Final",,$10,—,0.00,344,2025-12-08 16:29:37,Week 14,Sunday
+Jarrett Stidham,QB,"DEN 24 @ LV 17, Final",,$20,-0.1,0.00,345,2025-12-08 16:29:37,Week 14,Sunday
+Nate AdkinsO,TE,"DEN 24 @ LV 17, Final",,$10,2.3,0.00,346,2025-12-08 16:29:37,Week 14,Sunday
+Alex BachmanO,WR,"DEN 24 @ LV 17, Final",,$10,0.2,0.00,347,2025-12-08 16:29:37,Week 14,Sunday
+Zamir WhiteO,RB,"DEN 24 @ LV 17, Final",,$10,2.0,0.00,348,2025-12-08 16:29:37,Week 14,Sunday
+Michael MayerO,TE,"DEN 24 @ LV 17, Final",,$10,3.9,0.00,349,2025-12-08 16:29:37,Week 14,Sunday
+Dylan Laube,RB,"DEN 24 @ LV 17, Final",,$10,0.3,0.00,350,2025-12-08 16:29:37,Week 14,Sunday
+Dont'e Thornton Jr.O,WR,"DEN 24 @ LV 17, Final",,$10,1.8,0.00,351,2025-12-08 16:29:37,Week 14,Sunday
+Carter Runyon,TE,"DEN 24 @ LV 17, Final",,$10,0.3,0.00,352,2025-12-08 16:29:37,Week 14,Sunday
+Aidan O'ConnellO,QB,"DEN 24 @ LV 17, Final",,$20,10.8,0.00,353,2025-12-08 16:29:37,Week 14,Sunday
+Joe Flacco,QB,"CIN 34 @ BUF 39, Final",,$20,15.5,0.00,354,2025-12-08 16:29:37,Week 14,Sunday
+Drew Sample,TE,"CIN 34 @ BUF 39, Final",,$10,1.7,0.00,355,2025-12-08 16:29:37,Week 14,Sunday
+Jake BrowningO,QB,"CIN 34 @ BUF 39, Final",,$20,11.3,0.00,356,2025-12-08 16:29:37,Week 14,Sunday
+Charlie Jones,WR,"CIN 34 @ BUF 39, Final",,$10,0.5,0.00,357,2025-12-08 16:29:37,Week 14,Sunday
+Mitch Tinsley,WR,"CIN 34 @ BUF 39, Final",,$10,4.3,0.00,358,2025-12-08 16:29:37,Week 14,Sunday
+Jermaine BurtonO,WR,"CIN 34 @ BUF 39, Final",,$10,1.6,0.00,359,2025-12-08 16:29:37,Week 14,Sunday
+Erick All Jr.PUP,TE,"CIN 34 @ BUF 39, Final",,$10,3.2,0.00,360,2025-12-08 16:29:37,Week 14,Sunday
+Cam GrandyO,TE,"CIN 34 @ BUF 39, Final",,$10,1.1,0.00,361,2025-12-08 16:29:37,Week 14,Sunday
+Tahj Brooks,RB,"CIN 34 @ BUF 39, Final",,$10,0.4,0.00,362,2025-12-08 16:29:37,Week 14,Sunday
+Mitchell Trubisky,QB,"CIN 34 @ BUF 39, Final",,$20,0.8,0.00,363,2025-12-08 16:29:37,Week 14,Sunday
+Curtis SamuelIR,WR,"CIN 34 @ BUF 39, Final",,$10,2.9,0.00,364,2025-12-08 16:29:37,Week 14,Sunday
+Reggie Gilliam,RB,"CIN 34 @ BUF 39, Final",,$10,0.1,0.00,365,2025-12-08 16:29:37,Week 14,Sunday
+Joshua PalmerO,WR,"CIN 34 @ BUF 39, Final",,$14,4.5,0.00,366,2025-12-08 16:29:37,Week 14,Sunday
+Ray Davis,RB,"CIN 34 @ BUF 39, Final",,$10,2.0,0.00,367,2025-12-08 16:29:37,Week 14,Sunday
+Brandin Cooks,WR,"CIN 34 @ BUF 39, Final",,$10,2.5,0.00,368,2025-12-08 16:29:38,Week 14,Sunday
+Keleki Latu,TE,"CIN 34 @ BUF 39, Final",,$10,0.9,0.00,369,2025-12-08 16:29:38,Week 14,Sunday
+Stetson Bennett IVO,QB,"LA 45 @ ARI 17, Final",,$20,—,0.00,370,2025-12-08 16:29:38,Week 14,Sunday
+Terrance Ferguson,TE,"LA 45 @ ARI 17, Final",TGT,$10,2.5,0.00,371,2025-12-08 16:29:38,Week 14,Sunday
+Jarquez HunterO,RB,"LA 45 @ ARI 17, Final",,$10,—,0.00,372,2025-12-08 16:29:38,Week 14,Sunday
+Greg DortchIR,WR,"LA 45 @ ARI 17, Final",,$13,5.1,0.00,373,2025-12-08 16:29:38,Week 14,Sunday
+Josiah Deguara,TE,"LA 45 @ ARI 17, Final",TGT,$10,0.4,0.00,374,2025-12-08 16:29:38,Week 14,Sunday
+Emari DemercadoO,RB,"LA 45 @ ARI 17, Final",,$10,4.8,0.00,375,2025-12-08 16:29:38,Week 14,Sunday
+Marvin Harrison Jr.O,WR,"LA 45 @ ARI 17, Final",,$26,10.5,0.00,376,2025-12-08 16:29:38,Week 14,Sunday
+Xavier WeaverO,WR,"LA 45 @ ARI 17, Final",,$10,0.8,0.00,377,2025-12-08 16:29:38,Week 14,Sunday
+Kedon Slovis,QB,"LA 45 @ ARI 17, Final",,$20,-0.0,0.00,378,2025-12-08 16:29:38,Week 14,Sunday
+Jermar Jefferson,RB,"LA 45 @ ARI 17, Final",,$10,1.8,0.00,379,2025-12-08 16:29:38,Week 14,Sunday
+Nick Vannett,TE,"LA 45 @ ARI 17, Final",,$10,3.1,0.00,380,2025-12-08 16:29:38,Week 14,Sunday
+Trey BensonIR,RB,"LA 45 @ ARI 17, Final",,$17,5.8,0.00,381,2025-12-08 16:29:38,Week 14,Sunday
+Tutu AtwellIR,WR,"LA 45 @ ARI 17, Final",,$11,4.1,0.00,382,2025-12-08 16:29:38,Week 14,Sunday
+Pharaoh Brown,TE,"LA 45 @ ARI 17, Final",,$10,—,0.00,383,2025-12-08 16:29:38,Week 14,Sunday
+Taysom Hill,TE,"NO 24 @ TB 20, Final","2 RUSH ATT,-1 RUSH YD,2 TGT",$10,2.0,-0.10,384,2025-12-08 16:29:38,Week 14,Sunday
+Zach Wilson,QB,"MIA 34 @ NYJ 10, Final","2 RUSH ATT,-2 RUSH YD",$20,0.5,-0.20,385,2025-12-08 16:29:38,Week 14,Sunday
+Jimmy Garoppolo,QB,"LA 45 @ ARI 17, Final","3 RUSH ATT,-4 RUSH YD",$20,-0.2,-0.40,386,2025-12-08 16:29:38,Week 14,Sunday
+Tyrod TaylorQ,QB,"MIA 34 @ NYJ 10, Final","6 PASS YD,INT",$27,10.7,-0.76,387,2025-12-08 16:29:38,Week 14,Sunday
+Marcus Mariota,QB,"WAS 0 @ MIN 31, Final","30 PASS YD,INT,2 RUSH ATT,7 RUSH YD,FUM LOST",$28,12.7,-1.10,388,2025-12-08 16:29:38,Week 14,Sunday
+Bhayshul Tuten,RB,"IND 19 @ JAC 36, Final","2 RUSH ATT,5 RUSH YD,FUM LOST",$14,5.1,-1.50,389,2025-12-08 16:29:38,Week 14,Sunday
+Arizona Cardinals,DEF,"LA 45 @ ARI 17, Final",45 PTS ALLOWED,$11,5.5,-4.00,390,2025-12-08 16:29:38,Week 14,Sunday
+Shedeur Sanders,QB,"TEN 31 @ CLE 29, Final","364 PASS YD,3 PASS TD,INT,3 RUSH ATT,29 RUSH YD,RUSH TD",$21,14.7,34.46,1,2025-12-08 16:29:55,Week 14,Sunday
+Tony Pollard,RB,"TEN 31 @ CLE 29, Final","25 RUSH ATT,161 RUSH YD,2 RUSH TD",$16,9.5,28.10,2,2025-12-08 16:29:55,Week 14,Sunday
+Jaxon Smith-Njigba,WR,"SEA 37 @ ATL 9, Final","RUSH ATT,-1 RUSH YD,10 TGT,7 REC,92 REC YD,2 REC TD",$42,18.7,24.60,3,2025-12-08 16:29:55,Week 14,Sunday
+Sam Darnold,QB,"SEA 37 @ ATL 9, Final","249 PASS YD,3 PASS TD,INT,3 RUSH ATT,23 RUSH YD",$29,15.4,23.26,4,2025-12-08 16:29:55,Week 14,Sunday
+Christian Watson,WR,"CHI 21 @ GB 28, Final","4 TGT,4 REC,89 REC YD,2 REC TD",$20,12.6,22.90,5,2025-12-08 16:29:55,Week 14,Sunday
+Tyler Shough,QB,"NO 24 @ TB 20, Final","144 PASS YD,INT,7 RUSH ATT,55 RUSH YD,2 RUSH TD",$27,12.0,22.26,6,2025-12-08 16:29:55,Week 14,Sunday
+Lamar Jackson,QB,"PIT 27 @ BAL 22, Final","219 PASS YD,PASS TD,INT,7 RUSH ATT,43 RUSH YD,RUSH TD",$35,18.0,22.06,7,2025-12-08 16:29:55,Week 14,Sunday
+Harold Fannin Jr.,TE,"TEN 31 @ CLE 29, Final","11 TGT,8 REC,114 REC YD,REC TD",$15,8.8,21.40,8,2025-12-08 16:29:55,Week 14,Sunday
+Aaron Rodgers,QB,"PIT 27 @ BAL 22, Final","284 PASS YD,PASS TD,2 RUSH ATT,RUSH TD,TGT,REC,-9 REC YD",$25,14.7,20.96,9,2025-12-08 16:29:55,Week 14,Sunday
+Travis Etienne Jr.,RB,"IND 19 @ JAC 36, Final","20 RUSH ATT,74 RUSH YD,2 RUSH TD,TGT,REC,8 REC YD",$28,13.6,20.70,10,2025-12-08 16:29:55,Week 14,Sunday
+J.J. McCarthy,QB,"WAS 0 @ MIN 31, Final","163 PASS YD,3 PASS TD,6 RUSH ATT,19 RUSH YD",$23,13.7,20.42,11,2025-12-08 16:29:55,Week 14,Sunday
+Jordan Love,QB,"CHI 21 @ GB 28, Final","234 PASS YD,3 PASS TD,INT,RUSH ATT,-1 RUSH YD",$34,17.0,20.26,12,2025-12-08 16:29:55,Week 14,Sunday
+Trevor Lawrence,QB,"IND 19 @ JAC 36, Final","244 PASS YD,2 PASS TD,4 RUSH ATT,16 RUSH YD",$34,17.5,19.36,13,2025-12-08 16:29:55,Week 14,Sunday
+Seattle Seahawks,DEF,"SEA 37 @ ATL 9, Final","9 PTS ALLOWED,SACK,2 INT,FUM REC,BLK KICK,RET TD",$20,11.6,19.00,14,2025-12-08 16:29:55,Week 14,Sunday
+DK MetcalfQ,WR,"PIT 27 @ BAL 22, Final","12 TGT,7 REC,148 REC YD",$22,10.7,18.30,15,2025-12-08 16:29:55,Week 14,Sunday
+Minnesota Vikings,DEF,"WAS 0 @ MIN 31, Final","0 PTS ALLOWED,2 SACK,2 INT,FUM REC",$11,7.0,18.00,16,2025-12-08 16:29:55,Week 14,Sunday
+De'Von AchaneQ,RB,"MIA 34 @ NYJ 10, Final","7 RUSH ATT,92 RUSH YD,RUSH TD,TGT,REC,13 REC YD",$46,18.8,17.00,17,2025-12-08 16:29:55,Week 14,Sunday
+Jaylen Wright,RB,"MIA 34 @ NYJ 10, Final","24 RUSH ATT,107 RUSH YD,RUSH TD,3 TGT",$10,3.9,16.70,18,2025-12-08 16:29:55,Week 14,Sunday
+Zay Flowers,WR,"PIT 27 @ BAL 22, Final","RUSH ATT,2 RUSH YD,11 TGT,8 REC,124 REC YD",$24,10.0,16.60,19,2025-12-08 16:29:55,Week 14,Sunday
+Tim Patrick,WR,"IND 19 @ JAC 36, Final","6 TGT,5 REC,78 REC YD,REC TD",$10,4.2,16.30,20,2025-12-08 16:29:56,Week 14,Sunday
+Josh Jacobs,RB,"CHI 21 @ GB 28, Final","20 RUSH ATT,86 RUSH YD,RUSH TD,2 TGT,2 REC,6 REC YD",$34,16.0,16.20,21,2025-12-08 16:29:56,Week 14,Sunday
+Miami Dolphins,DEF,"MIA 34 @ NYJ 10, Final","10 PTS ALLOWED,6 SACK,3 INT",$14,6.5,16.00,22,2025-12-08 16:29:56,Week 14,Sunday
+Caleb Williams,QB,"CHI 21 @ GB 28, Final","186 PASS YD,2 PASS TD,INT,4 RUSH ATT,15 RUSH YD",$35,18.7,15.94,23,2025-12-08 16:29:56,Week 14,Sunday
+Jaylen Waddle,WR,"MIA 34 @ NYJ 10, Final","RUSH ATT,21 RUSH YD,7 TGT,5 REC,50 REC YD,REC TD",$28,11.4,15.60,24,2025-12-08 16:29:56,Week 14,Sunday
+Josh Oliver,TE,"WAS 0 @ MIN 31, Final","2 TGT,2 REC,24 REC YD,2 REC TD",$10,4.6,15.40,25,2025-12-08 16:29:56,Week 14,Sunday
+Jerry Jeudy,WR,"TEN 31 @ CLE 29, Final","5 TGT,3 REC,76 REC YD,REC TD",$17,6.1,15.10,26,2025-12-08 16:29:56,Week 14,Sunday
+Bucky Irving,RB,"NO 24 @ TB 20, Final","15 RUSH ATT,55 RUSH YD,3 TGT,2 REC,26 REC YD,REC TD",$33,15.5,15.10,27,2025-12-08 16:29:56,Week 14,Sunday
+Devin Neal,RB,"NO 24 @ TB 20, Final","19 RUSH ATT,70 RUSH YD,RUSH TD,TGT,REC,14 REC YD",$15,5.2,14.90,28,2025-12-08 16:29:56,Week 14,Sunday
+Rashid Shaheed,WR,"SEA 37 @ ATL 9, Final","5 TGT,4 REC,67 REC YD,KRTD",$10,7.6,14.70,29,2025-12-08 16:29:56,Week 14,Sunday
+Jaylen Warren,RB,"PIT 27 @ BAL 22, Final","8 RUSH ATT,13 RUSH YD,3 TGT,3 REC,49 REC YD,REC TD",$27,12.0,13.70,30,2025-12-08 16:29:56,Week 14,Sunday
+Kenneth Gainwell,RB,"PIT 27 @ BAL 22, Final","4 RUSH ATT,15 RUSH YD,RUSH TD,7 TGT,6 REC,27 REC YD",$20,9.6,13.20,31,2025-12-08 16:29:56,Week 14,Sunday
+Jakobi Meyers,WR,"IND 19 @ JAC 36, Final","3 RUSH ATT,9 RUSH YD,10 TGT,4 REC,39 REC YD,REC TD",$21,9.2,12.80,32,2025-12-08 16:29:56,Week 14,Sunday
+Michael Pittman Jr.,WR,"IND 19 @ JAC 36, Final","12 TGT,9 REC,79 REC YD",$23,11.4,12.40,33,2025-12-08 16:29:56,Week 14,Sunday
+Cam Ward,QB,"TEN 31 @ CLE 29, Final","117 PASS YD,2 PASS TD,INT,2 RUSH ATT,4 RUSH YD",$22,10.3,12.08,34,2025-12-08 16:29:56,Week 14,Sunday
+Baker Mayfield,QB,"NO 24 @ TB 20, Final","122 PASS YD,PASS TD,INT,6 RUSH ATT,42 RUSH YD",$32,16.6,12.08,35,2025-12-08 16:29:56,Week 14,Sunday
+Kyle Pitts Sr.,TE,"SEA 37 @ ATL 9, Final","10 TGT,6 REC,90 REC YD",$15,7.7,12.00,36,2025-12-08 16:29:56,Week 14,Sunday
+Jonathan Taylor,RB,"IND 19 @ JAC 36, Final","21 RUSH ATT,74 RUSH YD,RUSH TD,FUM LOST",$41,22.4,11.40,37,2025-12-08 16:29:56,Week 14,Sunday
+Riley Leonard,QB,"IND 19 @ JAC 36, Final","145 PASS YD,INT,2 RUSH ATT,5 RUSH YD,RUSH TD",$20,5.7,11.30,38,2025-12-08 16:29:56,Week 14,Sunday
+Jordan Mason,RB,"WAS 0 @ MIN 31, Final","11 RUSH ATT,52 RUSH YD,RUSH TD",$16,8.3,11.20,39,2025-12-08 16:29:56,Week 14,Sunday
+Bo Melton,WR,"CHI 21 @ GB 28, Final","2 TGT,REC,45 REC YD,REC TD",$10,2.3,11.00,40,2025-12-08 16:29:56,Week 14,Sunday
+Chimere Dike,WR,"TEN 31 @ CLE 29, Final","8 TGT,5 REC,24 REC YD,REC TD",$14,5.8,10.90,41,2025-12-08 16:29:56,Week 14,Sunday
+Colston Loveland,TE,"CHI 21 @ GB 28, Final","5 TGT,4 REC,29 REC YD,REC TD",$13,7.1,10.90,42,2025-12-08 16:29:56,Week 14,Sunday
+Derrick Henry,RB,"PIT 27 @ BAL 22, Final","25 RUSH ATT,94 RUSH YD,2 TGT,REC,8 REC YD",$36,13.9,10.70,43,2025-12-08 16:29:57,Week 14,Sunday
+Isaiah Likely,TE,"PIT 27 @ BAL 22, Final","6 TGT,4 REC,25 REC YD,REC TD",$10,4.4,10.50,44,2025-12-08 16:29:57,Week 14,Sunday
+Cooper Kupp,WR,"SEA 37 @ ATL 9, Final","3 TGT,2 REC,35 REC YD,REC TD",$16,6.4,10.50,45,2025-12-08 16:29:57,Week 14,Sunday
+Alec PierceQ,WR,"IND 19 @ JAC 36, Final","8 TGT,5 REC,80 REC YD",$24,9.8,10.50,46,2025-12-08 16:29:57,Week 14,Sunday
+Brian Thomas Jr.,WR,"IND 19 @ JAC 36, Final","6 TGT,3 REC,87 REC YD",$21,8.5,10.20,47,2025-12-08 16:29:57,Week 14,Sunday
+Jacksonville Jaguars,DEF,"IND 19 @ JAC 36, Final","19 PTS ALLOWED,SACK,SAFETY,2 INT,FUM REC",$16,8.3,10.00,48,2025-12-08 16:29:57,Week 14,Sunday
+D'Andre Swift,RB,"CHI 21 @ GB 28, Final","13 RUSH ATT,63 RUSH YD,4 TGT,3 REC,19 REC YD",$29,12.9,9.70,49,2025-12-08 16:29:57,Week 14,Sunday
+Isaiah Williams,WR,"MIA 34 @ NYJ 10, Final","3 TGT,2 REC,24 REC YD,PRTD",$10,2.5,9.40,50,2025-12-08 16:29:57,Week 14,Sunday
+Tua Tagovailoa,QB,"MIA 34 @ NYJ 10, Final","127 PASS YD,PASS TD,RUSH ATT",$25,12.2,9.08,51,2025-12-08 16:29:57,Week 14,Sunday
+Luther Burden III,WR,"CHI 21 @ GB 28, Final","RUSH ATT,3 RUSH YD,6 TGT,4 REC,67 REC YD",$12,5.3,9.00,52,2025-12-08 16:29:57,Week 14,Sunday
+Quinshon Judkins,RB,"TEN 31 @ CLE 29, Final","14 RUSH ATT,26 RUSH YD,3 TGT,REC,58 REC YD",$28,12.2,8.90,53,2025-12-08 16:29:57,Week 14,Sunday
+Sean Tucker,RB,"NO 24 @ TB 20, Final","7 RUSH ATT,29 RUSH YD,RUSH TD",$16,5.7,8.90,54,2025-12-08 16:29:57,Week 14,Sunday
+Bijan Robinson,RB,"SEA 37 @ ATL 9, Final","20 RUSH ATT,86 RUSH YD,2 TGT,2 REC,8 REC YD,FUM LOST",$43,18.2,8.40,55,2025-12-08 16:29:57,Week 14,Sunday
+Kyle Monangai,RB,"CHI 21 @ GB 28, Final","14 RUSH ATT,57 RUSH YD,2 TGT,REC,2PT",$21,8.6,8.20,56,2025-12-08 16:29:57,Week 14,Sunday
+T.J. Hockenson,TE,"WAS 0 @ MIN 31, Final","3 TGT,2 REC,12 REC YD,REC TD",$14,6.0,8.20,57,2025-12-08 16:29:57,Week 14,Sunday
+Jordan Addison,WR,"WAS 0 @ MIN 31, Final","7 TGT,4 REC,62 REC YD",$16,8.9,8.20,58,2025-12-08 16:29:57,Week 14,Sunday
+Chris Godwin Jr.,WR,"NO 24 @ TB 20, Final","8 TGT,5 REC,55 REC YD",$22,5.5,8.00,59,2025-12-08 16:29:57,Week 14,Sunday
+Elic Ayomanor,WR,"TEN 31 @ CLE 29, Final","3 TGT,REC,14 REC YD,REC TD",$15,5.7,7.90,60,2025-12-08 16:29:57,Week 14,Sunday
+Tyler Allgeier,RB,"SEA 37 @ ATL 9, Final","11 RUSH ATT,34 RUSH YD,2 TGT,2 REC,33 REC YD",$19,7.8,7.70,61,2025-12-08 16:29:57,Week 14,Sunday
+Ollie Gordon II,RB,"MIA 34 @ NYJ 10, Final","5 RUSH ATT,17 RUSH YD,RUSH TD",$10,3.8,7.70,62,2025-12-08 16:29:57,Week 14,Sunday
+Olamide Zaccheaus,WR,"CHI 21 @ GB 28, Final","3 TGT,2 REC,7 REC YD,REC TD",$10,5.1,7.70,63,2025-12-08 16:29:57,Week 14,Sunday
+Keaton MitchellQ,RB,"PIT 27 @ BAL 22, Final","6 RUSH ATT,76 RUSH YD",$11,4.2,7.60,64,2025-12-08 16:29:57,Week 14,Sunday
+Zach Charbonnet,RB,"SEA 37 @ ATL 9, Final","7 RUSH ATT,46 RUSH YD,3 TGT,2 REC,20 REC YD",$25,9.2,7.60,65,2025-12-08 16:29:57,Week 14,Sunday
+Mason Taylor,TE,"MIA 34 @ NYJ 10, Final","8 TGT,5 REC,51 REC YD",$12,5.1,7.60,66,2025-12-08 16:29:57,Week 14,Sunday
+Aaron Jones Sr.,RB,"WAS 0 @ MIN 31, Final","14 RUSH ATT,76 RUSH YD,TGT",$20,8.1,7.60,67,2025-12-08 16:29:57,Week 14,Sunday
+Dylan Sampson,RB,"TEN 31 @ CLE 29, Final","2 RUSH ATT,4 RUSH YD,6 TGT,5 REC,64 REC YD,FUM LOST",$11,4.7,7.30,68,2025-12-08 16:29:58,Week 14,Sunday
+Jayden Reed,WR,"CHI 21 @ GB 28, Final","2 RUSH ATT,22 RUSH YD,4 TGT,4 REC,31 REC YD",$14,6.4,7.30,69,2025-12-08 16:29:58,Week 14,Sunday
+Tennessee Titans,DEF,"TEN 31 @ CLE 29, Final","29 PTS ALLOWED,2 SACK,INT,FUM REC,BLK KICK",$14,5.8,7.00,70,2025-12-08 16:29:58,Week 14,Sunday
+David NjokuQ,TE,"TEN 31 @ CLE 29, Final","TGT,REC,REC YD,REC TD",$13,6.3,6.60,71,2025-12-08 16:29:58,Week 14,Sunday
+New York Jets,DEF,"MIA 34 @ NYJ 10, Final","34 PTS ALLOWED,SACK,RET TD",$10,4.0,6.00,72,2025-12-08 16:29:58,Week 14,Sunday
+Rachaad White,RB,"NO 24 @ TB 20, Final","11 RUSH ATT,53 RUSH YD,2 TGT,REC,2 REC YD",$14,8.1,6.00,73,2025-12-08 16:29:58,Week 14,Sunday
+Juwan Johnson,TE,"NO 24 @ TB 20, Final","4 TGT,4 REC,38 REC YD",$17,8.2,5.80,74,2025-12-08 16:29:58,Week 14,Sunday
+Tyjae Spears,RB,"TEN 31 @ CLE 29, Final","8 RUSH ATT,19 RUSH YD,4 TGT,2 REC,28 REC YD",$16,6.5,5.70,75,2025-12-08 16:29:58,Week 14,Sunday
+Greg Dulcich,TE,"MIA 34 @ NYJ 10, Final","3 TGT,3 REC,41 REC YD",$10,4.4,5.60,76,2025-12-08 16:29:58,Week 14,Sunday
+Terry McLaurin,WR,"WAS 0 @ MIN 31, Final","6 TGT,3 REC,41 REC YD",$27,9.6,5.60,77,2025-12-08 16:29:58,Week 14,Sunday
+Devaughn Vele,WR,"NO 24 @ TB 20, Final","5 TGT,3 REC,40 REC YD",$13,4.4,5.50,78,2025-12-08 16:29:58,Week 14,Sunday
+John Metchie III,WR,"MIA 34 @ NYJ 10, Final","8 TGT,4 REC,34 REC YD",$13,4.5,5.40,79,2025-12-08 16:29:58,Week 14,Sunday
+Cole Kmet,TE,"CHI 21 @ GB 28, Final","3 TGT,2 REC,42 REC YD",$10,4.2,5.20,80,2025-12-08 16:29:58,Week 14,Sunday
+Chris Rodriguez Jr.,RB,"WAS 0 @ MIN 31, Final","10 RUSH ATT,52 RUSH YD",$18,6.2,5.20,81,2025-12-08 16:29:58,Week 14,Sunday
+Tampa Bay Buccaneers,DEF,"NO 24 @ TB 20, Final","24 PTS ALLOWED,3 SACK,INT",$13,6.5,5.00,82,2025-12-08 16:29:58,Week 14,Sunday
+Deebo Samuel,WR,"WAS 0 @ MIN 31, Final","6 TGT,4 REC,27 REC YD",$24,10.7,4.70,83,2025-12-08 16:29:58,Week 14,Sunday
+Chris Olave,WR,"NO 24 @ TB 20, Final","5 TGT,3 REC,30 REC YD",$31,11.4,4.50,84,2025-12-08 16:29:58,Week 14,Sunday
+Jalen Nailor,WR,"WAS 0 @ MIN 31, Final","3 TGT,3 REC,30 REC YD",$14,4.8,4.50,85,2025-12-08 16:29:58,Week 14,Sunday
+Kirk Cousins,QB,"SEA 37 @ ATL 9, Final","162 PASS YD,2 INT",$24,7.3,4.48,86,2025-12-08 16:29:58,Week 14,Sunday
+Breece Hall,RB,"MIA 34 @ NYJ 10, Final","14 RUSH ATT,43 RUSH YD,TGT",$32,12.1,4.30,87,2025-12-08 16:29:58,Week 14,Sunday
+Josh Downs,WR,"IND 19 @ JAC 36, Final","5 TGT,4 REC,23 REC YD",$17,6.4,4.30,88,2025-12-08 16:29:58,Week 14,Sunday
+AJ Barner,TE,"SEA 37 @ ATL 9, Final","4 TGT,3 REC,27 REC YD",$13,6.9,4.20,89,2025-12-08 16:29:58,Week 14,Sunday
+Brenton Strange,TE,"IND 19 @ JAC 36, Final","6 TGT,3 REC,27 REC YD",$16,7.3,4.20,90,2025-12-08 16:29:58,Week 14,Sunday
+Pittsburgh Steelers,DEF,"PIT 27 @ BAL 22, Final","22 PTS ALLOWED,2 SACK,INT",$15,7.9,4.00,91,2025-12-08 16:29:58,Week 14,Sunday
+Jayden DanielsQ,QB,"WAS 0 @ MIN 31, Final","78 PASS YD,INT,4 RUSH ATT,16 RUSH YD",$31,16.8,3.72,92,2025-12-08 16:29:58,Week 14,Sunday
+Calvin Austin III,WR,"PIT 27 @ BAL 22, Final","2 TGT,REC,31 REC YD",$12,5.1,3.60,93,2025-12-08 16:29:59,Week 14,Sunday
+Dylan Drummond,WR,"SEA 37 @ ATL 9, Final","5 TGT,3 REC,21 REC YD",$10,2.6,3.60,94,2025-12-08 16:29:59,Week 14,Sunday
+Cade Otton,TE,"NO 24 @ TB 20, Final","4 TGT,3 REC,19 REC YD",$12,5.5,3.40,95,2025-12-08 16:29:59,Week 14,Sunday
+Rashod Bateman,WR,"PIT 27 @ BAL 22, Final","3 TGT,2 REC,23 REC YD",$14,4.1,3.30,96,2025-12-08 16:29:59,Week 14,Sunday
+Kenneth Walker III,RB,"SEA 37 @ ATL 9, Final","10 RUSH ATT,29 RUSH YD,3 TGT,REC,-1 REC YD",$22,9.9,3.30,97,2025-12-08 16:29:59,Week 14,Sunday
+Velus Jones Jr.,RB,"SEA 37 @ ATL 9, Final","4 RUSH ATT,32 RUSH YD",$10,0.6,3.20,98,2025-12-08 16:29:59,Week 14,Sunday
+Luke Musgrave,TE,"CHI 21 @ GB 28, Final","4 TGT,2 REC,22 REC YD",$10,2.2,3.20,99,2025-12-08 16:29:59,Week 14,Sunday
+Jacory Croskey-Merritt,RB,"WAS 0 @ MIN 31, Final","7 RUSH ATT,32 RUSH YD",$13,6.6,3.20,100,2025-12-08 16:29:59,Week 14,Sunday
+Chig Okonkwo,TE,"TEN 31 @ CLE 29, Final","2 TGT,2 REC,20 REC YD",$12,4.9,3.00,101,2025-12-08 16:29:59,Week 14,Sunday
+New Orleans Saints,DEF,"NO 24 @ TB 20, Final","20 PTS ALLOWED,INT",$12,5.9,3.00,102,2025-12-08 16:29:59,Week 14,Sunday
+Green Bay Packers,DEF,"CHI 21 @ GB 28, Final","21 PTS ALLOWED,SACK,INT",$14,5.8,3.00,103,2025-12-08 16:29:59,Week 14,Sunday
+Washington Commanders,DEF,"WAS 0 @ MIN 31, Final","31 PTS ALLOWED,4 SACK",$10,4.1,3.00,104,2025-12-08 16:29:59,Week 14,Sunday
+Jeremy Ruckert,TE,"MIA 34 @ NYJ 10, Final","3 TGT,2 REC,19 REC YD",$10,2.7,2.90,105,2025-12-08 16:29:59,Week 14,Sunday
+Adonai Mitchell,WR,"MIA 34 @ NYJ 10, Final","6 TGT,REC,24 REC YD",$13,4.0,2.90,106,2025-12-08 16:29:59,Week 14,Sunday
+Devin Duvernay,WR,"CHI 21 @ GB 28, Final","TGT,REC,24 REC YD",$10,0.3,2.90,107,2025-12-08 16:29:59,Week 14,Sunday
+Cedric Tillman,WR,"TEN 31 @ CLE 29, Final","3 TGT,REC,23 REC YD",$12,4.5,2.80,108,2025-12-08 16:29:59,Week 14,Sunday
+Gage Larvadain,WR,"TEN 31 @ CLE 29, Final","3 TGT,2 REC,18 REC YD",$10,0.8,2.80,109,2025-12-08 16:29:59,Week 14,Sunday
+Van Jefferson,WR,"TEN 31 @ CLE 29, Final","4 TGT,2 REC,17 REC YD",$10,3.7,2.70,110,2025-12-08 16:29:59,Week 14,Sunday
+Tyler Warren,TE,"IND 19 @ JAC 36, Final","RUSH ATT,2 RUSH YD,6 TGT,2 REC,15 REC YD",$20,10.1,2.70,111,2025-12-08 16:29:59,Week 14,Sunday
+Josh Whyle,TE,"CHI 21 @ GB 28, Final","TGT,REC,21 REC YD",$10,2.5,2.60,112,2025-12-08 16:29:59,Week 14,Sunday
+Malik Washington,WR,"MIA 34 @ NYJ 10, Final","4 TGT,3 REC,10 REC YD",$13,5.5,2.50,113,2025-12-08 16:29:59,Week 14,Sunday
+Emeka Egbuka,WR,"NO 24 @ TB 20, Final","9 TGT,2 REC,15 REC YD",$26,11.3,2.50,114,2025-12-08 16:29:59,Week 14,Sunday
+Zavier Scott,RB,"WAS 0 @ MIN 31, Final","3 RUSH ATT,15 RUSH YD,TGT,REC,5 REC YD",$10,3.5,2.50,115,2025-12-08 16:29:59,Week 14,Sunday
+Charlie Kolar,TE,"PIT 27 @ BAL 22, Final","TGT,REC,19 REC YD",$10,2.6,2.40,116,2025-12-08 16:29:59,Week 14,Sunday
+John FitzPatrick,TE,"CHI 21 @ GB 28, Final","2 TGT,2 REC,14 REC YD",$10,1.8,2.40,117,2025-12-08 16:30:00,Week 14,Sunday
+Noah Brown,WR,"WAS 0 @ MIN 31, Final","2 TGT,REC,19 REC YD",$11,2.5,2.40,118,2025-12-08 16:30:00,Week 14,Sunday
+Rasheen Ali,RB,"PIT 27 @ BAL 22, Final","RUSH ATT,2 RUSH YD,3 TGT,2 REC,11 REC YD",$10,0.6,2.30,119,2025-12-08 16:30:00,Week 14,Sunday
+Andrew Beck,RB,"MIA 34 @ NYJ 10, Final","TGT,REC,17 REC YD",$10,1.4,2.20,120,2025-12-08 16:30:00,Week 14,Sunday
+Isaiah Davis,RB,"MIA 34 @ NYJ 10, Final","2 RUSH ATT,22 RUSH YD",$10,2.9,2.20,121,2025-12-08 16:30:00,Week 14,Sunday
+Darren Waller,TE,"MIA 34 @ NYJ 10, Final","RUSH ATT,4 RUSH YD,3 TGT,REC,13 REC YD",$18,9.7,2.20,122,2025-12-08 16:30:00,Week 14,Sunday
+Foster Moreau,TE,"NO 24 @ TB 20, Final","TGT,REC,16 REC YD",$10,1.4,2.10,123,2025-12-08 16:30:00,Week 14,Sunday
+Justin Jefferson,WR,"WAS 0 @ MIN 31, Final","4 TGT,2 REC,11 REC YD",$25,9.6,2.10,124,2025-12-08 16:30:00,Week 14,Sunday
+Jerome Ford,RB,"TEN 31 @ CLE 29, Final","3 TGT,2 REC,10 REC YD",$10,2.4,2.00,125,2025-12-08 16:30:00,Week 14,Sunday
+Cleveland Browns,DEF,"TEN 31 @ CLE 29, Final","31 PTS ALLOWED,SACK,INT",$18,7.6,2.00,126,2025-12-08 16:30:00,Week 14,Sunday
+Chicago Bears,DEF,"CHI 21 @ GB 28, Final","28 PTS ALLOWED,SACK,INT",$12,6.2,2.00,127,2025-12-08 16:30:00,Week 14,Sunday
+Pat Freiermuth,TE,"PIT 27 @ BAL 22, Final","3 TGT,2 REC,9 REC YD",$10,6.2,1.90,128,2025-12-08 16:30:00,Week 14,Sunday
+Ameer Abdullah,RB,"IND 19 @ JAC 36, Final","RUSH ATT,4 RUSH YD,2 TGT,2 REC,5 REC YD",$10,1.9,1.90,129,2025-12-08 16:30:00,Week 14,Sunday
+Ben Skowronek,WR,"PIT 27 @ BAL 22, Final","TGT,REC,13 REC YD",$10,1.1,1.80,130,2025-12-08 16:30:00,Week 14,Sunday
+Daniel JonesD,QB,"IND 19 @ JAC 36, Final","60 PASS YD,INT,RUSH ATT,4 RUSH YD",$33,18.0,1.80,131,2025-12-08 16:30:00,Week 14,Sunday
+LeQuint Allen Jr.,RB,"IND 19 @ JAC 36, Final","2 TGT,2 REC,8 REC YD",$10,1.3,1.80,132,2025-12-08 16:30:00,Week 14,Sunday
+Darnell WashingtonQ,TE,"PIT 27 @ BAL 22, Final","TGT,REC,12 REC YD",$10,4.0,1.70,133,2025-12-08 16:30:00,Week 14,Sunday
+Zach ErtzD,TE,"WAS 0 @ MIN 31, Final","2 TGT,REC,11 REC YD",$17,7.8,1.60,134,2025-12-08 16:30:00,Week 14,Sunday
+Evan Hull,RB,"NO 24 @ TB 20, Final","RUSH ATT,4 RUSH YD,TGT,REC,6 REC YD",$10,1.5,1.50,135,2025-12-08 16:30:00,Week 14,Sunday
+Tai Felton,WR,"WAS 0 @ MIN 31, Final","TGT,REC,10 REC YD",$10,0.4,1.50,136,2025-12-08 16:30:00,Week 14,Sunday
+Mark Andrews,TE,"PIT 27 @ BAL 22, Final","5 TGT,REC,9 REC YD",$16,7.2,1.40,137,2025-12-08 16:30:00,Week 14,Sunday
+Cody White,WR,"SEA 37 @ ATL 9, Final","TGT,REC,9 REC YD",$10,2.4,1.40,138,2025-12-08 16:30:00,Week 14,Sunday
+Ben Sims,TE,"WAS 0 @ MIN 31, Final","TGT,REC,9 REC YD",$10,1.4,1.40,139,2025-12-08 16:30:00,Week 14,Sunday
+Gunnar Helm,TE,"TEN 31 @ CLE 29, Final","2 TGT,REC,8 REC YD",$10,4.2,1.30,140,2025-12-08 16:30:00,Week 14,Sunday
+Ben Sinnott,TE,"WAS 0 @ MIN 31, Final","TGT,REC,8 REC YD",$10,3.0,1.30,141,2025-12-08 16:30:00,Week 14,Sunday
+Darnell Mooney,WR,"SEA 37 @ ATL 9, Final","4 TGT,REC,6 REC YD",$17,4.5,1.10,142,2025-12-08 16:30:01,Week 14,Sunday
+David Martin-Robinson,TE,"TEN 31 @ CLE 29, Final","TGT,REC,6 REC YD",$10,1.1,1.10,143,2025-12-08 16:30:01,Week 14,Sunday
+Audric Estime,RB,"NO 24 @ TB 20, Final","3 RUSH ATT,11 RUSH YD",$10,0.6,1.10,144,2025-12-08 16:30:01,Week 14,Sunday
+Chris Brooks,RB,"CHI 21 @ GB 28, Final","TGT,REC,6 REC YD",$10,1.3,1.10,145,2025-12-08 16:30:01,Week 14,Sunday
+Sterling Shepard,WR,"NO 24 @ TB 20, Final","TGT,REC,5 REC YD",$10,4.8,1.00,146,2025-12-08 16:30:01,Week 14,Sunday
+Indianapolis Colts,DEF,"IND 19 @ JAC 36, Final","34 PTS ALLOWED,FUM REC",$15,7.2,1.00,147,2025-12-08 16:30:01,Week 14,Sunday
+Emanuel Wilson,RB,"CHI 21 @ GB 28, Final","3 RUSH ATT,10 RUSH YD",$16,5.4,1.00,148,2025-12-08 16:30:01,Week 14,Sunday
+Deven Thompkins,WR,"SEA 37 @ ATL 9, Final","TGT,REC,4 REC YD",$10,1.6,0.90,149,2025-12-08 16:30:01,Week 14,Sunday
+Anthony GouldQ,WR,"IND 19 @ JAC 36, Final","TGT,REC,3 REC YD",$10,0.2,0.80,150,2025-12-08 16:30:01,Week 14,Sunday
+Durham Smythe,TE,"CHI 21 @ GB 28, Final","TGT,REC,2 REC YD",$10,1.0,0.70,151,2025-12-08 16:30:01,Week 14,Sunday
+Jeremy McNichols,RB,"WAS 0 @ MIN 31, Final","TGT,REC,2 REC YD",$10,4.3,0.70,152,2025-12-08 16:30:01,Week 14,Sunday
+Kaleb Johnson,RB,"PIT 27 @ BAL 22, Final","2 RUSH ATT,4 RUSH YD",$10,0.9,0.40,153,2025-12-08 16:30:01,Week 14,Sunday
+Connor Heyward,TE,"PIT 27 @ BAL 22, Final","RUSH ATT,2 RUSH YD",$10,1.0,0.20,154,2025-12-08 16:30:01,Week 14,Sunday
+Malachi CorleyQ,WR,"TEN 31 @ CLE 29, Final","RUSH ATT,2 RUSH YD",$10,1.7,0.20,155,2025-12-08 16:30:01,Week 14,Sunday
+DJ Moore,WR,"CHI 21 @ GB 28, Final","3 TGT,REC,-4 REC YD",$23,7.9,0.10,156,2025-12-08 16:30:01,Week 14,Sunday
+Nick Mullens,QB,"IND 19 @ JAC 36, Final","3 PASS YD,3 RUSH ATT,-1 RUSH YD",$20,-0.1,0.02,157,2025-12-08 16:30:01,Week 14,Sunday
+Jonnu Smith,TE,"PIT 27 @ BAL 22, Final",TGT,$10,3.7,0.00,158,2025-12-08 16:30:01,Week 14,Sunday
+Mason Rudolph,QB,"PIT 27 @ BAL 22, Final",,$20,3.4,0.00,159,2025-12-08 16:30:01,Week 14,Sunday
+Scotty Miller,WR,"PIT 27 @ BAL 22, Final",,$10,0.7,0.00,160,2025-12-08 16:30:01,Week 14,Sunday
+Roman WilsonO,WR,"PIT 27 @ BAL 22, Final",,$10,3.6,0.00,161,2025-12-08 16:30:01,Week 14,Sunday
+Will HowardO,QB,"PIT 27 @ BAL 22, Final",,$20,—,0.00,162,2025-12-08 16:30:01,Week 14,Sunday
+Ke'Shawn WilliamsO,WR,"PIT 27 @ BAL 22, Final",,$10,—,0.00,163,2025-12-08 16:30:01,Week 14,Sunday
+DeAndre Hopkins,WR,"PIT 27 @ BAL 22, Final",TGT,$10,3.6,0.00,164,2025-12-08 16:30:01,Week 14,Sunday
+Patrick Ricard,RB,"PIT 27 @ BAL 22, Final",TGT,$10,0.1,0.00,165,2025-12-08 16:30:01,Week 14,Sunday
+Cooper Rush,QB,"PIT 27 @ BAL 22, Final",,$20,1.4,0.00,166,2025-12-08 16:30:01,Week 14,Sunday
+Justice HillIR,RB,"PIT 27 @ BAL 22, Final",,$10,5.5,0.00,167,2025-12-08 16:30:02,Week 14,Sunday
+Tyler Huntley,QB,"PIT 27 @ BAL 22, Final",,$20,11.7,0.00,168,2025-12-08 16:30:02,Week 14,Sunday
+Tylan Wallace,WR,"PIT 27 @ BAL 22, Final",,$10,1.3,0.00,169,2025-12-08 16:30:02,Week 14,Sunday
+Devontez Walker,WR,"PIT 27 @ BAL 22, Final",,$10,4.6,0.00,170,2025-12-08 16:30:02,Week 14,Sunday
+LaJohntay Wester,WR,"PIT 27 @ BAL 22, Final",,$10,—,0.00,171,2025-12-08 16:30:02,Week 14,Sunday
+Baltimore Ravens,DEF,"PIT 27 @ BAL 22, Final",27 PTS ALLOWED,$12,4.4,0.00,172,2025-12-08 16:30:02,Week 14,Sunday
+Drew Lock,QB,"SEA 37 @ ATL 9, Final",RUSH ATT,$20,0.0,0.00,173,2025-12-08 16:30:02,Week 14,Sunday
+Jake Bobo,WR,"SEA 37 @ ATL 9, Final",,$10,1.0,0.00,174,2025-12-08 16:30:02,Week 14,Sunday
+Brady Russell,RB,"SEA 37 @ ATL 9, Final",,$10,—,0.00,175,2025-12-08 16:30:02,Week 14,Sunday
+George HolaniIR,RB,"SEA 37 @ ATL 9, Final",,$10,2.0,0.00,176,2025-12-08 16:30:02,Week 14,Sunday
+Elijah ArroyoQ,TE,"SEA 37 @ ATL 9, Final",TGT,$10,2.3,0.00,177,2025-12-08 16:30:02,Week 14,Sunday
+Jalen MilroeO,QB,"SEA 37 @ ATL 9, Final",,$20,-0.4,0.00,178,2025-12-08 16:30:02,Week 14,Sunday
+Robbie Ouzts,RB,"SEA 37 @ ATL 9, Final",,$10,—,0.00,179,2025-12-08 16:30:02,Week 14,Sunday
+Nick Kallerup,TE,"SEA 37 @ ATL 9, Final",,$10,—,0.00,180,2025-12-08 16:30:02,Week 14,Sunday
+Jamal Agnew,WR,"SEA 37 @ ATL 9, Final",,$10,—,0.00,181,2025-12-08 16:30:02,Week 14,Sunday
+KhaDarel Hodge,WR,"SEA 37 @ ATL 9, Final",,$10,0.7,0.00,182,2025-12-08 16:30:02,Week 14,Sunday
+David Sills V,WR,"SEA 37 @ ATL 9, Final",4 TGT,$10,2.8,0.00,183,2025-12-08 16:30:02,Week 14,Sunday
+Charlie Woerner,TE,"SEA 37 @ ATL 9, Final",,$10,1.5,0.00,184,2025-12-08 16:30:02,Week 14,Sunday
+Feleipe Franks,TE,"SEA 37 @ ATL 9, Final",,$10,0.1,0.00,185,2025-12-08 16:30:02,Week 14,Sunday
+Drake LondonO,WR,"SEA 37 @ ATL 9, Final",,$38,16.3,0.00,186,2025-12-08 16:30:02,Week 14,Sunday
+Teagan Quitoriano,TE,"SEA 37 @ ATL 9, Final",,$10,—,0.00,187,2025-12-08 16:30:02,Week 14,Sunday
+Casey Washington,WR,"SEA 37 @ ATL 9, Final",,$10,2.5,0.00,188,2025-12-08 16:30:02,Week 14,Sunday
+Nathan Carter,RB,"SEA 37 @ ATL 9, Final",,$10,2.0,0.00,189,2025-12-08 16:30:02,Week 14,Sunday
+Atlanta Falcons,DEF,"SEA 37 @ ATL 9, Final","37 PTS ALLOWED,2 SACK,INT",$13,6.5,0.00,190,2025-12-08 16:30:02,Week 14,Sunday
+Easton Stick,QB,"SEA 37 @ ATL 9, Final",,$20,—,0.00,191,2025-12-08 16:30:02,Week 14,Sunday
+Cam AkersO,RB,"SEA 37 @ ATL 9, Final",,$10,3.6,0.00,192,2025-12-08 16:30:03,Week 14,Sunday
+Myles Gaskin,RB,"SEA 37 @ ATL 9, Final",,$10,0.6,0.00,193,2025-12-08 16:30:03,Week 14,Sunday
+Brandon Allen,QB,"TEN 31 @ CLE 29, Final",,$20,2.8,0.00,194,2025-12-08 16:30:03,Week 14,Sunday
+James Proche II,WR,"TEN 31 @ CLE 29, Final",TGT,$10,2.5,0.00,195,2025-12-08 16:30:03,Week 14,Sunday
+Mason Kinsey,WR,"TEN 31 @ CLE 29, Final",,$10,0.5,0.00,196,2025-12-08 16:30:03,Week 14,Sunday
+Julius Chestnut,RB,"TEN 31 @ CLE 29, Final",,$10,0.3,0.00,197,2025-12-08 16:30:03,Week 14,Sunday
+Deshaun WatsonPUP,QB,"TEN 31 @ CLE 29, Final",,$20,11.4,0.00,198,2025-12-08 16:30:03,Week 14,Sunday
+Blake Whiteheart,TE,"TEN 31 @ CLE 29, Final",TGT,$10,0.2,0.00,199,2025-12-08 16:30:03,Week 14,Sunday
+Jamari ThrashO,WR,"TEN 31 @ CLE 29, Final",,$10,2.0,0.00,200,2025-12-08 16:30:03,Week 14,Sunday
+Brenden BatesO,TE,"TEN 31 @ CLE 29, Final",,$10,3.3,0.00,201,2025-12-08 16:30:03,Week 14,Sunday
+Dillon Gabriel,QB,"TEN 31 @ CLE 29, Final",,$20,8.0,0.00,202,2025-12-08 16:30:03,Week 14,Sunday
+Raheim SandersO,RB,"TEN 31 @ CLE 29, Final",,$10,3.2,0.00,203,2025-12-08 16:30:03,Week 14,Sunday
+Isaiah Bond,WR,"TEN 31 @ CLE 29, Final",2 TGT,$10,2.7,0.00,204,2025-12-08 16:30:03,Week 14,Sunday
+Kalel Mullings,RB,"TEN 31 @ CLE 29, Final",,$10,—,0.00,205,2025-12-08 16:30:03,Week 14,Sunday
+Xavier RestrepoQ,WR,"TEN 31 @ CLE 29, Final",,$10,2.8,0.00,206,2025-12-08 16:30:03,Week 14,Sunday
+Cedrick Wilson Jr.,WR,"MIA 34 @ NYJ 10, Final",,$10,1.3,0.00,207,2025-12-08 16:30:03,Week 14,Sunday
+Alec Ingold,RB,"MIA 34 @ NYJ 10, Final",,$10,1.2,0.00,208,2025-12-08 16:30:03,Week 14,Sunday
+Nick Westbrook-Ikhine,WR,"MIA 34 @ NYJ 10, Final",,$10,1.3,0.00,209,2025-12-08 16:30:03,Week 14,Sunday
+Dee Eskridge,WR,"MIA 34 @ NYJ 10, Final",,$10,0.7,0.00,210,2025-12-08 16:30:03,Week 14,Sunday
+Julian Hill,TE,"MIA 34 @ NYJ 10, Final",,$10,1.8,0.00,211,2025-12-08 16:30:03,Week 14,Sunday
+Tahj WashingtonO,WR,"MIA 34 @ NYJ 10, Final",,$10,-0.4,0.00,212,2025-12-08 16:30:03,Week 14,Sunday
+Quinn EwersO,QB,"MIA 34 @ NYJ 10, Final",,$20,2.1,0.00,213,2025-12-08 16:30:03,Week 14,Sunday
+Allen Lazard,WR,"MIA 34 @ NYJ 10, Final",TGT,$11,2.1,0.00,214,2025-12-08 16:30:03,Week 14,Sunday
+Tyler JohnsonO,WR,"MIA 34 @ NYJ 10, Final",,$10,4.2,0.00,215,2025-12-08 16:30:03,Week 14,Sunday
+Justin FieldsO,QB,"MIA 34 @ NYJ 10, Final",,$20,16.0,0.00,216,2025-12-08 16:30:03,Week 14,Sunday
+Kene Nwangwu,RB,"MIA 34 @ NYJ 10, Final",,$10,0.9,0.00,217,2025-12-08 16:30:03,Week 14,Sunday
+Khalil Herbert,RB,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,218,2025-12-08 16:30:04,Week 14,Sunday
+Jelani WoodsO,TE,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,219,2025-12-08 16:30:04,Week 14,Sunday
+Irvin CharlesPUP,WR,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,220,2025-12-08 16:30:04,Week 14,Sunday
+Stone Smartt,TE,"MIA 34 @ NYJ 10, Final",TGT,$10,—,0.00,221,2025-12-08 16:30:04,Week 14,Sunday
+Arian Smith,WR,"MIA 34 @ NYJ 10, Final",,$10,1.0,0.00,222,2025-12-08 16:30:04,Week 14,Sunday
+Josh ReynoldsIR,WR,"MIA 34 @ NYJ 10, Final",,$10,3.5,0.00,223,2025-12-08 16:30:04,Week 14,Sunday
+Braelon AllenIR,RB,"MIA 34 @ NYJ 10, Final",,$10,—,0.00,224,2025-12-08 16:30:04,Week 14,Sunday
+Alvin KamaraO,RB,"NO 24 @ TB 20, Final",,$18,7.7,0.00,225,2025-12-08 16:30:04,Week 14,Sunday
+Jack Stoll,TE,"NO 24 @ TB 20, Final",TGT,$10,1.4,0.00,226,2025-12-08 16:30:04,Week 14,Sunday
+Zaire Mitchell-PadenO,TE,"NO 24 @ TB 20, Final",,$10,0.9,0.00,227,2025-12-08 16:30:04,Week 14,Sunday
+Spencer Rattler,QB,"NO 24 @ TB 20, Final",,$20,13.0,0.00,228,2025-12-08 16:30:04,Week 14,Sunday
+Mason Tipton,WR,"NO 24 @ TB 20, Final",,$10,1.4,0.00,229,2025-12-08 16:30:04,Week 14,Sunday
+Teddy Bridgewater,QB,"NO 24 @ TB 20, Final",,$20,1.0,0.00,230,2025-12-08 16:30:04,Week 14,Sunday
+Payne Durham,TE,"NO 24 @ TB 20, Final",,$10,0.3,0.00,231,2025-12-08 16:30:04,Week 14,Sunday
+Ryan Miller,WR,"NO 24 @ TB 20, Final",,$10,1.2,0.00,232,2025-12-08 16:30:04,Week 14,Sunday
+Devin Culp,TE,"NO 24 @ TB 20, Final",,$10,—,0.00,233,2025-12-08 16:30:04,Week 14,Sunday
+Kameron Johnson,WR,"NO 24 @ TB 20, Final",TGT,$10,1.2,0.00,234,2025-12-08 16:30:04,Week 14,Sunday
+Tez Johnson,WR,"NO 24 @ TB 20, Final",,$14,6.1,0.00,235,2025-12-08 16:30:04,Week 14,Sunday
+Josh WilliamsSUSP,RB,"NO 24 @ TB 20, Final",,$10,0.6,0.00,236,2025-12-08 16:30:04,Week 14,Sunday
+Kevin Austin Jr.,WR,"NO 24 @ TB 20, Final",,$10,—,0.00,237,2025-12-08 16:30:04,Week 14,Sunday
+Dante Pettis,WR,"NO 24 @ TB 20, Final",,$10,0.5,0.00,238,2025-12-08 16:30:04,Week 14,Sunday
+Connor BazelakO,QB,"NO 24 @ TB 20, Final",,$20,—,0.00,239,2025-12-08 16:30:04,Week 14,Sunday
+Trey PalmerIR,WR,"NO 24 @ TB 20, Final",,$10,1.9,0.00,240,2025-12-08 16:30:04,Week 14,Sunday
+Jalen McMillanIR,WR,"NO 24 @ TB 20, Final",,$13,8.7,0.00,241,2025-12-08 16:30:04,Week 14,Sunday
+Laquon Treadwell,WR,"IND 19 @ JAC 36, Final",,$10,—,0.00,242,2025-12-08 16:30:04,Week 14,Sunday
+Mo Alie-Cox,TE,"IND 19 @ JAC 36, Final",2 TGT,$10,1.0,0.00,243,2025-12-08 16:30:05,Week 14,Sunday
+Drew Ogletree,TE,"IND 19 @ JAC 36, Final",,$10,1.0,0.00,244,2025-12-08 16:30:05,Week 14,Sunday
+Tyler Goodson,RB,"IND 19 @ JAC 36, Final",,$10,0.4,0.00,245,2025-12-08 16:30:05,Week 14,Sunday
+Will MalloryO,TE,"IND 19 @ JAC 36, Final",,$10,0.7,0.00,246,2025-12-08 16:30:05,Week 14,Sunday
+DJ GiddensO,RB,"IND 19 @ JAC 36, Final",,$10,1.7,0.00,247,2025-12-08 16:30:05,Week 14,Sunday
+Johnny MundtO,TE,"IND 19 @ JAC 36, Final",,$10,1.5,0.00,248,2025-12-08 16:30:05,Week 14,Sunday
+Hunter Long,TE,"IND 19 @ JAC 36, Final",,$10,3.8,0.00,249,2025-12-08 16:30:05,Week 14,Sunday
+Dyami Brown,WR,"IND 19 @ JAC 36, Final",,$11,4.4,0.00,250,2025-12-08 16:30:05,Week 14,Sunday
+Austin Trammell,WR,"IND 19 @ JAC 36, Final",,$10,1.0,0.00,251,2025-12-08 16:30:05,Week 14,Sunday
+Quintin Morris,TE,"IND 19 @ JAC 36, Final",,$10,0.5,0.00,252,2025-12-08 16:30:05,Week 14,Sunday
+Parker WashingtonO,WR,"IND 19 @ JAC 36, Final",,$18,7.8,0.00,253,2025-12-08 16:30:05,Week 14,Sunday
+Cody Schrader,RB,"IND 19 @ JAC 36, Final",,$10,0.7,0.00,254,2025-12-08 16:30:05,Week 14,Sunday
+Anthony Richardson Sr.IR,QB,"IND 19 @ JAC 36, Final",,$20,0.8,0.00,255,2025-12-08 16:30:05,Week 14,Sunday
+Case KeenumO,QB,"CHI 21 @ GB 28, Final",,$20,—,0.00,256,2025-12-08 16:30:05,Week 14,Sunday
+Travis Homer,RB,"CHI 21 @ GB 28, Final",,$10,-0.0,0.00,257,2025-12-08 16:30:05,Week 14,Sunday
+Tyson Bagent,QB,"CHI 21 @ GB 28, Final",,$20,1.3,0.00,258,2025-12-08 16:30:05,Week 14,Sunday
+Rome OdunzeO,WR,"CHI 21 @ GB 28, Final",,$20,10.3,0.00,259,2025-12-08 16:30:05,Week 14,Sunday
+Jahdae Walker,WR,"CHI 21 @ GB 28, Final",,$10,—,0.00,260,2025-12-08 16:30:05,Week 14,Sunday
+Malik Willis,QB,"CHI 21 @ GB 28, Final",,$20,3.2,0.00,261,2025-12-08 16:30:05,Week 14,Sunday
+Romeo Doubs,WR,"CHI 21 @ GB 28, Final",2 TGT,$19,8.4,0.00,262,2025-12-08 16:30:05,Week 14,Sunday
+Dontayvion Wicks,WR,"CHI 21 @ GB 28, Final",,$11,5.6,0.00,263,2025-12-08 16:30:05,Week 14,Sunday
+Malik Heath,WR,"CHI 21 @ GB 28, Final",,$10,2.3,0.00,264,2025-12-08 16:30:05,Week 14,Sunday
+Matthew Golden,WR,"CHI 21 @ GB 28, Final",TGT,$15,4.5,0.00,265,2025-12-08 16:30:05,Week 14,Sunday
+Savion WilliamsO,WR,"CHI 21 @ GB 28, Final",,$10,1.8,0.00,266,2025-12-08 16:30:05,Week 14,Sunday
+Will Sheppard,WR,"CHI 21 @ GB 28, Final",,$10,—,0.00,267,2025-12-08 16:30:05,Week 14,Sunday
+MarShawn LloydIR,RB,"CHI 21 @ GB 28, Final",,$10,2.3,0.00,268,2025-12-08 16:30:06,Week 14,Sunday
+Josh JohnsonO,QB,"WAS 0 @ MIN 31, Final",,$20,0.2,0.00,269,2025-12-08 16:30:06,Week 14,Sunday
+Chris Moore,WR,"WAS 0 @ MIN 31, Final",,$10,3.5,0.00,270,2025-12-08 16:30:06,Week 14,Sunday
+John Bates,TE,"WAS 0 @ MIN 31, Final",,$10,1.6,0.00,271,2025-12-08 16:30:06,Week 14,Sunday
+Treylon Burks,WR,"WAS 0 @ MIN 31, Final",TGT,$12,4.1,0.00,272,2025-12-08 16:30:06,Week 14,Sunday
+Colson Yankoff,TE,"WAS 0 @ MIN 31, Final",TGT,$10,0.3,0.00,273,2025-12-08 16:30:06,Week 14,Sunday
+Jaylin Lane,WR,"WAS 0 @ MIN 31, Final",,$10,2.9,0.00,274,2025-12-08 16:30:06,Week 14,Sunday
+C.J. Ham,RB,"WAS 0 @ MIN 31, Final",,$10,0.3,0.00,275,2025-12-08 16:30:06,Week 14,Sunday
+Gavin BartholomewPUP,TE,"WAS 0 @ MIN 31, Final",,$10,—,0.00,276,2025-12-08 16:30:06,Week 14,Sunday
+Max Brosmer,QB,"WAS 0 @ MIN 31, Final",,$20,0.6,0.00,277,2025-12-08 16:30:06,Week 14,Sunday
+Myles Price,WR,"WAS 0 @ MIN 31, Final",,$10,—,0.00,278,2025-12-08 16:30:06,Week 14,Sunday
+Ben YurosekO,TE,"WAS 0 @ MIN 31, Final",,$10,0.3,0.00,279,2025-12-08 16:30:06,Week 14,Sunday
+John WolfordO,QB,"WAS 0 @ MIN 31, Final",,$20,—,0.00,280,2025-12-08 16:30:06,Week 14,Sunday
+Ty ChandlerIR,RB,"WAS 0 @ MIN 31, Final",,$10,—,0.00,281,2025-12-08 16:30:06,Week 14,Sunday
+Taysom Hill,TE,"NO 24 @ TB 20, Final","2 RUSH ATT,-1 RUSH YD,2 TGT",$10,2.0,-0.10,282,2025-12-08 16:30:06,Week 14,Sunday
+Zach Wilson,QB,"MIA 34 @ NYJ 10, Final","2 RUSH ATT,-2 RUSH YD",$20,0.5,-0.20,283,2025-12-08 16:30:06,Week 14,Sunday
+Tyrod TaylorQ,QB,"MIA 34 @ NYJ 10, Final","6 PASS YD,INT",$27,10.7,-0.76,284,2025-12-08 16:30:06,Week 14,Sunday
+Marcus Mariota,QB,"WAS 0 @ MIN 31, Final","30 PASS YD,INT,2 RUSH ATT,7 RUSH YD,FUM LOST",$28,12.7,-1.10,285,2025-12-08 16:30:06,Week 14,Sunday
+Bhayshul Tuten,RB,"IND 19 @ JAC 36, Final","2 RUSH ATT,5 RUSH YD,FUM LOST",$14,5.1,-1.50,286,2025-12-08 16:30:06,Week 14,Sunday
+Puka Nacua,WR,"LA 45 @ ARI 17, Final","11 TGT,7 REC,167 REC YD,2 REC TD",$36,17.7,32.20,1,2025-12-08 16:30:22,Week 14,Sunday
+Michael Wilson,WR,"LA 45 @ ARI 17, Final","16 TGT,11 REC,142 REC YD,2 REC TD",$19,9.2,31.70,2,2025-12-08 16:30:23,Week 14,Sunday
+Blake Corum,RB,"LA 45 @ ARI 17, Final","12 RUSH ATT,128 RUSH YD,2 RUSH TD,TGT,REC,3 REC YD",$13,6.4,25.60,3,2025-12-08 16:30:23,Week 14,Sunday
+Matthew Stafford,QB,"LA 45 @ ARI 17, Final","281 PASS YD,3 PASS TD",$39,20.2,23.24,4,2025-12-08 16:30:23,Week 14,Sunday
+Christian Watson,WR,"CHI 21 @ GB 28, Final","4 TGT,4 REC,89 REC YD,2 REC TD",$20,12.6,22.90,5,2025-12-08 16:30:23,Week 14,Sunday
+Jordan Love,QB,"CHI 21 @ GB 28, Final","234 PASS YD,3 PASS TD,INT,RUSH ATT,-1 RUSH YD",$34,17.0,20.26,6,2025-12-08 16:30:23,Week 14,Sunday
+Jacoby Brissett,QB,"LA 45 @ ARI 17, Final","271 PASS YD,2 PASS TD,INT,4 RUSH ATT,22 RUSH YD",$34,16.9,20.04,7,2025-12-08 16:30:23,Week 14,Sunday
+RJ Harvey,RB,"DEN 24 @ LV 17, Final","17 RUSH ATT,75 RUSH YD,RUSH TD,6 TGT,6 REC,25 REC YD",$27,10.2,19.00,8,2025-12-08 16:30:23,Week 14,Sunday
+Kyren Williams,RB,"LA 45 @ ARI 17, Final","13 RUSH ATT,84 RUSH YD,RUSH TD,2 TGT,2 REC,13 REC YD",$35,14.6,16.70,9,2025-12-08 16:30:23,Week 14,Sunday
+Josh Jacobs,RB,"CHI 21 @ GB 28, Final","20 RUSH ATT,86 RUSH YD,RUSH TD,2 TGT,2 REC,6 REC YD",$34,16.0,16.20,10,2025-12-08 16:30:23,Week 14,Sunday
+Bo Nix,QB,"DEN 24 @ LV 17, Final","212 PASS YD,3 RUSH ATT,15 RUSH YD,RUSH TD",$33,18.4,15.98,11,2025-12-08 16:30:23,Week 14,Sunday
+Caleb Williams,QB,"CHI 21 @ GB 28, Final","186 PASS YD,2 PASS TD,INT,4 RUSH ATT,15 RUSH YD",$35,18.7,15.94,12,2025-12-08 16:30:23,Week 14,Sunday
+Brock Bowers,TE,"DEN 24 @ LV 17, Final","5 TGT,4 REC,46 REC YD,REC TD",$26,12.7,12.60,13,2025-12-08 16:30:23,Week 14,Sunday
+Bo Melton,WR,"CHI 21 @ GB 28, Final","2 TGT,REC,45 REC YD,REC TD",$10,2.3,11.00,14,2025-12-08 16:30:23,Week 14,Sunday
+Denver Broncos,DEF,"DEN 24 @ LV 17, Final","17 PTS ALLOWED,4 SACK,RET TD",$18,8.2,11.00,15,2025-12-08 16:30:23,Week 14,Sunday
+Colston Loveland,TE,"CHI 21 @ GB 28, Final","5 TGT,4 REC,29 REC YD,REC TD",$13,7.1,10.90,16,2025-12-08 16:30:23,Week 14,Sunday
+Colby Parkinson,TE,"LA 45 @ ARI 17, Final","5 TGT,3 REC,32 REC YD,REC TD",$11,5.7,10.70,17,2025-12-08 16:30:23,Week 14,Sunday
+D'Andre Swift,RB,"CHI 21 @ GB 28, Final","13 RUSH ATT,63 RUSH YD,4 TGT,3 REC,19 REC YD",$29,12.9,9.70,18,2025-12-08 16:30:23,Week 14,Sunday
+Courtland Sutton,WR,"DEN 24 @ LV 17, Final","10 TGT,6 REC,62 REC YD",$26,10.6,9.20,19,2025-12-08 16:30:23,Week 14,Sunday
+Geno SmithQ,QB,"DEN 24 @ LV 17, Final","116 PASS YD,PASS TD,RUSH ATT,4 RUSH YD",$24,12.8,9.04,20,2025-12-08 16:30:23,Week 14,Sunday
+Luther Burden III,WR,"CHI 21 @ GB 28, Final","RUSH ATT,3 RUSH YD,6 TGT,4 REC,67 REC YD",$12,5.3,9.00,21,2025-12-08 16:30:23,Week 14,Sunday
+Kenny Pickett,QB,"DEN 24 @ LV 17, Final","97 PASS YD,PASS TD,RUSH ATT,6 RUSH YD",$20,2.3,8.48,22,2025-12-08 16:30:23,Week 14,Sunday
+Trey McBride,TE,"LA 45 @ ARI 17, Final","9 TGT,5 REC,58 REC YD",$30,14.5,8.30,23,2025-12-08 16:30:23,Week 14,Sunday
+Kyle Monangai,RB,"CHI 21 @ GB 28, Final","14 RUSH ATT,57 RUSH YD,2 TGT,REC,2PT",$21,8.6,8.20,24,2025-12-08 16:30:23,Week 14,Sunday
+Jack Bech,WR,"DEN 24 @ LV 17, Final","6 TGT,6 REC,50 REC YD",$10,2.0,8.00,25,2025-12-08 16:30:23,Week 14,Sunday
+Olamide Zaccheaus,WR,"CHI 21 @ GB 28, Final","3 TGT,2 REC,7 REC YD,REC TD",$10,5.1,7.70,26,2025-12-08 16:30:23,Week 14,Sunday
+Jayden Reed,WR,"CHI 21 @ GB 28, Final","2 RUSH ATT,22 RUSH YD,4 TGT,4 REC,31 REC YD",$14,6.4,7.30,27,2025-12-08 16:30:24,Week 14,Sunday
+Marvin Mims Jr.,WR,"DEN 24 @ LV 17, Final","RUSH ATT,2 RUSH YD,TGT,REC,5 REC YD,PRTD",$10,5.0,7.20,28,2025-12-08 16:30:24,Week 14,Sunday
+Los Angeles Rams,DEF,"LA 45 @ ARI 17, Final","17 PTS ALLOWED,3 SACK,INT",$17,8.5,6.00,29,2025-12-08 16:30:24,Week 14,Sunday
+Tyler Lockett,WR,"DEN 24 @ LV 17, Final","4 TGT,3 REC,41 REC YD",$10,3.0,5.60,30,2025-12-08 16:30:24,Week 14,Sunday
+Cole Kmet,TE,"CHI 21 @ GB 28, Final","3 TGT,2 REC,42 REC YD",$10,4.2,5.20,31,2025-12-08 16:30:24,Week 14,Sunday
+Pat Bryant,WR,"DEN 24 @ LV 17, Final","4 TGT,4 REC,32 REC YD",$13,4.8,5.20,32,2025-12-08 16:30:24,Week 14,Sunday
+Davante Adams,WR,"LA 45 @ ARI 17, Final","6 TGT,4 REC,29 REC YD",$37,14.1,4.90,33,2025-12-08 16:30:24,Week 14,Sunday
+Bam Knight,RB,"LA 45 @ ARI 17, Final","7 RUSH ATT,16 RUSH YD,6 TGT,3 REC,18 REC YD",$18,7.5,4.90,34,2025-12-08 16:30:24,Week 14,Sunday
+Ashton Jeanty,RB,"DEN 24 @ LV 17, Final","10 RUSH ATT,30 RUSH YD,4 TGT,2 REC,8 REC YD",$30,12.4,4.80,35,2025-12-08 16:30:24,Week 14,Sunday
+Adam Prentice,RB,"DEN 24 @ LV 17, Final","2 RUSH ATT,22 RUSH YD,2 TGT,2 REC,11 REC YD",$10,1.3,4.30,36,2025-12-08 16:30:24,Week 14,Sunday
+Lil'Jordan Humphrey,WR,"DEN 24 @ LV 17, Final","3 TGT,3 REC,27 REC YD",$10,2.9,4.20,37,2025-12-08 16:30:24,Week 14,Sunday
+Ronnie Rivers,RB,"LA 45 @ ARI 17, Final","8 RUSH ATT,41 RUSH YD",$10,2.1,4.10,38,2025-12-08 16:30:24,Week 14,Sunday
+Michael Carter,RB,"LA 45 @ ARI 17, Final","3 RUSH ATT,13 RUSH YD,4 TGT,2 REC,18 REC YD",$10,6.0,4.10,39,2025-12-08 16:30:24,Week 14,Sunday
+Jaleel McLaughlin,RB,"DEN 24 @ LV 17, Final","4 RUSH ATT,22 RUSH YD,TGT,REC,9 REC YD",$10,3.8,3.60,40,2025-12-08 16:30:24,Week 14,Sunday
+Tre Tucker,WR,"DEN 24 @ LV 17, Final","5 TGT,2 REC,24 REC YD",$16,8.8,3.40,41,2025-12-08 16:30:24,Week 14,Sunday
+Luke Musgrave,TE,"CHI 21 @ GB 28, Final","4 TGT,2 REC,22 REC YD",$10,2.2,3.20,42,2025-12-08 16:30:24,Week 14,Sunday
+Davis Allen,TE,"LA 45 @ ARI 17, Final","2 TGT,2 REC,21 REC YD",$10,3.6,3.10,43,2025-12-08 16:30:24,Week 14,Sunday
+Green Bay Packers,DEF,"CHI 21 @ GB 28, Final","21 PTS ALLOWED,SACK,INT",$14,5.8,3.00,44,2025-12-08 16:30:24,Week 14,Sunday
+Las Vegas Raiders,DEF,"DEN 24 @ LV 17, Final","24 PTS ALLOWED,3 SACK",$10,4.2,3.00,45,2025-12-08 16:30:24,Week 14,Sunday
+Devin Duvernay,WR,"CHI 21 @ GB 28, Final","TGT,REC,24 REC YD",$10,0.3,2.90,46,2025-12-08 16:30:24,Week 14,Sunday
+Adam Trautman,TE,"DEN 24 @ LV 17, Final","2 TGT,2 REC,17 REC YD",$10,3.3,2.70,47,2025-12-08 16:30:24,Week 14,Sunday
+Ian ThomasQ,TE,"DEN 24 @ LV 17, Final","2 TGT,2 REC,17 REC YD",$10,2.2,2.70,48,2025-12-08 16:30:24,Week 14,Sunday
+Josh Whyle,TE,"CHI 21 @ GB 28, Final","TGT,REC,21 REC YD",$10,2.5,2.60,49,2025-12-08 16:30:24,Week 14,Sunday
+Tyler Badie,RB,"DEN 24 @ LV 17, Final","4 RUSH ATT,16 RUSH YD,TGT,REC,5 REC YD",$10,1.8,2.60,50,2025-12-08 16:30:24,Week 14,Sunday
+Troy Franklin,WR,"DEN 24 @ LV 17, Final","4 TGT,3 REC,11 REC YD",$19,8.8,2.60,51,2025-12-08 16:30:25,Week 14,Sunday
+John FitzPatrick,TE,"CHI 21 @ GB 28, Final","2 TGT,2 REC,14 REC YD",$10,1.8,2.40,52,2025-12-08 16:30:25,Week 14,Sunday
+Chicago Bears,DEF,"CHI 21 @ GB 28, Final","28 PTS ALLOWED,SACK,INT",$12,6.2,2.00,53,2025-12-08 16:30:25,Week 14,Sunday
+Evan Engram,TE,"DEN 24 @ LV 17, Final","2 TGT,2 REC,8 REC YD",$11,5.1,1.80,54,2025-12-08 16:30:25,Week 14,Sunday
+Chris Brooks,RB,"CHI 21 @ GB 28, Final","TGT,REC,6 REC YD",$10,1.3,1.10,55,2025-12-08 16:30:25,Week 14,Sunday
+Xavier Smith,WR,"LA 45 @ ARI 17, Final","TGT,REC,6 REC YD",$10,1.9,1.10,56,2025-12-08 16:30:25,Week 14,Sunday
+Emanuel Wilson,RB,"CHI 21 @ GB 28, Final","3 RUSH ATT,10 RUSH YD",$16,5.4,1.00,57,2025-12-08 16:30:25,Week 14,Sunday
+Jordan Whittington,WR,"LA 45 @ ARI 17, Final","TGT,REC,5 REC YD",$10,2.3,1.00,58,2025-12-08 16:30:25,Week 14,Sunday
+Konata Mumpfield,WR,"LA 45 @ ARI 17, Final","TGT,REC,5 REC YD",$10,1.6,1.00,59,2025-12-08 16:30:25,Week 14,Sunday
+Andre Baccellia,WR,"LA 45 @ ARI 17, Final","3 TGT,REC,3 REC YD",$10,0.6,0.80,60,2025-12-08 16:30:25,Week 14,Sunday
+Durham Smythe,TE,"CHI 21 @ GB 28, Final","TGT,REC,2 REC YD",$10,1.0,0.70,61,2025-12-08 16:30:25,Week 14,Sunday
+Raheem Mostert,RB,"DEN 24 @ LV 17, Final","TGT,REC,2 REC YD",$10,2.1,0.70,62,2025-12-08 16:30:25,Week 14,Sunday
+Elijah Higgins,TE,"LA 45 @ ARI 17, Final","TGT,REC",$10,2.1,0.50,63,2025-12-08 16:30:25,Week 14,Sunday
+DJ Moore,WR,"CHI 21 @ GB 28, Final","3 TGT,REC,-4 REC YD",$23,7.9,0.10,64,2025-12-08 16:30:25,Week 14,Sunday
+Case KeenumO,QB,"CHI 21 @ GB 28, Final",,$20,—,0.00,65,2025-12-08 16:30:25,Week 14,Sunday
+Travis Homer,RB,"CHI 21 @ GB 28, Final",,$10,-0.0,0.00,66,2025-12-08 16:30:25,Week 14,Sunday
+Tyson Bagent,QB,"CHI 21 @ GB 28, Final",,$20,1.3,0.00,67,2025-12-08 16:30:25,Week 14,Sunday
+Rome OdunzeO,WR,"CHI 21 @ GB 28, Final",,$20,10.3,0.00,68,2025-12-08 16:30:25,Week 14,Sunday
+Jahdae Walker,WR,"CHI 21 @ GB 28, Final",,$10,—,0.00,69,2025-12-08 16:30:25,Week 14,Sunday
+Malik Willis,QB,"CHI 21 @ GB 28, Final",,$20,3.2,0.00,70,2025-12-08 16:30:25,Week 14,Sunday
+Romeo Doubs,WR,"CHI 21 @ GB 28, Final",2 TGT,$19,8.4,0.00,71,2025-12-08 16:30:25,Week 14,Sunday
+Dontayvion Wicks,WR,"CHI 21 @ GB 28, Final",,$11,5.6,0.00,72,2025-12-08 16:30:25,Week 14,Sunday
+Malik Heath,WR,"CHI 21 @ GB 28, Final",,$10,2.3,0.00,73,2025-12-08 16:30:25,Week 14,Sunday
+Matthew Golden,WR,"CHI 21 @ GB 28, Final",TGT,$15,4.5,0.00,74,2025-12-08 16:30:25,Week 14,Sunday
+Savion WilliamsO,WR,"CHI 21 @ GB 28, Final",,$10,1.8,0.00,75,2025-12-08 16:30:25,Week 14,Sunday
+Will Sheppard,WR,"CHI 21 @ GB 28, Final",,$10,—,0.00,76,2025-12-08 16:30:25,Week 14,Sunday
+MarShawn LloydIR,RB,"CHI 21 @ GB 28, Final",,$10,2.3,0.00,77,2025-12-08 16:30:26,Week 14,Sunday
+Jarrett Stidham,QB,"DEN 24 @ LV 17, Final",,$20,-0.1,0.00,78,2025-12-08 16:30:26,Week 14,Sunday
+Nate AdkinsO,TE,"DEN 24 @ LV 17, Final",,$10,2.3,0.00,79,2025-12-08 16:30:26,Week 14,Sunday
+Alex BachmanO,WR,"DEN 24 @ LV 17, Final",,$10,0.2,0.00,80,2025-12-08 16:30:26,Week 14,Sunday
+Zamir WhiteO,RB,"DEN 24 @ LV 17, Final",,$10,2.0,0.00,81,2025-12-08 16:30:26,Week 14,Sunday
+Michael MayerO,TE,"DEN 24 @ LV 17, Final",,$10,3.9,0.00,82,2025-12-08 16:30:26,Week 14,Sunday
+Dylan Laube,RB,"DEN 24 @ LV 17, Final",,$10,0.3,0.00,83,2025-12-08 16:30:26,Week 14,Sunday
+Dont'e Thornton Jr.O,WR,"DEN 24 @ LV 17, Final",,$10,1.8,0.00,84,2025-12-08 16:30:26,Week 14,Sunday
+Carter Runyon,TE,"DEN 24 @ LV 17, Final",,$10,0.3,0.00,85,2025-12-08 16:30:26,Week 14,Sunday
+Aidan O'ConnellO,QB,"DEN 24 @ LV 17, Final",,$20,10.8,0.00,86,2025-12-08 16:30:26,Week 14,Sunday
+Stetson Bennett IVO,QB,"LA 45 @ ARI 17, Final",,$20,—,0.00,87,2025-12-08 16:30:26,Week 14,Sunday
+Terrance Ferguson,TE,"LA 45 @ ARI 17, Final",TGT,$10,2.5,0.00,88,2025-12-08 16:30:26,Week 14,Sunday
+Jarquez HunterO,RB,"LA 45 @ ARI 17, Final",,$10,—,0.00,89,2025-12-08 16:30:26,Week 14,Sunday
+Greg DortchIR,WR,"LA 45 @ ARI 17, Final",,$13,5.1,0.00,90,2025-12-08 16:30:26,Week 14,Sunday
+Josiah Deguara,TE,"LA 45 @ ARI 17, Final",TGT,$10,0.4,0.00,91,2025-12-08 16:30:26,Week 14,Sunday
+Emari DemercadoO,RB,"LA 45 @ ARI 17, Final",,$10,4.8,0.00,92,2025-12-08 16:30:26,Week 14,Sunday
+Marvin Harrison Jr.O,WR,"LA 45 @ ARI 17, Final",,$26,10.5,0.00,93,2025-12-08 16:30:26,Week 14,Sunday
+Xavier WeaverO,WR,"LA 45 @ ARI 17, Final",,$10,0.8,0.00,94,2025-12-08 16:30:26,Week 14,Sunday
+Kedon Slovis,QB,"LA 45 @ ARI 17, Final",,$20,-0.0,0.00,95,2025-12-08 16:30:26,Week 14,Sunday
+Jermar Jefferson,RB,"LA 45 @ ARI 17, Final",,$10,1.8,0.00,96,2025-12-08 16:30:26,Week 14,Sunday
+Nick Vannett,TE,"LA 45 @ ARI 17, Final",,$10,3.1,0.00,97,2025-12-08 16:30:26,Week 14,Sunday
+Trey BensonIR,RB,"LA 45 @ ARI 17, Final",,$17,5.8,0.00,98,2025-12-08 16:30:26,Week 14,Sunday
+Tutu AtwellIR,WR,"LA 45 @ ARI 17, Final",,$11,4.1,0.00,99,2025-12-08 16:30:26,Week 14,Sunday
+Pharaoh Brown,TE,"LA 45 @ ARI 17, Final",,$10,—,0.00,100,2025-12-08 16:30:26,Week 14,Sunday
+Jimmy Garoppolo,QB,"LA 45 @ ARI 17, Final","3 RUSH ATT,-4 RUSH YD",$20,-0.2,-0.40,101,2025-12-08 16:30:26,Week 14,Sunday
+Arizona Cardinals,DEF,"LA 45 @ ARI 17, Final",45 PTS ALLOWED,$11,5.5,-4.00,102,2025-12-08 16:30:27,Week 14,Sunday
+Woody Marks,RB,"HOU 20 @ KC 10, Final","26 RUSH ATT,68 RUSH YD,3 TGT,2 REC,8 REC YD,REC TD",$23,8.8,14.60,1,2025-12-08 16:30:43,Week 14,Sunday
+Nico Collins,WR,"HOU 20 @ KC 10, Final","8 TGT,4 REC,121 REC YD",$34,12.8,14.10,2,2025-12-08 16:30:43,Week 14,Sunday
+C.J. Stroud,QB,"HOU 20 @ KC 10, Final","203 PASS YD,PASS TD,2 RUSH ATT,5 RUSH YD",$29,14.9,12.62,3,2025-12-08 16:30:43,Week 14,Sunday
+Houston Texans,DEF,"HOU 20 @ KC 10, Final","10 PTS ALLOWED,2 SACK,3 INT",$18,9.7,12.00,4,2025-12-08 16:30:43,Week 14,Sunday
+Kareem Hunt,RB,"HOU 20 @ KC 10, Final","12 RUSH ATT,30 RUSH YD,RUSH TD,TGT",$20,9.6,9.00,5,2025-12-08 16:30:43,Week 14,Sunday
+Patrick Mahomes,QB,"HOU 20 @ KC 10, Final","160 PASS YD,3 INT,7 RUSH ATT,59 RUSH YD,TGT,REC,-10 REC YD",$40,21.7,8.80,6,2025-12-08 16:30:43,Week 14,Sunday
+Xavier Worthy,WR,"HOU 20 @ KC 10, Final","4 TGT,3 REC,55 REC YD",$20,7.2,7.00,7,2025-12-08 16:30:43,Week 14,Sunday
+Dare Ogunbowale,RB,"HOU 20 @ KC 10, Final","RUSH ATT,5 RUSH YD,RUSH TD",$10,1.1,6.50,8,2025-12-08 16:30:43,Week 14,Sunday
+Rashee Rice,WR,"HOU 20 @ KC 10, Final","8 TGT,4 REC,34 REC YD",$39,16.4,5.40,9,2025-12-08 16:30:43,Week 14,Sunday
+Jayden Higgins,WR,"HOU 20 @ KC 10, Final","5 TGT,3 REC,34 REC YD",$18,6.2,4.90,10,2025-12-08 16:30:43,Week 14,Sunday
+Hollywood Brown,WR,"HOU 20 @ KC 10, Final","2 TGT,REC,35 REC YD",$13,7.7,4.00,11,2025-12-08 16:30:43,Week 14,Sunday
+Kansas City Chiefs,DEF,"HOU 20 @ KC 10, Final","20 PTS ALLOWED,3 SACK",$11,5.2,4.00,12,2025-12-08 16:30:43,Week 14,Sunday
+Dalton Schultz,TE,"HOU 20 @ KC 10, Final","4 TGT,3 REC,22 REC YD",$16,7.3,3.70,13,2025-12-08 16:30:43,Week 14,Sunday
+Isiah Pacheco,RB,"HOU 20 @ KC 10, Final","9 RUSH ATT,30 RUSH YD",$15,6.2,3.00,14,2025-12-08 16:30:43,Week 14,Sunday
+Tyquan Thornton,WR,"HOU 20 @ KC 10, Final","3 TGT,2 REC,19 REC YD",$10,6.0,2.90,15,2025-12-08 16:30:43,Week 14,Sunday
+Jaylin Noel,WR,"HOU 20 @ KC 10, Final","RUSH ATT,RUSH YD,2 TGT,2 REC,12 REC YD",$10,3.1,2.30,16,2025-12-08 16:30:43,Week 14,Sunday
+Noah Gray,TE,"HOU 20 @ KC 10, Final","3 TGT,REC,14 REC YD",$10,2.1,1.90,17,2025-12-08 16:30:43,Week 14,Sunday
+Travis Kelce,TE,"HOU 20 @ KC 10, Final","5 TGT,REC,8 REC YD",$21,10.4,1.30,18,2025-12-08 16:30:43,Week 14,Sunday
+Christian Kirk,WR,"HOU 20 @ KC 10, Final","3 TGT,REC,6 REC YD",$11,4.2,1.10,19,2025-12-08 16:30:44,Week 14,Sunday
+JuJu Smith-Schuster,WR,"HOU 20 @ KC 10, Final","2 TGT,REC,5 REC YD",$10,4.2,1.00,20,2025-12-08 16:30:44,Week 14,Sunday
+Brashard Smith,RB,"HOU 20 @ KC 10, Final","RUSH ATT,7 RUSH YD",$10,2.7,0.70,21,2025-12-08 16:30:44,Week 14,Sunday
+Nick ChubbQ,RB,"HOU 20 @ KC 10, Final","RUSH ATT,3 RUSH YD",$13,5.9,0.30,22,2025-12-08 16:30:44,Week 14,Sunday
+Braxton BerriosO,WR,"HOU 20 @ KC 10, Final",,$10,1.7,0.00,23,2025-12-08 16:30:44,Week 14,Sunday
+Jakob Johnson,RB,"HOU 20 @ KC 10, Final",,$10,—,0.00,24,2025-12-08 16:30:44,Week 14,Sunday
+Davis Mills,QB,"HOU 20 @ KC 10, Final",,$20,13.4,0.00,25,2025-12-08 16:30:44,Week 14,Sunday
+Tank DellPUP,WR,"HOU 20 @ KC 10, Final",,$11,8.2,0.00,26,2025-12-08 16:30:44,Week 14,Sunday
+Xavier Hutchinson,WR,"HOU 20 @ KC 10, Final",2 TGT,$10,5.2,0.00,27,2025-12-08 16:30:44,Week 14,Sunday
+Cade Stover,TE,"HOU 20 @ KC 10, Final",,$10,1.8,0.00,28,2025-12-08 16:30:44,Week 14,Sunday
+British Brooks,RB,"HOU 20 @ KC 10, Final",,$10,0.3,0.00,29,2025-12-08 16:30:44,Week 14,Sunday
+Graham MertzO,QB,"HOU 20 @ KC 10, Final",,$20,—,0.00,30,2025-12-08 16:30:44,Week 14,Sunday
+Robert Tonyan,TE,"HOU 20 @ KC 10, Final",,$10,0.2,0.00,31,2025-12-08 16:30:44,Week 14,Sunday
+Gardner Minshew,QB,"HOU 20 @ KC 10, Final",,$20,-0.3,0.00,32,2025-12-08 16:30:44,Week 14,Sunday
+Elijah MitchellO,RB,"HOU 20 @ KC 10, Final",,$10,—,0.00,33,2025-12-08 16:30:44,Week 14,Sunday
+Nikko RemigioO,WR,"HOU 20 @ KC 10, Final",,$10,0.3,0.00,34,2025-12-08 16:30:44,Week 14,Sunday
+Jared Wiley,TE,"HOU 20 @ KC 10, Final",,$10,0.9,0.00,35,2025-12-08 16:30:44,Week 14,Sunday
+Jalen RoyalsO,WR,"HOU 20 @ KC 10, Final",,$10,—,0.00,36,2025-12-08 16:30:44,Week 14,Sunday
+Justin WatsonIR,WR,"HOU 20 @ KC 10, Final",,$10,—,0.00,37,2025-12-08 16:30:44,Week 14,Sunday
