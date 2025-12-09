@@ -1,0 +1,38 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Saquon Barkley,RB,"PHI 19 @ LAC 22, Final OT","20 RUSH ATT,122 RUSH YD,RUSH TD,2 TGT",$28,13.0,18.20,1,2025-12-09 16:29:58,Week 14,Monday
+Omarion Hampton,RB,"PHI 19 @ LAC 22, Final OT","13 RUSH ATT,56 RUSH YD,2 TGT,2 REC,11 REC YD,REC TD",$26,13.4,13.70,2,2025-12-09 16:29:58,Week 14,Monday
+Justin Herbert,QB,"PHI 19 @ LAC 22, Final OT","139 PASS YD,PASS TD,INT,10 RUSH ATT,66 RUSH YD,FUM LOST",$34,18.6,13.16,3,2025-12-09 16:29:58,Week 14,Monday
+A.J. Brown,WR,"PHI 19 @ LAC 22, Final OT","13 TGT,6 REC,100 REC YD",$29,12.2,13.00,4,2025-12-09 16:29:58,Week 14,Monday
+Philadelphia Eagles,DEF,"PHI 19 @ LAC 22, Final OT","22 PTS ALLOWED,7 SACK,INT,2 FUM REC",$13,7.5,13.00,5,2025-12-09 16:29:58,Week 14,Monday
+Los Angeles Chargers,DEF,"PHI 19 @ LAC 22, Final OT","19 PTS ALLOWED,SACK,4 INT,FUM REC",$12,6.2,12.00,6,2025-12-09 16:29:58,Week 14,Monday
+Dallas Goedert,TE,"PHI 19 @ LAC 22, Final OT","10 TGT,8 REC,78 REC YD",$15,9.5,11.80,7,2025-12-09 16:29:58,Week 14,Monday
+Kimani Vidal,RB,"PHI 19 @ LAC 22, Final OT","14 RUSH ATT,44 RUSH YD,3 TGT,REC,60 REC YD",$21,10.2,10.90,8,2025-12-09 16:29:58,Week 14,Monday
+DeVonta Smith,WR,"PHI 19 @ LAC 22, Final OT","8 TGT,4 REC,37 REC YD",$25,10.3,5.70,9,2025-12-09 16:29:58,Week 14,Monday
+Jalen Hurts,QB,"PHI 19 @ LAC 22, Final OT","240 PASS YD,4 INT,4 RUSH ATT,8 RUSH YD,FUM LOST",$37,19.5,4.40,10,2025-12-09 16:29:58,Week 14,Monday
+Keenan Allen,WR,"PHI 19 @ LAC 22, Final OT","3 TGT,3 REC,22 REC YD",$16,9.2,3.70,11,2025-12-09 16:29:58,Week 14,Monday
+Tre' Harris,WR,"PHI 19 @ LAC 22, Final OT","RUSH ATT,3 RUSH YD,2 TGT,REC,18 REC YD",$10,2.9,2.60,12,2025-12-09 16:29:58,Week 14,Monday
+Darius Cooper,WR,"PHI 19 @ LAC 22, Final OT","TGT,REC,19 REC YD",$10,1.4,2.40,13,2025-12-09 16:29:58,Week 14,Monday
+Quentin Johnston,WR,"PHI 19 @ LAC 22, Final OT","3 TGT,2 REC,8 REC YD",$22,10.5,1.80,14,2025-12-09 16:29:58,Week 14,Monday
+Ladd McConkey,WR,"PHI 19 @ LAC 22, Final OT","5 TGT,REC,12 REC YD",$28,9.9,1.70,15,2025-12-09 16:29:58,Week 14,Monday
+Oronde Gadsden,TE,"PHI 19 @ LAC 22, Final OT","4 TGT,REC,7 REC YD",$14,7.6,1.20,16,2025-12-09 16:29:58,Week 14,Monday
+Jahan Dotson,WR,"PHI 19 @ LAC 22, Final OT","3 TGT,REC,3 REC YD",$10,2.7,0.80,17,2025-12-09 16:29:58,Week 14,Monday
+Will Shipley,RB,"PHI 19 @ LAC 22, Final OT","TGT,REC,3 REC YD",$10,1.2,0.80,18,2025-12-09 16:29:58,Week 14,Monday
+Will Dissly,TE,"PHI 19 @ LAC 22, Final OT","TGT,REC,REC YD",$10,1.4,0.60,19,2025-12-09 16:29:58,Week 14,Monday
+Tank Bigsby,RB,"PHI 19 @ LAC 22, Final OT","RUSH ATT,4 RUSH YD",$10,1.7,0.40,20,2025-12-09 16:29:58,Week 14,Monday
+A.J. Dillon,RB,"PHI 19 @ LAC 22, Final OT",,$10,1.4,0.00,21,2025-12-09 16:29:58,Week 14,Monday
+Kylen Granson,TE,"PHI 19 @ LAC 22, Final OT",,$10,0.3,0.00,22,2025-12-09 16:29:58,Week 14,Monday
+Sam Howell,QB,"PHI 19 @ LAC 22, Final OT",,$20,0.2,0.00,23,2025-12-09 16:29:59,Week 14,Monday
+Grant Calcaterra,TE,"PHI 19 @ LAC 22, Final OT",,$10,1.2,0.00,24,2025-12-09 16:29:59,Week 14,Monday
+Cameron Latu,TE,"PHI 19 @ LAC 22, Final OT",,$10,—,0.00,25,2025-12-09 16:29:59,Week 14,Monday
+Tanner McKee,QB,"PHI 19 @ LAC 22, Final OT",,$20,-0.2,0.00,26,2025-12-09 16:29:59,Week 14,Monday
+Xavier Gipson,WR,"PHI 19 @ LAC 22, Final OT",,$10,-0.1,0.00,27,2025-12-09 16:29:59,Week 14,Monday
+Tyler Conklin,TE,"PHI 19 @ LAC 22, Final OT",,$10,2.5,0.00,28,2025-12-09 16:29:59,Week 14,Monday
+Trey Lance,QB,"PHI 19 @ LAC 22, Final OT",,$20,1.7,0.00,29,2025-12-09 16:29:59,Week 14,Monday
+Tucker FiskIR,TE,"PHI 19 @ LAC 22, Final OT",,$10,0.7,0.00,30,2025-12-09 16:29:59,Week 14,Monday
+Derius DavisQ,WR,"PHI 19 @ LAC 22, Final OT",,$10,-0.1,0.00,31,2025-12-09 16:29:59,Week 14,Monday
+Scott Matlock,RB,"PHI 19 @ LAC 22, Final OT",,$10,2.4,0.00,32,2025-12-09 16:29:59,Week 14,Monday
+KeAndre Lambert-Smith,WR,"PHI 19 @ LAC 22, Final OT",,$10,0.1,0.00,33,2025-12-09 16:29:59,Week 14,Monday
+Britain Covey,WR,"PHI 19 @ LAC 22, Final OT",,$10,—,0.00,34,2025-12-09 16:29:59,Week 14,Monday
+Trayveon Williams,RB,"PHI 19 @ LAC 22, Final OT",,$10,0.2,0.00,35,2025-12-09 16:29:59,Week 14,Monday
+Jaret Patterson,RB,"PHI 19 @ LAC 22, Final OT",,$10,4.7,0.00,36,2025-12-09 16:29:59,Week 14,Monday
+Hassan Haskins,RB,"PHI 19 @ LAC 22, Final OT",,$11,0.6,0.00,37,2025-12-09 16:29:59,Week 14,Monday
