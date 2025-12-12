@@ -1,0 +1,38 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Kyle Pitts Sr.,TE,"ATL 29 @ TB 28, Final","12 TGT,11 REC,166 REC YD,3 REC TD",$16,10.0,40.10,1,2025-12-12 16:15:11,Week 15,Thursday
+Kirk Cousins,QB,"ATL 29 @ TB 28, Final","373 PASS YD,3 PASS TD",$21,10.1,26.92,2,2025-12-12 16:15:11,Week 15,Thursday
+Bijan Robinson,RB,"ATL 29 @ TB 28, Final","19 RUSH ATT,93 RUSH YD,RUSH TD,11 TGT,8 REC,82 REC YD,FUM LOST",$40,18.7,25.50,3,2025-12-12 16:15:11,Week 15,Thursday
+Baker Mayfield,QB,"ATL 29 @ TB 28, Final","277 PASS YD,2 PASS TD,INT,RUSH ATT,RUSH YD,2PT",$32,16.8,20.18,4,2025-12-12 16:15:11,Week 15,Thursday
+Mike Evans,WR,"ATL 29 @ TB 28, Final","12 TGT,6 REC,132 REC YD",$25,8.6,16.20,5,2025-12-12 16:15:11,Week 15,Thursday
+Chris Godwin Jr.,WR,"ATL 29 @ TB 28, Final","5 TGT,4 REC,20 REC YD,REC TD,2PT",$20,6.6,12.00,6,2025-12-12 16:15:11,Week 15,Thursday
+David Sills V,WR,"ATL 29 @ TB 28, Final","10 TGT,6 REC,78 REC YD",$10,3.7,10.80,7,2025-12-12 16:15:11,Week 15,Thursday
+Emeka Egbuka,WR,"ATL 29 @ TB 28, Final","7 TGT,4 REC,64 REC YD",$23,11.1,8.40,8,2025-12-12 16:15:11,Week 15,Thursday
+Bucky Irving,RB,"ATL 29 @ TB 28, Final","16 RUSH ATT,60 RUSH YD,3 TGT,REC,11 REC YD",$34,14.3,7.60,9,2025-12-12 16:15:11,Week 15,Thursday
+Devin Culp,TE,"ATL 29 @ TB 28, Final","TGT,REC,6 REC YD,REC TD",$10,3.6,7.10,10,2025-12-12 16:15:11,Week 15,Thursday
+Sean Tucker,RB,"ATL 29 @ TB 28, Final","4 RUSH ATT,7 RUSH YD,RUSH TD",$15,5.8,6.70,11,2025-12-12 16:15:11,Week 15,Thursday
+Atlanta Falcons,DEF,"ATL 29 @ TB 28, Final","28 PTS ALLOWED,5 SACK,INT",$11,6.4,6.00,12,2025-12-12 16:15:11,Week 15,Thursday
+Darnell Mooney,WR,"ATL 29 @ TB 28, Final","6 TGT,3 REC,35 REC YD",$17,4.6,5.00,13,2025-12-12 16:15:11,Week 15,Thursday
+Jalen McMillan,WR,"ATL 29 @ TB 28, Final","2 TGT,2 REC,38 REC YD",$16,4.8,4.80,14,2025-12-12 16:15:11,Week 15,Thursday
+Rachaad White,RB,"ATL 29 @ TB 28, Final","RUSH ATT,20 RUSH YD,TGT,REC,6 REC YD",$15,7.7,3.10,15,2025-12-12 16:15:11,Week 15,Thursday
+Charlie Woerner,TE,"ATL 29 @ TB 28, Final","2 TGT,2 REC,12 REC YD",$10,1.6,2.20,16,2025-12-12 16:15:11,Week 15,Thursday
+Tampa Bay Buccaneers,DEF,"ATL 29 @ TB 28, Final","29 PTS ALLOWED,SACK,FUM REC",$11,6.1,2.00,17,2025-12-12 16:15:12,Week 15,Thursday
+Tyler Allgeier,RB,"ATL 29 @ TB 28, Final","2 RUSH ATT,18 RUSH YD",$18,7.4,1.80,18,2025-12-12 16:15:12,Week 15,Thursday
+Jamal AgnewO,WR,"ATL 29 @ TB 28, Final",,$10,—,0.00,19,2025-12-12 16:15:12,Week 15,Thursday
+KhaDarel Hodge,WR,"ATL 29 @ TB 28, Final",,$10,0.6,0.00,20,2025-12-12 16:15:12,Week 15,Thursday
+Easton Stick,QB,"ATL 29 @ TB 28, Final",,$20,—,0.00,21,2025-12-12 16:15:12,Week 15,Thursday
+Feleipe Franks,TE,"ATL 29 @ TB 28, Final",,$10,0.1,0.00,22,2025-12-12 16:15:12,Week 15,Thursday
+Drake LondonO,WR,"ATL 29 @ TB 28, Final",,$38,16.3,0.00,23,2025-12-12 16:15:12,Week 15,Thursday
+Teagan Quitoriano,TE,"ATL 29 @ TB 28, Final",,$10,—,0.00,24,2025-12-12 16:15:12,Week 15,Thursday
+Casey WashingtonO,WR,"ATL 29 @ TB 28, Final",,$10,2.5,0.00,25,2025-12-12 16:15:12,Week 15,Thursday
+Nathan Carter,RB,"ATL 29 @ TB 28, Final",,$10,2.0,0.00,26,2025-12-12 16:15:12,Week 15,Thursday
+Teddy Bridgewater,QB,"ATL 29 @ TB 28, Final",,$20,1.0,0.00,27,2025-12-12 16:15:12,Week 15,Thursday
+Sterling Shepard,WR,"ATL 29 @ TB 28, Final",,$10,4.8,0.00,28,2025-12-12 16:15:12,Week 15,Thursday
+Cade OttonO,TE,"ATL 29 @ TB 28, Final",,$11,5.5,0.00,29,2025-12-12 16:15:12,Week 15,Thursday
+Payne Durham,TE,"ATL 29 @ TB 28, Final",,$10,0.3,0.00,30,2025-12-12 16:15:12,Week 15,Thursday
+Ryan Miller,WR,"ATL 29 @ TB 28, Final",,$10,1.2,0.00,31,2025-12-12 16:15:12,Week 15,Thursday
+Kameron Johnson,WR,"ATL 29 @ TB 28, Final",,$10,1.1,0.00,32,2025-12-12 16:15:12,Week 15,Thursday
+Tez Johnson,WR,"ATL 29 @ TB 28, Final",TGT,$10,5.6,0.00,33,2025-12-12 16:15:12,Week 15,Thursday
+Josh WilliamsSUSP,RB,"ATL 29 @ TB 28, Final",,$10,0.6,0.00,34,2025-12-12 16:15:12,Week 15,Thursday
+Dylan Drummond,WR,"ATL 29 @ TB 28, Final",,$10,1.9,0.00,35,2025-12-12 16:15:12,Week 15,Thursday
+Connor BazelakO,QB,"ATL 29 @ TB 28, Final",,$20,—,0.00,36,2025-12-12 16:15:12,Week 15,Thursday
+Deven Thompkins,WR,"ATL 29 @ TB 28, Final",,$10,1.2,0.00,37,2025-12-12 16:15:12,Week 15,Thursday
