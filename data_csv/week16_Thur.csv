@@ -1,0 +1,40 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Puka Nacua,WR,"LA 37 @ SEA 38, Final OT","16 TGT,12 REC,225 REC YD,2 REC TD",$43,19.7,40.50,1,2025-12-19 16:15:30,Week 16,Thursday
+Matthew Stafford,QB,"LA 37 @ SEA 38, Final OT","457 PASS YD,3 PASS TD,2 RUSH ATT,6 RUSH YD",$38,21.1,30.88,2,2025-12-19 16:15:30,Week 16,Thursday
+Kenneth Walker III,RB,"LA 37 @ SEA 38, Final OT","11 RUSH ATT,100 RUSH YD,RUSH TD,3 TGT,3 REC,64 REC YD",$18,10.3,23.90,3,2025-12-19 16:15:30,Week 16,Thursday
+Sam Darnold,QB,"LA 37 @ SEA 38, Final OT","270 PASS YD,2 PASS TD,2 INT,3 RUSH ATT,7 RUSH YD,2 2PT",$29,15.6,21.50,4,2025-12-19 16:15:30,Week 16,Thursday
+Jaxon Smith-Njigba,WR,"LA 37 @ SEA 38, Final OT","13 TGT,8 REC,96 REC YD,REC TD",$42,18.5,19.60,5,2025-12-19 16:15:30,Week 16,Thursday
+Zach Charbonnet,RB,"LA 37 @ SEA 38, Final OT","9 RUSH ATT,32 RUSH YD,RUSH TD,4 TGT,4 REC,22 REC YD,2PT",$19,9.2,15.40,6,2025-12-19 16:15:30,Week 16,Thursday
+AJ Barner,TE,"LA 37 @ SEA 38, Final OT","RUSH ATT,RUSH YD,6 TGT,4 REC,49 REC YD,REC TD",$11,7.1,13.00,7,2025-12-19 16:15:30,Week 16,Thursday
+Blake Corum,RB,"LA 37 @ SEA 38, Final OT","14 RUSH ATT,48 RUSH YD,RUSH TD,2 TGT,REC,13 REC YD",$19,7.3,12.60,8,2025-12-19 16:15:31,Week 16,Thursday
+Terrance Ferguson,TE,"LA 37 @ SEA 38, Final OT","4 TGT,3 REC,33 REC YD,REC TD",$10,3.1,10.80,9,2025-12-19 16:15:31,Week 16,Thursday
+Kyren Williams,RB,"LA 37 @ SEA 38, Final OT","23 RUSH ATT,70 RUSH YD,6 TGT,3 REC,15 REC YD",$37,14.7,10.00,10,2025-12-19 16:15:31,Week 16,Thursday
+Rashid Shaheed,WR,"LA 37 @ SEA 38, Final OT","RUSH ATT,31 RUSH YD,TGT,PRTD",$15,7.8,9.10,11,2025-12-19 16:15:31,Week 16,Thursday
+Xavier Smith,WR,"LA 37 @ SEA 38, Final OT","2 TGT,2 REC,57 REC YD",$10,2.1,6.70,12,2025-12-19 16:15:31,Week 16,Thursday
+Los Angeles Rams,DEF,"LA 37 @ SEA 38, Final OT","38 PTS ALLOWED,4 SACK,2 INT,FUM REC",$15,7.8,6.00,13,2025-12-19 16:15:31,Week 16,Thursday
+Konata Mumpfield,WR,"LA 37 @ SEA 38, Final OT","8 TGT,3 REC,40 REC YD",$10,1.8,5.50,14,2025-12-19 16:15:31,Week 16,Thursday
+Cooper Kupp,WR,"LA 37 @ SEA 38, Final OT","4 TGT,3 REC,39 REC YD,FUM LOST,2PT",$17,6.3,5.40,15,2025-12-19 16:15:31,Week 16,Thursday
+Davis Allen,TE,"LA 37 @ SEA 38, Final OT","5 TGT,2 REC,34 REC YD",$10,3.6,4.40,16,2025-12-19 16:15:31,Week 16,Thursday
+Colby Parkinson,TE,"LA 37 @ SEA 38, Final OT","4 TGT,2 REC,21 REC YD",$15,6.9,3.10,17,2025-12-19 16:15:31,Week 16,Thursday
+Jordan Whittington,WR,"LA 37 @ SEA 38, Final OT","TGT,REC,19 REC YD",$10,2.1,2.40,18,2025-12-19 16:15:31,Week 16,Thursday
+Seattle Seahawks,DEF,"LA 37 @ SEA 38, Final OT","37 PTS ALLOWED,RET TD",$17,10.5,2.00,19,2025-12-19 16:15:31,Week 16,Thursday
+Eric Saubert,TE,"LA 37 @ SEA 38, Final OT",2PT,$10,0.6,2.00,20,2025-12-19 16:15:31,Week 16,Thursday
+Davante AdamsO,WR,"LA 37 @ SEA 38, Final OT",,$31,13.8,0.00,21,2025-12-19 16:15:31,Week 16,Thursday
+Jimmy Garoppolo,QB,"LA 37 @ SEA 38, Final OT",,$20,-0.2,0.00,22,2025-12-19 16:15:31,Week 16,Thursday
+Nick Vannett,TE,"LA 37 @ SEA 38, Final OT",,$10,3.1,0.00,23,2025-12-19 16:15:31,Week 16,Thursday
+Ronnie Rivers,RB,"LA 37 @ SEA 38, Final OT",,$10,1.0,0.00,24,2025-12-19 16:15:31,Week 16,Thursday
+Stetson Bennett IVO,QB,"LA 37 @ SEA 38, Final OT",,$20,—,0.00,25,2025-12-19 16:15:31,Week 16,Thursday
+Jarquez HunterO,RB,"LA 37 @ SEA 38, Final OT",,$10,—,0.00,26,2025-12-19 16:15:31,Week 16,Thursday
+Drew Lock,QB,"LA 37 @ SEA 38, Final OT",,$20,0.0,0.00,27,2025-12-19 16:15:31,Week 16,Thursday
+Cody White,WR,"LA 37 @ SEA 38, Final OT",,$10,2.1,0.00,28,2025-12-19 16:15:31,Week 16,Thursday
+Jake BoboO,WR,"LA 37 @ SEA 38, Final OT",,$10,1.0,0.00,29,2025-12-19 16:15:31,Week 16,Thursday
+Brady Russell,RB,"LA 37 @ SEA 38, Final OT",,$10,—,0.00,30,2025-12-19 16:15:31,Week 16,Thursday
+Elijah ArroyoIR,TE,"LA 37 @ SEA 38, Final OT",,$10,2.3,0.00,31,2025-12-19 16:15:31,Week 16,Thursday
+Jalen MilroeO,QB,"LA 37 @ SEA 38, Final OT",,$20,-0.4,0.00,32,2025-12-19 16:15:31,Week 16,Thursday
+Robbie Ouzts,RB,"LA 37 @ SEA 38, Final OT",,$10,—,0.00,33,2025-12-19 16:15:32,Week 16,Thursday
+Nick Kallerup,TE,"LA 37 @ SEA 38, Final OT",,$10,—,0.00,34,2025-12-19 16:15:32,Week 16,Thursday
+Dareke Young,WR,"LA 37 @ SEA 38, Final OT",,$10,0.8,0.00,35,2025-12-19 16:15:32,Week 16,Thursday
+Tutu Atwell,WR,"LA 37 @ SEA 38, Final OT",,$10,3.7,0.00,36,2025-12-19 16:15:32,Week 16,Thursday
+Velus Jones Jr.,RB,"LA 37 @ SEA 38, Final OT",,$10,0.6,0.00,37,2025-12-19 16:15:32,Week 16,Thursday
+Tyler HigbeeIR,TE,"LA 37 @ SEA 38, Final OT",,$11,5.1,0.00,38,2025-12-19 16:15:32,Week 16,Thursday
+Tory HortonIR,WR,"LA 37 @ SEA 38, Final OT",,$13,7.3,0.00,39,2025-12-19 16:15:32,Week 16,Thursday
