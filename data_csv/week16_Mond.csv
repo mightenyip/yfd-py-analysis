@@ -1,0 +1,39 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Brock Purdy,QB,"SF 48 @ IND 27, Final","295 PASS YD,5 PASS TD,INT,2 RUSH ATT,11 RUSH YD",$37,20.5,31.90,1,2025-12-23 16:30:47,Week 16,Monday
+Christian McCaffrey,RB,"SF 48 @ IND 27, Final","21 RUSH ATT,117 RUSH YD,8 TGT,6 REC,29 REC YD,2 REC TD",$44,22.1,29.60,2,2025-12-23 16:30:47,Week 16,Monday
+Alec Pierce,WR,"SF 48 @ IND 27, Final","4 TGT,4 REC,86 REC YD,2 REC TD",$21,10.2,22.60,3,2025-12-23 16:30:47,Week 16,Monday
+George KittleQ,TE,"SF 48 @ IND 27, Final","8 TGT,7 REC,115 REC YD,REC TD",$25,12.8,21.00,4,2025-12-23 16:30:47,Week 16,Monday
+Philip Rivers,QB,"SF 48 @ IND 27, Final","277 PASS YD,2 PASS TD,INT",$22,12.9,18.08,5,2025-12-23 16:30:47,Week 16,Monday
+Jauan Jennings,WR,"SF 48 @ IND 27, Final","6 TGT,5 REC,71 REC YD,REC TD",$29,9.9,15.60,6,2025-12-23 16:30:48,Week 16,Monday
+Jonathan Taylor,RB,"SF 48 @ IND 27, Final","16 RUSH ATT,46 RUSH YD,RUSH TD,3 TGT,3 REC,33 REC YD",$37,21.2,15.40,7,2025-12-23 16:30:48,Week 16,Monday
+San Francisco 49ers,DEF,"SF 48 @ IND 27, Final","27 PTS ALLOWED,2 SACK,INT,FUM REC,TD",$10,4.9,12.00,8,2025-12-23 16:30:48,Week 16,Monday
+Demarcus Robinson,WR,"SF 48 @ IND 27, Final","2 TGT,2 REC,23 REC YD,REC TD",$10,3.3,9.30,9,2025-12-23 16:30:48,Week 16,Monday
+Josh Downs,WR,"SF 48 @ IND 27, Final","RUSH ATT,3 RUSH YD,9 TGT,5 REC,65 REC YD",$16,6.8,9.30,10,2025-12-23 16:30:48,Week 16,Monday
+Michael Pittman Jr.,WR,"SF 48 @ IND 27, Final","5 TGT,4 REC,32 REC YD",$19,10.5,5.20,11,2025-12-23 16:30:48,Week 16,Monday
+Tyler Warren,TE,"SF 48 @ IND 27, Final","9 TGT,3 REC,30 REC YD",$16,9.2,4.50,12,2025-12-23 16:30:48,Week 16,Monday
+Kendrick Bourne,WR,"SF 48 @ IND 27, Final","5 TGT,3 REC,27 REC YD",$10,5.9,4.20,13,2025-12-23 16:30:48,Week 16,Monday
+Skyy Moore,WR,"SF 48 @ IND 27, Final","TGT,REC,23 REC YD",$10,0.8,2.80,14,2025-12-23 16:30:48,Week 16,Monday
+Mo Alie-Cox,TE,"SF 48 @ IND 27, Final","2 TGT,2 REC,16 REC YD",$10,1.2,2.60,15,2025-12-23 16:30:48,Week 16,Monday
+Brian Robinson Jr.,RB,"SF 48 @ IND 27, Final","5 RUSH ATT,20 RUSH YD,TGT",$10,3.6,2.00,16,2025-12-23 16:30:48,Week 16,Monday
+Drew OgletreeQ,TE,"SF 48 @ IND 27, Final","2 TGT,REC,11 REC YD",$10,1.1,1.60,17,2025-12-23 16:30:48,Week 16,Monday
+Jake Tonges,TE,"SF 48 @ IND 27, Final","2 TGT,REC,7 REC YD",$10,6.8,1.20,18,2025-12-23 16:30:48,Week 16,Monday
+Tyler Goodson,RB,"SF 48 @ IND 27, Final","3 RUSH ATT,9 RUSH YD",$10,0.4,0.90,19,2025-12-23 16:30:48,Week 16,Monday
+Kyle Juszczyk,RB,"SF 48 @ IND 27, Final",,$10,2.5,0.00,20,2025-12-23 16:30:48,Week 16,Monday
+Brandon AiyukDTD,WR,"SF 48 @ IND 27, Final",,$10,7.1,0.00,21,2025-12-23 16:30:48,Week 16,Monday
+Luke Farrell,TE,"SF 48 @ IND 27, Final",,$10,1.8,0.00,22,2025-12-23 16:30:48,Week 16,Monday
+Ricky PearsallQ,WR,"SF 48 @ IND 27, Final",,$19,6.6,0.00,23,2025-12-23 16:30:48,Week 16,Monday
+Isaac Guerendo,RB,"SF 48 @ IND 27, Final",,$10,—,0.00,24,2025-12-23 16:30:48,Week 16,Monday
+Jordan Watkins,WR,"SF 48 @ IND 27, Final",,$10,1.2,0.00,25,2025-12-23 16:30:48,Week 16,Monday
+Jordan James,RB,"SF 48 @ IND 27, Final",,$10,—,0.00,26,2025-12-23 16:30:48,Week 16,Monday
+Laquon Treadwell,WR,"SF 48 @ IND 27, Final",,$10,—,0.00,27,2025-12-23 16:30:48,Week 16,Monday
+Will Mallory,TE,"SF 48 @ IND 27, Final",,$10,0.7,0.00,28,2025-12-23 16:30:48,Week 16,Monday
+Anthony GouldQ,WR,"SF 48 @ IND 27, Final",,$10,0.2,0.00,29,2025-12-23 16:30:48,Week 16,Monday
+DJ Giddens,RB,"SF 48 @ IND 27, Final",,$10,1.7,0.00,30,2025-12-23 16:30:48,Week 16,Monday
+Riley Leonard,QB,"SF 48 @ IND 27, Final",,$20,3.8,0.00,31,2025-12-23 16:30:49,Week 16,Monday
+Brett Rypien,QB,"SF 48 @ IND 27, Final",,$20,—,0.00,32,2025-12-23 16:30:49,Week 16,Monday
+Kurtis RourkeO,QB,"SF 48 @ IND 27, Final",,$20,—,0.00,33,2025-12-23 16:30:49,Week 16,Monday
+Coleman Owen,WR,"SF 48 @ IND 27, Final",TGT,$10,—,0.00,34,2025-12-23 16:30:49,Week 16,Monday
+Anthony Richardson Sr.IR,QB,"SF 48 @ IND 27, Final",,$20,0.8,0.00,35,2025-12-23 16:30:49,Week 16,Monday
+Mac Jones,QB,"SF 48 @ IND 27, Final","3 RUSH ATT,-3 RUSH YD",$20,12.4,-0.30,36,2025-12-23 16:30:49,Week 16,Monday
+Indianapolis Colts,DEF,"SF 48 @ IND 27, Final","42 PTS ALLOWED,SACK,INT",$12,6.3,-1.00,37,2025-12-23 16:30:49,Week 16,Monday
+Ameer Abdullah,RB,"SF 48 @ IND 27, Final","TGT,REC,4 REC YD,FUM LOST",$10,2.1,-1.10,38,2025-12-23 16:30:49,Week 16,Monday
