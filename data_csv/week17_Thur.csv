@@ -1,0 +1,106 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Dak Prescott,QB,"DAL 30 @ WAS 23, Final","307 PASS YD,2 PASS TD,4 RUSH ATT,24 RUSH YD",$40,20.2,22.68,1,2025-12-26 16:15:15,Week 17,Thursday
+Jacory Croskey-Merritt,RB,"DAL 30 @ WAS 23, Final","11 RUSH ATT,105 RUSH YD,2 RUSH TD",$15,8.3,22.50,2,2025-12-26 16:15:15,Week 17,Thursday
+Minnesota Vikings,DEF,"DET 10 @ MIN 23, Final","10 PTS ALLOWED,5 SACK,2 INT,4 FUM REC",$13,7.8,21.00,3,2025-12-26 16:15:15,Week 17,Thursday
+Bo Nix,QB,"DEN 20 @ KC 13, Final","182 PASS YD,PASS TD,INT,9 RUSH ATT,42 RUSH YD,RUSH TD",$37,19.1,20.48,4,2025-12-26 16:15:15,Week 17,Thursday
+RJ Harvey,RB,"DEN 20 @ KC 13, Final","14 RUSH ATT,43 RUSH YD,6 TGT,5 REC,33 REC YD,REC TD",$33,11.2,16.10,5,2025-12-26 16:15:15,Week 17,Thursday
+KaVontae Turpin,WR,"DAL 30 @ WAS 23, Final","TGT,REC,86 REC YD,REC TD",$10,5.1,15.10,6,2025-12-26 16:15:15,Week 17,Thursday
+Aaron Jones Sr.,RB,"DET 10 @ MIN 23, Final","18 RUSH ATT,53 RUSH YD,RUSH TD,4 TGT,3 REC,10 REC YD",$20,8.7,13.80,7,2025-12-26 16:15:15,Week 17,Thursday
+Jordan Addison,WR,"DET 10 @ MIN 23, Final","RUSH ATT,65 RUSH YD,RUSH TD,TGT",$19,8.7,12.50,8,2025-12-26 16:15:15,Week 17,Thursday
+Isaac TeSlaa,WR,"DET 10 @ MIN 23, Final","4 TGT,3 REC,49 REC YD,REC TD",$11,5.0,12.40,9,2025-12-26 16:15:15,Week 17,Thursday
+Javonte WilliamsQ,RB,"DAL 30 @ WAS 23, Final","13 RUSH ATT,54 RUSH YD,RUSH TD,2 TGT",$31,14.1,11.40,10,2025-12-26 16:15:15,Week 17,Thursday
+Amon-Ra St. BrownQ,WR,"DET 10 @ MIN 23, Final","13 TGT,8 REC,68 REC YD",$38,15.4,10.80,11,2025-12-26 16:15:15,Week 17,Thursday
+Malik Davis,RB,"DAL 30 @ WAS 23, Final","20 RUSH ATT,103 RUSH YD,2 TGT",$10,4.0,10.30,12,2025-12-26 16:15:15,Week 17,Thursday
+Deebo Samuel,WR,"DAL 30 @ WAS 23, Final","2 RUSH ATT,25 RUSH YD,4 TGT,2 REC,68 REC YD",$24,9.9,10.30,13,2025-12-26 16:15:15,Week 17,Thursday
+George Pickens,WR,"DAL 30 @ WAS 23, Final","5 TGT,4 REC,78 REC YD",$36,15.3,9.80,14,2025-12-26 16:15:15,Week 17,Thursday
+Josh Johnson,QB,"DAL 30 @ WAS 23, Final","198 PASS YD,2 RUSH ATT,10 RUSH YD",$20,4.8,8.92,15,2025-12-26 16:15:16,Week 17,Thursday
+Terry McLaurin,WR,"DAL 30 @ WAS 23, Final","7 TGT,5 REC,63 REC YD",$30,9.7,8.80,16,2025-12-26 16:15:16,Week 17,Thursday
+Brashard Smith,RB,"DEN 20 @ KC 13, Final","4 TGT,3 REC,5 REC YD,REC TD",$10,2.8,8.00,17,2025-12-26 16:15:16,Week 17,Thursday
+Chris Oladokun,QB,"DEN 20 @ KC 13, Final","66 PASS YD,PASS TD,2 RUSH ATT,11 RUSH YD",$20,6.4,7.74,18,2025-12-26 16:15:16,Week 17,Thursday
+CeeDee Lamb,WR,"DAL 30 @ WAS 23, Final","10 TGT,5 REC,46 REC YD",$39,12.5,7.10,19,2025-12-26 16:15:16,Week 17,Thursday
+Jake FergusonQ,TE,"DAL 30 @ WAS 23, Final","2 TGT,REC,6 REC YD,REC TD",$15,9.1,7.10,20,2025-12-26 16:15:16,Week 17,Thursday
+Detroit Lions,DEF,"DET 10 @ MIN 23, Final","23 PTS ALLOWED,7 SACK",$11,5.8,7.00,21,2025-12-26 16:15:16,Week 17,Thursday
+Travis Kelce,TE,"DEN 20 @ KC 13, Final","6 TGT,5 REC,36 REC YD",$17,9.5,6.10,22,2025-12-26 16:15:16,Week 17,Thursday
+Courtland Sutton,WR,"DEN 20 @ KC 13, Final","10 TGT,4 REC,40 REC YD",$29,11.4,6.00,23,2025-12-26 16:15:16,Week 17,Thursday
+Jahmyr Gibbs,RB,"DET 10 @ MIN 23, Final","17 RUSH ATT,41 RUSH YD,3 TGT,2 REC,23 REC YD,FUM LOST",$44,19.3,5.40,24,2025-12-26 16:15:16,Week 17,Thursday
+Jalen Tolbert,WR,"DAL 30 @ WAS 23, Final","8 TGT,4 REC,31 REC YD",$10,3.7,5.10,25,2025-12-26 16:15:16,Week 17,Thursday
+Washington Commanders,DEF,"DAL 30 @ WAS 23, Final","30 PTS ALLOWED,6 SACK",$10,4.4,5.00,26,2025-12-26 16:15:16,Week 17,Thursday
+David Montgomery,RB,"DET 10 @ MIN 23, Final","10 RUSH ATT,25 RUSH YD,2 TGT,2 REC,15 REC YD",$19,9.3,5.00,27,2025-12-26 16:15:16,Week 17,Thursday
+Justin Jefferson,WR,"DET 10 @ MIN 23, Final","5 TGT,4 REC,30 REC YD",$23,9.1,5.00,28,2025-12-26 16:15:16,Week 17,Thursday
+Denver Broncos,DEF,"DEN 20 @ KC 13, Final","13 PTS ALLOWED,SACK",$17,7.6,5.00,29,2025-12-26 16:15:16,Week 17,Thursday
+Hunter Luepke,RB,"DAL 30 @ WAS 23, Final","7 RUSH ATT,30 RUSH YD,TGT,REC,14 REC YD",$10,2.2,4.90,30,2025-12-26 16:15:16,Week 17,Thursday
+Jameson Williams,WR,"DET 10 @ MIN 23, Final","3 TGT,2 REC,37 REC YD",$33,11.1,4.70,31,2025-12-26 16:15:16,Week 17,Thursday
+Ben Sinnott,TE,"DAL 30 @ WAS 23, Final","4 TGT,3 REC,29 REC YD",$10,3.1,4.40,32,2025-12-26 16:15:16,Week 17,Thursday
+Evan Engram,TE,"DEN 20 @ KC 13, Final","4 TGT,4 REC,21 REC YD",$10,4.8,4.10,33,2025-12-26 16:15:16,Week 17,Thursday
+Jared Goff,QB,"DET 10 @ MIN 23, Final","197 PASS YD,PASS TD,2 INT,3 RUSH ATT,2 RUSH YD,3 FUM LOST",$38,18.1,4.08,34,2025-12-26 16:15:16,Week 17,Thursday
+Jaleel McLaughlin,RB,"DEN 20 @ KC 13, Final","7 RUSH ATT,40 RUSH YD",$10,3.3,4.00,35,2025-12-26 16:15:16,Week 17,Thursday
+Kansas City Chiefs,DEF,"DEN 20 @ KC 13, Final","20 PTS ALLOWED,SACK,INT",$10,5.1,4.00,36,2025-12-26 16:15:16,Week 17,Thursday
+Kareem Hunt,RB,"DEN 20 @ KC 13, Final","7 RUSH ATT,38 RUSH YD",$15,8.2,3.80,37,2025-12-26 16:15:16,Week 17,Thursday
+Troy Franklin,WR,"DEN 20 @ KC 13, Final","4 TGT,4 REC,17 REC YD",$17,9.0,3.70,38,2025-12-26 16:15:17,Week 17,Thursday
+Max Brosmer,QB,"DET 10 @ MIN 23, Final","51 PASS YD,2 RUSH ATT,16 RUSH YD",$20,1.3,3.64,39,2025-12-26 16:15:17,Week 17,Thursday
+Brevyn Spann-Ford,TE,"DAL 30 @ WAS 23, Final","2 TGT,REC,31 REC YD",$10,1.0,3.60,40,2025-12-26 16:15:17,Week 17,Thursday
+Adam Trautman,TE,"DEN 20 @ KC 13, Final","2 TGT,2 REC,24 REC YD",$10,3.2,3.40,41,2025-12-26 16:15:17,Week 17,Thursday
+Lil'Jordan Humphrey,WR,"DEN 20 @ KC 13, Final","5 TGT,2 REC,23 REC YD",$10,4.0,3.30,42,2025-12-26 16:15:17,Week 17,Thursday
+Isiah Pacheco,RB,"DEN 20 @ KC 13, Final","9 RUSH ATT,32 RUSH YD",$16,6.0,3.20,43,2025-12-26 16:15:17,Week 17,Thursday
+JuJu Smith-Schuster,WR,"DEN 20 @ KC 13, Final","3 TGT,3 REC,16 REC YD",$10,3.6,3.10,44,2025-12-26 16:15:17,Week 17,Thursday
+Luke Schoonmaker,TE,"DAL 30 @ WAS 23, Final","2 TGT,2 REC,15 REC YD",$10,1.4,2.50,45,2025-12-26 16:15:17,Week 17,Thursday
+Jeremy McNichols,RB,"DAL 30 @ WAS 23, Final","RUSH ATT,-2 RUSH YD,3 TGT,3 REC,12 REC YD",$10,3.9,2.50,46,2025-12-26 16:15:17,Week 17,Thursday
+Marvin Mims Jr.,WR,"DEN 20 @ KC 13, Final","4 TGT,3 REC,10 REC YD",$11,4.8,2.50,47,2025-12-26 16:15:17,Week 17,Thursday
+Ty Chandler,RB,"DET 10 @ MIN 23, Final","7 RUSH ATT,24 RUSH YD",$10,1.2,2.40,48,2025-12-26 16:15:17,Week 17,Thursday
+Dallas Cowboys,DEF,"DAL 30 @ WAS 23, Final","23 PTS ALLOWED,2 SACK",$10,3.5,2.00,49,2025-12-26 16:15:17,Week 17,Thursday
+Chris Moore,WR,"DAL 30 @ WAS 23, Final","TGT,REC,15 REC YD",$10,3.0,2.00,50,2025-12-26 16:15:17,Week 17,Thursday
+Treylon Burks,WR,"DAL 30 @ WAS 23, Final","2 TGT,REC,11 REC YD",$10,3.1,1.60,51,2025-12-26 16:15:17,Week 17,Thursday
+Josh Oliver,TE,"DET 10 @ MIN 23, Final","2 TGT,REC,8 REC YD",$10,4.0,1.30,52,2025-12-26 16:15:17,Week 17,Thursday
+Hollywood Brown,WR,"DEN 20 @ KC 13, Final","3 TGT,REC,7 REC YD",$11,7.0,1.20,53,2025-12-26 16:15:17,Week 17,Thursday
+Kalif Raymond,WR,"DET 10 @ MIN 23, Final","2 TGT,REC,5 REC YD",$10,3.7,1.00,54,2025-12-26 16:15:17,Week 17,Thursday
+Ben Sims,TE,"DET 10 @ MIN 23, Final","TGT,REC,3 REC YD",$10,1.1,0.80,55,2025-12-26 16:15:17,Week 17,Thursday
+Noah Gray,TE,"DEN 20 @ KC 13, Final","TGT,REC,2 REC YD",$10,2.0,0.70,56,2025-12-26 16:15:17,Week 17,Thursday
+Adam Prentice,RB,"DEN 20 @ KC 13, Final","2 RUSH ATT,3 RUSH YD",$10,1.1,0.30,57,2025-12-26 16:15:17,Week 17,Thursday
+Xavier Worthy,WR,"DEN 20 @ KC 13, Final","RUSH ATT,RUSH YD,3 TGT",$20,6.3,0.10,58,2025-12-26 16:15:17,Week 17,Thursday
+Jonathan Mingo,WR,"DAL 30 @ WAS 23, Final",TGT,$10,0.8,0.00,59,2025-12-26 16:15:17,Week 17,Thursday
+Joe Milton III,QB,"DAL 30 @ WAS 23, Final",,$20,2.0,0.00,60,2025-12-26 16:15:17,Week 17,Thursday
+Ryan FlournoyO,WR,"DAL 30 @ WAS 23, Final",,$13,6.0,0.00,61,2025-12-26 16:15:17,Week 17,Thursday
+Jaydon BlueO,RB,"DAL 30 @ WAS 23, Final",,$10,1.9,0.00,62,2025-12-26 16:15:17,Week 17,Thursday
+Marcus MariotaO,QB,"DAL 30 @ WAS 23, Final",,$31,12.0,0.00,63,2025-12-26 16:15:18,Week 17,Thursday
+John Bates,TE,"DAL 30 @ WAS 23, Final",,$10,1.5,0.00,64,2025-12-26 16:15:18,Week 17,Thursday
+Chris Rodriguez Jr.O,RB,"DAL 30 @ WAS 23, Final",,$18,6.9,0.00,65,2025-12-26 16:15:18,Week 17,Thursday
+Jayden DanielsO,QB,"DAL 30 @ WAS 23, Final",,$20,16.8,0.00,66,2025-12-26 16:15:18,Week 17,Thursday
+Colson Yankoff,TE,"DAL 30 @ WAS 23, Final",,$10,0.3,0.00,67,2025-12-26 16:15:18,Week 17,Thursday
+Jaylin LaneIR,WR,"DAL 30 @ WAS 23, Final",,$10,2.9,0.00,68,2025-12-26 16:15:18,Week 17,Thursday
+Chase Edmonds,RB,"DAL 30 @ WAS 23, Final",,$10,—,0.00,69,2025-12-26 16:15:18,Week 17,Thursday
+Phil MafahIR,RB,"DAL 30 @ WAS 23, Final",,$10,—,0.00,70,2025-12-26 16:15:18,Week 17,Thursday
+Anthony Firkser,TE,"DET 10 @ MIN 23, Final",TGT,$10,2.0,0.00,71,2025-12-26 16:15:18,Week 17,Thursday
+Kyle Allen,QB,"DET 10 @ MIN 23, Final",,$20,-0.2,0.00,72,2025-12-26 16:15:18,Week 17,Thursday
+Tom Kennedy,WR,"DET 10 @ MIN 23, Final",,$10,1.1,0.00,73,2025-12-26 16:15:18,Week 17,Thursday
+Jacob Saylors,RB,"DET 10 @ MIN 23, Final",,$10,0.1,0.00,74,2025-12-26 16:15:18,Week 17,Thursday
+Sione Vaki,RB,"DET 10 @ MIN 23, Final",,$10,0.1,0.00,75,2025-12-26 16:15:18,Week 17,Thursday
+Dominic LovettO,WR,"DET 10 @ MIN 23, Final",,$10,—,0.00,76,2025-12-26 16:15:18,Week 17,Thursday
+C.J. Ham,RB,"DET 10 @ MIN 23, Final",,$10,1.1,0.00,77,2025-12-26 16:15:18,Week 17,Thursday
+John Wolford,QB,"DET 10 @ MIN 23, Final",,$20,—,0.00,78,2025-12-26 16:15:18,Week 17,Thursday
+T.J. HockensonO,TE,"DET 10 @ MIN 23, Final",,$13,5.8,0.00,79,2025-12-26 16:15:18,Week 17,Thursday
+Jalen Nailor,WR,"DET 10 @ MIN 23, Final",TGT,$13,5.0,0.00,80,2025-12-26 16:15:18,Week 17,Thursday
+Jordan MasonO,RB,"DET 10 @ MIN 23, Final",,$14,7.5,0.00,81,2025-12-26 16:15:18,Week 17,Thursday
+Zavier Scott,RB,"DET 10 @ MIN 23, Final",,$10,3.0,0.00,82,2025-12-26 16:15:18,Week 17,Thursday
+J.J. McCarthyO,QB,"DET 10 @ MIN 23, Final",,$31,14.4,0.00,83,2025-12-26 16:15:18,Week 17,Thursday
+Tai Felton,WR,"DET 10 @ MIN 23, Final",,$10,0.4,0.00,84,2025-12-26 16:15:18,Week 17,Thursday
+Myles PriceQ,WR,"DET 10 @ MIN 23, Final",,$10,—,0.00,85,2025-12-26 16:15:18,Week 17,Thursday
+Ben Yurosek,TE,"DET 10 @ MIN 23, Final",,$10,0.3,0.00,86,2025-12-26 16:15:18,Week 17,Thursday
+Shane Zylstra,TE,"DET 10 @ MIN 23, Final",,$10,3.5,0.00,87,2025-12-26 16:15:18,Week 17,Thursday
+Gavin BartholomewPUP,TE,"DET 10 @ MIN 23, Final",,$10,—,0.00,88,2025-12-26 16:15:18,Week 17,Thursday
+Giovanni Ricci,TE,"DET 10 @ MIN 23, Final",TGT,$10,—,0.00,89,2025-12-26 16:15:19,Week 17,Thursday
+Jarrett Stidham,QB,"DEN 20 @ KC 13, Final",,$20,-0.1,0.00,90,2025-12-26 16:15:19,Week 17,Thursday
+Tyler Badie,RB,"DEN 20 @ KC 13, Final",,$10,1.5,0.00,91,2025-12-26 16:15:19,Week 17,Thursday
+Nate AdkinsO,TE,"DEN 20 @ KC 13, Final",,$10,2.0,0.00,92,2025-12-26 16:15:19,Week 17,Thursday
+Pat BryantO,WR,"DEN 20 @ KC 13, Final",,$13,4.9,0.00,93,2025-12-26 16:15:19,Week 17,Thursday
+Robert Tonyan,TE,"DEN 20 @ KC 13, Final",,$10,0.2,0.00,94,2025-12-26 16:15:19,Week 17,Thursday
+Gardner MinshewIR,QB,"DEN 20 @ KC 13, Final",,$20,0.2,0.00,95,2025-12-26 16:15:19,Week 17,Thursday
+Tyquan ThorntonIR,WR,"DEN 20 @ KC 13, Final",,$10,5.9,0.00,96,2025-12-26 16:15:19,Week 17,Thursday
+Rashee RiceIR,WR,"DEN 20 @ KC 13, Final",,$32,15.5,0.00,97,2025-12-26 16:15:19,Week 17,Thursday
+Nikko RemigioIR,WR,"DEN 20 @ KC 13, Final",,$10,0.3,0.00,98,2025-12-26 16:15:19,Week 17,Thursday
+Jared Wiley,TE,"DEN 20 @ KC 13, Final",,$10,0.9,0.00,99,2025-12-26 16:15:19,Week 17,Thursday
+Jalen Royals,WR,"DEN 20 @ KC 13, Final",,$10,—,0.00,100,2025-12-26 16:15:19,Week 17,Thursday
+Cody Schrader,RB,"DEN 20 @ KC 13, Final",,$10,0.7,0.00,101,2025-12-26 16:15:19,Week 17,Thursday
+Jake BriningstoolIR,TE,"DEN 20 @ KC 13, Final",,$10,—,0.00,102,2025-12-26 16:15:19,Week 17,Thursday
+Dameon PierceO,RB,"DEN 20 @ KC 13, Final",,$10,0.7,0.00,103,2025-12-26 16:15:19,Week 17,Thursday
+Sam Ehlinger,QB,"DEN 20 @ KC 13, Final",,$20,—,0.00,104,2025-12-26 16:15:19,Week 17,Thursday
+Shane Buechele,QB,"DEN 20 @ KC 13, Final",,$20,—,0.00,105,2025-12-26 16:15:19,Week 17,Thursday
