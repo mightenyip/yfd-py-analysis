@@ -1,0 +1,38 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Bijan Robinson,RB,"LA 24 @ ATL 27, Final","22 RUSH ATT,195 RUSH YD,RUSH TD,8 TGT,5 REC,34 REC YD,REC TD",$45,20.3,37.40,1,2025-12-30 16:30:38,Week 17,Monday
+Atlanta Falcons,DEF,"LA 24 @ ATL 27, Final","18 PTS ALLOWED,3 SACK,3 INT,TD",$10,6.9,16.00,2,2025-12-30 16:30:38,Week 17,Monday
+Matthew Stafford,QB,"LA 24 @ ATL 27, Final","269 PASS YD,2 PASS TD,3 INT",$40,20.7,15.76,3,2025-12-30 16:30:38,Week 17,Monday
+Kyren Williams,RB,"LA 24 @ ATL 27, Final","13 RUSH ATT,92 RUSH YD,3 TGT,3 REC,38 REC YD",$34,14.7,14.50,4,2025-12-30 16:30:38,Week 17,Monday
+Puka Nacua,WR,"LA 24 @ ATL 27, Final","10 TGT,5 REC,47 REC YD,REC TD",$45,19.3,13.20,5,2025-12-30 16:30:38,Week 17,Monday
+Terrance Ferguson,TE,"LA 24 @ ATL 27, Final","4 TGT,2 REC,54 REC YD,REC TD",$10,3.9,12.40,6,2025-12-30 16:30:38,Week 17,Monday
+Kirk Cousins,QB,"LA 24 @ ATL 27, Final","126 PASS YD,PASS TD,RUSH ATT,RUSH YD",$29,10.9,9.14,7,2025-12-30 16:30:38,Week 17,Monday
+Xavier Smith,WR,"LA 24 @ ATL 27, Final","6 TGT,4 REC,67 REC YD",$10,2.5,8.70,8,2025-12-30 16:30:38,Week 17,Monday
+Colby Parkinson,TE,"LA 24 @ ATL 27, Final","7 TGT,6 REC,53 REC YD",$14,7.0,8.30,9,2025-12-30 16:30:38,Week 17,Monday
+Los Angeles Rams,DEF,"LA 24 @ ATL 27, Final","21 PTS ALLOWED,BLK KICK,TD",$14,7.8,8.00,10,2025-12-30 16:30:38,Week 17,Monday
+David Sills V,WR,"LA 24 @ ATL 27, Final","4 TGT,3 REC,37 REC YD",$10,3.5,5.20,11,2025-12-30 16:30:38,Week 17,Monday
+Darnell Mooney,WR,"LA 24 @ ATL 27, Final","3 TGT,2 REC,35 REC YD",$15,4.5,4.50,12,2025-12-30 16:30:38,Week 17,Monday
+Kyle Pitts Sr.,TE,"LA 24 @ ATL 27, Final","3 TGT,2 REC,16 REC YD",$24,9.9,2.60,13,2025-12-30 16:30:39,Week 17,Monday
+Tyler Allgeier,RB,"LA 24 @ ATL 27, Final","10 RUSH ATT,23 RUSH YD",$16,7.1,2.30,14,2025-12-30 16:30:39,Week 17,Monday
+Konata Mumpfield,WR,"LA 24 @ ATL 27, Final","5 TGT,2 REC,10 REC YD",$10,1.8,2.00,15,2025-12-30 16:30:39,Week 17,Monday
+Blake CorumQ,RB,"LA 24 @ ATL 27, Final","6 RUSH ATT,18 RUSH YD",$22,6.9,1.80,16,2025-12-30 16:30:39,Week 17,Monday
+Drake London,WR,"LA 24 @ ATL 27, Final","2 TGT,REC,4 REC YD",$35,13.8,0.90,17,2025-12-30 16:30:39,Week 17,Monday
+Ronnie Rivers,RB,"LA 24 @ ATL 27, Final","RUSH ATT,5 RUSH YD",$10,0.9,0.50,18,2025-12-30 16:30:39,Week 17,Monday
+Davante AdamsQ,WR,"LA 24 @ ATL 27, Final",,$27,13.8,0.00,19,2025-12-30 16:30:39,Week 17,Monday
+Jimmy Garoppolo,QB,"LA 24 @ ATL 27, Final",,$20,-0.2,0.00,20,2025-12-30 16:30:39,Week 17,Monday
+Nick Vannett,TE,"LA 24 @ ATL 27, Final",,$10,3.1,0.00,21,2025-12-30 16:30:39,Week 17,Monday
+Stetson Bennett IV,QB,"LA 24 @ ATL 27, Final",,$20,—,0.00,22,2025-12-30 16:30:39,Week 17,Monday
+Davis Allen,TE,"LA 24 @ ATL 27, Final",,$10,3.4,0.00,23,2025-12-30 16:30:39,Week 17,Monday
+Jordan Whittington,WR,"LA 24 @ ATL 27, Final",,$10,1.9,0.00,24,2025-12-30 16:30:39,Week 17,Monday
+Jarquez Hunter,RB,"LA 24 @ ATL 27, Final",,$10,—,0.00,25,2025-12-30 16:30:39,Week 17,Monday
+KhaDarel HodgeIR,WR,"LA 24 @ ATL 27, Final",,$10,0.6,0.00,26,2025-12-30 16:30:39,Week 17,Monday
+Easton Stick,QB,"LA 24 @ ATL 27, Final",,$20,—,0.00,27,2025-12-30 16:30:39,Week 17,Monday
+Charlie Woerner,TE,"LA 24 @ ATL 27, Final",,$10,1.3,0.00,28,2025-12-30 16:30:39,Week 17,Monday
+Feleipe Franks,TE,"LA 24 @ ATL 27, Final",,$10,0.1,0.00,29,2025-12-30 16:30:39,Week 17,Monday
+Teagan Quitoriano,TE,"LA 24 @ ATL 27, Final",,$10,—,0.00,30,2025-12-30 16:30:39,Week 17,Monday
+Deven Thompkins,WR,"LA 24 @ ATL 27, Final",,$10,0.8,0.00,31,2025-12-30 16:30:39,Week 17,Monday
+Malik Heath,WR,"LA 24 @ ATL 27, Final",,$10,2.3,0.00,32,2025-12-30 16:30:39,Week 17,Monday
+Dylan Drummond,WR,"LA 24 @ ATL 27, Final",,$10,1.5,0.00,33,2025-12-30 16:30:39,Week 17,Monday
+Casey Washington,WR,"LA 24 @ ATL 27, Final",,$10,2.5,0.00,34,2025-12-30 16:30:39,Week 17,Monday
+Nathan Carter,RB,"LA 24 @ ATL 27, Final",,$10,2.0,0.00,35,2025-12-30 16:30:39,Week 17,Monday
+Tutu Atwell,WR,"LA 24 @ ATL 27, Final",TGT,$10,3.2,0.00,36,2025-12-30 16:30:39,Week 17,Monday
+Chris Blair,WR,"LA 24 @ ATL 27, Final",,$10,—,0.00,37,2025-12-30 16:30:40,Week 17,Monday
