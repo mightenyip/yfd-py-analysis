@@ -1,0 +1,967 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Rhamondre Stevenson,RB,"MIA 10 @ NE 38, Final","7 RUSH ATT,131 RUSH YD,2 RUSH TD,2 TGT,2 REC,22 REC YD,REC TD",$25,11.6,34.30,1,2026-01-05 16:28:33,Week 18,Sunday
+Mitchell Trubisky,QB,"NYJ 8 @ BUF 35, Final","259 PASS YD,4 PASS TD,5 RUSH ATT,5 RUSH YD,2PT",$25,7.8,28.86,2,2026-01-05 16:28:33,Week 18,Sunday
+Alec Pierce,WR,"IND 30 @ HOU 38, Final","7 TGT,4 REC,132 REC YD,2 REC TD",$18,10.7,27.20,3,2026-01-05 16:28:33,Week 18,Sunday
+Matthew Stafford,QB,"ARI 20 @ LA 37, Final","259 PASS YD,4 PASS TD,RUSH ATT,3 RUSH YD",$41,21.1,26.66,4,2026-01-05 16:28:34,Week 18,Sunday
+Ray Davis,RB,"NYJ 8 @ BUF 35, Final","21 RUSH ATT,151 RUSH YD,2 TGT,2 REC,23 REC YD,REC TD",$10,3.5,24.40,5,2026-01-05 16:28:34,Week 18,Sunday
+Tyrone Tracy Jr.,RB,"DAL 17 @ NYG 34, Final","18 RUSH ATT,103 RUSH YD,9 TGT,8 REC,56 REC YD,REC TD,FUM LOST",$26,9.5,23.90,6,2026-01-05 16:28:34,Week 18,Sunday
+Trevor Lawrence,QB,"TEN 7 @ JAC 41, Final","255 PASS YD,3 PASS TD,2 RUSH ATT,11 RUSH YD",$43,20.6,23.30,7,2026-01-05 16:28:34,Week 18,Sunday
+Tyler Shough,QB,"NO 17 @ ATL 19, Final","259 PASS YD,PASS TD,INT,3 RUSH ATT,34 RUSH YD,RUSH TD",$34,14.9,22.76,8,2026-01-05 16:28:34,Week 18,Sunday
+Joe Burrow,QB,"CLE 20 @ CIN 18, Final","236 PASS YD,3 PASS TD,INT,2 RUSH ATT,17 RUSH YD",$40,17.4,22.14,9,2026-01-05 16:28:34,Week 18,Sunday
+Riley Leonard,QB,"IND 30 @ HOU 38, Final","270 PASS YD,2 PASS TD,INT,3 RUSH ATT,21 RUSH YD,RUSH TD,-3 REC YD,2 FUM LOST",$20,6.4,21.60,10,2026-01-05 16:28:34,Week 18,Sunday
+Puka Nacua,WR,"ARI 20 @ LA 37, Final","2 RUSH ATT,24 RUSH YD,11 TGT,10 REC,76 REC YD,REC TD",$45,19.4,21.00,11,2026-01-05 16:28:34,Week 18,Sunday
+Cleveland Browns,DEF,"CLE 20 @ CIN 18, Final","18 PTS ALLOWED,2 SACK,INT,FUM REC,BLK KICK,2 TD",$12,7.8,21.00,12,2026-01-05 16:28:34,Week 18,Sunday
+Denver Broncos,DEF,"LAC 3 @ DEN 19, Final","3 PTS ALLOWED,4 SACK,INT,FUM REC,TD",$16,8.4,21.00,13,2026-01-05 16:28:34,Week 18,Sunday
+Jaxson Dart,QB,"DAL 17 @ NYG 34, Final","230 PASS YD,2 PASS TD,5 RUSH ATT,32 RUSH YD",$38,17.6,20.40,14,2026-01-05 16:28:34,Week 18,Sunday
+Colston Loveland,TE,"DET 19 @ CHI 16, Final","13 TGT,10 REC,91 REC YD,REC TD",$19,8.5,20.10,15,2026-01-05 16:28:34,Week 18,Sunday
+Ja'Marr Chase,WR,"CLE 20 @ CIN 18, Final","10 TGT,8 REC,96 REC YD,REC TD",$42,15.7,19.60,16,2026-01-05 16:28:34,Week 18,Sunday
+Amon-Ra St. Brown,WR,"DET 19 @ CHI 16, Final","15 TGT,11 REC,139 REC YD",$37,15.6,19.40,17,2026-01-05 16:28:34,Week 18,Sunday
+Jahmyr Gibbs,RB,"DET 19 @ CHI 16, Final","19 RUSH ATT,80 RUSH YD,5 TGT,3 REC,33 REC YD,REC TD",$41,19.3,18.80,18,2026-01-05 16:28:34,Week 18,Sunday
+Ty Johnson,RB,"NYJ 8 @ BUF 35, Final","13 RUSH ATT,36 RUSH YD,RUSH TD,2 TGT,2 REC,20 REC YD,REC TD",$13,5.2,18.60,19,2026-01-05 16:28:34,Week 18,Sunday
+Michael Wilson,WR,"ARI 20 @ LA 37, Final","8 TGT,5 REC,99 REC YD,REC TD",$32,10.7,18.40,20,2026-01-05 16:28:34,Week 18,Sunday
+Las Vegas Raiders,DEF,"KC 12 @ LV 14, Final","12 PTS ALLOWED,8 SACK,SAFETY,2 FUM REC",$10,4.4,18.00,21,2026-01-05 16:28:34,Week 18,Sunday
+Colby Parkinson,TE,"ARI 20 @ LA 37, Final","7 TGT,4 REC,36 REC YD,2 REC TD",$15,7.7,17.60,22,2026-01-05 16:28:34,Week 18,Sunday
+Tyler Higbee,TE,"ARI 20 @ LA 37, Final","6 TGT,5 REC,91 REC YD,REC TD",$12,6.5,17.60,23,2026-01-05 16:28:34,Week 18,Sunday
+Caleb Williams,QB,"DET 19 @ CHI 16, Final","212 PASS YD,2 PASS TD,INT,RUSH ATT,RUSH YD,2PT",$37,19.1,17.58,24,2026-01-05 16:28:34,Week 18,Sunday
+TreVeyon Henderson,RB,"MIA 10 @ NE 38, Final","13 RUSH ATT,53 RUSH YD,2 RUSH TD",$28,11.1,17.30,25,2026-01-05 16:28:34,Week 18,Sunday
+C.J. Stroud,QB,"IND 30 @ HOU 38, Final","169 PASS YD,PASS TD,2 RUSH ATT,5 RUSH YD,RUSH TD",$30,15.5,17.26,26,2026-01-05 16:28:34,Week 18,Sunday
+Parker Washington,WR,"TEN 7 @ JAC 41, Final","9 TGT,5 REC,87 REC YD,REC TD",$23,9.7,17.20,27,2026-01-05 16:28:34,Week 18,Sunday
+Tank Bigsby,RB,"WAS 24 @ PHI 17, Final","16 RUSH ATT,75 RUSH YD,RUSH TD,TGT,REC,31 REC YD",$10,3.5,17.10,28,2026-01-05 16:28:34,Week 18,Sunday
+Chase Brown,RB,"CLE 20 @ CIN 18, Final","13 RUSH ATT,72 RUSH YD,6 TGT,4 REC,18 REC YD,REC TD",$39,14.6,17.00,29,2026-01-05 16:28:34,Week 18,Sunday
+Josh Johnson,QB,"WAS 24 @ PHI 17, Final","131 PASS YD,PASS TD,INT,9 RUSH ATT,45 RUSH YD,RUSH TD,FUM LOST",$20,8.8,16.74,30,2026-01-05 16:28:35,Week 18,Sunday
+Jacoby Brissett,QB,"ARI 20 @ LA 37, Final","243 PASS YD,2 PASS TD,INT,3 RUSH ATT,19 RUSH YD,FUM LOST",$35,16.8,16.62,31,2026-01-05 16:28:35,Week 18,Sunday
+Jared Goff,QB,"DET 19 @ CHI 16, Final","331 PASS YD,PASS TD,INT",$35,17.9,16.24,32,2026-01-05 16:28:35,Week 18,Sunday
+Drake London,WR,"NO 17 @ ATL 19, Final","8 TGT,4 REC,78 REC YD,REC TD",$34,14.0,15.80,33,2026-01-05 16:28:35,Week 18,Sunday
+Drake Maye,QB,"MIA 10 @ NE 38, Final","191 PASS YD,PASS TD,5 RUSH ATT,41 RUSH YD",$44,21.1,15.74,34,2026-01-05 16:28:35,Week 18,Sunday
+Tee Higgins,WR,"CLE 20 @ CIN 18, Final","9 TGT,6 REC,67 REC YD,REC TD",$32,12.1,15.70,35,2026-01-05 16:28:35,Week 18,Sunday
+Chris Rodriguez Jr.,RB,"WAS 24 @ PHI 17, Final","16 RUSH ATT,65 RUSH YD,RUSH TD,TGT,REC,18 REC YD",$18,7.5,14.80,36,2026-01-05 16:28:35,Week 18,Sunday
+Justin Jefferson,WR,"GB 3 @ MIN 16, Final","RUSH ATT,3 RUSH YD,11 TGT,8 REC,101 REC YD",$22,9.4,14.40,37,2026-01-05 16:28:35,Week 18,Sunday
+Brenton Strange,TE,"TEN 7 @ JAC 41, Final","6 TGT,6 REC,52 REC YD,REC TD",$16,7.9,14.20,38,2026-01-05 16:28:35,Week 18,Sunday
+Gunner Olszewski,WR,"DAL 17 @ NYG 34, Final","9 TGT,8 REC,102 REC YD",$10,1.9,14.20,39,2026-01-05 16:28:35,Week 18,Sunday
+Audric Estime,RB,"NO 17 @ ATL 19, Final","21 RUSH ATT,63 RUSH YD,5 TGT,5 REC,43 REC YD",$14,7.0,13.10,40,2026-01-05 16:28:35,Week 18,Sunday
+Jacksonville Jaguars,DEF,"TEN 7 @ JAC 41, Final","7 PTS ALLOWED,SACK,INT,TD",$18,8.5,13.00,41,2026-01-05 16:28:35,Week 18,Sunday
+Tanner McKee,QB,"WAS 24 @ PHI 17, Final","241 PASS YD,PASS TD,INT,2 RUSH ATT,3 RUSH YD",$20,3.7,12.94,42,2026-01-05 16:28:35,Week 18,Sunday
+Gabe Davis,WR,"NYJ 8 @ BUF 35, Final","7 TGT,5 REC,41 REC YD,REC TD",$10,4.1,12.60,43,2026-01-05 16:28:35,Week 18,Sunday
+Jaydon Blue,RB,"DAL 17 @ NYG 34, Final","16 RUSH ATT,64 RUSH YD,RUSH TD",$10,4.0,12.40,44,2026-01-05 16:28:35,Week 18,Sunday
+New England Patriots,DEF,"MIA 10 @ NE 38, Final","10 PTS ALLOWED,4 SACK,INT,FUM REC",$17,7.5,12.00,45,2026-01-05 16:28:35,Week 18,Sunday
+Houston Texans,DEF,"IND 30 @ HOU 38, Final","30 PTS ALLOWED,SACK,INT,2 FUM REC,TD",$19,9.6,12.00,46,2026-01-05 16:28:35,Week 18,Sunday
+Cincinnati Bengals,DEF,"CLE 20 @ CIN 18, Final","8 PTS ALLOWED,6 SACK,FUM REC",$11,4.6,12.00,47,2026-01-05 16:28:35,Week 18,Sunday
+Minnesota Vikings,DEF,"GB 3 @ MIN 16, Final","3 PTS ALLOWED,4 SACK",$15,8.0,11.00,48,2026-01-05 16:28:35,Week 18,Sunday
+Los Angeles Rams,DEF,"ARI 20 @ LA 37, Final","20 PTS ALLOWED,6 SACK,INT,FUM REC",$14,8.0,11.00,49,2026-01-05 16:28:35,Week 18,Sunday
+Atlanta Falcons,DEF,"NO 17 @ ATL 19, Final","17 PTS ALLOWED,4 SACK,INT,FUM REC,BLK KICK",$11,7.2,11.00,50,2026-01-05 16:28:35,Week 18,Sunday
+Kansas City Chiefs,DEF,"KC 12 @ LV 14, Final","12 PTS ALLOWED,3 SACK,INT,FUM REC",$13,5.4,11.00,51,2026-01-05 16:28:35,Week 18,Sunday
+Xavier Hutchinson,WR,"IND 30 @ HOU 38, Final","9 TGT,5 REC,84 REC YD",$10,5.0,10.90,52,2026-01-05 16:28:35,Week 18,Sunday
+Ashton Jeanty,RB,"KC 12 @ LV 14, Final","26 RUSH ATT,87 RUSH YD,5 TGT,3 REC,7 REC YD",$32,12.8,10.90,53,2026-01-05 16:28:35,Week 18,Sunday
+Daniel Bellinger,TE,"DAL 17 @ NYG 34, Final","2 TGT,2 REC,38 REC YD,REC TD",$10,3.9,10.80,54,2026-01-05 16:28:35,Week 18,Sunday
+Jahdae Walker,WR,"DET 19 @ CHI 16, Final","3 TGT,2 REC,36 REC YD,REC TD",$10,3.9,10.60,55,2026-01-05 16:28:36,Week 18,Sunday
+Devin Singletary,RB,"DAL 17 @ NYG 34, Final","9 RUSH ATT,26 RUSH YD,RUSH TD,2PT",$18,5.9,10.60,56,2026-01-05 16:28:36,Week 18,Sunday
+Bo Nix,QB,"LAC 3 @ DEN 19, Final","141 PASS YD,8 RUSH ATT,49 RUSH YD",$38,18.6,10.54,57,2026-01-05 16:28:36,Week 18,Sunday
+Jameson Williams,WR,"DET 19 @ CHI 16, Final","8 TGT,6 REC,74 REC YD",$30,11.0,10.40,58,2026-01-05 16:28:36,Week 18,Sunday
+Malik WashingtonQ,WR,"MIA 10 @ NE 38, Final","2 RUSH ATT,22 RUSH YD,4 TGT,3 REC,6 REC YD,REC TD",$13,5.5,10.30,59,2026-01-05 16:28:36,Week 18,Sunday
+Kirk Cousins,QB,"NO 17 @ ATL 19, Final","180 PASS YD,PASS TD,INT,3 RUSH ATT",$28,10.9,10.20,60,2026-01-05 16:28:36,Week 18,Sunday
+Trey McBride,TE,"ARI 20 @ LA 37, Final","8 TGT,7 REC,65 REC YD",$31,14.9,10.00,61,2026-01-05 16:28:36,Week 18,Sunday
+Phil Mafah,RB,"DAL 17 @ NYG 34, Final","5 RUSH ATT,18 RUSH YD,RUSH TD,2 TGT,2 REC,11 REC YD",$10,9.9,9.90,62,2026-01-05 16:28:36,Week 18,Sunday
+Kyren Williams,RB,"ARI 20 @ LA 37, Final","12 RUSH ATT,60 RUSH YD,5 TGT,3 REC,21 REC YD",$35,14.4,9.60,63,2026-01-05 16:28:36,Week 18,Sunday
+Jordan Mason,RB,"GB 3 @ MIN 16, Final","14 RUSH ATT,94 RUSH YD",$14,7.6,9.40,64,2026-01-05 16:28:36,Week 18,Sunday
+Dawson Knox,TE,"NYJ 8 @ BUF 35, Final","2 TGT,2 REC,24 REC YD,REC TD",$12,5.4,9.40,65,2026-01-05 16:28:36,Week 18,Sunday
+Quinn EwersQ,QB,"MIA 10 @ NE 38, Final","137 PASS YD,PASS TD,INT,RUSH ATT,9 RUSH YD",$22,8.9,9.38,66,2026-01-05 16:28:36,Week 18,Sunday
+Trey Lance,QB,"LAC 3 @ DEN 19, Final","136 PASS YD,INT,9 RUSH ATT,69 RUSH YD,FUM LOST",$20,3.6,9.34,67,2026-01-05 16:28:36,Week 18,Sunday
+Dalton Schultz,TE,"IND 30 @ HOU 38, Final","4 TGT,4 REC,73 REC YD",$17,8.0,9.30,68,2026-01-05 16:28:36,Week 18,Sunday
+Jayden Higgins,WR,"IND 30 @ HOU 38, Final","5 TGT,2 REC,23 REC YD,REC TD",$19,6.4,9.30,69,2026-01-05 16:28:36,Week 18,Sunday
+Ryan Flournoy,WR,"DAL 17 @ NYG 34, Final","7 TGT,5 REC,68 REC YD",$13,6.3,9.30,70,2026-01-05 16:28:36,Week 18,Sunday
+Ronnie Bell,WR,"NO 17 @ ATL 19, Final","4 TGT,2 REC,23 REC YD,REC TD",$10,4.7,9.30,71,2026-01-05 16:28:36,Week 18,Sunday
+Cam WardQ,QB,"TEN 7 @ JAC 41, Final","52 PASS YD,2 RUSH ATT,11 RUSH YD,RUSH TD",$26,11.4,9.18,72,2026-01-05 16:28:36,Week 18,Sunday
+Grant CalcaterraQ,TE,"WAS 24 @ PHI 17, Final","3 TGT,2 REC,21 REC YD,REC TD",$10,2.0,9.10,73,2026-01-05 16:28:36,Week 18,Sunday
+Brady Cook,QB,"NYJ 8 @ BUF 35, Final","60 PASS YD,PASS TD,3 RUSH ATT,7 RUSH YD,2PT",$20,7.1,9.10,74,2026-01-05 16:28:36,Week 18,Sunday
+Kyle Pitts Sr.,TE,"NO 17 @ ATL 19, Final","9 TGT,6 REC,58 REC YD",$25,9.8,8.80,75,2026-01-05 16:28:36,Week 18,Sunday
+Josiah Deguara,TE,"ARI 20 @ LA 37, Final","2 TGT,2 REC,15 REC YD,REC TD",$10,1.6,8.50,76,2026-01-05 16:28:36,Week 18,Sunday
+Dante Pettis,WR,"NO 17 @ ATL 19, Final","5 TGT,5 REC,60 REC YD",$10,2.2,8.50,77,2026-01-05 16:28:36,Week 18,Sunday
+Bhayshul Tuten,RB,"TEN 7 @ JAC 41, Final","5 RUSH ATT,23 RUSH YD,RUSH TD",$10,5.6,8.30,78,2026-01-05 16:28:36,Week 18,Sunday
+John Bates,TE,"WAS 24 @ PHI 17, Final","2 TGT,2 REC,13 REC YD,REC TD",$10,2.2,8.30,79,2026-01-05 16:28:36,Week 18,Sunday
+Hunter Henry,TE,"MIA 10 @ NE 38, Final","5 TGT,5 REC,56 REC YD",$20,8.8,8.10,80,2026-01-05 16:28:36,Week 18,Sunday
+Tony Pollard,RB,"TEN 7 @ JAC 41, Final","14 RUSH ATT,48 RUSH YD,3 TGT,3 REC,17 REC YD",$29,10.0,8.00,81,2026-01-05 16:28:37,Week 18,Sunday
+Los Angeles Chargers,DEF,"LAC 3 @ DEN 19, Final","13 PTS ALLOWED,4 SACK",$15,6.5,8.00,82,2026-01-05 16:28:37,Week 18,Sunday
+J.J. McCarthyQ,QB,"GB 3 @ MIN 16, Final","182 PASS YD,2 RUSH ATT,7 RUSH YD",$28,13.7,7.98,83,2026-01-05 16:28:37,Week 18,Sunday
+Keon Coleman,WR,"NYJ 8 @ BUF 35, Final","4 TGT,2 REC,49 REC YD,2PT",$12,6.4,7.90,84,2026-01-05 16:28:37,Week 18,Sunday
+Hollywood Brown,WR,"KC 12 @ LV 14, Final","6 TGT,3 REC,64 REC YD",$13,7.1,7.90,85,2026-01-05 16:28:37,Week 18,Sunday
+Terry McLaurin,WR,"WAS 24 @ PHI 17, Final","4 TGT,4 REC,57 REC YD",$25,9.5,7.70,86,2026-01-05 16:28:37,Week 18,Sunday
+Josh Downs,WR,"IND 30 @ HOU 38, Final","RUSH ATT,-5 RUSH YD,4 TGT,4 REC,61 REC YD",$16,6.7,7.60,87,2026-01-05 16:28:37,Week 18,Sunday
+Blake Corum,RB,"ARI 20 @ LA 37, Final","13 RUSH ATT,59 RUSH YD,TGT,REC,10 REC YD",$23,7.0,7.40,88,2026-01-05 16:28:37,Week 18,Sunday
+Darius Slayton,WR,"DAL 17 @ NYG 34, Final","9 TGT,4 REC,34 REC YD,2PT",$16,5.7,7.40,89,2026-01-05 16:28:37,Week 18,Sunday
+C.J. Ham,RB,"GB 3 @ MIN 16, Final","RUSH ATT,RUSH YD,RUSH TD,TGT,REC,6 REC YD",$10,1.8,7.20,90,2026-01-05 16:28:37,Week 18,Sunday
+Keenan Allen,WR,"LAC 3 @ DEN 19, Final","13 TGT,7 REC,36 REC YD",$13,8.4,7.10,91,2026-01-05 16:28:37,Week 18,Sunday
+Quintin Morris,TE,"TEN 7 @ JAC 41, Final","TGT,REC,5 REC YD,REC TD",$10,1.3,7.00,92,2026-01-05 16:28:37,Week 18,Sunday
+New Orleans Saints,DEF,"NO 17 @ ATL 19, Final","19 PTS ALLOWED,4 SACK,INT",$15,7.0,7.00,93,2026-01-05 16:28:37,Week 18,Sunday
+Jakobi Meyers,WR,"TEN 7 @ JAC 41, Final","6 TGT,5 REC,44 REC YD",$21,8.6,6.90,94,2026-01-05 16:28:37,Week 18,Sunday
+Brashard Smith,RB,"KC 12 @ LV 14, Final","12 RUSH ATT,56 RUSH YD,4 TGT,2 REC,2 REC YD",$10,3.0,6.80,95,2026-01-05 16:28:37,Week 18,Sunday
+Kalif Raymond,WR,"DET 19 @ CHI 16, Final","3 TGT,3 REC,52 REC YD",$10,3.9,6.70,96,2026-01-05 16:28:37,Week 18,Sunday
+DeVonta Smith,WR,"WAS 24 @ PHI 17, Final","4 TGT,3 REC,52 REC YD",$23,9.6,6.70,97,2026-01-05 16:28:37,Week 18,Sunday
+Samaje Perine,RB,"CLE 20 @ CIN 18, Final","8 RUSH ATT,42 RUSH YD,4 TGT,3 REC,10 REC YD",$15,4.6,6.70,98,2026-01-05 16:28:37,Week 18,Sunday
+Andrew Beck,RB,"NYJ 8 @ BUF 35, Final","2 TGT,REC,2 REC YD,REC TD",$10,1.8,6.70,99,2026-01-05 16:28:37,Week 18,Sunday
+Elic Ayomanor,WR,"TEN 7 @ JAC 41, Final","10 TGT,3 REC,50 REC YD",$17,6.0,6.50,100,2026-01-05 16:28:37,Week 18,Sunday
+Jalen Nailor,WR,"GB 3 @ MIN 16, Final","3 TGT,3 REC,49 REC YD",$12,5.1,6.40,101,2026-01-05 16:28:37,Week 18,Sunday
+Brian Thomas Jr.,WR,"TEN 7 @ JAC 41, Final","5 TGT,3 REC,49 REC YD",$22,8.2,6.40,102,2026-01-05 16:28:37,Week 18,Sunday
+British Brooks,RB,"IND 30 @ HOU 38, Final","13 RUSH ATT,63 RUSH YD",$10,1.0,6.30,103,2026-01-05 16:28:37,Week 18,Sunday
+Dalton Kincaid,TE,"NYJ 8 @ BUF 35, Final","3 TGT,3 REC,48 REC YD",$14,8.9,6.30,104,2026-01-05 16:28:37,Week 18,Sunday
+Jaleel McLaughlin,RB,"LAC 3 @ DEN 19, Final","6 RUSH ATT,41 RUSH YD,2 TGT,REC,17 REC YD",$10,3.7,6.30,105,2026-01-05 16:28:37,Week 18,Sunday
+Joe Milton III,QB,"DAL 17 @ NYG 34, Final","73 PASS YD,INT,4 RUSH ATT,43 RUSH YD",$20,3.1,6.22,106,2026-01-05 16:28:38,Week 18,Sunday
+Tyjae Spears,RB,"TEN 7 @ JAC 41, Final","3 RUSH ATT,18 RUSH YD,7 TGT,7 REC,9 REC YD",$17,6.9,6.20,107,2026-01-05 16:28:38,Week 18,Sunday
+Emari Demercado,RB,"ARI 20 @ LA 37, Final","2 RUSH ATT,29 RUSH YD,TGT,REC,28 REC YD",$13,4.3,6.20,108,2026-01-05 16:28:38,Week 18,Sunday
+Michael Mayer,TE,"KC 12 @ LV 14, Final","5 TGT,3 REC,47 REC YD",$13,4.3,6.20,109,2026-01-05 16:28:38,Week 18,Sunday
+Chris Brooks,RB,"GB 3 @ MIN 16, Final","13 RUSH ATT,61 RUSH YD",$10,1.6,6.10,110,2026-01-05 16:28:38,Week 18,Sunday
+David Montgomery,RB,"DET 19 @ CHI 16, Final","8 RUSH ATT,42 RUSH YD,TGT,REC,13 REC YD",$19,9.1,6.00,111,2026-01-05 16:28:38,Week 18,Sunday
+Luther Burden III,WR,"DET 19 @ CHI 16, Final","RUSH ATT,10 RUSH YD,4 TGT,3 REC,35 REC YD",$21,7.0,6.00,112,2026-01-05 16:28:38,Week 18,Sunday
+Chicago Bears,DEF,"DET 19 @ CHI 16, Final","19 PTS ALLOWED,3 SACK,INT",$13,6.8,6.00,113,2026-01-05 16:28:38,Week 18,Sunday
+Washington Commanders,DEF,"WAS 24 @ PHI 17, Final","17 PTS ALLOWED,3 SACK,INT",$10,4.5,6.00,114,2026-01-05 16:28:38,Week 18,Sunday
+Evan Engram,TE,"LAC 3 @ DEN 19, Final","4 TGT,3 REC,45 REC YD",$10,4.9,6.00,115,2026-01-05 16:28:38,Week 18,Sunday
+Theo Wease Jr.Q,WR,"MIA 10 @ NE 38, Final","5 TGT,3 REC,44 REC YD",$14,7.6,5.90,116,2026-01-05 16:28:38,Week 18,Sunday
+Stefon Diggs,WR,"MIA 10 @ NE 38, Final","3 TGT,3 REC,43 REC YD",$27,9.9,5.80,117,2026-01-05 16:28:38,Week 18,Sunday
+Woody Marks,RB,"IND 30 @ HOU 38, Final","10 RUSH ATT,48 RUSH YD,3 TGT,2 REC",$20,8.7,5.80,118,2026-01-05 16:28:38,Week 18,Sunday
+Bijan Robinson,RB,"NO 17 @ ATL 19, Final","15 RUSH ATT,33 RUSH YD,3 TGT,3 REC,10 REC YD",$44,19.5,5.80,119,2026-01-05 16:28:38,Week 18,Sunday
+Kevin Austin Jr.,WR,"NO 17 @ ATL 19, Final","9 TGT,4 REC,37 REC YD",$12,5.3,5.70,120,2026-01-05 16:28:38,Week 18,Sunday
+Juwan Johnson,TE,"NO 17 @ ATL 19, Final","5 TGT,3 REC,61 REC YD,FUM LOST",$18,8.3,5.60,121,2026-01-05 16:28:38,Week 18,Sunday
+Jahan Dotson,WR,"WAS 24 @ PHI 17, Final","8 TGT,3 REC,40 REC YD",$10,2.7,5.50,122,2026-01-05 16:28:38,Week 18,Sunday
+Michael Carter,RB,"ARI 20 @ LA 37, Final","7 RUSH ATT,18 RUSH YD,3 TGT,3 REC,21 REC YD",$17,6.3,5.40,123,2026-01-05 16:28:38,Week 18,Sunday
+Kyle Monangai,RB,"DET 19 @ CHI 16, Final","6 RUSH ATT,14 RUSH YD,TGT,REC,15 REC YD,2PT",$19,8.1,5.40,124,2026-01-05 16:28:38,Week 18,Sunday
+Dylan Sampson,RB,"CLE 20 @ CIN 18, Final","10 RUSH ATT,32 RUSH YD,3 TGT,2 REC,12 REC YD",$16,4.7,5.40,125,2026-01-05 16:28:38,Week 18,Sunday
+Emanuel Wilson,RB,"GB 3 @ MIN 16, Final","18 RUSH ATT,44 RUSH YD,TGT,REC,4 REC YD",$13,5.1,5.30,126,2026-01-05 16:28:38,Week 18,Sunday
+D'Andre Swift,RB,"DET 19 @ CHI 16, Final","10 RUSH ATT,40 RUSH YD,2 TGT,REC,8 REC YD",$33,13.2,5.30,127,2026-01-05 16:28:38,Week 18,Sunday
+Jaret Patterson,RB,"LAC 3 @ DEN 19, Final","8 RUSH ATT,29 RUSH YD,4 TGT,3 REC,8 REC YD",$10,4.0,5.20,128,2026-01-05 16:28:38,Week 18,Sunday
+Tyler Warren,TE,"IND 30 @ HOU 38, Final","8 TGT,5 REC,26 REC YD",$17,8.9,5.10,129,2026-01-05 16:28:38,Week 18,Sunday
+Khalil Herbert,RB,"NYJ 8 @ BUF 35, Final","12 RUSH ATT,42 RUSH YD,2 TGT,REC,4 REC YD",$10,1.2,5.10,130,2026-01-05 16:28:38,Week 18,Sunday
+Pat Bryant,WR,"LAC 3 @ DEN 19, Final","5 TGT,4 REC,31 REC YD",$15,4.9,5.10,131,2026-01-05 16:28:39,Week 18,Sunday
+Shedeur Sanders,QB,"CLE 20 @ CIN 18, Final","111 PASS YD,3 RUSH ATT,26 RUSH YD,FUM LOST",$27,11.9,5.04,132,2026-01-05 16:28:39,Week 18,Sunday
+Green Bay Packers,DEF,"GB 3 @ MIN 16, Final","16 PTS ALLOWED,2 SACK,FUM REC",$12,4.6,5.00,133,2026-01-05 16:28:39,Week 18,Sunday
+Kylen Granson,TE,"WAS 24 @ PHI 17, Final","5 TGT,4 REC,30 REC YD",$10,0.6,5.00,134,2026-01-05 16:28:39,Week 18,Sunday
+Dallas Cowboys,DEF,"DAL 17 @ NYG 34, Final","34 PTS ALLOWED,4 SACK,FUM REC",$10,3.6,5.00,135,2026-01-05 16:28:39,Week 18,Sunday
+New York Giants,DEF,"DAL 17 @ NYG 34, Final","17 PTS ALLOWED,INT,FUM REC",$12,4.5,5.00,136,2026-01-05 16:28:39,Week 18,Sunday
+Buffalo Bills,DEF,"NYJ 8 @ BUF 35, Final","8 PTS ALLOWED,SACK",$16,6.5,5.00,137,2026-01-05 16:28:39,Week 18,Sunday
+Kareem Hunt,RB,"KC 12 @ LV 14, Final","5 RUSH ATT,14 RUSH YD,4 TGT,3 REC,21 REC YD",$15,8.0,5.00,138,2026-01-05 16:28:39,Week 18,Sunday
+Ty Chandler,RB,"GB 3 @ MIN 16, Final","10 RUSH ATT,23 RUSH YD,4 TGT,3 REC,11 REC YD",$10,2.4,4.90,139,2026-01-05 16:28:39,Week 18,Sunday
+Jonathan Taylor,RB,"IND 30 @ HOU 38, Final","14 RUSH ATT,26 RUSH YD,2 TGT,2 REC,13 REC YD",$42,20.0,4.90,140,2026-01-05 16:28:39,Week 18,Sunday
+Isaiah Williams,WR,"NYJ 8 @ BUF 35, Final","7 TGT,5 REC,24 REC YD",$12,3.4,4.90,141,2026-01-05 16:28:39,Week 18,Sunday
+Darius Cooper,WR,"WAS 24 @ PHI 17, Final","5 TGT,3 REC,33 REC YD",$10,2.3,4.80,142,2026-01-05 16:28:39,Week 18,Sunday
+Malachi Corley,WR,"CLE 20 @ CIN 18, Final","3 RUSH ATT,18 RUSH YD,2 TGT,2 REC,20 REC YD",$10,2.2,4.80,143,2026-01-05 16:28:39,Week 18,Sunday
+Aidan O'Connell,QB,"KC 12 @ LV 14, Final","102 PASS YD,RUSH ATT,7 RUSH YD",$20,4.8,4.78,144,2026-01-05 16:28:39,Week 18,Sunday
+Taysom HillQ,TE,"NO 17 @ ATL 19, Final","3 TGT,3 REC,32 REC YD",$10,2.8,4.70,145,2026-01-05 16:28:39,Week 18,Sunday
+Greg Dulcich,TE,"MIA 10 @ NE 38, Final","4 TGT,3 REC,31 REC YD",$10,5.5,4.60,146,2026-01-05 16:28:39,Week 18,Sunday
+Cole Kmet,TE,"DET 19 @ CHI 16, Final","3 TGT,2 REC,16 REC YD,2PT",$10,4.0,4.60,147,2026-01-05 16:28:39,Week 18,Sunday
+Keleki Latu,TE,"NYJ 8 @ BUF 35, Final","3 TGT,3 REC,31 REC YD",$10,1.8,4.60,148,2026-01-05 16:28:39,Week 18,Sunday
+Noah Gray,TE,"KC 12 @ LV 14, Final","5 TGT,3 REC,30 REC YD",$10,2.2,4.50,149,2026-01-05 16:28:39,Week 18,Sunday
+Tre Tucker,WR,"KC 12 @ LV 14, Final","RUSH ATT,4 RUSH YD,6 TGT,2 REC,30 REC YD",$14,7.8,4.40,150,2026-01-05 16:28:39,Week 18,Sunday
+Travis Etienne Jr.,RB,"TEN 7 @ JAC 41, Final","14 RUSH ATT,32 RUSH YD,TGT,REC,6 REC YD",$37,13.9,4.30,151,2026-01-05 16:28:39,Week 18,Sunday
+Elijah Higgins,TE,"ARI 20 @ LA 37, Final","3 TGT,3 REC,28 REC YD",$10,2.7,4.30,152,2026-01-05 16:28:39,Week 18,Sunday
+Chimere Dike,WR,"TEN 7 @ JAC 41, Final","4 TGT,3 REC,27 REC YD",$16,6.0,4.20,153,2026-01-05 16:28:39,Week 18,Sunday
+Efton Chism III,WR,"MIA 10 @ NE 38, Final","TGT,REC,35 REC YD",$10,1.9,4.00,154,2026-01-05 16:28:39,Week 18,Sunday
+Detroit Lions,DEF,"DET 19 @ CHI 16, Final","16 PTS ALLOWED,SACK,INT",$11,5.7,4.00,155,2026-01-05 16:28:40,Week 18,Sunday
+Philadelphia Eagles,DEF,"WAS 24 @ PHI 17, Final","24 PTS ALLOWED,INT,FUM REC",$18,7.9,4.00,156,2026-01-05 16:28:40,Week 18,Sunday
+Brevyn Spann-Ford,TE,"DAL 17 @ NYG 34, Final","3 TGT,2 REC,30 REC YD",$10,1.2,4.00,157,2026-01-05 16:28:40,Week 18,Sunday
+Shane Buechele,QB,"KC 12 @ LV 14, Final","88 PASS YD,RUSH ATT,4 RUSH YD",$20,3.9,3.92,158,2026-01-05 16:28:40,Week 18,Sunday
+Josh OliverQ,TE,"GB 3 @ MIN 16, Final","2 TGT,2 REC,29 REC YD",$10,4.0,3.90,159,2026-01-05 16:28:40,Week 18,Sunday
+DeMario Douglas,WR,"MIA 10 @ NE 38, Final","3 TGT,2 REC,29 REC YD",$10,5.0,3.90,160,2026-01-05 16:28:40,Week 18,Sunday
+Corey Kiner,RB,"ARI 20 @ LA 37, Final","3 RUSH ATT,13 RUSH YD,3 TGT,2 REC,15 REC YD",$10,2.1,3.80,161,2026-01-05 16:28:40,Week 18,Sunday
+Raheim Sanders,RB,"CLE 20 @ CIN 18, Final","5 RUSH ATT,26 RUSH YD,TGT,REC,7 REC YD",$12,3.8,3.80,162,2026-01-05 16:28:40,Week 18,Sunday
+Tre' Harris,WR,"LAC 3 @ DEN 19, Final","6 TGT,2 REC,28 REC YD",$10,3.4,3.80,163,2026-01-05 16:28:40,Week 18,Sunday
+RJ Harvey,RB,"LAC 3 @ DEN 19, Final","15 RUSH ATT,28 RUSH YD,4 TGT,REC,5 REC YD",$35,10.8,3.80,164,2026-01-05 16:28:40,Week 18,Sunday
+Mo Alie-Cox,TE,"IND 30 @ HOU 38, Final","4 TGT,3 REC,22 REC YD",$10,2.2,3.70,165,2026-01-05 16:28:40,Week 18,Sunday
+Clayton Tune,QB,"GB 3 @ MIN 16, Final","34 PASS YD,4 RUSH ATT,23 RUSH YD",$20,1.5,3.66,166,2026-01-05 16:28:40,Week 18,Sunday
+Tahj Washington,WR,"MIA 10 @ NE 38, Final","3 TGT,2 REC,26 REC YD",$10,1.6,3.60,167,2026-01-05 16:28:40,Week 18,Sunday
+Tyler Badie,RB,"LAC 3 @ DEN 19, Final","2 RUSH ATT,-2 RUSH YD,2 TGT,2 REC,28 REC YD",$10,1.6,3.60,168,2026-01-05 16:28:40,Week 18,Sunday
+Ameer Abdullah,RB,"IND 30 @ HOU 38, Final","RUSH ATT,RUSH YD,2 TGT,2 REC,24 REC YD",$10,2.1,3.50,169,2026-01-05 16:28:40,Week 18,Sunday
+Darnell Mooney,WR,"NO 17 @ ATL 19, Final","7 TGT,3 REC,20 REC YD",$15,4.4,3.50,170,2026-01-05 16:28:40,Week 18,Sunday
+John Metchie III,WR,"NYJ 8 @ BUF 35, Final","4 TGT,3 REC,20 REC YD",$14,4.3,3.50,171,2026-01-05 16:28:40,Week 18,Sunday
+Kayshon Boutte,WR,"MIA 10 @ NE 38, Final","4 TGT,2 REC,24 REC YD",$17,7.7,3.40,172,2026-01-05 16:28:40,Week 18,Sunday
+KeAndre Lambert-SmithQ,WR,"LAC 3 @ DEN 19, Final","5 TGT,2 REC,24 REC YD",$10,1.5,3.40,173,2026-01-05 16:28:40,Week 18,Sunday
+Oronde Gadsden,TE,"LAC 3 @ DEN 19, Final","2 TGT,2 REC,23 REC YD",$15,7.1,3.30,174,2026-01-05 16:28:40,Week 18,Sunday
+Jerry Jeudy,WR,"CLE 20 @ CIN 18, Final","RUSH ATT,5 RUSH YD,6 TGT,2 REC,17 REC YD",$18,5.6,3.20,175,2026-01-05 16:28:40,Week 18,Sunday
+Drew Sample,TE,"CLE 20 @ CIN 18, Final","3 TGT,3 REC,17 REC YD",$10,2.0,3.20,176,2026-01-05 16:28:40,Week 18,Sunday
+Deebo Samuel,WR,"WAS 24 @ PHI 17, Final","2 RUSH ATT,RUSH YD,5 TGT,2 REC,20 REC YD",$24,9.5,3.10,177,2026-01-05 16:28:40,Week 18,Sunday
+Reggie Gilliam,RB,"NYJ 8 @ BUF 35, Final","2 RUSH ATT,4 RUSH YD,TGT,REC,22 REC YD",$10,0.3,3.10,178,2026-01-05 16:28:40,Week 18,Sunday
+Jaylen Wright,RB,"MIA 10 @ NE 38, Final","13 RUSH ATT,23 RUSH YD,2 TGT,2 REC,17 REC YD,FUM LOST",$12,4.6,3.00,179,2026-01-05 16:28:40,Week 18,Sunday
+DJ Giddens,RB,"IND 30 @ HOU 38, Final","8 RUSH ATT,30 RUSH YD",$10,1.9,3.00,180,2026-01-05 16:28:40,Week 18,Sunday
+Britain Covey,WR,"WAS 24 @ PHI 17, Final","4 TGT,2 REC,20 REC YD",$10,0.5,3.00,181,2026-01-05 16:28:41,Week 18,Sunday
+Jacory Croskey-Merritt,RB,"WAS 24 @ PHI 17, Final","13 RUSH ATT,29 RUSH YD",$18,8.0,2.90,182,2026-01-05 16:28:41,Week 18,Sunday
+Cedric Tillman,WR,"CLE 20 @ CIN 18, Final","2 TGT,REC,23 REC YD",$10,4.1,2.80,183,2026-01-05 16:28:41,Week 18,Sunday
+Travis Kelce,TE,"KC 12 @ LV 14, Final","6 TGT,3 REC,12 REC YD",$17,9.1,2.70,184,2026-01-05 16:28:41,Week 18,Sunday
+Davis Mills,QB,"IND 30 @ HOU 38, Final","36 PASS YD,RUSH ATT,12 RUSH YD",$20,11.6,2.64,185,2026-01-05 16:28:41,Week 18,Sunday
+Trayveon Williams,RB,"CLE 20 @ CIN 18, Final","RUSH ATT,7 RUSH YD,2 TGT,REC,13 REC YD",$10,1.9,2.50,186,2026-01-05 16:28:41,Week 18,Sunday
+Tutu Atwell,WR,"ARI 20 @ LA 37, Final","3 TGT,REC,19 REC YD",$10,3.1,2.40,187,2026-01-05 16:28:41,Week 18,Sunday
+Tyler Allgeier,RB,"NO 17 @ ATL 19, Final","7 RUSH ATT,16 RUSH YD,2 TGT,REC,3 REC YD",$17,6.8,2.40,188,2026-01-05 16:28:41,Week 18,Sunday
+Ben Sims,TE,"GB 3 @ MIN 16, Final","4 TGT,REC,18 REC YD",$10,1.5,2.30,189,2026-01-05 16:28:41,Week 18,Sunday
+Isaac TeSlaa,WR,"DET 19 @ CHI 16, Final","TGT,REC,18 REC YD",$14,4.9,2.30,190,2026-01-05 16:28:41,Week 18,Sunday
+Will Shipley,RB,"WAS 24 @ PHI 17, Final","RUSH ATT,2 RUSH YD,3 TGT,2 REC,11 REC YD",$10,0.9,2.30,191,2026-01-05 16:28:41,Week 18,Sunday
+Mike Gesicki,TE,"CLE 20 @ CIN 18, Final","2 TGT,2 REC,13 REC YD",$12,4.7,2.30,192,2026-01-05 16:28:41,Week 18,Sunday
+JuJu Smith-Schuster,WR,"KC 12 @ LV 14, Final","2 TGT,2 REC,13 REC YD",$10,3.6,2.30,193,2026-01-05 16:28:41,Week 18,Sunday
+Zavier Scott,RB,"GB 3 @ MIN 16, Final","3 RUSH ATT,9 RUSH YD,TGT,REC,8 REC YD",$10,2.9,2.20,194,2026-01-05 16:28:41,Week 18,Sunday
+Treylon Burks,WR,"WAS 24 @ PHI 17, Final","4 TGT,2 REC,12 REC YD",$10,3.0,2.20,195,2026-01-05 16:28:41,Week 18,Sunday
+Isaiah Bond,WR,"CLE 20 @ CIN 18, Final","RUSH ATT,4 RUSH YD,2 TGT,REC,13 REC YD",$10,3.0,2.20,196,2026-01-05 16:28:41,Week 18,Sunday
+Johnny Mundt,TE,"TEN 7 @ JAC 41, Final","TGT,REC,16 REC YD",$10,1.4,2.10,197,2026-01-05 16:28:41,Week 18,Sunday
+Michael Pittman Jr.,WR,"IND 30 @ HOU 38, Final","4 TGT,2 REC,11 REC YD",$19,9.6,2.10,198,2026-01-05 16:28:41,Week 18,Sunday
+Hunter Luepke,RB,"DAL 17 @ NYG 34, Final","2 RUSH ATT,12 RUSH YD,TGT,REC,4 REC YD",$10,2.2,2.10,199,2026-01-05 16:28:41,Week 18,Sunday
+Andrei Iosivas,WR,"CLE 20 @ CIN 18, Final","3 TGT,2 REC,10 REC YD",$10,4.9,2.00,200,2026-01-05 16:28:41,Week 18,Sunday
+Jelani WoodsO,TE,"NYJ 8 @ BUF 35, Final",2PT,$10,1.0,2.00,201,2026-01-05 16:28:41,Week 18,Sunday
+Marvin Mims Jr.,WR,"LAC 3 @ DEN 19, Final","3 TGT,2 REC,10 REC YD",$10,4.7,2.00,202,2026-01-05 16:28:41,Week 18,Sunday
+David Martin-Robinson,TE,"TEN 7 @ JAC 41, Final","3 TGT,REC,14 REC YD",$10,1.1,1.90,203,2026-01-05 16:28:41,Week 18,Sunday
+Shedrick Jackson,WR,"KC 12 @ LV 14, Final","RUSH ATT,3 RUSH YD,TGT,REC,11 REC YD",$10,4.6,1.90,204,2026-01-05 16:28:41,Week 18,Sunday
+Brandon Allen,QB,"TEN 7 @ JAC 41, Final","72 PASS YD,INT",$20,1.9,1.88,205,2026-01-05 16:28:41,Week 18,Sunday
+Jaylin Noel,WR,"IND 30 @ HOU 38, Final","TGT,REC,13 REC YD",$10,3.3,1.80,206,2026-01-05 16:28:42,Week 18,Sunday
+Kene Nwangwu,RB,"NYJ 8 @ BUF 35, Final","7 RUSH ATT,18 RUSH YD,TGT",$10,1.1,1.80,207,2026-01-05 16:28:42,Week 18,Sunday
+Luke Schoonmaker,TE,"DAL 17 @ NYG 34, Final","TGT,REC,12 REC YD",$10,1.4,1.70,208,2026-01-05 16:28:42,Week 18,Sunday
+Ollie Gordon II,RB,"MIA 10 @ NE 38, Final","9 RUSH ATT,9 RUSH YD,TGT,REC,2 REC YD",$10,3.0,1.60,209,2026-01-05 16:28:42,Week 18,Sunday
+DJ Moore,WR,"DET 19 @ CHI 16, Final","3 TGT,REC,11 REC YD",$22,8.5,1.60,210,2026-01-05 16:28:42,Week 18,Sunday
+Jeremy McNichols,RB,"WAS 24 @ PHI 17, Final","RUSH ATT,3 RUSH YD,TGT,REC,8 REC YD",$10,3.8,1.60,211,2026-01-05 16:28:42,Week 18,Sunday
+David Sills V,WR,"NO 17 @ ATL 19, Final","TGT,REC,11 REC YD",$10,3.3,1.60,212,2026-01-05 16:28:42,Week 18,Sunday
+James Cook III,RB,"NYJ 8 @ BUF 35, Final","2 RUSH ATT,15 RUSH YD",$39,16.8,1.50,213,2026-01-05 16:28:42,Week 18,Sunday
+Quentin Skinner,WR,"NYJ 8 @ BUF 35, Final","TGT,REC,10 REC YD",$10,1.5,1.50,214,2026-01-05 16:28:42,Week 18,Sunday
+Zamir White,RB,"KC 12 @ LV 14, Final","RUSH ATT,5 RUSH YD,TGT,REC,5 REC YD",$10,1.5,1.50,215,2026-01-05 16:28:42,Week 18,Sunday
+Kimani Vidal,RB,"LAC 3 @ DEN 19, Final","3 RUSH ATT,12 RUSH YD,TGT,REC,-2 REC YD",$17,8.5,1.50,216,2026-01-05 16:28:42,Week 18,Sunday
+Ben Yurosek,TE,"GB 3 @ MIN 16, Final","TGT,REC,9 REC YD",$10,0.5,1.40,217,2026-01-05 16:28:42,Week 18,Sunday
+Dare Ogunbowale,RB,"IND 30 @ HOU 38, Final","RUSH ATT,3 RUSH YD,2 TGT,REC,6 REC YD",$10,1.4,1.40,218,2026-01-05 16:28:42,Week 18,Sunday
+Cade Stover,TE,"IND 30 @ HOU 38, Final","2 TGT,REC,9 REC YD",$10,2.0,1.40,219,2026-01-05 16:28:42,Week 18,Sunday
+George Pickens,WR,"DAL 17 @ NYG 34, Final","3 TGT,REC,9 REC YD",$33,14.4,1.40,220,2026-01-05 16:28:42,Week 18,Sunday
+Jalen Royals,WR,"KC 12 @ LV 14, Final","3 TGT,2 REC,4 REC YD",$10,0.7,1.40,221,2026-01-05 16:28:42,Week 18,Sunday
+Matthew Golden,WR,"GB 3 @ MIN 16, Final","3 TGT,REC,8 REC YD",$11,4.0,1.30,222,2026-01-05 16:28:42,Week 18,Sunday
+Jordan Addison,WR,"GB 3 @ MIN 16, Final","3 TGT,REC,8 REC YD",$21,8.2,1.30,223,2026-01-05 16:28:42,Week 18,Sunday
+Julian Hill,TE,"MIA 10 @ NE 38, Final","TGT,REC,8 REC YD",$10,2.0,1.30,224,2026-01-05 16:28:42,Week 18,Sunday
+D'Ernest Johnson,RB,"MIA 10 @ NE 38, Final","5 RUSH ATT,13 RUSH YD",$10,0.5,1.30,225,2026-01-05 16:28:42,Week 18,Sunday
+Dyami Brown,WR,"TEN 7 @ JAC 41, Final","TGT,REC,8 REC YD",$10,3.3,1.30,226,2026-01-05 16:28:42,Week 18,Sunday
+Ben Sinnott,TE,"WAS 24 @ PHI 17, Final","2 TGT,2 REC,3 REC YD",$10,2.9,1.30,227,2026-01-05 16:28:42,Week 18,Sunday
+Chig Okonkwo,TE,"TEN 7 @ JAC 41, Final","5 TGT,2 REC,2 REC YD",$15,5.6,1.20,228,2026-01-05 16:28:42,Week 18,Sunday
+Anthony Firkser,TE,"DET 19 @ CHI 16, Final","3 TGT,2 REC,2 REC YD",$10,1.9,1.20,229,2026-01-05 16:28:42,Week 18,Sunday
+Derius Davis,WR,"LAC 3 @ DEN 19, Final","TGT,REC,7 REC YD",$10,0.0,1.20,230,2026-01-05 16:28:42,Week 18,Sunday
+Xavier Smith,WR,"ARI 20 @ LA 37, Final","2 TGT,REC,6 REC YD",$10,2.5,1.10,231,2026-01-05 16:28:42,Week 18,Sunday
+Brenden Bates,TE,"CLE 20 @ CIN 18, Final","TGT,REC,6 REC YD",$10,1.4,1.10,232,2026-01-05 16:28:43,Week 18,Sunday
+Evan Hull,RB,"NO 17 @ ATL 19, Final","2 RUSH ATT,11 RUSH YD",$10,1.0,1.10,233,2026-01-05 16:28:43,Week 18,Sunday
+Will Dissly,TE,"LAC 3 @ DEN 19, Final","5 TGT,REC,6 REC YD",$10,1.9,1.10,234,2026-01-05 16:28:43,Week 18,Sunday
+Tyler Conklin,TE,"LAC 3 @ DEN 19, Final","TGT,REC,6 REC YD",$10,2.3,1.10,235,2026-01-05 16:28:43,Week 18,Sunday
+Austin Hooper,TE,"MIA 10 @ NE 38, Final","TGT,REC,5 REC YD",$10,3.8,1.00,236,2026-01-05 16:28:43,Week 18,Sunday
+James Proche II,WR,"TEN 7 @ JAC 41, Final","TGT,REC,5 REC YD",$10,1.6,1.00,237,2026-01-05 16:28:43,Week 18,Sunday
+Jake Ferguson,TE,"DAL 17 @ NYG 34, Final","2 TGT,REC,5 REC YD",$16,8.7,1.00,238,2026-01-05 16:28:43,Week 18,Sunday
+Tyler Lockett,WR,"KC 12 @ LV 14, Final","5 TGT,REC,5 REC YD",$12,3.0,1.00,239,2026-01-05 16:28:43,Week 18,Sunday
+Dameon Pierce,RB,"KC 12 @ LV 14, Final","4 RUSH ATT,10 RUSH YD",$10,0.7,1.00,240,2026-01-05 16:28:43,Week 18,Sunday
+Courtland Sutton,WR,"LAC 3 @ DEN 19, Final","2 TGT,REC,5 REC YD",$26,10.7,1.00,241,2026-01-05 16:28:43,Week 18,Sunday
+Joshua Dobbs,QB,"MIA 10 @ NE 38, Final","23 PASS YD,3 RUSH ATT",$20,0.5,0.92,242,2026-01-05 16:28:43,Week 18,Sunday
+Josh Whyle,TE,"GB 3 @ MIN 16, Final","TGT,REC,4 REC YD",$10,2.0,0.90,243,2026-01-05 16:28:43,Week 18,Sunday
+Tim Patrick,WR,"TEN 7 @ JAC 41, Final","TGT,REC,4 REC YD",$10,3.4,0.90,244,2026-01-05 16:28:43,Week 18,Sunday
+CeeDee Lamb,WR,"DAL 17 @ NYG 34, Final","TGT,REC,4 REC YD",$36,11.7,0.90,245,2026-01-05 16:28:43,Week 18,Sunday
+Ke'Shawn Williams,WR,"CLE 20 @ CIN 18, Final","RUSH ATT,9 RUSH YD",$10,0.2,0.90,246,2026-01-05 16:28:43,Week 18,Sunday
+Drake Dabney,TE,"GB 3 @ MIN 16, Final","2 TGT,REC,3 REC YD",$10,0.8,0.80,247,2026-01-05 16:28:43,Week 18,Sunday
+Alec Ingold,RB,"MIA 10 @ NE 38, Final","2 TGT,REC,3 REC YD",$10,1.1,0.80,248,2026-01-05 16:28:43,Week 18,Sunday
+A.J. Dillon,RB,"WAS 24 @ PHI 17, Final","TGT,REC,3 REC YD",$10,1.3,0.80,249,2026-01-05 16:28:43,Week 18,Sunday
+Dak Prescott,QB,"DAL 17 @ NYG 34, Final","70 PASS YD,2 RUSH ATT,-1 RUSH YD,FUM LOST",$41,19.0,0.70,250,2026-01-05 16:28:43,Week 18,Sunday
+KaVontae Turpin,WR,"DAL 17 @ NYG 34, Final","RUSH ATT,7 RUSH YD,TGT",$11,4.8,0.70,251,2026-01-05 16:28:43,Week 18,Sunday
+Joshua Palmer,WR,"NYJ 8 @ BUF 35, Final","3 TGT,REC,REC YD",$10,3.4,0.60,252,2026-01-05 16:28:43,Week 18,Sunday
+Jack Westover,RB,"MIA 10 @ NE 38, Final","TGT,REC",$10,0.1,0.50,253,2026-01-05 16:28:43,Week 18,Sunday
+Kyle Williams,WR,"MIA 10 @ NE 38, Final","RUSH ATT,5 RUSH YD",$10,3.2,0.50,254,2026-01-05 16:28:43,Week 18,Sunday
+Jackson Hawes,TE,"NYJ 8 @ BUF 35, Final","TGT,REC",$10,3.4,0.50,255,2026-01-05 16:28:43,Week 18,Sunday
+Nick Mullens,QB,"TEN 7 @ JAC 41, Final","16 PASS YD,3 RUSH ATT,-2 RUSH YD",$20,-0.0,0.44,256,2026-01-05 16:28:43,Week 18,Sunday
+Tyler Goodson,RB,"IND 30 @ HOU 38, Final","RUSH ATT,3 RUSH YD",$10,0.4,0.30,257,2026-01-05 16:28:44,Week 18,Sunday
+Jawhar JordanQ,RB,"IND 30 @ HOU 38, Final","5 RUSH ATT,3 RUSH YD",$14,6.6,0.30,258,2026-01-05 16:28:44,Week 18,Sunday
+Hassan Haskins,RB,"LAC 3 @ DEN 19, Final","RUSH ATT,3 RUSH YD",$10,0.6,0.30,259,2026-01-05 16:28:44,Week 18,Sunday
+Max Brosmer,QB,"GB 3 @ MIN 16, Final","57 PASS YD,FUM LOST",$20,1.2,0.28,260,2026-01-05 16:28:44,Week 18,Sunday
+Christian Kirk,WR,"IND 30 @ HOU 38, Final","2 TGT,REC,-3 REC YD",$10,3.7,0.20,261,2026-01-05 16:28:44,Week 18,Sunday
+Joe Flacco,QB,"CLE 20 @ CIN 18, Final","RUSH ATT,2 RUSH YD",$24,12.1,0.20,262,2026-01-05 16:28:44,Week 18,Sunday
+Arian Smith,WR,"NYJ 8 @ BUF 35, Final","RUSH ATT,2 RUSH YD,2 TGT",$10,0.8,0.20,263,2026-01-05 16:28:44,Week 18,Sunday
+Kenny Pickett,QB,"KC 12 @ LV 14, Final","3 PASS YD,INT,RUSH ATT,9 RUSH YD",$20,1.6,0.02,264,2026-01-05 16:28:44,Week 18,Sunday
+Josh JacobsO,RB,"GB 3 @ MIN 16, Final",,$30,14.6,0.00,265,2026-01-05 16:28:44,Week 18,Sunday
+Jordan Love,QB,"GB 3 @ MIN 16, Final",,$33,16.1,0.00,266,2026-01-05 16:28:44,Week 18,Sunday
+Christian Watson,WR,"GB 3 @ MIN 16, Final",,$25,11.5,0.00,267,2026-01-05 16:28:44,Week 18,Sunday
+Malik WillisO,QB,"GB 3 @ MIN 16, Final",,$29,12.8,0.00,268,2026-01-05 16:28:44,Week 18,Sunday
+Romeo Doubs,WR,"GB 3 @ MIN 16, Final",,$18,8.6,0.00,269,2026-01-05 16:28:44,Week 18,Sunday
+Bo MeltonQ,WR,"GB 3 @ MIN 16, Final",TGT,$10,1.8,0.00,270,2026-01-05 16:28:44,Week 18,Sunday
+Jayden Reed,WR,"GB 3 @ MIN 16, Final",,$16,6.5,0.00,271,2026-01-05 16:28:44,Week 18,Sunday
+Luke Musgrave,TE,"GB 3 @ MIN 16, Final",,$10,2.9,0.00,272,2026-01-05 16:28:44,Week 18,Sunday
+Dontayvion WicksO,WR,"GB 3 @ MIN 16, Final",,$11,4.7,0.00,273,2026-01-05 16:28:44,Week 18,Sunday
+Savion WilliamsIR,WR,"GB 3 @ MIN 16, Final",,$10,1.7,0.00,274,2026-01-05 16:28:44,Week 18,Sunday
+Aaron Jones Sr.O,RB,"GB 3 @ MIN 16, Final",,$21,8.7,0.00,275,2026-01-05 16:28:44,Week 18,Sunday
+John WolfordO,QB,"GB 3 @ MIN 16, Final",,$20,—,0.00,276,2026-01-05 16:28:44,Week 18,Sunday
+T.J. HockensonO,TE,"GB 3 @ MIN 16, Final",,$13,5.8,0.00,277,2026-01-05 16:28:44,Week 18,Sunday
+Tai Felton,WR,"GB 3 @ MIN 16, Final",,$10,0.4,0.00,278,2026-01-05 16:28:44,Week 18,Sunday
+Myles PriceO,WR,"GB 3 @ MIN 16, Final",,$10,—,0.00,279,2026-01-05 16:28:44,Week 18,Sunday
+Gavin BartholomewPUP,TE,"GB 3 @ MIN 16, Final",,$10,—,0.00,280,2026-01-05 16:28:44,Week 18,Sunday
+Brett RypienO,QB,"GB 3 @ MIN 16, Final",,$20,—,0.00,281,2026-01-05 16:28:44,Week 18,Sunday
+Darren WallerIR,TE,"MIA 10 @ NE 38, Final",,$15,9.6,0.00,282,2026-01-05 16:28:44,Week 18,Sunday
+Cedrick Wilson Jr.,WR,"MIA 10 @ NE 38, Final",2 TGT,$10,1.2,0.00,283,2026-01-05 16:28:45,Week 18,Sunday
+Tua TagovailoaO,QB,"MIA 10 @ NE 38, Final",,$23,12.5,0.00,284,2026-01-05 16:28:45,Week 18,Sunday
+Nick Westbrook-Ikhine,WR,"MIA 10 @ NE 38, Final",,$10,1.2,0.00,285,2026-01-05 16:28:45,Week 18,Sunday
+Zach Wilson,QB,"MIA 10 @ NE 38, Final",,$20,0.3,0.00,286,2026-01-05 16:28:45,Week 18,Sunday
+Jaylen WaddleO,WR,"MIA 10 @ NE 38, Final",,$23,10.1,0.00,287,2026-01-05 16:28:45,Week 18,Sunday
+Dee EskridgeIR,WR,"MIA 10 @ NE 38, Final",,$10,0.6,0.00,288,2026-01-05 16:28:45,Week 18,Sunday
+De'Von AchaneO,RB,"MIA 10 @ NE 38, Final",,$42,18.1,0.00,289,2026-01-05 16:28:45,Week 18,Sunday
+Mack HollinsIR,WR,"MIA 10 @ NE 38, Final",,$10,6.5,0.00,290,2026-01-05 16:28:45,Week 18,Sunday
+Tommy DeVitoO,QB,"MIA 10 @ NE 38, Final",,$20,6.7,0.00,291,2026-01-05 16:28:45,Week 18,Sunday
+CJ Dippre,TE,"MIA 10 @ NE 38, Final",,$10,—,0.00,292,2026-01-05 16:28:45,Week 18,Sunday
+Van JeffersonIR,WR,"TEN 7 @ JAC 41, Final",,$11,4.0,0.00,293,2026-01-05 16:28:45,Week 18,Sunday
+Mason Kinsey,WR,"TEN 7 @ JAC 41, Final",,$10,1.0,0.00,294,2026-01-05 16:28:45,Week 18,Sunday
+Julius Chestnut,RB,"TEN 7 @ JAC 41, Final",,$10,0.3,0.00,295,2026-01-05 16:28:45,Week 18,Sunday
+Gunnar HelmO,TE,"TEN 7 @ JAC 41, Final",,$10,4.4,0.00,296,2026-01-05 16:28:45,Week 18,Sunday
+Kalel Mullings,RB,"TEN 7 @ JAC 41, Final",,$10,0.2,0.00,297,2026-01-05 16:28:45,Week 18,Sunday
+DeeJay Dallas,RB,"TEN 7 @ JAC 41, Final",,$10,0.4,0.00,298,2026-01-05 16:28:45,Week 18,Sunday
+Hunter LongO,TE,"TEN 7 @ JAC 41, Final",,$10,3.8,0.00,299,2026-01-05 16:28:45,Week 18,Sunday
+LeQuint Allen Jr.,RB,"TEN 7 @ JAC 41, Final",,$10,1.2,0.00,300,2026-01-05 16:28:45,Week 18,Sunday
+Bryce Oliver,WR,"TEN 7 @ JAC 41, Final",,$10,0.7,0.00,301,2026-01-05 16:28:45,Week 18,Sunday
+Pharaoh Brown,TE,"ARI 20 @ LA 37, Final",,$10,0.4,0.00,302,2026-01-05 16:28:45,Week 18,Sunday
+Jalen Brooks,WR,"ARI 20 @ LA 37, Final",,$10,0.9,0.00,303,2026-01-05 16:28:45,Week 18,Sunday
+Marvin Harrison Jr.IR,WR,"ARI 20 @ LA 37, Final",,$23,8.9,0.00,304,2026-01-05 16:28:45,Week 18,Sunday
+Xavier Weaver,WR,"ARI 20 @ LA 37, Final",,$10,1.5,0.00,305,2026-01-05 16:28:45,Week 18,Sunday
+Kedon Slovis,QB,"ARI 20 @ LA 37, Final",,$20,-0.0,0.00,306,2026-01-05 16:28:45,Week 18,Sunday
+Davante AdamsO,WR,"ARI 20 @ LA 37, Final",,$31,13.8,0.00,307,2026-01-05 16:28:45,Week 18,Sunday
+Nick Vannett,TE,"ARI 20 @ LA 37, Final",,$10,3.1,0.00,308,2026-01-05 16:28:46,Week 18,Sunday
+Ronnie Rivers,RB,"ARI 20 @ LA 37, Final",,$10,0.8,0.00,309,2026-01-05 16:28:46,Week 18,Sunday
+Stetson Bennett IVO,QB,"ARI 20 @ LA 37, Final",,$20,—,0.00,310,2026-01-05 16:28:46,Week 18,Sunday
+Davis Allen,TE,"ARI 20 @ LA 37, Final",TGT,$10,3.2,0.00,311,2026-01-05 16:28:46,Week 18,Sunday
+Jordan WhittingtonQ,WR,"ARI 20 @ LA 37, Final",,$10,1.8,0.00,312,2026-01-05 16:28:46,Week 18,Sunday
+Terrance FergusonO,TE,"ARI 20 @ LA 37, Final",,$10,3.9,0.00,313,2026-01-05 16:28:46,Week 18,Sunday
+Jarquez HunterO,RB,"ARI 20 @ LA 37, Final",,$10,—,0.00,314,2026-01-05 16:28:46,Week 18,Sunday
+Konata Mumpfield,WR,"ARI 20 @ LA 37, Final",TGT,$10,1.7,0.00,315,2026-01-05 16:28:46,Week 18,Sunday
+Steven Sims,WR,"ARI 20 @ LA 37, Final",,$10,—,0.00,316,2026-01-05 16:28:46,Week 18,Sunday
+Greg DortchIR,WR,"ARI 20 @ LA 37, Final",,$10,5.1,0.00,317,2026-01-05 16:28:46,Week 18,Sunday
+Simi FehokoIR,WR,"ARI 20 @ LA 37, Final",,$10,—,0.00,318,2026-01-05 16:28:46,Week 18,Sunday
+Kyle Allen,QB,"DET 19 @ CHI 16, Final",,$20,-0.1,0.00,319,2026-01-05 16:28:46,Week 18,Sunday
+Tom KennedyQ,WR,"DET 19 @ CHI 16, Final",,$10,0.9,0.00,320,2026-01-05 16:28:46,Week 18,Sunday
+Shane Zylstra,TE,"DET 19 @ CHI 16, Final",,$10,3.5,0.00,321,2026-01-05 16:28:46,Week 18,Sunday
+Jacob Saylors,RB,"DET 19 @ CHI 16, Final",,$10,0.1,0.00,322,2026-01-05 16:28:46,Week 18,Sunday
+Sione Vaki,RB,"DET 19 @ CHI 16, Final",,$10,0.1,0.00,323,2026-01-05 16:28:46,Week 18,Sunday
+Dominic LovettO,WR,"DET 19 @ CHI 16, Final",,$10,—,0.00,324,2026-01-05 16:28:46,Week 18,Sunday
+Case KeenumO,QB,"DET 19 @ CHI 16, Final",,$20,—,0.00,325,2026-01-05 16:28:46,Week 18,Sunday
+Durham Smythe,TE,"DET 19 @ CHI 16, Final",,$10,0.9,0.00,326,2026-01-05 16:28:46,Week 18,Sunday
+Travis Homer,RB,"DET 19 @ CHI 16, Final",,$10,-0.0,0.00,327,2026-01-05 16:28:46,Week 18,Sunday
+Olamide Zaccheaus,WR,"DET 19 @ CHI 16, Final",,$10,4.7,0.00,328,2026-01-05 16:28:46,Week 18,Sunday
+Devin Duvernay,WR,"DET 19 @ CHI 16, Final",,$10,0.2,0.00,329,2026-01-05 16:28:46,Week 18,Sunday
+Tyson Bagent,QB,"DET 19 @ CHI 16, Final",,$20,1.3,0.00,330,2026-01-05 16:28:46,Week 18,Sunday
+Rome OdunzeO,WR,"DET 19 @ CHI 16, Final",,$20,10.3,0.00,331,2026-01-05 16:28:46,Week 18,Sunday
+JP Richardson,WR,"DET 19 @ CHI 16, Final",,$10,—,0.00,332,2026-01-05 16:28:46,Week 18,Sunday
+Roschon JohnsonIR,RB,"DET 19 @ CHI 16, Final",,$10,0.3,0.00,333,2026-01-05 16:28:46,Week 18,Sunday
+Philip RiversO,QB,"IND 30 @ HOU 38, Final",,$21,11.6,0.00,334,2026-01-05 16:28:47,Week 18,Sunday
+Laquon Treadwell,WR,"IND 30 @ HOU 38, Final",,$10,—,0.00,335,2026-01-05 16:28:47,Week 18,Sunday
+Drew OgletreeIR,TE,"IND 30 @ HOU 38, Final",,$10,1.1,0.00,336,2026-01-05 16:28:47,Week 18,Sunday
+Will MalloryO,TE,"IND 30 @ HOU 38, Final",,$10,2.1,0.00,337,2026-01-05 16:28:47,Week 18,Sunday
+Anthony GouldIR,WR,"IND 30 @ HOU 38, Final",,$10,0.2,0.00,338,2026-01-05 16:28:47,Week 18,Sunday
+Nick ChubbO,RB,"IND 30 @ HOU 38, Final",,$10,5.5,0.00,339,2026-01-05 16:28:47,Week 18,Sunday
+Braxton BerriosO,WR,"IND 30 @ HOU 38, Final",,$10,1.7,0.00,340,2026-01-05 16:28:47,Week 18,Sunday
+Harrison Bryant,TE,"IND 30 @ HOU 38, Final",,$10,0.3,0.00,341,2026-01-05 16:28:47,Week 18,Sunday
+Nico CollinsO,WR,"IND 30 @ HOU 38, Final",,$31,12.7,0.00,342,2026-01-05 16:28:47,Week 18,Sunday
+Tank DellPUP,WR,"IND 30 @ HOU 38, Final",,$11,8.2,0.00,343,2026-01-05 16:28:47,Week 18,Sunday
+Graham MertzO,QB,"IND 30 @ HOU 38, Final",,$20,—,0.00,344,2026-01-05 16:28:47,Week 18,Sunday
+Justin Watson,WR,"IND 30 @ HOU 38, Final",,$10,1.5,0.00,345,2026-01-05 16:28:47,Week 18,Sunday
+Anthony Richardson Sr.IR,QB,"IND 30 @ HOU 38, Final",,$20,0.8,0.00,346,2026-01-05 16:28:47,Week 18,Sunday
+Ashton Dulin,WR,"IND 30 @ HOU 38, Final",2 TGT,$10,1.5,0.00,347,2026-01-05 16:28:47,Week 18,Sunday
+Marcus MariotaO,QB,"WAS 24 @ PHI 17, Final",,$24,12.0,0.00,348,2026-01-05 16:28:47,Week 18,Sunday
+Chris Moore,WR,"WAS 24 @ PHI 17, Final",,$10,3.0,0.00,349,2026-01-05 16:28:47,Week 18,Sunday
+Chase EdmondsO,RB,"WAS 24 @ PHI 17, Final",,$10,—,0.00,350,2026-01-05 16:28:47,Week 18,Sunday
+Jayden DanielsO,QB,"WAS 24 @ PHI 17, Final",,$20,16.8,0.00,351,2026-01-05 16:28:47,Week 18,Sunday
+Colson Yankoff,TE,"WAS 24 @ PHI 17, Final",,$10,0.3,0.00,352,2026-01-05 16:28:47,Week 18,Sunday
+Saquon Barkley,RB,"WAS 24 @ PHI 17, Final",,$34,13.4,0.00,353,2026-01-05 16:28:47,Week 18,Sunday
+Dallas GoedertO,TE,"WAS 24 @ PHI 17, Final",,$18,10.3,0.00,354,2026-01-05 16:28:47,Week 18,Sunday
+A.J. Brown,WR,"WAS 24 @ PHI 17, Final",,$31,12.1,0.00,355,2026-01-05 16:28:47,Week 18,Sunday
+Jalen Hurts,QB,"WAS 24 @ PHI 17, Final",,$36,19.1,0.00,356,2026-01-05 16:28:47,Week 18,Sunday
+Sam Howell,QB,"WAS 24 @ PHI 17, Final",,$20,0.2,0.00,357,2026-01-05 16:28:47,Week 18,Sunday
+Cameron Latu,TE,"WAS 24 @ PHI 17, Final",,$10,—,0.00,358,2026-01-05 16:28:47,Week 18,Sunday
+Jeff Driskel,QB,"WAS 24 @ PHI 17, Final",,$20,—,0.00,359,2026-01-05 16:28:48,Week 18,Sunday
+Sam HartmanO,QB,"WAS 24 @ PHI 17, Final",,$20,—,0.00,360,2026-01-05 16:28:48,Week 18,Sunday
+Javonte WilliamsIR,RB,"DAL 17 @ NYG 34, Final",,$31,14.1,0.00,361,2026-01-05 16:28:48,Week 18,Sunday
+Jalen Tolbert,WR,"DAL 17 @ NYG 34, Final",TGT,$10,3.4,0.00,362,2026-01-05 16:28:48,Week 18,Sunday
+Malik DavisIR,RB,"DAL 17 @ NYG 34, Final",,$12,4.0,0.00,363,2026-01-05 16:28:48,Week 18,Sunday
+Jonathan Mingo,WR,"DAL 17 @ NYG 34, Final",TGT,$10,0.6,0.00,364,2026-01-05 16:28:48,Week 18,Sunday
+Russell WilsonO,QB,"DAL 17 @ NYG 34, Final",,$20,8.8,0.00,365,2026-01-05 16:28:48,Week 18,Sunday
+Chris Manhertz,TE,"DAL 17 @ NYG 34, Final",TGT,$10,0.4,0.00,366,2026-01-05 16:28:48,Week 18,Sunday
+Jameis Winston,QB,"DAL 17 @ NYG 34, Final",,$23,14.9,0.00,367,2026-01-05 16:28:48,Week 18,Sunday
+Isaiah Hodgins,WR,"DAL 17 @ NYG 34, Final",2 TGT,$10,3.2,0.00,368,2026-01-05 16:28:48,Week 18,Sunday
+Wan'Dale RobinsonIR,WR,"DAL 17 @ NYG 34, Final",,$28,10.7,0.00,369,2026-01-05 16:28:48,Week 18,Sunday
+Jalin HyattO,WR,"DAL 17 @ NYG 34, Final",,$10,1.0,0.00,370,2026-01-05 16:28:48,Week 18,Sunday
+Eric Gray,RB,"DAL 17 @ NYG 34, Final",,$10,—,0.00,371,2026-01-05 16:28:48,Week 18,Sunday
+Ryan MillerO,WR,"DAL 17 @ NYG 34, Final",,$10,1.2,0.00,372,2026-01-05 16:28:48,Week 18,Sunday
+Theo JohnsonO,TE,"DAL 17 @ NYG 34, Final",,$14,7.0,0.00,373,2026-01-05 16:28:48,Week 18,Sunday
+Dalen Cambre,WR,"DAL 17 @ NYG 34, Final",,$10,—,0.00,374,2026-01-05 16:28:48,Week 18,Sunday
+Beaux CollinsIR,WR,"DAL 17 @ NYG 34, Final",,$10,0.9,0.00,375,2026-01-05 16:28:48,Week 18,Sunday
+Zach Davidson,TE,"DAL 17 @ NYG 34, Final",,$10,0.5,0.00,376,2026-01-05 16:28:48,Week 18,Sunday
+Dante MillerO,RB,"DAL 17 @ NYG 34, Final",,$10,—,0.00,377,2026-01-05 16:28:48,Week 18,Sunday
+Deshaun WatsonPUP,QB,"CLE 20 @ CIN 18, Final",,$20,11.4,0.00,378,2026-01-05 16:28:48,Week 18,Sunday
+David NjokuO,TE,"CLE 20 @ CIN 18, Final",,$10,6.3,0.00,379,2026-01-05 16:28:48,Week 18,Sunday
+Blake Whiteheart,TE,"CLE 20 @ CIN 18, Final",TGT,$10,0.2,0.00,380,2026-01-05 16:28:48,Week 18,Sunday
+Jamari ThrashO,WR,"CLE 20 @ CIN 18, Final",,$10,2.0,0.00,381,2026-01-05 16:28:48,Week 18,Sunday
+Dillon Gabriel,QB,"CLE 20 @ CIN 18, Final",,$20,7.2,0.00,382,2026-01-05 16:28:48,Week 18,Sunday
+Harold Fannin Jr.O,TE,"CLE 20 @ CIN 18, Final",,$24,9.4,0.00,383,2026-01-05 16:28:48,Week 18,Sunday
+Gage Larvadain,WR,"CLE 20 @ CIN 18, Final",,$10,0.7,0.00,384,2026-01-05 16:28:48,Week 18,Sunday
+Tanner Hudson,TE,"CLE 20 @ CIN 18, Final",,$10,3.8,0.00,385,2026-01-05 16:28:49,Week 18,Sunday
+Jake BrowningO,QB,"CLE 20 @ CIN 18, Final",,$20,11.3,0.00,386,2026-01-05 16:28:49,Week 18,Sunday
+Charlie JonesO,WR,"CLE 20 @ CIN 18, Final",,$10,0.5,0.00,387,2026-01-05 16:28:49,Week 18,Sunday
+Mitch Tinsley,WR,"CLE 20 @ CIN 18, Final",,$10,3.5,0.00,388,2026-01-05 16:28:49,Week 18,Sunday
+Erick All Jr.PUP,TE,"CLE 20 @ CIN 18, Final",,$10,3.2,0.00,389,2026-01-05 16:28:49,Week 18,Sunday
+Cam GrandyO,TE,"CLE 20 @ CIN 18, Final",,$10,0.9,0.00,390,2026-01-05 16:28:49,Week 18,Sunday
+Tahj Brooks,RB,"CLE 20 @ CIN 18, Final",,$10,0.5,0.00,391,2026-01-05 16:28:49,Week 18,Sunday
+Sal Cannella,TE,"CLE 20 @ CIN 18, Final",TGT,$10,1.1,0.00,392,2026-01-05 16:28:49,Week 18,Sunday
+Bailey Zappe,QB,"CLE 20 @ CIN 18, Final",,$20,9.0,0.00,393,2026-01-05 16:28:49,Week 18,Sunday
+Alvin KamaraO,RB,"NO 17 @ ATL 19, Final",,$18,7.7,0.00,394,2026-01-05 16:28:49,Week 18,Sunday
+Jack StollIR,TE,"NO 17 @ ATL 19, Final",,$10,1.4,0.00,395,2026-01-05 16:28:49,Week 18,Sunday
+Chris OlaveO,WR,"NO 17 @ ATL 19, Final",,$41,13.7,0.00,396,2026-01-05 16:28:49,Week 18,Sunday
+Zaire Mitchell-PadenIR,TE,"NO 17 @ ATL 19, Final",,$10,0.9,0.00,397,2026-01-05 16:28:49,Week 18,Sunday
+Spencer RattlerO,QB,"NO 17 @ ATL 19, Final",,$20,11.5,0.00,398,2026-01-05 16:28:49,Week 18,Sunday
+Mason TiptonIR,WR,"NO 17 @ ATL 19, Final",,$10,1.9,0.00,399,2026-01-05 16:28:49,Week 18,Sunday
+Easton Stick,QB,"NO 17 @ ATL 19, Final",,$20,—,0.00,400,2026-01-05 16:28:49,Week 18,Sunday
+Charlie Woerner,TE,"NO 17 @ ATL 19, Final",,$10,1.3,0.00,401,2026-01-05 16:28:49,Week 18,Sunday
+Feleipe Franks,TE,"NO 17 @ ATL 19, Final",,$10,0.0,0.00,402,2026-01-05 16:28:49,Week 18,Sunday
+Teagan Quitoriano,TE,"NO 17 @ ATL 19, Final",,$10,—,0.00,403,2026-01-05 16:28:49,Week 18,Sunday
+Deven Thompkins,WR,"NO 17 @ ATL 19, Final",,$10,0.7,0.00,404,2026-01-05 16:28:49,Week 18,Sunday
+Malik HeathO,WR,"NO 17 @ ATL 19, Final",,$10,2.3,0.00,405,2026-01-05 16:28:49,Week 18,Sunday
+Dylan Drummond,WR,"NO 17 @ ATL 19, Final",,$10,1.3,0.00,406,2026-01-05 16:28:49,Week 18,Sunday
+Casey WashingtonO,WR,"NO 17 @ ATL 19, Final",,$10,2.5,0.00,407,2026-01-05 16:28:49,Week 18,Sunday
+Nathan Carter,RB,"NO 17 @ ATL 19, Final",,$10,2.0,0.00,408,2026-01-05 16:28:49,Week 18,Sunday
+Treyton Welch,TE,"NO 17 @ ATL 19, Final",,$10,—,0.00,409,2026-01-05 16:28:49,Week 18,Sunday
+Moliki Matavao,TE,"NO 17 @ ATL 19, Final",,$10,2.0,0.00,410,2026-01-05 16:28:50,Week 18,Sunday
+Trey PalmerIR,WR,"NO 17 @ ATL 19, Final",,$10,1.9,0.00,411,2026-01-05 16:28:50,Week 18,Sunday
+Tyrod TaylorO,QB,"NYJ 8 @ BUF 35, Final",,$25,10.7,0.00,412,2026-01-05 16:28:50,Week 18,Sunday
+Tyler JohnsonO,WR,"NYJ 8 @ BUF 35, Final",,$10,3.5,0.00,413,2026-01-05 16:28:50,Week 18,Sunday
+Breece HallO,RB,"NYJ 8 @ BUF 35, Final",,$30,11.9,0.00,414,2026-01-05 16:28:50,Week 18,Sunday
+Jeremy Ruckert,TE,"NYJ 8 @ BUF 35, Final",,$10,2.5,0.00,415,2026-01-05 16:28:50,Week 18,Sunday
+Irvin CharlesPUP,WR,"NYJ 8 @ BUF 35, Final",,$10,—,0.00,416,2026-01-05 16:28:50,Week 18,Sunday
+Stone Smartt,TE,"NYJ 8 @ BUF 35, Final",,$10,1.5,0.00,417,2026-01-05 16:28:50,Week 18,Sunday
+Adonai Mitchell,WR,"NYJ 8 @ BUF 35, Final",3 TGT,$14,4.5,0.00,418,2026-01-05 16:28:50,Week 18,Sunday
+Isaiah DavisIR,RB,"NYJ 8 @ BUF 35, Final",,$12,3.8,0.00,419,2026-01-05 16:28:50,Week 18,Sunday
+Mason TaylorIR,TE,"NYJ 8 @ BUF 35, Final",,$11,5.1,0.00,420,2026-01-05 16:28:50,Week 18,Sunday
+Brandin CooksO,WR,"NYJ 8 @ BUF 35, Final",,$10,2.9,0.00,421,2026-01-05 16:28:50,Week 18,Sunday
+Josh Allen,QB,"NYJ 8 @ BUF 35, Final",,$44,23.4,0.00,422,2026-01-05 16:28:50,Week 18,Sunday
+Khalil Shakir,WR,"NYJ 8 @ BUF 35, Final",,$17,8.2,0.00,423,2026-01-05 16:28:50,Week 18,Sunday
+Tyrell Shavers,WR,"NYJ 8 @ BUF 35, Final",,$11,3.5,0.00,424,2026-01-05 16:28:50,Week 18,Sunday
+Hendon Hooker,QB,"NYJ 8 @ BUF 35, Final",,$20,0.9,0.00,425,2026-01-05 16:28:50,Week 18,Sunday
+Curtis SamuelIR,WR,"NYJ 8 @ BUF 35, Final",,$10,2.9,0.00,426,2026-01-05 16:28:50,Week 18,Sunday
+Josh ReynoldsIR,WR,"NYJ 8 @ BUF 35, Final",,$10,3.5,0.00,427,2026-01-05 16:28:50,Week 18,Sunday
+Braelon AllenIR,RB,"NYJ 8 @ BUF 35, Final",,$10,—,0.00,428,2026-01-05 16:28:50,Week 18,Sunday
+Robert Tonyan,TE,"KC 12 @ LV 14, Final",,$10,0.2,0.00,429,2026-01-05 16:28:50,Week 18,Sunday
+Isiah PachecoO,RB,"KC 12 @ LV 14, Final",,$14,6.0,0.00,430,2026-01-05 16:28:50,Week 18,Sunday
+Nikko RemigioIR,WR,"KC 12 @ LV 14, Final",,$10,0.3,0.00,431,2026-01-05 16:28:50,Week 18,Sunday
+Xavier WorthyO,WR,"KC 12 @ LV 14, Final",,$17,6.3,0.00,432,2026-01-05 16:28:50,Week 18,Sunday
+Jared Wiley,TE,"KC 12 @ LV 14, Final",,$10,0.5,0.00,433,2026-01-05 16:28:50,Week 18,Sunday
+Geno SmithO,QB,"KC 12 @ LV 14, Final",,$21,12.7,0.00,434,2026-01-05 16:28:50,Week 18,Sunday
+Raheem MostertO,RB,"KC 12 @ LV 14, Final",,$10,2.0,0.00,435,2026-01-05 16:28:50,Week 18,Sunday
+Ian Thomas,TE,"KC 12 @ LV 14, Final",,$10,2.2,0.00,436,2026-01-05 16:28:51,Week 18,Sunday
+Alex Bachman,WR,"KC 12 @ LV 14, Final",,$10,0.2,0.00,437,2026-01-05 16:28:51,Week 18,Sunday
+Dylan Laube,RB,"KC 12 @ LV 14, Final",,$10,0.2,0.00,438,2026-01-05 16:28:51,Week 18,Sunday
+Jack Bech,WR,"KC 12 @ LV 14, Final",2 TGT,$12,2.2,0.00,439,2026-01-05 16:28:51,Week 18,Sunday
+Dont'e Thornton Jr.,WR,"KC 12 @ LV 14, Final",TGT,$10,1.7,0.00,440,2026-01-05 16:28:51,Week 18,Sunday
+Carter Runyon,TE,"KC 12 @ LV 14, Final",,$10,0.2,0.00,441,2026-01-05 16:28:51,Week 18,Sunday
+Jake BriningstoolIR,TE,"KC 12 @ LV 14, Final",,$10,—,0.00,442,2026-01-05 16:28:51,Week 18,Sunday
+Tyreke SmithO,TE,"KC 12 @ LV 14, Final",,$10,—,0.00,443,2026-01-05 16:28:51,Week 18,Sunday
+Phillip Dorsett II,WR,"KC 12 @ LV 14, Final",,$10,—,0.00,444,2026-01-05 16:28:51,Week 18,Sunday
+Chris Collier,RB,"KC 12 @ LV 14, Final",,$10,—,0.00,445,2026-01-05 16:28:51,Week 18,Sunday
+Justin HerbertO,QB,"LAC 3 @ DEN 19, Final",,$34,18.7,0.00,446,2026-01-05 16:28:51,Week 18,Sunday
+Quentin Johnston,WR,"LAC 3 @ DEN 19, Final",,$22,11.2,0.00,447,2026-01-05 16:28:51,Week 18,Sunday
+Scott Matlock,RB,"LAC 3 @ DEN 19, Final",,$10,2.3,0.00,448,2026-01-05 16:28:51,Week 18,Sunday
+Ladd McConkey,WR,"LAC 3 @ DEN 19, Final",,$20,9.2,0.00,449,2026-01-05 16:28:51,Week 18,Sunday
+Omarion HamptonO,RB,"LAC 3 @ DEN 19, Final",,$29,13.3,0.00,450,2026-01-05 16:28:51,Week 18,Sunday
+Jarrett Stidham,QB,"LAC 3 @ DEN 19, Final",,$20,-0.1,0.00,451,2026-01-05 16:28:51,Week 18,Sunday
+Lil'Jordan Humphrey,WR,"LAC 3 @ DEN 19, Final",,$10,4.0,0.00,452,2026-01-05 16:28:51,Week 18,Sunday
+Adam Trautman,TE,"LAC 3 @ DEN 19, Final",,$10,3.2,0.00,453,2026-01-05 16:28:51,Week 18,Sunday
+Adam Prentice,RB,"LAC 3 @ DEN 19, Final",,$10,1.0,0.00,454,2026-01-05 16:28:51,Week 18,Sunday
+Nate Adkins,TE,"LAC 3 @ DEN 19, Final",,$10,2.0,0.00,455,2026-01-05 16:28:51,Week 18,Sunday
+Troy Franklin,WR,"LAC 3 @ DEN 19, Final",TGT,$16,8.5,0.00,456,2026-01-05 16:28:51,Week 18,Sunday
+Marcedes LewisO,TE,"LAC 3 @ DEN 19, Final",,$10,0.2,0.00,457,2026-01-05 16:28:51,Week 18,Sunday
+Jimmy Garoppolo,QB,"ARI 20 @ LA 37, Final","3 RUSH ATT,-3 RUSH YD",$20,-0.2,-0.30,458,2026-01-05 16:28:51,Week 18,Sunday
+Indianapolis Colts,DEF,"IND 30 @ HOU 38, Final",32 PTS ALLOWED,$10,5.8,-1.00,459,2026-01-05 16:28:51,Week 18,Sunday
+Noah Fant,TE,"CLE 20 @ CIN 18, Final","TGT,REC,5 REC YD,FUM LOST",$10,4.4,-1.00,460,2026-01-05 16:28:51,Week 18,Sunday
+Chris Oladokun,QB,"KC 12 @ LV 14, Final","58 PASS YD,RUSH ATT,2 FUM LOST",$20,3.7,-1.68,461,2026-01-05 16:28:51,Week 18,Sunday
+Miami Dolphins,DEF,"MIA 10 @ NE 38, Final","38 PTS ALLOWED,BLK KICK",$13,5.6,-2.00,462,2026-01-05 16:28:52,Week 18,Sunday
+Tennessee Titans,DEF,"TEN 7 @ JAC 41, Final","35 PTS ALLOWED,2 SACK",$10,5.1,-2.00,463,2026-01-05 16:28:52,Week 18,Sunday
+Arizona Cardinals,DEF,"ARI 20 @ LA 37, Final","37 PTS ALLOWED,SACK",$10,4.4,-3.00,464,2026-01-05 16:28:52,Week 18,Sunday
+New York Jets,DEF,"NYJ 8 @ BUF 35, Final",35 PTS ALLOWED,$10,2.8,-4.00,465,2026-01-05 16:28:52,Week 18,Sunday
+Alec Pierce,WR,"IND 30 @ HOU 38, Final","7 TGT,4 REC,132 REC YD,2 REC TD",$18,10.7,27.20,1,2026-01-05 16:29:08,Week 18,Sunday
+Tyrone Tracy Jr.,RB,"DAL 17 @ NYG 34, Final","18 RUSH ATT,103 RUSH YD,9 TGT,8 REC,56 REC YD,REC TD,FUM LOST",$26,9.5,23.90,2,2026-01-05 16:29:08,Week 18,Sunday
+Trevor Lawrence,QB,"TEN 7 @ JAC 41, Final","255 PASS YD,3 PASS TD,2 RUSH ATT,11 RUSH YD",$43,20.6,23.30,3,2026-01-05 16:29:08,Week 18,Sunday
+Tyler Shough,QB,"NO 17 @ ATL 19, Final","259 PASS YD,PASS TD,INT,3 RUSH ATT,34 RUSH YD,RUSH TD",$34,14.9,22.76,4,2026-01-05 16:29:08,Week 18,Sunday
+Joe Burrow,QB,"CLE 20 @ CIN 18, Final","236 PASS YD,3 PASS TD,INT,2 RUSH ATT,17 RUSH YD",$40,17.4,22.14,5,2026-01-05 16:29:08,Week 18,Sunday
+Riley Leonard,QB,"IND 30 @ HOU 38, Final","270 PASS YD,2 PASS TD,INT,3 RUSH ATT,21 RUSH YD,RUSH TD,-3 REC YD,2 FUM LOST",$20,6.4,21.60,6,2026-01-05 16:29:08,Week 18,Sunday
+Cleveland Browns,DEF,"CLE 20 @ CIN 18, Final","18 PTS ALLOWED,2 SACK,INT,FUM REC,BLK KICK,2 TD",$12,7.8,21.00,7,2026-01-05 16:29:08,Week 18,Sunday
+Jaxson Dart,QB,"DAL 17 @ NYG 34, Final","230 PASS YD,2 PASS TD,5 RUSH ATT,32 RUSH YD",$38,17.6,20.40,8,2026-01-05 16:29:08,Week 18,Sunday
+Ja'Marr Chase,WR,"CLE 20 @ CIN 18, Final","10 TGT,8 REC,96 REC YD,REC TD",$42,15.7,19.60,9,2026-01-05 16:29:08,Week 18,Sunday
+C.J. Stroud,QB,"IND 30 @ HOU 38, Final","169 PASS YD,PASS TD,2 RUSH ATT,5 RUSH YD,RUSH TD",$30,15.5,17.26,10,2026-01-05 16:29:08,Week 18,Sunday
+Parker Washington,WR,"TEN 7 @ JAC 41, Final","9 TGT,5 REC,87 REC YD,REC TD",$23,9.7,17.20,11,2026-01-05 16:29:08,Week 18,Sunday
+Chase Brown,RB,"CLE 20 @ CIN 18, Final","13 RUSH ATT,72 RUSH YD,6 TGT,4 REC,18 REC YD,REC TD",$39,14.6,17.00,12,2026-01-05 16:29:08,Week 18,Sunday
+Drake London,WR,"NO 17 @ ATL 19, Final","8 TGT,4 REC,78 REC YD,REC TD",$34,14.0,15.80,13,2026-01-05 16:29:08,Week 18,Sunday
+Tee Higgins,WR,"CLE 20 @ CIN 18, Final","9 TGT,6 REC,67 REC YD,REC TD",$32,12.1,15.70,14,2026-01-05 16:29:08,Week 18,Sunday
+Justin Jefferson,WR,"GB 3 @ MIN 16, Final","RUSH ATT,3 RUSH YD,11 TGT,8 REC,101 REC YD",$22,9.4,14.40,15,2026-01-05 16:29:09,Week 18,Sunday
+Brenton Strange,TE,"TEN 7 @ JAC 41, Final","6 TGT,6 REC,52 REC YD,REC TD",$16,7.9,14.20,16,2026-01-05 16:29:09,Week 18,Sunday
+Gunner Olszewski,WR,"DAL 17 @ NYG 34, Final","9 TGT,8 REC,102 REC YD",$10,1.9,14.20,17,2026-01-05 16:29:09,Week 18,Sunday
+Audric Estime,RB,"NO 17 @ ATL 19, Final","21 RUSH ATT,63 RUSH YD,5 TGT,5 REC,43 REC YD",$14,7.0,13.10,18,2026-01-05 16:29:09,Week 18,Sunday
+Jacksonville Jaguars,DEF,"TEN 7 @ JAC 41, Final","7 PTS ALLOWED,SACK,INT,TD",$18,8.5,13.00,19,2026-01-05 16:29:09,Week 18,Sunday
+Jaydon Blue,RB,"DAL 17 @ NYG 34, Final","16 RUSH ATT,64 RUSH YD,RUSH TD",$10,4.0,12.40,20,2026-01-05 16:29:09,Week 18,Sunday
+Houston Texans,DEF,"IND 30 @ HOU 38, Final","30 PTS ALLOWED,SACK,INT,2 FUM REC,TD",$19,9.6,12.00,21,2026-01-05 16:29:09,Week 18,Sunday
+Cincinnati Bengals,DEF,"CLE 20 @ CIN 18, Final","8 PTS ALLOWED,6 SACK,FUM REC",$11,4.6,12.00,22,2026-01-05 16:29:09,Week 18,Sunday
+Minnesota Vikings,DEF,"GB 3 @ MIN 16, Final","3 PTS ALLOWED,4 SACK",$15,8.0,11.00,23,2026-01-05 16:29:09,Week 18,Sunday
+Atlanta Falcons,DEF,"NO 17 @ ATL 19, Final","17 PTS ALLOWED,4 SACK,INT,FUM REC,BLK KICK",$11,7.2,11.00,24,2026-01-05 16:29:09,Week 18,Sunday
+Xavier Hutchinson,WR,"IND 30 @ HOU 38, Final","9 TGT,5 REC,84 REC YD",$10,5.0,10.90,25,2026-01-05 16:29:09,Week 18,Sunday
+Daniel Bellinger,TE,"DAL 17 @ NYG 34, Final","2 TGT,2 REC,38 REC YD,REC TD",$10,3.9,10.80,26,2026-01-05 16:29:09,Week 18,Sunday
+Devin Singletary,RB,"DAL 17 @ NYG 34, Final","9 RUSH ATT,26 RUSH YD,RUSH TD,2PT",$18,5.9,10.60,27,2026-01-05 16:29:09,Week 18,Sunday
+Kirk Cousins,QB,"NO 17 @ ATL 19, Final","180 PASS YD,PASS TD,INT,3 RUSH ATT",$28,10.9,10.20,28,2026-01-05 16:29:09,Week 18,Sunday
+Phil Mafah,RB,"DAL 17 @ NYG 34, Final","5 RUSH ATT,18 RUSH YD,RUSH TD,2 TGT,2 REC,11 REC YD",$10,9.9,9.90,29,2026-01-05 16:29:09,Week 18,Sunday
+Jordan Mason,RB,"GB 3 @ MIN 16, Final","14 RUSH ATT,94 RUSH YD",$14,7.6,9.40,30,2026-01-05 16:29:09,Week 18,Sunday
+Dalton Schultz,TE,"IND 30 @ HOU 38, Final","4 TGT,4 REC,73 REC YD",$17,8.0,9.30,31,2026-01-05 16:29:09,Week 18,Sunday
+Jayden Higgins,WR,"IND 30 @ HOU 38, Final","5 TGT,2 REC,23 REC YD,REC TD",$19,6.4,9.30,32,2026-01-05 16:29:09,Week 18,Sunday
+Ryan Flournoy,WR,"DAL 17 @ NYG 34, Final","7 TGT,5 REC,68 REC YD",$13,6.3,9.30,33,2026-01-05 16:29:09,Week 18,Sunday
+Ronnie Bell,WR,"NO 17 @ ATL 19, Final","4 TGT,2 REC,23 REC YD,REC TD",$10,4.7,9.30,34,2026-01-05 16:29:09,Week 18,Sunday
+Cam WardQ,QB,"TEN 7 @ JAC 41, Final","52 PASS YD,2 RUSH ATT,11 RUSH YD,RUSH TD",$26,11.4,9.18,35,2026-01-05 16:29:09,Week 18,Sunday
+Kyle Pitts Sr.,TE,"NO 17 @ ATL 19, Final","9 TGT,6 REC,58 REC YD",$25,9.8,8.80,36,2026-01-05 16:29:09,Week 18,Sunday
+Dante Pettis,WR,"NO 17 @ ATL 19, Final","5 TGT,5 REC,60 REC YD",$10,2.2,8.50,37,2026-01-05 16:29:09,Week 18,Sunday
+Bhayshul Tuten,RB,"TEN 7 @ JAC 41, Final","5 RUSH ATT,23 RUSH YD,RUSH TD",$10,5.6,8.30,38,2026-01-05 16:29:09,Week 18,Sunday
+Tony Pollard,RB,"TEN 7 @ JAC 41, Final","14 RUSH ATT,48 RUSH YD,3 TGT,3 REC,17 REC YD",$29,10.0,8.00,39,2026-01-05 16:29:10,Week 18,Sunday
+J.J. McCarthyQ,QB,"GB 3 @ MIN 16, Final","182 PASS YD,2 RUSH ATT,7 RUSH YD",$28,13.7,7.98,40,2026-01-05 16:29:10,Week 18,Sunday
+Josh Downs,WR,"IND 30 @ HOU 38, Final","RUSH ATT,-5 RUSH YD,4 TGT,4 REC,61 REC YD",$16,6.7,7.60,41,2026-01-05 16:29:10,Week 18,Sunday
+Darius Slayton,WR,"DAL 17 @ NYG 34, Final","9 TGT,4 REC,34 REC YD,2PT",$16,5.7,7.40,42,2026-01-05 16:29:10,Week 18,Sunday
+C.J. Ham,RB,"GB 3 @ MIN 16, Final","RUSH ATT,RUSH YD,RUSH TD,TGT,REC,6 REC YD",$10,1.8,7.20,43,2026-01-05 16:29:10,Week 18,Sunday
+Quintin Morris,TE,"TEN 7 @ JAC 41, Final","TGT,REC,5 REC YD,REC TD",$10,1.3,7.00,44,2026-01-05 16:29:10,Week 18,Sunday
+New Orleans Saints,DEF,"NO 17 @ ATL 19, Final","19 PTS ALLOWED,4 SACK,INT",$15,7.0,7.00,45,2026-01-05 16:29:10,Week 18,Sunday
+Jakobi Meyers,WR,"TEN 7 @ JAC 41, Final","6 TGT,5 REC,44 REC YD",$21,8.6,6.90,46,2026-01-05 16:29:10,Week 18,Sunday
+Samaje Perine,RB,"CLE 20 @ CIN 18, Final","8 RUSH ATT,42 RUSH YD,4 TGT,3 REC,10 REC YD",$15,4.6,6.70,47,2026-01-05 16:29:10,Week 18,Sunday
+Elic Ayomanor,WR,"TEN 7 @ JAC 41, Final","10 TGT,3 REC,50 REC YD",$17,6.0,6.50,48,2026-01-05 16:29:10,Week 18,Sunday
+Jalen Nailor,WR,"GB 3 @ MIN 16, Final","3 TGT,3 REC,49 REC YD",$12,5.1,6.40,49,2026-01-05 16:29:10,Week 18,Sunday
+Brian Thomas Jr.,WR,"TEN 7 @ JAC 41, Final","5 TGT,3 REC,49 REC YD",$22,8.2,6.40,50,2026-01-05 16:29:10,Week 18,Sunday
+British Brooks,RB,"IND 30 @ HOU 38, Final","13 RUSH ATT,63 RUSH YD",$10,1.0,6.30,51,2026-01-05 16:29:10,Week 18,Sunday
+Joe Milton III,QB,"DAL 17 @ NYG 34, Final","73 PASS YD,INT,4 RUSH ATT,43 RUSH YD",$20,3.1,6.22,52,2026-01-05 16:29:10,Week 18,Sunday
+Tyjae Spears,RB,"TEN 7 @ JAC 41, Final","3 RUSH ATT,18 RUSH YD,7 TGT,7 REC,9 REC YD",$17,6.9,6.20,53,2026-01-05 16:29:10,Week 18,Sunday
+Chris Brooks,RB,"GB 3 @ MIN 16, Final","13 RUSH ATT,61 RUSH YD",$10,1.6,6.10,54,2026-01-05 16:29:10,Week 18,Sunday
+Woody Marks,RB,"IND 30 @ HOU 38, Final","10 RUSH ATT,48 RUSH YD,3 TGT,2 REC",$20,8.7,5.80,55,2026-01-05 16:29:10,Week 18,Sunday
+Bijan Robinson,RB,"NO 17 @ ATL 19, Final","15 RUSH ATT,33 RUSH YD,3 TGT,3 REC,10 REC YD",$44,19.5,5.80,56,2026-01-05 16:29:10,Week 18,Sunday
+Kevin Austin Jr.,WR,"NO 17 @ ATL 19, Final","9 TGT,4 REC,37 REC YD",$12,5.3,5.70,57,2026-01-05 16:29:10,Week 18,Sunday
+Juwan Johnson,TE,"NO 17 @ ATL 19, Final","5 TGT,3 REC,61 REC YD,FUM LOST",$18,8.3,5.60,58,2026-01-05 16:29:10,Week 18,Sunday
+Dylan Sampson,RB,"CLE 20 @ CIN 18, Final","10 RUSH ATT,32 RUSH YD,3 TGT,2 REC,12 REC YD",$16,4.7,5.40,59,2026-01-05 16:29:10,Week 18,Sunday
+Emanuel Wilson,RB,"GB 3 @ MIN 16, Final","18 RUSH ATT,44 RUSH YD,TGT,REC,4 REC YD",$13,5.1,5.30,60,2026-01-05 16:29:10,Week 18,Sunday
+Tyler Warren,TE,"IND 30 @ HOU 38, Final","8 TGT,5 REC,26 REC YD",$17,8.9,5.10,61,2026-01-05 16:29:10,Week 18,Sunday
+Shedeur Sanders,QB,"CLE 20 @ CIN 18, Final","111 PASS YD,3 RUSH ATT,26 RUSH YD,FUM LOST",$27,11.9,5.04,62,2026-01-05 16:29:10,Week 18,Sunday
+Green Bay Packers,DEF,"GB 3 @ MIN 16, Final","16 PTS ALLOWED,2 SACK,FUM REC",$12,4.6,5.00,63,2026-01-05 16:29:10,Week 18,Sunday
+Dallas Cowboys,DEF,"DAL 17 @ NYG 34, Final","34 PTS ALLOWED,4 SACK,FUM REC",$10,3.6,5.00,64,2026-01-05 16:29:10,Week 18,Sunday
+New York Giants,DEF,"DAL 17 @ NYG 34, Final","17 PTS ALLOWED,INT,FUM REC",$12,4.5,5.00,65,2026-01-05 16:29:11,Week 18,Sunday
+Ty Chandler,RB,"GB 3 @ MIN 16, Final","10 RUSH ATT,23 RUSH YD,4 TGT,3 REC,11 REC YD",$10,2.4,4.90,66,2026-01-05 16:29:11,Week 18,Sunday
+Jonathan Taylor,RB,"IND 30 @ HOU 38, Final","14 RUSH ATT,26 RUSH YD,2 TGT,2 REC,13 REC YD",$42,20.0,4.90,67,2026-01-05 16:29:11,Week 18,Sunday
+Malachi Corley,WR,"CLE 20 @ CIN 18, Final","3 RUSH ATT,18 RUSH YD,2 TGT,2 REC,20 REC YD",$10,2.2,4.80,68,2026-01-05 16:29:11,Week 18,Sunday
+Taysom HillQ,TE,"NO 17 @ ATL 19, Final","3 TGT,3 REC,32 REC YD",$10,2.8,4.70,69,2026-01-05 16:29:11,Week 18,Sunday
+Travis Etienne Jr.,RB,"TEN 7 @ JAC 41, Final","14 RUSH ATT,32 RUSH YD,TGT,REC,6 REC YD",$37,13.9,4.30,70,2026-01-05 16:29:11,Week 18,Sunday
+Chimere Dike,WR,"TEN 7 @ JAC 41, Final","4 TGT,3 REC,27 REC YD",$16,6.0,4.20,71,2026-01-05 16:29:11,Week 18,Sunday
+Brevyn Spann-Ford,TE,"DAL 17 @ NYG 34, Final","3 TGT,2 REC,30 REC YD",$10,1.2,4.00,72,2026-01-05 16:29:11,Week 18,Sunday
+Josh OliverQ,TE,"GB 3 @ MIN 16, Final","2 TGT,2 REC,29 REC YD",$10,4.0,3.90,73,2026-01-05 16:29:11,Week 18,Sunday
+Raheim Sanders,RB,"CLE 20 @ CIN 18, Final","5 RUSH ATT,26 RUSH YD,TGT,REC,7 REC YD",$12,3.8,3.80,74,2026-01-05 16:29:11,Week 18,Sunday
+Mo Alie-Cox,TE,"IND 30 @ HOU 38, Final","4 TGT,3 REC,22 REC YD",$10,2.2,3.70,75,2026-01-05 16:29:11,Week 18,Sunday
+Clayton Tune,QB,"GB 3 @ MIN 16, Final","34 PASS YD,4 RUSH ATT,23 RUSH YD",$20,1.5,3.66,76,2026-01-05 16:29:11,Week 18,Sunday
+Ameer Abdullah,RB,"IND 30 @ HOU 38, Final","RUSH ATT,RUSH YD,2 TGT,2 REC,24 REC YD",$10,2.1,3.50,77,2026-01-05 16:29:11,Week 18,Sunday
+Darnell Mooney,WR,"NO 17 @ ATL 19, Final","7 TGT,3 REC,20 REC YD",$15,4.4,3.50,78,2026-01-05 16:29:11,Week 18,Sunday
+Jerry Jeudy,WR,"CLE 20 @ CIN 18, Final","RUSH ATT,5 RUSH YD,6 TGT,2 REC,17 REC YD",$18,5.6,3.20,79,2026-01-05 16:29:11,Week 18,Sunday
+Drew Sample,TE,"CLE 20 @ CIN 18, Final","3 TGT,3 REC,17 REC YD",$10,2.0,3.20,80,2026-01-05 16:29:11,Week 18,Sunday
+DJ Giddens,RB,"IND 30 @ HOU 38, Final","8 RUSH ATT,30 RUSH YD",$10,1.9,3.00,81,2026-01-05 16:29:11,Week 18,Sunday
+Cedric Tillman,WR,"CLE 20 @ CIN 18, Final","2 TGT,REC,23 REC YD",$10,4.1,2.80,82,2026-01-05 16:29:11,Week 18,Sunday
+Davis Mills,QB,"IND 30 @ HOU 38, Final","36 PASS YD,RUSH ATT,12 RUSH YD",$20,11.6,2.64,83,2026-01-05 16:29:11,Week 18,Sunday
+Trayveon Williams,RB,"CLE 20 @ CIN 18, Final","RUSH ATT,7 RUSH YD,2 TGT,REC,13 REC YD",$10,1.9,2.50,84,2026-01-05 16:29:11,Week 18,Sunday
+Tyler Allgeier,RB,"NO 17 @ ATL 19, Final","7 RUSH ATT,16 RUSH YD,2 TGT,REC,3 REC YD",$17,6.8,2.40,85,2026-01-05 16:29:11,Week 18,Sunday
+Ben Sims,TE,"GB 3 @ MIN 16, Final","4 TGT,REC,18 REC YD",$10,1.5,2.30,86,2026-01-05 16:29:11,Week 18,Sunday
+Mike Gesicki,TE,"CLE 20 @ CIN 18, Final","2 TGT,2 REC,13 REC YD",$12,4.7,2.30,87,2026-01-05 16:29:11,Week 18,Sunday
+Zavier Scott,RB,"GB 3 @ MIN 16, Final","3 RUSH ATT,9 RUSH YD,TGT,REC,8 REC YD",$10,2.9,2.20,88,2026-01-05 16:29:11,Week 18,Sunday
+Isaiah Bond,WR,"CLE 20 @ CIN 18, Final","RUSH ATT,4 RUSH YD,2 TGT,REC,13 REC YD",$10,3.0,2.20,89,2026-01-05 16:29:11,Week 18,Sunday
+Johnny Mundt,TE,"TEN 7 @ JAC 41, Final","TGT,REC,16 REC YD",$10,1.4,2.10,90,2026-01-05 16:29:12,Week 18,Sunday
+Michael Pittman Jr.,WR,"IND 30 @ HOU 38, Final","4 TGT,2 REC,11 REC YD",$19,9.6,2.10,91,2026-01-05 16:29:12,Week 18,Sunday
+Hunter Luepke,RB,"DAL 17 @ NYG 34, Final","2 RUSH ATT,12 RUSH YD,TGT,REC,4 REC YD",$10,2.2,2.10,92,2026-01-05 16:29:12,Week 18,Sunday
+Andrei Iosivas,WR,"CLE 20 @ CIN 18, Final","3 TGT,2 REC,10 REC YD",$10,4.9,2.00,93,2026-01-05 16:29:12,Week 18,Sunday
+David Martin-Robinson,TE,"TEN 7 @ JAC 41, Final","3 TGT,REC,14 REC YD",$10,1.1,1.90,94,2026-01-05 16:29:12,Week 18,Sunday
+Brandon Allen,QB,"TEN 7 @ JAC 41, Final","72 PASS YD,INT",$20,1.9,1.88,95,2026-01-05 16:29:12,Week 18,Sunday
+Jaylin Noel,WR,"IND 30 @ HOU 38, Final","TGT,REC,13 REC YD",$10,3.3,1.80,96,2026-01-05 16:29:12,Week 18,Sunday
+Luke Schoonmaker,TE,"DAL 17 @ NYG 34, Final","TGT,REC,12 REC YD",$10,1.4,1.70,97,2026-01-05 16:29:12,Week 18,Sunday
+David Sills V,WR,"NO 17 @ ATL 19, Final","TGT,REC,11 REC YD",$10,3.3,1.60,98,2026-01-05 16:29:12,Week 18,Sunday
+Ben Yurosek,TE,"GB 3 @ MIN 16, Final","TGT,REC,9 REC YD",$10,0.5,1.40,99,2026-01-05 16:29:12,Week 18,Sunday
+Dare Ogunbowale,RB,"IND 30 @ HOU 38, Final","RUSH ATT,3 RUSH YD,2 TGT,REC,6 REC YD",$10,1.4,1.40,100,2026-01-05 16:29:12,Week 18,Sunday
+Cade Stover,TE,"IND 30 @ HOU 38, Final","2 TGT,REC,9 REC YD",$10,2.0,1.40,101,2026-01-05 16:29:12,Week 18,Sunday
+George Pickens,WR,"DAL 17 @ NYG 34, Final","3 TGT,REC,9 REC YD",$33,14.4,1.40,102,2026-01-05 16:29:12,Week 18,Sunday
+Matthew Golden,WR,"GB 3 @ MIN 16, Final","3 TGT,REC,8 REC YD",$11,4.0,1.30,103,2026-01-05 16:29:12,Week 18,Sunday
+Jordan Addison,WR,"GB 3 @ MIN 16, Final","3 TGT,REC,8 REC YD",$21,8.2,1.30,104,2026-01-05 16:29:12,Week 18,Sunday
+Dyami Brown,WR,"TEN 7 @ JAC 41, Final","TGT,REC,8 REC YD",$10,3.3,1.30,105,2026-01-05 16:29:12,Week 18,Sunday
+Chig Okonkwo,TE,"TEN 7 @ JAC 41, Final","5 TGT,2 REC,2 REC YD",$15,5.6,1.20,106,2026-01-05 16:29:12,Week 18,Sunday
+Brenden Bates,TE,"CLE 20 @ CIN 18, Final","TGT,REC,6 REC YD",$10,1.4,1.10,107,2026-01-05 16:29:12,Week 18,Sunday
+Evan Hull,RB,"NO 17 @ ATL 19, Final","2 RUSH ATT,11 RUSH YD",$10,1.0,1.10,108,2026-01-05 16:29:12,Week 18,Sunday
+James Proche II,WR,"TEN 7 @ JAC 41, Final","TGT,REC,5 REC YD",$10,1.6,1.00,109,2026-01-05 16:29:12,Week 18,Sunday
+Jake Ferguson,TE,"DAL 17 @ NYG 34, Final","2 TGT,REC,5 REC YD",$16,8.7,1.00,110,2026-01-05 16:29:12,Week 18,Sunday
+Josh Whyle,TE,"GB 3 @ MIN 16, Final","TGT,REC,4 REC YD",$10,2.0,0.90,111,2026-01-05 16:29:12,Week 18,Sunday
+Tim Patrick,WR,"TEN 7 @ JAC 41, Final","TGT,REC,4 REC YD",$10,3.4,0.90,112,2026-01-05 16:29:12,Week 18,Sunday
+CeeDee Lamb,WR,"DAL 17 @ NYG 34, Final","TGT,REC,4 REC YD",$36,11.7,0.90,113,2026-01-05 16:29:12,Week 18,Sunday
+Ke'Shawn Williams,WR,"CLE 20 @ CIN 18, Final","RUSH ATT,9 RUSH YD",$10,0.2,0.90,114,2026-01-05 16:29:12,Week 18,Sunday
+Drake Dabney,TE,"GB 3 @ MIN 16, Final","2 TGT,REC,3 REC YD",$10,0.8,0.80,115,2026-01-05 16:29:13,Week 18,Sunday
+Dak Prescott,QB,"DAL 17 @ NYG 34, Final","70 PASS YD,2 RUSH ATT,-1 RUSH YD,FUM LOST",$41,19.0,0.70,116,2026-01-05 16:29:13,Week 18,Sunday
+KaVontae Turpin,WR,"DAL 17 @ NYG 34, Final","RUSH ATT,7 RUSH YD,TGT",$11,4.8,0.70,117,2026-01-05 16:29:13,Week 18,Sunday
+Nick Mullens,QB,"TEN 7 @ JAC 41, Final","16 PASS YD,3 RUSH ATT,-2 RUSH YD",$20,-0.0,0.44,118,2026-01-05 16:29:13,Week 18,Sunday
+Tyler Goodson,RB,"IND 30 @ HOU 38, Final","RUSH ATT,3 RUSH YD",$10,0.4,0.30,119,2026-01-05 16:29:13,Week 18,Sunday
+Jawhar JordanQ,RB,"IND 30 @ HOU 38, Final","5 RUSH ATT,3 RUSH YD",$14,6.6,0.30,120,2026-01-05 16:29:13,Week 18,Sunday
+Max Brosmer,QB,"GB 3 @ MIN 16, Final","57 PASS YD,FUM LOST",$20,1.2,0.28,121,2026-01-05 16:29:13,Week 18,Sunday
+Christian Kirk,WR,"IND 30 @ HOU 38, Final","2 TGT,REC,-3 REC YD",$10,3.7,0.20,122,2026-01-05 16:29:13,Week 18,Sunday
+Joe Flacco,QB,"CLE 20 @ CIN 18, Final","RUSH ATT,2 RUSH YD",$24,12.1,0.20,123,2026-01-05 16:29:13,Week 18,Sunday
+Josh JacobsO,RB,"GB 3 @ MIN 16, Final",,$30,14.6,0.00,124,2026-01-05 16:29:13,Week 18,Sunday
+Jordan Love,QB,"GB 3 @ MIN 16, Final",,$33,16.1,0.00,125,2026-01-05 16:29:13,Week 18,Sunday
+Christian Watson,WR,"GB 3 @ MIN 16, Final",,$25,11.5,0.00,126,2026-01-05 16:29:13,Week 18,Sunday
+Malik WillisO,QB,"GB 3 @ MIN 16, Final",,$29,12.8,0.00,127,2026-01-05 16:29:13,Week 18,Sunday
+Romeo Doubs,WR,"GB 3 @ MIN 16, Final",,$18,8.6,0.00,128,2026-01-05 16:29:13,Week 18,Sunday
+Bo MeltonQ,WR,"GB 3 @ MIN 16, Final",TGT,$10,1.8,0.00,129,2026-01-05 16:29:13,Week 18,Sunday
+Jayden Reed,WR,"GB 3 @ MIN 16, Final",,$16,6.5,0.00,130,2026-01-05 16:29:13,Week 18,Sunday
+Luke Musgrave,TE,"GB 3 @ MIN 16, Final",,$10,2.9,0.00,131,2026-01-05 16:29:13,Week 18,Sunday
+Dontayvion WicksO,WR,"GB 3 @ MIN 16, Final",,$11,4.7,0.00,132,2026-01-05 16:29:13,Week 18,Sunday
+Savion WilliamsIR,WR,"GB 3 @ MIN 16, Final",,$10,1.7,0.00,133,2026-01-05 16:29:13,Week 18,Sunday
+Aaron Jones Sr.O,RB,"GB 3 @ MIN 16, Final",,$21,8.7,0.00,134,2026-01-05 16:29:13,Week 18,Sunday
+John WolfordO,QB,"GB 3 @ MIN 16, Final",,$20,—,0.00,135,2026-01-05 16:29:13,Week 18,Sunday
+T.J. HockensonO,TE,"GB 3 @ MIN 16, Final",,$13,5.8,0.00,136,2026-01-05 16:29:13,Week 18,Sunday
+Tai Felton,WR,"GB 3 @ MIN 16, Final",,$10,0.4,0.00,137,2026-01-05 16:29:13,Week 18,Sunday
+Myles PriceO,WR,"GB 3 @ MIN 16, Final",,$10,—,0.00,138,2026-01-05 16:29:14,Week 18,Sunday
+Gavin BartholomewPUP,TE,"GB 3 @ MIN 16, Final",,$10,—,0.00,139,2026-01-05 16:29:14,Week 18,Sunday
+Brett RypienO,QB,"GB 3 @ MIN 16, Final",,$20,—,0.00,140,2026-01-05 16:29:14,Week 18,Sunday
+Van JeffersonIR,WR,"TEN 7 @ JAC 41, Final",,$11,4.0,0.00,141,2026-01-05 16:29:14,Week 18,Sunday
+Mason Kinsey,WR,"TEN 7 @ JAC 41, Final",,$10,1.0,0.00,142,2026-01-05 16:29:14,Week 18,Sunday
+Julius Chestnut,RB,"TEN 7 @ JAC 41, Final",,$10,0.3,0.00,143,2026-01-05 16:29:14,Week 18,Sunday
+Gunnar HelmO,TE,"TEN 7 @ JAC 41, Final",,$10,4.4,0.00,144,2026-01-05 16:29:14,Week 18,Sunday
+Kalel Mullings,RB,"TEN 7 @ JAC 41, Final",,$10,0.2,0.00,145,2026-01-05 16:29:14,Week 18,Sunday
+DeeJay Dallas,RB,"TEN 7 @ JAC 41, Final",,$10,0.4,0.00,146,2026-01-05 16:29:14,Week 18,Sunday
+Hunter LongO,TE,"TEN 7 @ JAC 41, Final",,$10,3.8,0.00,147,2026-01-05 16:29:14,Week 18,Sunday
+LeQuint Allen Jr.,RB,"TEN 7 @ JAC 41, Final",,$10,1.2,0.00,148,2026-01-05 16:29:14,Week 18,Sunday
+Bryce Oliver,WR,"TEN 7 @ JAC 41, Final",,$10,0.7,0.00,149,2026-01-05 16:29:14,Week 18,Sunday
+Philip RiversO,QB,"IND 30 @ HOU 38, Final",,$21,11.6,0.00,150,2026-01-05 16:29:14,Week 18,Sunday
+Laquon Treadwell,WR,"IND 30 @ HOU 38, Final",,$10,—,0.00,151,2026-01-05 16:29:14,Week 18,Sunday
+Drew OgletreeIR,TE,"IND 30 @ HOU 38, Final",,$10,1.1,0.00,152,2026-01-05 16:29:14,Week 18,Sunday
+Will MalloryO,TE,"IND 30 @ HOU 38, Final",,$10,2.1,0.00,153,2026-01-05 16:29:14,Week 18,Sunday
+Anthony GouldIR,WR,"IND 30 @ HOU 38, Final",,$10,0.2,0.00,154,2026-01-05 16:29:14,Week 18,Sunday
+Nick ChubbO,RB,"IND 30 @ HOU 38, Final",,$10,5.5,0.00,155,2026-01-05 16:29:14,Week 18,Sunday
+Braxton BerriosO,WR,"IND 30 @ HOU 38, Final",,$10,1.7,0.00,156,2026-01-05 16:29:14,Week 18,Sunday
+Harrison Bryant,TE,"IND 30 @ HOU 38, Final",,$10,0.3,0.00,157,2026-01-05 16:29:14,Week 18,Sunday
+Nico CollinsO,WR,"IND 30 @ HOU 38, Final",,$31,12.7,0.00,158,2026-01-05 16:29:14,Week 18,Sunday
+Tank DellPUP,WR,"IND 30 @ HOU 38, Final",,$11,8.2,0.00,159,2026-01-05 16:29:14,Week 18,Sunday
+Graham MertzO,QB,"IND 30 @ HOU 38, Final",,$20,—,0.00,160,2026-01-05 16:29:14,Week 18,Sunday
+Justin Watson,WR,"IND 30 @ HOU 38, Final",,$10,1.5,0.00,161,2026-01-05 16:29:14,Week 18,Sunday
+Anthony Richardson Sr.IR,QB,"IND 30 @ HOU 38, Final",,$20,0.8,0.00,162,2026-01-05 16:29:15,Week 18,Sunday
+Ashton Dulin,WR,"IND 30 @ HOU 38, Final",2 TGT,$10,1.5,0.00,163,2026-01-05 16:29:15,Week 18,Sunday
+Javonte WilliamsIR,RB,"DAL 17 @ NYG 34, Final",,$31,14.1,0.00,164,2026-01-05 16:29:15,Week 18,Sunday
+Jalen Tolbert,WR,"DAL 17 @ NYG 34, Final",TGT,$10,3.4,0.00,165,2026-01-05 16:29:15,Week 18,Sunday
+Malik DavisIR,RB,"DAL 17 @ NYG 34, Final",,$12,4.0,0.00,166,2026-01-05 16:29:15,Week 18,Sunday
+Jonathan Mingo,WR,"DAL 17 @ NYG 34, Final",TGT,$10,0.6,0.00,167,2026-01-05 16:29:15,Week 18,Sunday
+Russell WilsonO,QB,"DAL 17 @ NYG 34, Final",,$20,8.8,0.00,168,2026-01-05 16:29:15,Week 18,Sunday
+Chris Manhertz,TE,"DAL 17 @ NYG 34, Final",TGT,$10,0.4,0.00,169,2026-01-05 16:29:15,Week 18,Sunday
+Jameis Winston,QB,"DAL 17 @ NYG 34, Final",,$23,14.9,0.00,170,2026-01-05 16:29:15,Week 18,Sunday
+Isaiah Hodgins,WR,"DAL 17 @ NYG 34, Final",2 TGT,$10,3.2,0.00,171,2026-01-05 16:29:15,Week 18,Sunday
+Wan'Dale RobinsonIR,WR,"DAL 17 @ NYG 34, Final",,$28,10.7,0.00,172,2026-01-05 16:29:15,Week 18,Sunday
+Jalin HyattO,WR,"DAL 17 @ NYG 34, Final",,$10,1.0,0.00,173,2026-01-05 16:29:15,Week 18,Sunday
+Eric Gray,RB,"DAL 17 @ NYG 34, Final",,$10,—,0.00,174,2026-01-05 16:29:15,Week 18,Sunday
+Ryan MillerO,WR,"DAL 17 @ NYG 34, Final",,$10,1.2,0.00,175,2026-01-05 16:29:15,Week 18,Sunday
+Theo JohnsonO,TE,"DAL 17 @ NYG 34, Final",,$14,7.0,0.00,176,2026-01-05 16:29:15,Week 18,Sunday
+Dalen Cambre,WR,"DAL 17 @ NYG 34, Final",,$10,—,0.00,177,2026-01-05 16:29:15,Week 18,Sunday
+Beaux CollinsIR,WR,"DAL 17 @ NYG 34, Final",,$10,0.9,0.00,178,2026-01-05 16:29:15,Week 18,Sunday
+Zach Davidson,TE,"DAL 17 @ NYG 34, Final",,$10,0.5,0.00,179,2026-01-05 16:29:15,Week 18,Sunday
+Dante MillerO,RB,"DAL 17 @ NYG 34, Final",,$10,—,0.00,180,2026-01-05 16:29:15,Week 18,Sunday
+Deshaun WatsonPUP,QB,"CLE 20 @ CIN 18, Final",,$20,11.4,0.00,181,2026-01-05 16:29:15,Week 18,Sunday
+David NjokuO,TE,"CLE 20 @ CIN 18, Final",,$10,6.3,0.00,182,2026-01-05 16:29:15,Week 18,Sunday
+Blake Whiteheart,TE,"CLE 20 @ CIN 18, Final",TGT,$10,0.2,0.00,183,2026-01-05 16:29:15,Week 18,Sunday
+Jamari ThrashO,WR,"CLE 20 @ CIN 18, Final",,$10,2.0,0.00,184,2026-01-05 16:29:15,Week 18,Sunday
+Dillon Gabriel,QB,"CLE 20 @ CIN 18, Final",,$20,7.2,0.00,185,2026-01-05 16:29:15,Week 18,Sunday
+Harold Fannin Jr.O,TE,"CLE 20 @ CIN 18, Final",,$24,9.4,0.00,186,2026-01-05 16:29:15,Week 18,Sunday
+Gage Larvadain,WR,"CLE 20 @ CIN 18, Final",,$10,0.7,0.00,187,2026-01-05 16:29:15,Week 18,Sunday
+Tanner Hudson,TE,"CLE 20 @ CIN 18, Final",,$10,3.8,0.00,188,2026-01-05 16:29:16,Week 18,Sunday
+Jake BrowningO,QB,"CLE 20 @ CIN 18, Final",,$20,11.3,0.00,189,2026-01-05 16:29:16,Week 18,Sunday
+Charlie JonesO,WR,"CLE 20 @ CIN 18, Final",,$10,0.5,0.00,190,2026-01-05 16:29:16,Week 18,Sunday
+Mitch Tinsley,WR,"CLE 20 @ CIN 18, Final",,$10,3.5,0.00,191,2026-01-05 16:29:16,Week 18,Sunday
+Erick All Jr.PUP,TE,"CLE 20 @ CIN 18, Final",,$10,3.2,0.00,192,2026-01-05 16:29:16,Week 18,Sunday
+Cam GrandyO,TE,"CLE 20 @ CIN 18, Final",,$10,0.9,0.00,193,2026-01-05 16:29:16,Week 18,Sunday
+Tahj Brooks,RB,"CLE 20 @ CIN 18, Final",,$10,0.5,0.00,194,2026-01-05 16:29:16,Week 18,Sunday
+Sal Cannella,TE,"CLE 20 @ CIN 18, Final",TGT,$10,1.1,0.00,195,2026-01-05 16:29:16,Week 18,Sunday
+Bailey Zappe,QB,"CLE 20 @ CIN 18, Final",,$20,9.0,0.00,196,2026-01-05 16:29:16,Week 18,Sunday
+Alvin KamaraO,RB,"NO 17 @ ATL 19, Final",,$18,7.7,0.00,197,2026-01-05 16:29:16,Week 18,Sunday
+Jack StollIR,TE,"NO 17 @ ATL 19, Final",,$10,1.4,0.00,198,2026-01-05 16:29:16,Week 18,Sunday
+Chris OlaveO,WR,"NO 17 @ ATL 19, Final",,$41,13.7,0.00,199,2026-01-05 16:29:16,Week 18,Sunday
+Zaire Mitchell-PadenIR,TE,"NO 17 @ ATL 19, Final",,$10,0.9,0.00,200,2026-01-05 16:29:16,Week 18,Sunday
+Spencer RattlerO,QB,"NO 17 @ ATL 19, Final",,$20,11.5,0.00,201,2026-01-05 16:29:16,Week 18,Sunday
+Mason TiptonIR,WR,"NO 17 @ ATL 19, Final",,$10,1.9,0.00,202,2026-01-05 16:29:16,Week 18,Sunday
+Easton Stick,QB,"NO 17 @ ATL 19, Final",,$20,—,0.00,203,2026-01-05 16:29:16,Week 18,Sunday
+Charlie Woerner,TE,"NO 17 @ ATL 19, Final",,$10,1.3,0.00,204,2026-01-05 16:29:16,Week 18,Sunday
+Feleipe Franks,TE,"NO 17 @ ATL 19, Final",,$10,0.0,0.00,205,2026-01-05 16:29:16,Week 18,Sunday
+Teagan Quitoriano,TE,"NO 17 @ ATL 19, Final",,$10,—,0.00,206,2026-01-05 16:29:16,Week 18,Sunday
+Deven Thompkins,WR,"NO 17 @ ATL 19, Final",,$10,0.7,0.00,207,2026-01-05 16:29:16,Week 18,Sunday
+Malik HeathO,WR,"NO 17 @ ATL 19, Final",,$10,2.3,0.00,208,2026-01-05 16:29:16,Week 18,Sunday
+Dylan Drummond,WR,"NO 17 @ ATL 19, Final",,$10,1.3,0.00,209,2026-01-05 16:29:16,Week 18,Sunday
+Casey WashingtonO,WR,"NO 17 @ ATL 19, Final",,$10,2.5,0.00,210,2026-01-05 16:29:16,Week 18,Sunday
+Nathan Carter,RB,"NO 17 @ ATL 19, Final",,$10,2.0,0.00,211,2026-01-05 16:29:16,Week 18,Sunday
+Treyton Welch,TE,"NO 17 @ ATL 19, Final",,$10,—,0.00,212,2026-01-05 16:29:16,Week 18,Sunday
+Moliki Matavao,TE,"NO 17 @ ATL 19, Final",,$10,2.0,0.00,213,2026-01-05 16:29:16,Week 18,Sunday
+Trey PalmerIR,WR,"NO 17 @ ATL 19, Final",,$10,1.9,0.00,214,2026-01-05 16:29:16,Week 18,Sunday
+Indianapolis Colts,DEF,"IND 30 @ HOU 38, Final",32 PTS ALLOWED,$10,5.8,-1.00,215,2026-01-05 16:29:17,Week 18,Sunday
+Noah Fant,TE,"CLE 20 @ CIN 18, Final","TGT,REC,5 REC YD,FUM LOST",$10,4.4,-1.00,216,2026-01-05 16:29:17,Week 18,Sunday
+Tennessee Titans,DEF,"TEN 7 @ JAC 41, Final","35 PTS ALLOWED,2 SACK",$10,5.1,-2.00,217,2026-01-05 16:29:17,Week 18,Sunday
+Rhamondre Stevenson,RB,"MIA 10 @ NE 38, Final","7 RUSH ATT,131 RUSH YD,2 RUSH TD,2 TGT,2 REC,22 REC YD,REC TD",$25,11.6,34.30,1,2026-01-05 16:29:33,Week 18,Sunday
+Mitchell Trubisky,QB,"NYJ 8 @ BUF 35, Final","259 PASS YD,4 PASS TD,5 RUSH ATT,5 RUSH YD,2PT",$25,7.8,28.86,2,2026-01-05 16:29:33,Week 18,Sunday
+Matthew Stafford,QB,"ARI 20 @ LA 37, Final","259 PASS YD,4 PASS TD,RUSH ATT,3 RUSH YD",$41,21.1,26.66,3,2026-01-05 16:29:33,Week 18,Sunday
+Ray Davis,RB,"NYJ 8 @ BUF 35, Final","21 RUSH ATT,151 RUSH YD,2 TGT,2 REC,23 REC YD,REC TD",$10,3.5,24.40,4,2026-01-05 16:29:33,Week 18,Sunday
+Puka Nacua,WR,"ARI 20 @ LA 37, Final","2 RUSH ATT,24 RUSH YD,11 TGT,10 REC,76 REC YD,REC TD",$45,19.4,21.00,5,2026-01-05 16:29:33,Week 18,Sunday
+Denver Broncos,DEF,"LAC 3 @ DEN 19, Final","3 PTS ALLOWED,4 SACK,INT,FUM REC,TD",$16,8.4,21.00,6,2026-01-05 16:29:33,Week 18,Sunday
+Colston Loveland,TE,"DET 19 @ CHI 16, Final","13 TGT,10 REC,91 REC YD,REC TD",$19,8.5,20.10,7,2026-01-05 16:29:33,Week 18,Sunday
+Amon-Ra St. Brown,WR,"DET 19 @ CHI 16, Final","15 TGT,11 REC,139 REC YD",$37,15.6,19.40,8,2026-01-05 16:29:33,Week 18,Sunday
+Jahmyr Gibbs,RB,"DET 19 @ CHI 16, Final","19 RUSH ATT,80 RUSH YD,5 TGT,3 REC,33 REC YD,REC TD",$41,19.3,18.80,9,2026-01-05 16:29:33,Week 18,Sunday
+Ty Johnson,RB,"NYJ 8 @ BUF 35, Final","13 RUSH ATT,36 RUSH YD,RUSH TD,2 TGT,2 REC,20 REC YD,REC TD",$13,5.2,18.60,10,2026-01-05 16:29:33,Week 18,Sunday
+Michael Wilson,WR,"ARI 20 @ LA 37, Final","8 TGT,5 REC,99 REC YD,REC TD",$32,10.7,18.40,11,2026-01-05 16:29:33,Week 18,Sunday
+Las Vegas Raiders,DEF,"KC 12 @ LV 14, Final","12 PTS ALLOWED,8 SACK,SAFETY,2 FUM REC",$10,4.4,18.00,12,2026-01-05 16:29:33,Week 18,Sunday
+Colby Parkinson,TE,"ARI 20 @ LA 37, Final","7 TGT,4 REC,36 REC YD,2 REC TD",$15,7.7,17.60,13,2026-01-05 16:29:33,Week 18,Sunday
+Tyler Higbee,TE,"ARI 20 @ LA 37, Final","6 TGT,5 REC,91 REC YD,REC TD",$12,6.5,17.60,14,2026-01-05 16:29:33,Week 18,Sunday
+Caleb Williams,QB,"DET 19 @ CHI 16, Final","212 PASS YD,2 PASS TD,INT,RUSH ATT,RUSH YD,2PT",$37,19.1,17.58,15,2026-01-05 16:29:34,Week 18,Sunday
+TreVeyon Henderson,RB,"MIA 10 @ NE 38, Final","13 RUSH ATT,53 RUSH YD,2 RUSH TD",$28,11.1,17.30,16,2026-01-05 16:29:34,Week 18,Sunday
+Tank Bigsby,RB,"WAS 24 @ PHI 17, Final","16 RUSH ATT,75 RUSH YD,RUSH TD,TGT,REC,31 REC YD",$10,3.5,17.10,17,2026-01-05 16:29:34,Week 18,Sunday
+Josh Johnson,QB,"WAS 24 @ PHI 17, Final","131 PASS YD,PASS TD,INT,9 RUSH ATT,45 RUSH YD,RUSH TD,FUM LOST",$20,8.8,16.74,18,2026-01-05 16:29:34,Week 18,Sunday
+Jacoby Brissett,QB,"ARI 20 @ LA 37, Final","243 PASS YD,2 PASS TD,INT,3 RUSH ATT,19 RUSH YD,FUM LOST",$35,16.8,16.62,19,2026-01-05 16:29:34,Week 18,Sunday
+Jared Goff,QB,"DET 19 @ CHI 16, Final","331 PASS YD,PASS TD,INT",$35,17.9,16.24,20,2026-01-05 16:29:34,Week 18,Sunday
+Drake Maye,QB,"MIA 10 @ NE 38, Final","191 PASS YD,PASS TD,5 RUSH ATT,41 RUSH YD",$44,21.1,15.74,21,2026-01-05 16:29:34,Week 18,Sunday
+Chris Rodriguez Jr.,RB,"WAS 24 @ PHI 17, Final","16 RUSH ATT,65 RUSH YD,RUSH TD,TGT,REC,18 REC YD",$18,7.5,14.80,22,2026-01-05 16:29:34,Week 18,Sunday
+Tanner McKee,QB,"WAS 24 @ PHI 17, Final","241 PASS YD,PASS TD,INT,2 RUSH ATT,3 RUSH YD",$20,3.7,12.94,23,2026-01-05 16:29:34,Week 18,Sunday
+Gabe Davis,WR,"NYJ 8 @ BUF 35, Final","7 TGT,5 REC,41 REC YD,REC TD",$10,4.1,12.60,24,2026-01-05 16:29:34,Week 18,Sunday
+New England Patriots,DEF,"MIA 10 @ NE 38, Final","10 PTS ALLOWED,4 SACK,INT,FUM REC",$17,7.5,12.00,25,2026-01-05 16:29:34,Week 18,Sunday
+Los Angeles Rams,DEF,"ARI 20 @ LA 37, Final","20 PTS ALLOWED,6 SACK,INT,FUM REC",$14,8.0,11.00,26,2026-01-05 16:29:34,Week 18,Sunday
+Kansas City Chiefs,DEF,"KC 12 @ LV 14, Final","12 PTS ALLOWED,3 SACK,INT,FUM REC",$13,5.4,11.00,27,2026-01-05 16:29:34,Week 18,Sunday
+Ashton Jeanty,RB,"KC 12 @ LV 14, Final","26 RUSH ATT,87 RUSH YD,5 TGT,3 REC,7 REC YD",$32,12.8,10.90,28,2026-01-05 16:29:34,Week 18,Sunday
+Jahdae Walker,WR,"DET 19 @ CHI 16, Final","3 TGT,2 REC,36 REC YD,REC TD",$10,3.9,10.60,29,2026-01-05 16:29:34,Week 18,Sunday
+Bo Nix,QB,"LAC 3 @ DEN 19, Final","141 PASS YD,8 RUSH ATT,49 RUSH YD",$38,18.6,10.54,30,2026-01-05 16:29:34,Week 18,Sunday
+Jameson Williams,WR,"DET 19 @ CHI 16, Final","8 TGT,6 REC,74 REC YD",$30,11.0,10.40,31,2026-01-05 16:29:34,Week 18,Sunday
+Malik WashingtonQ,WR,"MIA 10 @ NE 38, Final","2 RUSH ATT,22 RUSH YD,4 TGT,3 REC,6 REC YD,REC TD",$13,5.5,10.30,32,2026-01-05 16:29:34,Week 18,Sunday
+Trey McBride,TE,"ARI 20 @ LA 37, Final","8 TGT,7 REC,65 REC YD",$31,14.9,10.00,33,2026-01-05 16:29:34,Week 18,Sunday
+Kyren Williams,RB,"ARI 20 @ LA 37, Final","12 RUSH ATT,60 RUSH YD,5 TGT,3 REC,21 REC YD",$35,14.4,9.60,34,2026-01-05 16:29:34,Week 18,Sunday
+Dawson Knox,TE,"NYJ 8 @ BUF 35, Final","2 TGT,2 REC,24 REC YD,REC TD",$12,5.4,9.40,35,2026-01-05 16:29:34,Week 18,Sunday
+Quinn EwersQ,QB,"MIA 10 @ NE 38, Final","137 PASS YD,PASS TD,INT,RUSH ATT,9 RUSH YD",$22,8.9,9.38,36,2026-01-05 16:29:34,Week 18,Sunday
+Trey Lance,QB,"LAC 3 @ DEN 19, Final","136 PASS YD,INT,9 RUSH ATT,69 RUSH YD,FUM LOST",$20,3.6,9.34,37,2026-01-05 16:29:34,Week 18,Sunday
+Grant CalcaterraQ,TE,"WAS 24 @ PHI 17, Final","3 TGT,2 REC,21 REC YD,REC TD",$10,2.0,9.10,38,2026-01-05 16:29:34,Week 18,Sunday
+Brady Cook,QB,"NYJ 8 @ BUF 35, Final","60 PASS YD,PASS TD,3 RUSH ATT,7 RUSH YD,2PT",$20,7.1,9.10,39,2026-01-05 16:29:34,Week 18,Sunday
+Josiah Deguara,TE,"ARI 20 @ LA 37, Final","2 TGT,2 REC,15 REC YD,REC TD",$10,1.6,8.50,40,2026-01-05 16:29:35,Week 18,Sunday
+John Bates,TE,"WAS 24 @ PHI 17, Final","2 TGT,2 REC,13 REC YD,REC TD",$10,2.2,8.30,41,2026-01-05 16:29:35,Week 18,Sunday
+Hunter Henry,TE,"MIA 10 @ NE 38, Final","5 TGT,5 REC,56 REC YD",$20,8.8,8.10,42,2026-01-05 16:29:35,Week 18,Sunday
+Los Angeles Chargers,DEF,"LAC 3 @ DEN 19, Final","13 PTS ALLOWED,4 SACK",$15,6.5,8.00,43,2026-01-05 16:29:35,Week 18,Sunday
+Keon Coleman,WR,"NYJ 8 @ BUF 35, Final","4 TGT,2 REC,49 REC YD,2PT",$12,6.4,7.90,44,2026-01-05 16:29:35,Week 18,Sunday
+Hollywood Brown,WR,"KC 12 @ LV 14, Final","6 TGT,3 REC,64 REC YD",$13,7.1,7.90,45,2026-01-05 16:29:35,Week 18,Sunday
+Terry McLaurin,WR,"WAS 24 @ PHI 17, Final","4 TGT,4 REC,57 REC YD",$25,9.5,7.70,46,2026-01-05 16:29:35,Week 18,Sunday
+Blake Corum,RB,"ARI 20 @ LA 37, Final","13 RUSH ATT,59 RUSH YD,TGT,REC,10 REC YD",$23,7.0,7.40,47,2026-01-05 16:29:35,Week 18,Sunday
+Keenan Allen,WR,"LAC 3 @ DEN 19, Final","13 TGT,7 REC,36 REC YD",$13,8.4,7.10,48,2026-01-05 16:29:35,Week 18,Sunday
+Brashard Smith,RB,"KC 12 @ LV 14, Final","12 RUSH ATT,56 RUSH YD,4 TGT,2 REC,2 REC YD",$10,3.0,6.80,49,2026-01-05 16:29:35,Week 18,Sunday
+Kalif Raymond,WR,"DET 19 @ CHI 16, Final","3 TGT,3 REC,52 REC YD",$10,3.9,6.70,50,2026-01-05 16:29:35,Week 18,Sunday
+DeVonta Smith,WR,"WAS 24 @ PHI 17, Final","4 TGT,3 REC,52 REC YD",$23,9.6,6.70,51,2026-01-05 16:29:35,Week 18,Sunday
+Andrew Beck,RB,"NYJ 8 @ BUF 35, Final","2 TGT,REC,2 REC YD,REC TD",$10,1.8,6.70,52,2026-01-05 16:29:35,Week 18,Sunday
+Dalton Kincaid,TE,"NYJ 8 @ BUF 35, Final","3 TGT,3 REC,48 REC YD",$14,8.9,6.30,53,2026-01-05 16:29:35,Week 18,Sunday
+Jaleel McLaughlin,RB,"LAC 3 @ DEN 19, Final","6 RUSH ATT,41 RUSH YD,2 TGT,REC,17 REC YD",$10,3.7,6.30,54,2026-01-05 16:29:35,Week 18,Sunday
+Emari Demercado,RB,"ARI 20 @ LA 37, Final","2 RUSH ATT,29 RUSH YD,TGT,REC,28 REC YD",$13,4.3,6.20,55,2026-01-05 16:29:35,Week 18,Sunday
+Michael Mayer,TE,"KC 12 @ LV 14, Final","5 TGT,3 REC,47 REC YD",$13,4.3,6.20,56,2026-01-05 16:29:35,Week 18,Sunday
+David Montgomery,RB,"DET 19 @ CHI 16, Final","8 RUSH ATT,42 RUSH YD,TGT,REC,13 REC YD",$19,9.1,6.00,57,2026-01-05 16:29:35,Week 18,Sunday
+Luther Burden III,WR,"DET 19 @ CHI 16, Final","RUSH ATT,10 RUSH YD,4 TGT,3 REC,35 REC YD",$21,7.0,6.00,58,2026-01-05 16:29:35,Week 18,Sunday
+Chicago Bears,DEF,"DET 19 @ CHI 16, Final","19 PTS ALLOWED,3 SACK,INT",$13,6.8,6.00,59,2026-01-05 16:29:35,Week 18,Sunday
+Washington Commanders,DEF,"WAS 24 @ PHI 17, Final","17 PTS ALLOWED,3 SACK,INT",$10,4.5,6.00,60,2026-01-05 16:29:35,Week 18,Sunday
+Evan Engram,TE,"LAC 3 @ DEN 19, Final","4 TGT,3 REC,45 REC YD",$10,4.9,6.00,61,2026-01-05 16:29:35,Week 18,Sunday
+Theo Wease Jr.Q,WR,"MIA 10 @ NE 38, Final","5 TGT,3 REC,44 REC YD",$14,7.6,5.90,62,2026-01-05 16:29:35,Week 18,Sunday
+Stefon Diggs,WR,"MIA 10 @ NE 38, Final","3 TGT,3 REC,43 REC YD",$27,9.9,5.80,63,2026-01-05 16:29:35,Week 18,Sunday
+Jahan Dotson,WR,"WAS 24 @ PHI 17, Final","8 TGT,3 REC,40 REC YD",$10,2.7,5.50,64,2026-01-05 16:29:35,Week 18,Sunday
+Michael Carter,RB,"ARI 20 @ LA 37, Final","7 RUSH ATT,18 RUSH YD,3 TGT,3 REC,21 REC YD",$17,6.3,5.40,65,2026-01-05 16:29:36,Week 18,Sunday
+Kyle Monangai,RB,"DET 19 @ CHI 16, Final","6 RUSH ATT,14 RUSH YD,TGT,REC,15 REC YD,2PT",$19,8.1,5.40,66,2026-01-05 16:29:36,Week 18,Sunday
+D'Andre Swift,RB,"DET 19 @ CHI 16, Final","10 RUSH ATT,40 RUSH YD,2 TGT,REC,8 REC YD",$33,13.2,5.30,67,2026-01-05 16:29:36,Week 18,Sunday
+Jaret Patterson,RB,"LAC 3 @ DEN 19, Final","8 RUSH ATT,29 RUSH YD,4 TGT,3 REC,8 REC YD",$10,4.0,5.20,68,2026-01-05 16:29:36,Week 18,Sunday
+Khalil Herbert,RB,"NYJ 8 @ BUF 35, Final","12 RUSH ATT,42 RUSH YD,2 TGT,REC,4 REC YD",$10,1.2,5.10,69,2026-01-05 16:29:36,Week 18,Sunday
+Pat Bryant,WR,"LAC 3 @ DEN 19, Final","5 TGT,4 REC,31 REC YD",$15,4.9,5.10,70,2026-01-05 16:29:36,Week 18,Sunday
+Kylen Granson,TE,"WAS 24 @ PHI 17, Final","5 TGT,4 REC,30 REC YD",$10,0.6,5.00,71,2026-01-05 16:29:36,Week 18,Sunday
+Buffalo Bills,DEF,"NYJ 8 @ BUF 35, Final","8 PTS ALLOWED,SACK",$16,6.5,5.00,72,2026-01-05 16:29:36,Week 18,Sunday
+Kareem Hunt,RB,"KC 12 @ LV 14, Final","5 RUSH ATT,14 RUSH YD,4 TGT,3 REC,21 REC YD",$15,8.0,5.00,73,2026-01-05 16:29:36,Week 18,Sunday
+Isaiah Williams,WR,"NYJ 8 @ BUF 35, Final","7 TGT,5 REC,24 REC YD",$12,3.4,4.90,74,2026-01-05 16:29:36,Week 18,Sunday
+Darius Cooper,WR,"WAS 24 @ PHI 17, Final","5 TGT,3 REC,33 REC YD",$10,2.3,4.80,75,2026-01-05 16:29:36,Week 18,Sunday
+Aidan O'Connell,QB,"KC 12 @ LV 14, Final","102 PASS YD,RUSH ATT,7 RUSH YD",$20,4.8,4.78,76,2026-01-05 16:29:36,Week 18,Sunday
+Greg Dulcich,TE,"MIA 10 @ NE 38, Final","4 TGT,3 REC,31 REC YD",$10,5.5,4.60,77,2026-01-05 16:29:36,Week 18,Sunday
+Cole Kmet,TE,"DET 19 @ CHI 16, Final","3 TGT,2 REC,16 REC YD,2PT",$10,4.0,4.60,78,2026-01-05 16:29:36,Week 18,Sunday
+Keleki Latu,TE,"NYJ 8 @ BUF 35, Final","3 TGT,3 REC,31 REC YD",$10,1.8,4.60,79,2026-01-05 16:29:36,Week 18,Sunday
+Noah Gray,TE,"KC 12 @ LV 14, Final","5 TGT,3 REC,30 REC YD",$10,2.2,4.50,80,2026-01-05 16:29:36,Week 18,Sunday
+Tre Tucker,WR,"KC 12 @ LV 14, Final","RUSH ATT,4 RUSH YD,6 TGT,2 REC,30 REC YD",$14,7.8,4.40,81,2026-01-05 16:29:36,Week 18,Sunday
+Elijah Higgins,TE,"ARI 20 @ LA 37, Final","3 TGT,3 REC,28 REC YD",$10,2.7,4.30,82,2026-01-05 16:29:36,Week 18,Sunday
+Efton Chism III,WR,"MIA 10 @ NE 38, Final","TGT,REC,35 REC YD",$10,1.9,4.00,83,2026-01-05 16:29:36,Week 18,Sunday
+Detroit Lions,DEF,"DET 19 @ CHI 16, Final","16 PTS ALLOWED,SACK,INT",$11,5.7,4.00,84,2026-01-05 16:29:36,Week 18,Sunday
+Philadelphia Eagles,DEF,"WAS 24 @ PHI 17, Final","24 PTS ALLOWED,INT,FUM REC",$18,7.9,4.00,85,2026-01-05 16:29:36,Week 18,Sunday
+Shane Buechele,QB,"KC 12 @ LV 14, Final","88 PASS YD,RUSH ATT,4 RUSH YD",$20,3.9,3.92,86,2026-01-05 16:29:36,Week 18,Sunday
+DeMario Douglas,WR,"MIA 10 @ NE 38, Final","3 TGT,2 REC,29 REC YD",$10,5.0,3.90,87,2026-01-05 16:29:36,Week 18,Sunday
+Corey Kiner,RB,"ARI 20 @ LA 37, Final","3 RUSH ATT,13 RUSH YD,3 TGT,2 REC,15 REC YD",$10,2.1,3.80,88,2026-01-05 16:29:36,Week 18,Sunday
+Tre' Harris,WR,"LAC 3 @ DEN 19, Final","6 TGT,2 REC,28 REC YD",$10,3.4,3.80,89,2026-01-05 16:29:36,Week 18,Sunday
+RJ Harvey,RB,"LAC 3 @ DEN 19, Final","15 RUSH ATT,28 RUSH YD,4 TGT,REC,5 REC YD",$35,10.8,3.80,90,2026-01-05 16:29:36,Week 18,Sunday
+Tahj Washington,WR,"MIA 10 @ NE 38, Final","3 TGT,2 REC,26 REC YD",$10,1.6,3.60,91,2026-01-05 16:29:37,Week 18,Sunday
+Tyler Badie,RB,"LAC 3 @ DEN 19, Final","2 RUSH ATT,-2 RUSH YD,2 TGT,2 REC,28 REC YD",$10,1.6,3.60,92,2026-01-05 16:29:37,Week 18,Sunday
+John Metchie III,WR,"NYJ 8 @ BUF 35, Final","4 TGT,3 REC,20 REC YD",$14,4.3,3.50,93,2026-01-05 16:29:37,Week 18,Sunday
+Kayshon Boutte,WR,"MIA 10 @ NE 38, Final","4 TGT,2 REC,24 REC YD",$17,7.7,3.40,94,2026-01-05 16:29:37,Week 18,Sunday
+KeAndre Lambert-SmithQ,WR,"LAC 3 @ DEN 19, Final","5 TGT,2 REC,24 REC YD",$10,1.5,3.40,95,2026-01-05 16:29:37,Week 18,Sunday
+Oronde Gadsden,TE,"LAC 3 @ DEN 19, Final","2 TGT,2 REC,23 REC YD",$15,7.1,3.30,96,2026-01-05 16:29:37,Week 18,Sunday
+Deebo Samuel,WR,"WAS 24 @ PHI 17, Final","2 RUSH ATT,RUSH YD,5 TGT,2 REC,20 REC YD",$24,9.5,3.10,97,2026-01-05 16:29:37,Week 18,Sunday
+Reggie Gilliam,RB,"NYJ 8 @ BUF 35, Final","2 RUSH ATT,4 RUSH YD,TGT,REC,22 REC YD",$10,0.3,3.10,98,2026-01-05 16:29:37,Week 18,Sunday
+Jaylen Wright,RB,"MIA 10 @ NE 38, Final","13 RUSH ATT,23 RUSH YD,2 TGT,2 REC,17 REC YD,FUM LOST",$12,4.6,3.00,99,2026-01-05 16:29:37,Week 18,Sunday
+Britain Covey,WR,"WAS 24 @ PHI 17, Final","4 TGT,2 REC,20 REC YD",$10,0.5,3.00,100,2026-01-05 16:29:37,Week 18,Sunday
+Jacory Croskey-Merritt,RB,"WAS 24 @ PHI 17, Final","13 RUSH ATT,29 RUSH YD",$18,8.0,2.90,101,2026-01-05 16:29:37,Week 18,Sunday
+Travis Kelce,TE,"KC 12 @ LV 14, Final","6 TGT,3 REC,12 REC YD",$17,9.1,2.70,102,2026-01-05 16:29:37,Week 18,Sunday
+Tutu Atwell,WR,"ARI 20 @ LA 37, Final","3 TGT,REC,19 REC YD",$10,3.1,2.40,103,2026-01-05 16:29:37,Week 18,Sunday
+Isaac TeSlaa,WR,"DET 19 @ CHI 16, Final","TGT,REC,18 REC YD",$14,4.9,2.30,104,2026-01-05 16:29:37,Week 18,Sunday
+Will Shipley,RB,"WAS 24 @ PHI 17, Final","RUSH ATT,2 RUSH YD,3 TGT,2 REC,11 REC YD",$10,0.9,2.30,105,2026-01-05 16:29:37,Week 18,Sunday
+JuJu Smith-Schuster,WR,"KC 12 @ LV 14, Final","2 TGT,2 REC,13 REC YD",$10,3.6,2.30,106,2026-01-05 16:29:37,Week 18,Sunday
+Treylon Burks,WR,"WAS 24 @ PHI 17, Final","4 TGT,2 REC,12 REC YD",$10,3.0,2.20,107,2026-01-05 16:29:37,Week 18,Sunday
+Jelani WoodsO,TE,"NYJ 8 @ BUF 35, Final",2PT,$10,1.0,2.00,108,2026-01-05 16:29:37,Week 18,Sunday
+Marvin Mims Jr.,WR,"LAC 3 @ DEN 19, Final","3 TGT,2 REC,10 REC YD",$10,4.7,2.00,109,2026-01-05 16:29:37,Week 18,Sunday
+Shedrick Jackson,WR,"KC 12 @ LV 14, Final","RUSH ATT,3 RUSH YD,TGT,REC,11 REC YD",$10,4.6,1.90,110,2026-01-05 16:29:37,Week 18,Sunday
+Kene Nwangwu,RB,"NYJ 8 @ BUF 35, Final","7 RUSH ATT,18 RUSH YD,TGT",$10,1.1,1.80,111,2026-01-05 16:29:37,Week 18,Sunday
+Ollie Gordon II,RB,"MIA 10 @ NE 38, Final","9 RUSH ATT,9 RUSH YD,TGT,REC,2 REC YD",$10,3.0,1.60,112,2026-01-05 16:29:37,Week 18,Sunday
+DJ Moore,WR,"DET 19 @ CHI 16, Final","3 TGT,REC,11 REC YD",$22,8.5,1.60,113,2026-01-05 16:29:37,Week 18,Sunday
+Jeremy McNichols,RB,"WAS 24 @ PHI 17, Final","RUSH ATT,3 RUSH YD,TGT,REC,8 REC YD",$10,3.8,1.60,114,2026-01-05 16:29:37,Week 18,Sunday
+James Cook III,RB,"NYJ 8 @ BUF 35, Final","2 RUSH ATT,15 RUSH YD",$39,16.8,1.50,115,2026-01-05 16:29:37,Week 18,Sunday
+Quentin Skinner,WR,"NYJ 8 @ BUF 35, Final","TGT,REC,10 REC YD",$10,1.5,1.50,116,2026-01-05 16:29:38,Week 18,Sunday
+Zamir White,RB,"KC 12 @ LV 14, Final","RUSH ATT,5 RUSH YD,TGT,REC,5 REC YD",$10,1.5,1.50,117,2026-01-05 16:29:38,Week 18,Sunday
+Kimani Vidal,RB,"LAC 3 @ DEN 19, Final","3 RUSH ATT,12 RUSH YD,TGT,REC,-2 REC YD",$17,8.5,1.50,118,2026-01-05 16:29:38,Week 18,Sunday
+Jalen Royals,WR,"KC 12 @ LV 14, Final","3 TGT,2 REC,4 REC YD",$10,0.7,1.40,119,2026-01-05 16:29:38,Week 18,Sunday
+Julian Hill,TE,"MIA 10 @ NE 38, Final","TGT,REC,8 REC YD",$10,2.0,1.30,120,2026-01-05 16:29:38,Week 18,Sunday
+D'Ernest Johnson,RB,"MIA 10 @ NE 38, Final","5 RUSH ATT,13 RUSH YD",$10,0.5,1.30,121,2026-01-05 16:29:38,Week 18,Sunday
+Ben Sinnott,TE,"WAS 24 @ PHI 17, Final","2 TGT,2 REC,3 REC YD",$10,2.9,1.30,122,2026-01-05 16:29:38,Week 18,Sunday
+Anthony Firkser,TE,"DET 19 @ CHI 16, Final","3 TGT,2 REC,2 REC YD",$10,1.9,1.20,123,2026-01-05 16:29:38,Week 18,Sunday
+Derius Davis,WR,"LAC 3 @ DEN 19, Final","TGT,REC,7 REC YD",$10,0.0,1.20,124,2026-01-05 16:29:38,Week 18,Sunday
+Xavier Smith,WR,"ARI 20 @ LA 37, Final","2 TGT,REC,6 REC YD",$10,2.5,1.10,125,2026-01-05 16:29:38,Week 18,Sunday
+Will Dissly,TE,"LAC 3 @ DEN 19, Final","5 TGT,REC,6 REC YD",$10,1.9,1.10,126,2026-01-05 16:29:38,Week 18,Sunday
+Tyler Conklin,TE,"LAC 3 @ DEN 19, Final","TGT,REC,6 REC YD",$10,2.3,1.10,127,2026-01-05 16:29:38,Week 18,Sunday
+Austin Hooper,TE,"MIA 10 @ NE 38, Final","TGT,REC,5 REC YD",$10,3.8,1.00,128,2026-01-05 16:29:38,Week 18,Sunday
+Tyler Lockett,WR,"KC 12 @ LV 14, Final","5 TGT,REC,5 REC YD",$12,3.0,1.00,129,2026-01-05 16:29:38,Week 18,Sunday
+Dameon Pierce,RB,"KC 12 @ LV 14, Final","4 RUSH ATT,10 RUSH YD",$10,0.7,1.00,130,2026-01-05 16:29:38,Week 18,Sunday
+Courtland Sutton,WR,"LAC 3 @ DEN 19, Final","2 TGT,REC,5 REC YD",$26,10.7,1.00,131,2026-01-05 16:29:38,Week 18,Sunday
+Joshua Dobbs,QB,"MIA 10 @ NE 38, Final","23 PASS YD,3 RUSH ATT",$20,0.5,0.92,132,2026-01-05 16:29:38,Week 18,Sunday
+Alec Ingold,RB,"MIA 10 @ NE 38, Final","2 TGT,REC,3 REC YD",$10,1.1,0.80,133,2026-01-05 16:29:38,Week 18,Sunday
+A.J. Dillon,RB,"WAS 24 @ PHI 17, Final","TGT,REC,3 REC YD",$10,1.3,0.80,134,2026-01-05 16:29:38,Week 18,Sunday
+Joshua Palmer,WR,"NYJ 8 @ BUF 35, Final","3 TGT,REC,REC YD",$10,3.4,0.60,135,2026-01-05 16:29:38,Week 18,Sunday
+Jack Westover,RB,"MIA 10 @ NE 38, Final","TGT,REC",$10,0.1,0.50,136,2026-01-05 16:29:38,Week 18,Sunday
+Kyle Williams,WR,"MIA 10 @ NE 38, Final","RUSH ATT,5 RUSH YD",$10,3.2,0.50,137,2026-01-05 16:29:38,Week 18,Sunday
+Jackson Hawes,TE,"NYJ 8 @ BUF 35, Final","TGT,REC",$10,3.4,0.50,138,2026-01-05 16:29:38,Week 18,Sunday
+Hassan Haskins,RB,"LAC 3 @ DEN 19, Final","RUSH ATT,3 RUSH YD",$10,0.6,0.30,139,2026-01-05 16:29:38,Week 18,Sunday
+Arian Smith,WR,"NYJ 8 @ BUF 35, Final","RUSH ATT,2 RUSH YD,2 TGT",$10,0.8,0.20,140,2026-01-05 16:29:38,Week 18,Sunday
+Kenny Pickett,QB,"KC 12 @ LV 14, Final","3 PASS YD,INT,RUSH ATT,9 RUSH YD",$20,1.6,0.02,141,2026-01-05 16:29:38,Week 18,Sunday
+Darren WallerIR,TE,"MIA 10 @ NE 38, Final",,$15,9.6,0.00,142,2026-01-05 16:29:39,Week 18,Sunday
+Cedrick Wilson Jr.,WR,"MIA 10 @ NE 38, Final",2 TGT,$10,1.2,0.00,143,2026-01-05 16:29:39,Week 18,Sunday
+Tua TagovailoaO,QB,"MIA 10 @ NE 38, Final",,$23,12.5,0.00,144,2026-01-05 16:29:39,Week 18,Sunday
+Nick Westbrook-Ikhine,WR,"MIA 10 @ NE 38, Final",,$10,1.2,0.00,145,2026-01-05 16:29:39,Week 18,Sunday
+Zach Wilson,QB,"MIA 10 @ NE 38, Final",,$20,0.3,0.00,146,2026-01-05 16:29:39,Week 18,Sunday
+Jaylen WaddleO,WR,"MIA 10 @ NE 38, Final",,$23,10.1,0.00,147,2026-01-05 16:29:39,Week 18,Sunday
+Dee EskridgeIR,WR,"MIA 10 @ NE 38, Final",,$10,0.6,0.00,148,2026-01-05 16:29:39,Week 18,Sunday
+De'Von AchaneO,RB,"MIA 10 @ NE 38, Final",,$42,18.1,0.00,149,2026-01-05 16:29:39,Week 18,Sunday
+Mack HollinsIR,WR,"MIA 10 @ NE 38, Final",,$10,6.5,0.00,150,2026-01-05 16:29:39,Week 18,Sunday
+Tommy DeVitoO,QB,"MIA 10 @ NE 38, Final",,$20,6.7,0.00,151,2026-01-05 16:29:39,Week 18,Sunday
+CJ Dippre,TE,"MIA 10 @ NE 38, Final",,$10,—,0.00,152,2026-01-05 16:29:39,Week 18,Sunday
+Pharaoh Brown,TE,"ARI 20 @ LA 37, Final",,$10,0.4,0.00,153,2026-01-05 16:29:39,Week 18,Sunday
+Jalen Brooks,WR,"ARI 20 @ LA 37, Final",,$10,0.9,0.00,154,2026-01-05 16:29:39,Week 18,Sunday
+Marvin Harrison Jr.IR,WR,"ARI 20 @ LA 37, Final",,$23,8.9,0.00,155,2026-01-05 16:29:39,Week 18,Sunday
+Xavier Weaver,WR,"ARI 20 @ LA 37, Final",,$10,1.5,0.00,156,2026-01-05 16:29:39,Week 18,Sunday
+Kedon Slovis,QB,"ARI 20 @ LA 37, Final",,$20,-0.0,0.00,157,2026-01-05 16:29:39,Week 18,Sunday
+Davante AdamsO,WR,"ARI 20 @ LA 37, Final",,$31,13.8,0.00,158,2026-01-05 16:29:39,Week 18,Sunday
+Nick Vannett,TE,"ARI 20 @ LA 37, Final",,$10,3.1,0.00,159,2026-01-05 16:29:39,Week 18,Sunday
+Ronnie Rivers,RB,"ARI 20 @ LA 37, Final",,$10,0.8,0.00,160,2026-01-05 16:29:39,Week 18,Sunday
+Stetson Bennett IVO,QB,"ARI 20 @ LA 37, Final",,$20,—,0.00,161,2026-01-05 16:29:39,Week 18,Sunday
+Davis Allen,TE,"ARI 20 @ LA 37, Final",TGT,$10,3.2,0.00,162,2026-01-05 16:29:39,Week 18,Sunday
+Jordan WhittingtonQ,WR,"ARI 20 @ LA 37, Final",,$10,1.8,0.00,163,2026-01-05 16:29:39,Week 18,Sunday
+Terrance FergusonO,TE,"ARI 20 @ LA 37, Final",,$10,3.9,0.00,164,2026-01-05 16:29:39,Week 18,Sunday
+Jarquez HunterO,RB,"ARI 20 @ LA 37, Final",,$10,—,0.00,165,2026-01-05 16:29:39,Week 18,Sunday
+Konata Mumpfield,WR,"ARI 20 @ LA 37, Final",TGT,$10,1.7,0.00,166,2026-01-05 16:29:39,Week 18,Sunday
+Steven Sims,WR,"ARI 20 @ LA 37, Final",,$10,—,0.00,167,2026-01-05 16:29:40,Week 18,Sunday
+Greg DortchIR,WR,"ARI 20 @ LA 37, Final",,$10,5.1,0.00,168,2026-01-05 16:29:40,Week 18,Sunday
+Simi FehokoIR,WR,"ARI 20 @ LA 37, Final",,$10,—,0.00,169,2026-01-05 16:29:40,Week 18,Sunday
+Kyle Allen,QB,"DET 19 @ CHI 16, Final",,$20,-0.1,0.00,170,2026-01-05 16:29:40,Week 18,Sunday
+Tom KennedyQ,WR,"DET 19 @ CHI 16, Final",,$10,0.9,0.00,171,2026-01-05 16:29:40,Week 18,Sunday
+Shane Zylstra,TE,"DET 19 @ CHI 16, Final",,$10,3.5,0.00,172,2026-01-05 16:29:40,Week 18,Sunday
+Jacob Saylors,RB,"DET 19 @ CHI 16, Final",,$10,0.1,0.00,173,2026-01-05 16:29:40,Week 18,Sunday
+Sione Vaki,RB,"DET 19 @ CHI 16, Final",,$10,0.1,0.00,174,2026-01-05 16:29:40,Week 18,Sunday
+Dominic LovettO,WR,"DET 19 @ CHI 16, Final",,$10,—,0.00,175,2026-01-05 16:29:40,Week 18,Sunday
+Case KeenumO,QB,"DET 19 @ CHI 16, Final",,$20,—,0.00,176,2026-01-05 16:29:40,Week 18,Sunday
+Durham Smythe,TE,"DET 19 @ CHI 16, Final",,$10,0.9,0.00,177,2026-01-05 16:29:40,Week 18,Sunday
+Travis Homer,RB,"DET 19 @ CHI 16, Final",,$10,-0.0,0.00,178,2026-01-05 16:29:40,Week 18,Sunday
+Olamide Zaccheaus,WR,"DET 19 @ CHI 16, Final",,$10,4.7,0.00,179,2026-01-05 16:29:40,Week 18,Sunday
+Devin Duvernay,WR,"DET 19 @ CHI 16, Final",,$10,0.2,0.00,180,2026-01-05 16:29:40,Week 18,Sunday
+Tyson Bagent,QB,"DET 19 @ CHI 16, Final",,$20,1.3,0.00,181,2026-01-05 16:29:40,Week 18,Sunday
+Rome OdunzeO,WR,"DET 19 @ CHI 16, Final",,$20,10.3,0.00,182,2026-01-05 16:29:40,Week 18,Sunday
+JP Richardson,WR,"DET 19 @ CHI 16, Final",,$10,—,0.00,183,2026-01-05 16:29:40,Week 18,Sunday
+Roschon JohnsonIR,RB,"DET 19 @ CHI 16, Final",,$10,0.3,0.00,184,2026-01-05 16:29:40,Week 18,Sunday
+Marcus MariotaO,QB,"WAS 24 @ PHI 17, Final",,$24,12.0,0.00,185,2026-01-05 16:29:40,Week 18,Sunday
+Chris Moore,WR,"WAS 24 @ PHI 17, Final",,$10,3.0,0.00,186,2026-01-05 16:29:40,Week 18,Sunday
+Chase EdmondsO,RB,"WAS 24 @ PHI 17, Final",,$10,—,0.00,187,2026-01-05 16:29:40,Week 18,Sunday
+Jayden DanielsO,QB,"WAS 24 @ PHI 17, Final",,$20,16.8,0.00,188,2026-01-05 16:29:40,Week 18,Sunday
+Colson Yankoff,TE,"WAS 24 @ PHI 17, Final",,$10,0.3,0.00,189,2026-01-05 16:29:40,Week 18,Sunday
+Saquon Barkley,RB,"WAS 24 @ PHI 17, Final",,$34,13.4,0.00,190,2026-01-05 16:29:40,Week 18,Sunday
+Dallas GoedertO,TE,"WAS 24 @ PHI 17, Final",,$18,10.3,0.00,191,2026-01-05 16:29:40,Week 18,Sunday
+A.J. Brown,WR,"WAS 24 @ PHI 17, Final",,$31,12.1,0.00,192,2026-01-05 16:29:40,Week 18,Sunday
+Jalen Hurts,QB,"WAS 24 @ PHI 17, Final",,$36,19.1,0.00,193,2026-01-05 16:29:41,Week 18,Sunday
+Sam Howell,QB,"WAS 24 @ PHI 17, Final",,$20,0.2,0.00,194,2026-01-05 16:29:41,Week 18,Sunday
+Cameron Latu,TE,"WAS 24 @ PHI 17, Final",,$10,—,0.00,195,2026-01-05 16:29:41,Week 18,Sunday
+Jeff Driskel,QB,"WAS 24 @ PHI 17, Final",,$20,—,0.00,196,2026-01-05 16:29:41,Week 18,Sunday
+Sam HartmanO,QB,"WAS 24 @ PHI 17, Final",,$20,—,0.00,197,2026-01-05 16:29:41,Week 18,Sunday
+Tyrod TaylorO,QB,"NYJ 8 @ BUF 35, Final",,$25,10.7,0.00,198,2026-01-05 16:29:41,Week 18,Sunday
+Tyler JohnsonO,WR,"NYJ 8 @ BUF 35, Final",,$10,3.5,0.00,199,2026-01-05 16:29:41,Week 18,Sunday
+Breece HallO,RB,"NYJ 8 @ BUF 35, Final",,$30,11.9,0.00,200,2026-01-05 16:29:41,Week 18,Sunday
+Jeremy Ruckert,TE,"NYJ 8 @ BUF 35, Final",,$10,2.5,0.00,201,2026-01-05 16:29:41,Week 18,Sunday
+Irvin CharlesPUP,WR,"NYJ 8 @ BUF 35, Final",,$10,—,0.00,202,2026-01-05 16:29:41,Week 18,Sunday
+Stone Smartt,TE,"NYJ 8 @ BUF 35, Final",,$10,1.5,0.00,203,2026-01-05 16:29:41,Week 18,Sunday
+Adonai Mitchell,WR,"NYJ 8 @ BUF 35, Final",3 TGT,$14,4.5,0.00,204,2026-01-05 16:29:41,Week 18,Sunday
+Isaiah DavisIR,RB,"NYJ 8 @ BUF 35, Final",,$12,3.8,0.00,205,2026-01-05 16:29:41,Week 18,Sunday
+Mason TaylorIR,TE,"NYJ 8 @ BUF 35, Final",,$11,5.1,0.00,206,2026-01-05 16:29:41,Week 18,Sunday
+Brandin CooksO,WR,"NYJ 8 @ BUF 35, Final",,$10,2.9,0.00,207,2026-01-05 16:29:41,Week 18,Sunday
+Josh Allen,QB,"NYJ 8 @ BUF 35, Final",,$44,23.4,0.00,208,2026-01-05 16:29:41,Week 18,Sunday
+Khalil Shakir,WR,"NYJ 8 @ BUF 35, Final",,$17,8.2,0.00,209,2026-01-05 16:29:41,Week 18,Sunday
+Tyrell Shavers,WR,"NYJ 8 @ BUF 35, Final",,$11,3.5,0.00,210,2026-01-05 16:29:41,Week 18,Sunday
+Hendon Hooker,QB,"NYJ 8 @ BUF 35, Final",,$20,0.9,0.00,211,2026-01-05 16:29:41,Week 18,Sunday
+Curtis SamuelIR,WR,"NYJ 8 @ BUF 35, Final",,$10,2.9,0.00,212,2026-01-05 16:29:41,Week 18,Sunday
+Josh ReynoldsIR,WR,"NYJ 8 @ BUF 35, Final",,$10,3.5,0.00,213,2026-01-05 16:29:41,Week 18,Sunday
+Braelon AllenIR,RB,"NYJ 8 @ BUF 35, Final",,$10,—,0.00,214,2026-01-05 16:29:41,Week 18,Sunday
+Robert Tonyan,TE,"KC 12 @ LV 14, Final",,$10,0.2,0.00,215,2026-01-05 16:29:41,Week 18,Sunday
+Isiah PachecoO,RB,"KC 12 @ LV 14, Final",,$14,6.0,0.00,216,2026-01-05 16:29:41,Week 18,Sunday
+Nikko RemigioIR,WR,"KC 12 @ LV 14, Final",,$10,0.3,0.00,217,2026-01-05 16:29:41,Week 18,Sunday
+Xavier WorthyO,WR,"KC 12 @ LV 14, Final",,$17,6.3,0.00,218,2026-01-05 16:29:41,Week 18,Sunday
+Jared Wiley,TE,"KC 12 @ LV 14, Final",,$10,0.5,0.00,219,2026-01-05 16:29:42,Week 18,Sunday
+Geno SmithO,QB,"KC 12 @ LV 14, Final",,$21,12.7,0.00,220,2026-01-05 16:29:42,Week 18,Sunday
+Raheem MostertO,RB,"KC 12 @ LV 14, Final",,$10,2.0,0.00,221,2026-01-05 16:29:42,Week 18,Sunday
+Ian Thomas,TE,"KC 12 @ LV 14, Final",,$10,2.2,0.00,222,2026-01-05 16:29:42,Week 18,Sunday
+Alex Bachman,WR,"KC 12 @ LV 14, Final",,$10,0.2,0.00,223,2026-01-05 16:29:42,Week 18,Sunday
+Dylan Laube,RB,"KC 12 @ LV 14, Final",,$10,0.2,0.00,224,2026-01-05 16:29:42,Week 18,Sunday
+Jack Bech,WR,"KC 12 @ LV 14, Final",2 TGT,$12,2.2,0.00,225,2026-01-05 16:29:42,Week 18,Sunday
+Dont'e Thornton Jr.,WR,"KC 12 @ LV 14, Final",TGT,$10,1.7,0.00,226,2026-01-05 16:29:42,Week 18,Sunday
+Carter Runyon,TE,"KC 12 @ LV 14, Final",,$10,0.2,0.00,227,2026-01-05 16:29:42,Week 18,Sunday
+Jake BriningstoolIR,TE,"KC 12 @ LV 14, Final",,$10,—,0.00,228,2026-01-05 16:29:42,Week 18,Sunday
+Tyreke SmithO,TE,"KC 12 @ LV 14, Final",,$10,—,0.00,229,2026-01-05 16:29:42,Week 18,Sunday
+Phillip Dorsett II,WR,"KC 12 @ LV 14, Final",,$10,—,0.00,230,2026-01-05 16:29:42,Week 18,Sunday
+Chris Collier,RB,"KC 12 @ LV 14, Final",,$10,—,0.00,231,2026-01-05 16:29:42,Week 18,Sunday
+Justin HerbertO,QB,"LAC 3 @ DEN 19, Final",,$34,18.7,0.00,232,2026-01-05 16:29:42,Week 18,Sunday
+Quentin Johnston,WR,"LAC 3 @ DEN 19, Final",,$22,11.2,0.00,233,2026-01-05 16:29:42,Week 18,Sunday
+Scott Matlock,RB,"LAC 3 @ DEN 19, Final",,$10,2.3,0.00,234,2026-01-05 16:29:42,Week 18,Sunday
+Ladd McConkey,WR,"LAC 3 @ DEN 19, Final",,$20,9.2,0.00,235,2026-01-05 16:29:42,Week 18,Sunday
+Omarion HamptonO,RB,"LAC 3 @ DEN 19, Final",,$29,13.3,0.00,236,2026-01-05 16:29:42,Week 18,Sunday
+Jarrett Stidham,QB,"LAC 3 @ DEN 19, Final",,$20,-0.1,0.00,237,2026-01-05 16:29:42,Week 18,Sunday
+Lil'Jordan Humphrey,WR,"LAC 3 @ DEN 19, Final",,$10,4.0,0.00,238,2026-01-05 16:29:42,Week 18,Sunday
+Adam Trautman,TE,"LAC 3 @ DEN 19, Final",,$10,3.2,0.00,239,2026-01-05 16:29:42,Week 18,Sunday
+Adam Prentice,RB,"LAC 3 @ DEN 19, Final",,$10,1.0,0.00,240,2026-01-05 16:29:42,Week 18,Sunday
+Nate Adkins,TE,"LAC 3 @ DEN 19, Final",,$10,2.0,0.00,241,2026-01-05 16:29:42,Week 18,Sunday
+Troy Franklin,WR,"LAC 3 @ DEN 19, Final",TGT,$16,8.5,0.00,242,2026-01-05 16:29:42,Week 18,Sunday
+Marcedes LewisO,TE,"LAC 3 @ DEN 19, Final",,$10,0.2,0.00,243,2026-01-05 16:29:42,Week 18,Sunday
+Jimmy Garoppolo,QB,"ARI 20 @ LA 37, Final","3 RUSH ATT,-3 RUSH YD",$20,-0.2,-0.30,244,2026-01-05 16:29:42,Week 18,Sunday
+Chris Oladokun,QB,"KC 12 @ LV 14, Final","58 PASS YD,RUSH ATT,2 FUM LOST",$20,3.7,-1.68,245,2026-01-05 16:29:43,Week 18,Sunday
+Miami Dolphins,DEF,"MIA 10 @ NE 38, Final","38 PTS ALLOWED,BLK KICK",$13,5.6,-2.00,246,2026-01-05 16:29:43,Week 18,Sunday
+Arizona Cardinals,DEF,"ARI 20 @ LA 37, Final","37 PTS ALLOWED,SACK",$10,4.4,-3.00,247,2026-01-05 16:29:43,Week 18,Sunday
+New York Jets,DEF,"NYJ 8 @ BUF 35, Final",35 PTS ALLOWED,$10,2.8,-4.00,248,2026-01-05 16:29:43,Week 18,Sunday
+Zay Flowers,WR,"BAL 24 @ PIT 26, Final","6 TGT,4 REC,138 REC YD,2 REC TD",$30,11.8,27.80,1,2026-01-05 16:29:59,Week 18,Sunday
+Lamar Jackson,QB,"BAL 24 @ PIT 26, Final","238 PASS YD,3 PASS TD,INT,4 RUSH ATT,9 RUSH YD",$33,17.1,21.42,2,2026-01-05 16:29:59,Week 18,Sunday
+Aaron Rodgers,QB,"BAL 24 @ PIT 26, Final","294 PASS YD,PASS TD,RUSH ATT,20 RUSH YD",$27,14.6,17.76,3,2026-01-05 16:29:59,Week 18,Sunday
+Kenneth Gainwell,RB,"BAL 24 @ PIT 26, Final","5 RUSH ATT,10 RUSH YD,RUSH TD,9 TGT,8 REC,64 REC YD",$22,10.9,17.40,4,2026-01-05 16:29:59,Week 18,Sunday
+Calvin Austin III,WR,"BAL 24 @ PIT 26, Final","7 TGT,3 REC,55 REC YD,REC TD",$10,5.0,13.00,5,2026-01-05 16:29:59,Week 18,Sunday
+Derrick Henry,RB,"BAL 24 @ PIT 26, Final","20 RUSH ATT,126 RUSH YD,TGT",$40,16.0,12.60,6,2026-01-05 16:29:59,Week 18,Sunday
+Jaylen Warren,RB,"BAL 24 @ PIT 26, Final","14 RUSH ATT,66 RUSH YD,5 TGT,5 REC,33 REC YD",$27,12.3,12.40,7,2026-01-05 16:29:59,Week 18,Sunday
+Devontez Walker,WR,"BAL 24 @ PIT 26, Final","2 TGT,2 REC,46 REC YD,REC TD",$10,4.9,11.60,8,2026-01-05 16:29:59,Week 18,Sunday
+Connor Heyward,TE,"BAL 24 @ PIT 26, Final","3 RUSH ATT,2 RUSH YD,RUSH TD,TGT,REC,3 REC YD",$10,2.0,7.00,9,2026-01-05 16:29:59,Week 18,Sunday
+Pat Freiermuth,TE,"BAL 24 @ PIT 26, Final","5 TGT,3 REC,51 REC YD",$13,6.2,6.60,10,2026-01-05 16:29:59,Week 18,Sunday
+Marquez Valdes-Scantling,WR,"BAL 24 @ PIT 26, Final","7 TGT,5 REC,34 REC YD",$10,2.8,5.90,11,2026-01-05 16:29:59,Week 18,Sunday
+Adam Thielen,WR,"BAL 24 @ PIT 26, Final","6 TGT,3 REC,43 REC YD",$10,2.2,5.80,12,2026-01-05 16:29:59,Week 18,Sunday
+Pittsburgh Steelers,DEF,"BAL 24 @ PIT 26, Final","24 PTS ALLOWED,3 SACK,INT",$15,7.6,5.00,13,2026-01-05 16:29:59,Week 18,Sunday
+Isaiah Likely,TE,"BAL 24 @ PIT 26, Final","2 TGT,2 REC,32 REC YD",$13,4.4,4.20,14,2026-01-05 16:29:59,Week 18,Sunday
+Baltimore Ravens,DEF,"BAL 24 @ PIT 26, Final","26 PTS ALLOWED,2 SACK,BLK KICK",$14,5.7,4.00,15,2026-01-05 16:29:59,Week 18,Sunday
+Mark Andrews,TE,"BAL 24 @ PIT 26, Final","3 TGT,2 REC,14 REC YD",$13,6.3,2.40,16,2026-01-05 16:29:59,Week 18,Sunday
+Scotty Miller,WR,"BAL 24 @ PIT 26, Final","2 TGT,2 REC,9 REC YD",$10,2.1,1.90,17,2026-01-05 16:30:00,Week 18,Sunday
+Patrick Ricard,RB,"BAL 24 @ PIT 26, Final","TGT,REC,8 REC YD",$10,0.3,1.30,18,2026-01-05 16:30:00,Week 18,Sunday
+Jonnu Smith,TE,"BAL 24 @ PIT 26, Final","RUSH ATT,2 RUSH YD,2 TGT,REC,2 REC YD",$10,3.9,0.90,19,2026-01-05 16:30:00,Week 18,Sunday
+Keaton Mitchell,RB,"BAL 24 @ PIT 26, Final","2 RUSH ATT,2 RUSH YD",$11,3.9,0.20,20,2026-01-05 16:30:00,Week 18,Sunday
+DeAndre Hopkins,WR,"BAL 24 @ PIT 26, Final",2 TGT,$10,3.3,0.00,21,2026-01-05 16:30:00,Week 18,Sunday
+Cooper RushO,QB,"BAL 24 @ PIT 26, Final",,$20,1.4,0.00,22,2026-01-05 16:30:00,Week 18,Sunday
+Tyler Huntley,QB,"BAL 24 @ PIT 26, Final",,$23,8.0,0.00,23,2026-01-05 16:30:00,Week 18,Sunday
+Rashod BatemanO,WR,"BAL 24 @ PIT 26, Final",,$10,3.5,0.00,24,2026-01-05 16:30:00,Week 18,Sunday
+Tylan Wallace,WR,"BAL 24 @ PIT 26, Final",,$10,1.1,0.00,25,2026-01-05 16:30:00,Week 18,Sunday
+Charlie Kolar,TE,"BAL 24 @ PIT 26, Final",,$10,2.2,0.00,26,2026-01-05 16:30:00,Week 18,Sunday
+Rasheen Ali,RB,"BAL 24 @ PIT 26, Final",RUSH ATT,$10,1.3,0.00,27,2026-01-05 16:30:00,Week 18,Sunday
+LaJohntay Wester,WR,"BAL 24 @ PIT 26, Final",,$10,—,0.00,28,2026-01-05 16:30:00,Week 18,Sunday
+Mason Rudolph,QB,"BAL 24 @ PIT 26, Final",,$20,3.4,0.00,29,2026-01-05 16:30:00,Week 18,Sunday
+DK MetcalfSUSP,WR,"BAL 24 @ PIT 26, Final",,$10,10.5,0.00,30,2026-01-05 16:30:00,Week 18,Sunday
+Ben Skowronek,WR,"BAL 24 @ PIT 26, Final",,$10,0.9,0.00,31,2026-01-05 16:30:00,Week 18,Sunday
+Darnell WashingtonIR,TE,"BAL 24 @ PIT 26, Final",,$10,3.9,0.00,32,2026-01-05 16:30:00,Week 18,Sunday
+Roman WilsonO,WR,"BAL 24 @ PIT 26, Final",,$10,3.3,0.00,33,2026-01-05 16:30:00,Week 18,Sunday
+Kaleb JohnsonO,RB,"BAL 24 @ PIT 26, Final",,$10,0.8,0.00,34,2026-01-05 16:30:00,Week 18,Sunday
+Will HowardO,QB,"BAL 24 @ PIT 26, Final",,$20,—,0.00,35,2026-01-05 16:30:00,Week 18,Sunday
+Justice HillIR,RB,"BAL 24 @ PIT 26, Final",,$12,5.5,0.00,36,2026-01-05 16:30:00,Week 18,Sunday
