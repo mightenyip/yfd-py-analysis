@@ -1,0 +1,281 @@
+player_name,position,game_info,stats,salary,fppg,points,row_number,scrape_date,week,day
+Tyrese Maxey,PG,"DEN 125 @ PHI 124, Final OT","45:35 MIN,28 PT,6 REB,6 AST,4 ST,2 BLK,TO,PF",$52,52.8,61.2,1,2026-01-06 16:33:12,Week 18,Monday
+Cade Cunningham,PG,"NY 90 @ DET 121, Final","29:04 MIN,29 PT,3 REB,13 AST,ST,2 BLK,5 TO,2 PF",$51,51.9,56.1,2,2026-01-06 16:33:12,Week 18,Monday
+Deni Avdija,SG,"UTA 117 @ POR 137, Final","28:46 MIN,33 PT,8 REB,9 AST,2 TO",$43,45.7,54.1,3,2026-01-06 16:33:12,Week 18,Monday
+Collin Murray-Boyles,PF,"ATL 100 @ TOR 118, Final","31:05 MIN,17 PT,7 REB,7 AST,3 ST,2 BLK,3 PF",$15,17.6,50.9,4,2026-01-06 16:33:13,Week 18,Monday
+Shaedon Sharpe,SG,"UTA 117 @ POR 137, Final","27:20 MIN,29 PT,5 REB,7 AST,2 ST,TO,3 PF",$32,32.6,50.5,5,2026-01-06 16:33:13,Week 18,Monday
+Kawhi Leonard,PF,"GS 102 @ LAC 103, Final","38:07 MIN,24 PT,12 REB,5 AST,ST,2 BLK,5 TO,PF",$41,47.5,49.9,6,2026-01-06 16:33:13,Week 18,Monday
+VJ Edgecombe,SG,"DEN 125 @ PHI 124, Final OT","41:42 MIN,17 PT,8 REB,9 AST,2 ST,2 BLK,3 TO,PF",$30,33.4,49.1,7,2026-01-06 16:33:13,Week 18,Monday
+Stephen Curry,PG,"GS 102 @ LAC 103, Final","33:34 MIN,27 PT,4 REB,6 AST,3 ST,TO,6 PF",$41,42.0,48.8,8,2026-01-06 16:33:13,Week 18,Monday
+Jusuf Nurkić,C,"UTA 117 @ POR 137, Final","30:48 MIN,21 PT,12 REB,5 AST,2 ST,TO,4 PF",$29,30.8,47.9,9,2026-01-06 16:33:13,Week 18,Monday
+Jimmy Butler III,SF,"GS 102 @ LAC 103, Final","33:25 MIN,24 PT,6 REB,2 AST,4 ST,BLK,2 TO",$38,37.2,47.2,10,2026-01-06 16:33:13,Week 18,Monday
+Onyeka Okongwu,C,"ATL 100 @ TOR 118, Final","36:26 MIN,17 PT,12 REB,3 AST,4 ST,TO,3 PF",$33,35.0,46.9,11,2026-01-06 16:33:13,Week 18,Monday
+Kevin Durant,SF,"PHO 97 @ HOU 100, Final","38:30 MIN,26 PT,10 REB,4 AST,BLK,TO,2 PF",$40,40.8,46.0,12,2026-01-06 16:33:13,Week 18,Monday
+Brandon Miller,SF,"CHA 124 @ OKC 97, Final","31:03 MIN,28 PT,6 REB,AST,2 ST,2 BLK,3 TO,3 PF",$34,33.9,45.7,13,2026-01-06 16:33:13,Week 18,Monday
+Nikola Vučević,C,"CHI 101 @ BOS 115, Final","36:21 MIN,15 PT,15 REB,7 AST,ST,2 TO,PF",$33,34.7,44.5,14,2026-01-06 16:33:13,Week 18,Monday
+Joel Embiid,C,"DEN 125 @ PHI 124, Final OT","40:03 MIN,32 PT,10 REB,2 AST,BLK,6 TO,2 PF",$42,39.4,44.0,15,2026-01-06 16:33:13,Week 18,Monday
+Zeke Nnaji,C,"DEN 125 @ PHI 124, Final OT","31:58 MIN,21 PT,8 REB,AST,2 ST,2 BLK,2 TO,2 PF",$10,7.8,42.1,16,2026-01-06 16:33:13,Week 18,Monday
+Jalen Pickett,PG,"DEN 125 @ PHI 124, Final OT","41:53 MIN,29 PT,5 REB,7 AST,4 TO,3 PF",$10,10.7,41.5,17,2026-01-06 16:33:13,Week 18,Monday
+Peyton Watson,SF,"DEN 125 @ PHI 124, Final OT","44:13 MIN,24 PT,7 REB,4 AST,ST,2 BLK,6 TO",$23,24.5,41.4,18,2026-01-06 16:33:13,Week 18,Monday
+Donovan Clingan,C,"UTA 117 @ POR 137, Final","33:03 MIN,12 PT,17 REB,2 AST,3 BLK,4 TO,3 PF",$30,31.5,40.4,19,2026-01-06 16:33:13,Week 18,Monday
+Brandon Ingram,SF,"ATL 100 @ TOR 118, Final","34:40 MIN,19 PT,9 REB,3 AST,ST,2 BLK,3 TO,2 PF",$34,36.6,40.3,20,2026-01-06 16:33:13,Week 18,Monday
+Jalen Johnson,PF,"ATL 100 @ TOR 118, Final","36:32 MIN,13 PT,14 REB,7 AST,ST,BLK,6 TO",$50,50.7,40.3,21,2026-01-06 16:33:13,Week 18,Monday
+Lauri Markkanen,SF,"UTA 117 @ POR 137, Final","31:39 MIN,22 PT,4 REB,4 AST,3 ST,BLK,5 TO,3 PF",$41,42.2,39.8,22,2026-01-06 16:33:13,Week 18,Monday
+Derrick White,SG,"CHI 101 @ BOS 115, Final","37:03 MIN,10 PT,6 REB,7 AST,3 ST,BLK,PF",$37,38.6,39.7,23,2026-01-06 16:33:13,Week 18,Monday
+Scottie Barnes,PF,"ATL 100 @ TOR 118, Final","36:45 MIN,18 PT,8 REB,10 AST,3 TO,3 PF",$44,43.4,39.6,24,2026-01-06 16:33:13,Week 18,Monday
+Payton Pritchard,PG,"CHI 101 @ BOS 115, Final","31:15 MIN,21 PT,6 REB,5 AST,ST,PF",$31,31.7,38.7,25,2026-01-06 16:33:13,Week 18,Monday
+Miles Bridges,PF,"CHA 124 @ OKC 97, Final","33:42 MIN,17 PT,11 REB,4 AST,BLK,2 TO",$36,35.4,37.2,26,2026-01-06 16:33:13,Week 18,Monday
+RJ Barrett,SG,"ATL 100 @ TOR 118, Final","31:29 MIN,17 PT,6 REB,4 AST,3 ST,4 TO,PF",$33,32.1,35.2,27,2026-01-06 16:33:14,Week 18,Monday
+Neemias Queta,C,"CHI 101 @ BOS 115, Final","24:35 MIN,13 PT,13 REB,AST,ST,BLK,TO,PF",$26,27.1,35.1,28,2026-01-06 16:33:14,Week 18,Monday
+Draymond Green,PF,"GS 102 @ LAC 103, Final","31:57 MIN,6 PT,5 REB,12 AST,2 ST,TO,PF",$26,25.7,35.0,29,2026-01-06 16:33:14,Week 18,Monday
+Kon Knueppel,SG,"CHA 124 @ OKC 97, Final","27:55 MIN,23 PT,5 REB,5 AST,ST,5 TO,4 PF",$30,31.1,34.5,30,2026-01-06 16:33:14,Week 18,Monday
+Matas Buzelis,SF,"CHI 101 @ BOS 115, Final","30:58 MIN,26 PT,3 REB,2 AST,BLK,2 TO,PF",$28,28.1,33.6,31,2026-01-06 16:33:14,Week 18,Monday
+Shai Gilgeous-Alexander,PG,"CHA 124 @ OKC 97, Final","29:34 MIN,21 PT,2 REB,6 AST,BLK,2 TO,2 PF",$53,50.8,33.4,32,2026-01-06 16:33:14,Week 18,Monday
+Royce O'Neale,SF,"PHO 97 @ HOU 100, Final","30:36 MIN,15 PT,6 REB,3 AST,2 ST",$23,23.6,32.7,33,2026-01-06 16:33:14,Week 18,Monday
+Bruce Brown,SF,"DEN 125 @ PHI 124, Final OT","39:21 MIN,19 PT,6 REB,2 AST,ST,2 PF",$17,18.5,32.2,34,2026-01-06 16:33:14,Week 18,Monday
+Anfernee Simons,SG,"CHI 101 @ BOS 115, Final","27:10 MIN,27 PT,3 REB,3 AST,3 TO",$20,20.6,32.1,35,2026-01-06 16:33:14,Week 18,Monday
+Jabari Smith Jr.,PF,"PHO 97 @ HOU 100, Final","38:23 MIN,17 PT,7 REB,3 AST,ST,TO,2 PF",$28,29.9,31.9,36,2026-01-06 16:33:14,Week 18,Monday
+Amen Thompson,PG,"PHO 97 @ HOU 100, Final","37:10 MIN,17 PT,7 REB,6 AST,3 TO,4 PF",$38,37.8,31.4,37,2026-01-06 16:33:14,Week 18,Monday
+Moussa Diabaté,C,"CHA 124 @ OKC 97, Final","28:29 MIN,9 PT,12 REB,5 AST",$23,24.2,30.9,38,2026-01-06 16:33:14,Week 18,Monday
+John Collins,PF,"GS 102 @ LAC 103, Final","39:07 MIN,18 PT,4 REB,AST,3 BLK,3 TO,3 PF",$22,23.4,30.3,39,2026-01-06 16:33:14,Week 18,Monday
+Javonte Green,SG,"NY 90 @ DET 121, Final","29:24 MIN,17 PT,2 REB,AST,3 ST,PF",$14,16.0,29.9,40,2026-01-06 16:33:14,Week 18,Monday
+Kobe Sanders,SG,"GS 102 @ LAC 103, Final","35:34 MIN,20 PT,7 REB,3 AST,3 TO,3 PF",$11,12.2,29.9,41,2026-01-06 16:33:14,Week 18,Monday
+Ayo Dosunmu,PG,"CHI 101 @ BOS 115, Final","27:48 MIN,15 PT,3 REB,5 AST,BLK,2 PF",$23,23.6,29.1,42,2026-01-06 16:33:14,Week 18,Monday
+Zaccharie Risacher,SF,"ATL 100 @ TOR 118, Final","22:19 MIN,16 PT,4 REB,4 AST,ST,TO,6 PF",$21,20.3,28.8,43,2026-01-06 16:33:14,Week 18,Monday
+Ivica Zubac,C,"GS 102 @ LAC 103, Final","33:09 MIN,10 PT,11 REB,3 AST,BLK,2 TO,4 PF",$36,34.2,28.7,44,2026-01-06 16:33:14,Week 18,Monday
+Isaiah Collier,PG,"UTA 117 @ POR 137, Final","29:50 MIN,10 PT,3 REB,8 AST,ST,2 PF",$19,22.2,28.6,45,2026-01-06 16:33:14,Week 18,Monday
+Jalen Williams,SF,"CHA 124 @ OKC 97, Final","28:01 MIN,16 PT,2 REB,4 AST,2 ST,2 TO,3 PF",$39,35.0,28.4,46,2026-01-06 16:33:14,Week 18,Monday
+Kris Dunn,PG,"GS 102 @ LAC 103, Final","33:11 MIN,16 PT,3 REB,6 AST,ST,4 TO,5 PF",$19,20.1,27.6,47,2026-01-06 16:33:14,Week 18,Monday
+Devin Booker,SG,"PHO 97 @ HOU 100, Final","32:50 MIN,27 PT,3 AST,4 TO",$42,40.4,27.5,48,2026-01-06 16:33:14,Week 18,Monday
+Collin Gillespie,PG,"PHO 97 @ HOU 100, Final","25:25 MIN,11 PT,6 REB,4 AST,ST,PF",$27,29.5,27.2,49,2026-01-06 16:33:14,Week 18,Monday
+Jaylen Brown,SF,"CHI 101 @ BOS 115, Final","34:34 MIN,14 PT,8 REB,4 AST,3 TO,2 PF",$44,45.4,26.6,50,2026-01-06 16:33:15,Week 18,Monday
+Ajay Mitchell,PG,"CHA 124 @ OKC 97, Final","24:16 MIN,11 PT,3 REB,2 AST,3 ST,PF",$26,27.3,26.6,51,2026-01-06 16:33:15,Week 18,Monday
+Tari Eason,SF,"PHO 97 @ HOU 100, Final","30:10 MIN,12 PT,8 REB,2 AST,ST,TO",$24,24.8,26.6,52,2026-01-06 16:33:15,Week 18,Monday
+Oso Ighodaro,C,"PHO 97 @ HOU 100, Final","27:01 MIN,9 PT,8 REB,2 AST,2 ST,TO,3 PF",$15,16.5,26.6,53,2026-01-06 16:33:15,Week 18,Monday
+PJ Hall,C,"CHA 124 @ OKC 97, Final","19:31 MIN,13 PT,5 REB,AST,2 BLK,3 PF",$10,10.6,26.5,54,2026-01-06 16:33:15,Week 18,Monday
+Daniss Jenkins,PG,"NY 90 @ DET 121, Final","22:40 MIN,12 PT,4 AST,ST,2 BLK,TO,PF",$16,15.6,26.0,55,2026-01-06 16:33:15,Week 18,Monday
+Sidy Cissoko,SF,"UTA 117 @ POR 137, Final","25:28 MIN,14 PT,2 AST,2 ST,BLK,2 PF",$11,12.7,26.0,56,2026-01-06 16:33:15,Week 18,Monday
+Gary Payton II,SG,"GS 102 @ LAC 103, Final","15:24 MIN,14 PT,5 REB,2 AST,BLK,PF",$13,12.9,26.0,57,2026-01-06 16:33:15,Week 18,Monday
+Kris Murray,SF,"UTA 117 @ POR 137, Final","26:41 MIN,10 PT,3 REB,2 AST,3 ST",$15,16.6,25.6,58,2026-01-06 16:33:15,Week 18,Monday
+Aaron Wiggins,SF,"CHA 124 @ OKC 97, Final","24:42 MIN,11 PT,2 REB,2 ST,2 BLK,PF",$21,18.5,25.4,59,2026-01-06 16:33:15,Week 18,Monday
+Chet Holmgren,C,"CHA 124 @ OKC 97, Final","25:56 MIN,15 PT,6 REB,2 AST",$35,35.4,25.2,60,2026-01-06 16:33:15,Week 18,Monday
+Steven Adams,C,"PHO 97 @ HOU 100, Final","31:19 MIN,8 PT,11 REB,2 AST,ST,2 TO,PF",$22,21.0,25.2,61,2026-01-06 16:33:15,Week 18,Monday
+Kyle Filipowski,C,"UTA 117 @ POR 137, Final","19:58 MIN,13 PT,5 REB,2 AST,ST",$23,22.0,25.0,62,2026-01-06 16:33:15,Week 18,Monday
+Quentin Grimes,SG,"DEN 125 @ PHI 124, Final OT","39:38 MIN,16 PT,4 REB,2 AST,BLK,2 TO,4 PF",$28,28.0,24.8,63,2026-01-06 16:33:15,Week 18,Monday
+Keyonte George,PG,"UTA 117 @ POR 137, Final","32:49 MIN,15 PT,4 REB,4 AST,ST,4 TO,3 PF",$37,39.7,24.8,64,2026-01-06 16:33:15,Week 18,Monday
+Spencer Jones,SF,"DEN 125 @ PHI 124, Final OT","43:27 MIN,10 PT,3 REB,2 AST,2 ST,BLK,TO,5 PF",$11,14.5,24.6,65,2026-01-06 16:33:15,Week 18,Monday
+Toumani Camara,PF,"UTA 117 @ POR 137, Final","35:16 MIN,15 PT,4 REB,3 AST,ST,3 TO,2 PF",$25,25.3,24.3,66,2026-01-06 16:33:15,Week 18,Monday
+Paul George,PF,"DEN 125 @ PHI 124, Final OT","32:17 MIN,8 PT,2 REB,3 AST,2 ST,BLK,3 PF",$30,30.4,23.9,67,2026-01-06 16:33:15,Week 18,Monday
+Isaiah Stewart,PF,"NY 90 @ DET 121, Final","31:51 MIN,7 PT,9 REB,2 BLK,2 PF",$24,24.0,23.8,68,2026-01-06 16:33:15,Week 18,Monday
+Ronald Holland II,SF,"NY 90 @ DET 121, Final","24:01 MIN,5 PT,5 REB,AST,ST,3 BLK,TO",$19,19.1,23.5,69,2026-01-06 16:33:15,Week 18,Monday
+Vít Krejčí,SG,"ATL 100 @ TOR 118, Final","27:26 MIN,10 PT,2 REB,2 AST,3 ST,TO,4 PF",$16,18.4,23.4,70,2026-01-06 16:33:15,Week 18,Monday
+Jaden Ivey,SG,"NY 90 @ DET 121, Final","22:04 MIN,16 PT,3 REB,AST,ST,TO",$16,15.5,23.1,71,2026-01-06 16:33:15,Week 18,Monday
+Nickeil Alexander-Walker,SG,"ATL 100 @ TOR 118, Final","33:40 MIN,14 PT,5 REB,4 AST,3 TO,PF",$31,32.0,23.0,72,2026-01-06 16:33:15,Week 18,Monday
+Ausar Thompson,SF,"NY 90 @ DET 121, Final","19:37 MIN,10 PT,7 REB,AST,2 ST,3 TO,PF",$28,27.2,22.9,73,2026-01-06 16:33:16,Week 18,Monday
+Sandro Mamukelashvili,C,"ATL 100 @ TOR 118, Final","22:32 MIN,12 PT,6 REB,3 AST,TO",$20,22.4,22.7,74,2026-01-06 16:33:16,Week 18,Monday
+Jalen Brunson,PG,"NY 90 @ DET 121, Final","30:30 MIN,25 PT,3 REB,6 TO,3 PF",$41,42.6,22.6,75,2026-01-06 16:33:16,Week 18,Monday
+Luke Kennard,SG,"ATL 100 @ TOR 118, Final","21:35 MIN,10 PT,4 AST,2 ST",$14,14.7,22.0,76,2026-01-06 16:33:16,Week 18,Monday
+Luka Garza,C,"CHI 101 @ BOS 115, Final","23:25 MIN,8 PT,4 REB,ST,2 BLK",$15,16.1,21.8,77,2026-01-06 16:33:16,Week 18,Monday
+Dillon Brooks,SF,"PHO 97 @ HOU 100, Final","34:15 MIN,15 PT,4 REB,2 AST,TO,4 PF",$28,29.3,21.8,78,2026-01-06 16:33:16,Week 18,Monday
+Grayson Allen,SG,"PHO 97 @ HOU 100, Final","22:09 MIN,3 REB,6 AST,4 ST,3 TO",$29,29.3,21.6,79,2026-01-06 16:33:16,Week 18,Monday
+Miles McBride,PG,"NY 90 @ DET 121, Final","24:52 MIN,17 PT,2 REB,2 AST,TO,3 PF",$19,21.1,21.4,80,2026-01-06 16:33:16,Week 18,Monday
+Paul Reed,C,"NY 90 @ DET 121, Final","25:31 MIN,8 PT,8 REB,AST,BLK,TO,5 PF",$16,15.4,21.1,81,2026-01-06 16:33:16,Week 18,Monday
+Hunter Tyson,PF,"DEN 125 @ PHI 124, Final OT","19:22 MIN,14 PT,3 REB,AST,BLK,TO,2 PF",$10,4.7,21.1,82,2026-01-06 16:33:16,Week 18,Monday
+Tre Jones,PG,"CHI 101 @ BOS 115, Final","23:22 MIN,10 PT,5 REB,4 AST,TO,PF",$26,26.6,21.0,83,2026-01-06 16:33:16,Week 18,Monday
+Jamal Shead,PG,"ATL 100 @ TOR 118, Final","17:27 MIN,5 PT,2 REB,5 AST,2 ST,4 PF",$18,18.9,20.9,84,2026-01-06 16:33:16,Week 18,Monday
+Dyson Daniels,SG,"ATL 100 @ TOR 118, Final","39:00 MIN,11 PT,6 REB,3 AST,2 TO,4 PF",$32,33.3,20.7,85,2026-01-06 16:33:16,Week 18,Monday
+Kenrich Williams,PF,"CHA 124 @ OKC 97, Final","17:00 MIN,8 PT,3 REB,2 AST,2 ST",$12,12.7,20.6,86,2026-01-06 16:33:16,Week 18,Monday
+Caleb Love,SG,"UTA 117 @ POR 137, Final","27:39 MIN,14 PT,3 REB,4 AST,3 TO",$14,17.0,20.6,87,2026-01-06 16:33:16,Week 18,Monday
+Jordan Miller,SF,"GS 102 @ LAC 103, Final","22:03 MIN,9 PT,5 REB,3 AST,ST,2 TO,2 PF",$12,10.3,20.5,88,2026-01-06 16:33:16,Week 18,Monday
+Jordan Goodwin,SG,"PHO 97 @ HOU 100, Final","25:29 MIN,11 PT,REB,2 AST,2 ST,TO,PF",$19,21.3,20.2,89,2026-01-06 16:33:16,Week 18,Monday
+Adem Bona,C,"DEN 125 @ PHI 124, Final OT","22:51 MIN,8 PT,6 REB,2 AST,BLK,TO,4 PF",$14,14.0,20.2,90,2026-01-06 16:33:16,Week 18,Monday
+Immanuel Quickley,PG,"ATL 100 @ TOR 118, Final","30:33 MIN,16 PT,3 REB,AST,TO",$32,32.4,20.1,91,2026-01-06 16:33:16,Week 18,Monday
+Brice Sensabaugh,SF,"UTA 117 @ POR 137, Final","22:45 MIN,8 PT,5 REB,4 AST,ST,3 TO",$15,16.6,20.0,92,2026-01-06 16:33:16,Week 18,Monday
+Reed Sheppard,SG,"PHO 97 @ HOU 100, Final","22:32 MIN,11 PT,3 REB,2 AST,2 ST,4 TO",$27,26.7,19.6,93,2026-01-06 16:33:16,Week 18,Monday
+OG Anunoby,PF,"NY 90 @ DET 121, Final","28:41 MIN,5 PT,2 REB,AST,3 ST,BLK,2 TO,2 PF",$31,31.2,18.9,94,2026-01-06 16:33:16,Week 18,Monday
+Moses Moody,SG,"GS 102 @ LAC 103, Final","19:11 MIN,4 PT,2 REB,AST,3 ST,BLK,TO,2 PF",$22,20.9,18.9,95,2026-01-06 16:33:16,Week 18,Monday
+Sion James,SG,"CHA 124 @ OKC 97, Final","20:16 MIN,5 PT,3 REB,4 AST,2 BLK,2 TO,PF",$16,15.6,18.6,96,2026-01-06 16:33:17,Week 18,Monday
+Mitchell Robinson,C,"NY 90 @ DET 121, Final","24:51 MIN,2 PT,10 REB,AST,BLK,PF",$20,22.0,18.5,97,2026-01-06 16:33:17,Week 18,Monday
+LaMelo Ball,PG,"CHA 124 @ OKC 97, Final","25:12 MIN,16 PT,2 REB,2 AST,4 TO,5 PF",$41,38.4,17.4,98,2026-01-06 16:33:17,Week 18,Monday
+Isaiah Joe,SG,"CHA 124 @ OKC 97, Final","22:07 MIN,5 PT,4 REB,AST,2 ST,2 PF",$20,16.9,17.3,99,2026-01-06 16:33:17,Week 18,Monday
+Julian Strawther,SG,"DEN 125 @ PHI 124, Final OT","15:22 MIN,6 PT,4 REB,5 AST,TO,2 PF",$11,6.4,17.3,100,2026-01-06 16:33:17,Week 18,Monday
+Brook Lopez,C,"GS 102 @ LAC 103, Final","14:51 MIN,3 REB,3 AST,ST,2 BLK,PF",$13,14.5,17.1,101,2026-01-06 16:33:17,Week 18,Monday
+Duncan Robinson,SF,"NY 90 @ DET 121, Final","20:45 MIN,9 PT,5 REB,ST,TO",$22,20.6,17.0,102,2026-01-06 16:33:17,Week 18,Monday
+Jabari Walker,PF,"DEN 125 @ PHI 124, Final OT","11:34 MIN,6 PT,4 REB,ST,BLK,3 PF",$11,10.1,16.8,103,2026-01-06 16:33:17,Week 18,Monday
+Brandin Podziemski,SG,"GS 102 @ LAC 103, Final","26:42 MIN,6 PT,4 REB,2 ST",$26,24.6,16.8,104,2026-01-06 16:33:17,Week 18,Monday
+Gradey Dick,SG,"ATL 100 @ TOR 118, Final","18:06 MIN,11 PT,3 REB,ST,TO,2 PF",$12,11.6,16.6,105,2026-01-06 16:33:17,Week 18,Monday
+Mikal Bridges,SF,"NY 90 @ DET 121, Final","25:41 MIN,10 PT,AST,ST,BLK,TO,PF",$35,34.1,16.5,106,2026-01-06 16:33:17,Week 18,Monday
+Taylor Hendricks,PF,"UTA 117 @ POR 137, Final","18:31 MIN,7 PT,5 REB,AST,ST,TO,3 PF",$13,12.1,16.5,107,2026-01-06 16:33:17,Week 18,Monday
+Kevin McCullar Jr.,PF,"NY 90 @ DET 121, Final","16:17 MIN,4 PT,3 REB,3 AST,2 ST,2 TO,2 PF",$10,8.6,16.1,108,2026-01-06 16:33:17,Week 18,Monday
+De'Anthony Melton,SG,"GS 102 @ LAC 103, Final","24:39 MIN,5 PT,2 REB,AST,2 ST,BLK,2 TO,3 PF",$15,19.4,15.9,109,2026-01-06 16:33:17,Week 18,Monday
+Mark Williams,C,"PHO 97 @ HOU 100, Final","20:58 MIN,4 PT,8 REB,AST,3 PF",$29,28.8,15.1,110,2026-01-06 16:33:17,Week 18,Monday
+Hugo González,SF,"CHI 101 @ BOS 115, Final","12:19 MIN,5 PT,7 REB,AST,PF",$11,11.4,14.9,111,2026-01-06 16:33:17,Week 18,Monday
+Cody Williams,SF,"UTA 117 @ POR 137, Final","20:28 MIN,8 PT,2 REB,AST,ST,PF",$11,7.3,14.9,112,2026-01-06 16:33:17,Week 18,Monday
+Luguentz Dort,SF,"CHA 124 @ OKC 97, Final","20:06 MIN,5 PT,4 REB,2 BLK,TO,4 PF",$18,17.6,14.8,113,2026-01-06 16:33:17,Week 18,Monday
+Sam Hauser,SF,"CHI 101 @ BOS 115, Final","20:36 MIN,9 PT,REB,AST,ST,2 PF",$16,15.5,14.7,114,2026-01-06 16:33:17,Week 18,Monday
+Marcus Sasser,SG,"NY 90 @ DET 121, Final","5:01 MIN,8 PT,AST,ST,BLK,TO,PF",$12,12.9,14.5,115,2026-01-06 16:33:17,Week 18,Monday
+Tyler Kolek,PG,"NY 90 @ DET 121, Final","19:28 MIN,9 PT,3 REB,AST,2 PF",$13,12.9,14.1,116,2026-01-06 16:33:17,Week 18,Monday
+Al Horford,PF,"GS 102 @ LAC 103, Final","15:41 MIN,5 PT,5 REB,ST,PF",$18,19.0,14.0,117,2026-01-06 16:33:17,Week 18,Monday
+Collin Sexton,PG,"CHA 124 @ OKC 97, Final","23:12 MIN,10 PT,REB,AST,ST,2 TO,2 PF",$25,24.5,13.7,118,2026-01-06 16:33:17,Week 18,Monday
+Kevin Huerter,SG,"CHI 101 @ BOS 115, Final","19:39 MIN,8 PT,3 REB,BLK,TO,PF",$22,23.0,13.6,119,2026-01-06 16:33:17,Week 18,Monday
+Nicolas Batum,PF,"GS 102 @ LAC 103, Final","23:58 MIN,6 PT,3 REB,AST,ST,TO,2 PF",$12,12.4,13.1,120,2026-01-06 16:33:18,Week 18,Monday
+Coby White,PG,"CHI 101 @ BOS 115, Final","25:23 MIN,5 PT,6 REB,3 AST,4 TO,4 PF",$32,28.2,12.7,121,2026-01-06 16:33:18,Week 18,Monday
+Walter Clayton Jr.,PG,"UTA 117 @ POR 137, Final","13:11 MIN,5 PT,REB,3 AST,BLK,TO,PF",$15,14.5,12.7,122,2026-01-06 16:33:18,Week 18,Monday
+Isaac Okoro,SF,"CHI 101 @ BOS 115, Final","24:52 MIN,5 PT,3 REB,AST,BLK,TO,PF",$17,16.3,12.1,123,2026-01-06 16:33:18,Week 18,Monday
+Kristaps Porziņģis,C,"ATL 100 @ TOR 118, Final","19:59 MIN,9 PT,REB,AST,2 PF",$35,32.3,11.7,124,2026-01-06 16:33:18,Week 18,Monday
+Julian Phillips,SF,"CHI 101 @ BOS 115, Final","13:14 MIN,6 PT,2 REB,ST",$10,7.4,11.4,125,2026-01-06 16:33:18,Week 18,Monday
+Jordan Walsh,SF,"CHI 101 @ BOS 115, Final","18:24 MIN,5 PT,5 REB,PF",$18,18.0,11.0,126,2026-01-06 16:33:18,Week 18,Monday
+Robert Williams III,C,"UTA 117 @ POR 137, Final","12:25 MIN,2 PT,2 REB,2 AST,ST,2 PF",$18,20.0,10.4,127,2026-01-06 16:33:18,Week 18,Monday
+Quinten Post,C,"GS 102 @ LAC 103, Final","12:32 MIN,5 PT,2 REB,ST,PF",$16,17.3,10.4,128,2026-01-06 16:33:18,Week 18,Monday
+Cason Wallace,SG,"CHA 124 @ OKC 97, Final","24:57 MIN,2 PT,2 REB,AST,2 ST,2 TO",$22,20.6,9.9,129,2026-01-06 16:33:18,Week 18,Monday
+Gui Santos,SF,"GS 102 @ LAC 103, Final","11:41 MIN,6 PT,2 REB,AST,PF",$11,8.4,9.9,130,2026-01-06 16:33:18,Week 18,Monday
+Jordan Clarkson,SG,"NY 90 @ DET 121, Final","19:41 MIN,8 PT,REB,AST,TO",$16,15.1,9.7,131,2026-01-06 16:33:18,Week 18,Monday
+Svi Mykhailiuk,SG,"UTA 117 @ POR 137, Final","20:01 MIN,8 PT,REB,2 PF",$16,15.9,9.2,132,2026-01-06 16:33:18,Week 18,Monday
+Pacôme Dadiet,SG,"NY 90 @ DET 121, Final","4:36 MIN,2 PT,2 REB,AST,ST",$10,2.5,8.9,133,2026-01-06 16:33:18,Week 18,Monday
+Jevon Carter,SG,"CHI 101 @ BOS 115, Final","11:46 MIN,6 PT,REB,AST",$11,10.7,8.7,134,2026-01-06 16:33:18,Week 18,Monday
+Dominick Barlow,PF,"DEN 125 @ PHI 124, Final OT","12:37 MIN,6 PT,2 REB,2 PF",$21,20.7,8.4,135,2026-01-06 16:33:18,Week 18,Monday
+Jared McCain,SG,"DEN 125 @ PHI 124, Final OT","18:43 MIN,3 PT,4 AST,TO",$17,14.6,8.0,136,2026-01-06 16:33:18,Week 18,Monday
+Rayan Rupert,SG,"UTA 117 @ POR 137, Final","18:54 MIN,4 PT,2 REB,AST,4 PF",$11,5.8,7.9,137,2026-01-06 16:33:18,Week 18,Monday
+Branden Carlson,C,"CHA 124 @ OKC 97, Final","18:23 MIN,3 PT,4 REB",$10,10.8,7.8,138,2026-01-06 16:33:18,Week 18,Monday
+Dorian Finney-Smith,PF,"PHO 97 @ HOU 100, Final","13:46 MIN,3 PT,4 REB,AST,2 TO,2 PF",$15,7.6,7.3,139,2026-01-06 16:33:18,Week 18,Monday
+Ja'Kobe Walter,SG,"ATL 100 @ TOR 118, Final","11:45 MIN,3 PT,REB,BLK,PF",$12,12.3,7.2,140,2026-01-06 16:33:18,Week 18,Monday
+DaRon Holmes II,PF,"DEN 125 @ PHI 124, Final OT","21:02 MIN,2 PT,REB,4 AST,2 TO,PF",$10,9.2,7.2,141,2026-01-06 16:33:18,Week 18,Monday
+Guerschon Yabusele,PF,"NY 90 @ DET 121, Final","8:56 MIN,3 REB,2 AST",$10,6.7,6.6,142,2026-01-06 16:33:18,Week 18,Monday
+Ryan Dunn,PF,"PHO 97 @ HOU 100, Final","16:30 MIN,5 PT,REB",$20,19.5,6.2,143,2026-01-06 16:33:18,Week 18,Monday
+Lachlan Olbrich,PF,"CHI 101 @ BOS 115, Final","11:39 MIN,2 REB,2 AST,2 PF",$10,3.9,5.4,144,2026-01-06 16:33:19,Week 18,Monday
+Chaz Lanier,SG,"NY 90 @ DET 121, Final","5:01 MIN,AST,ST,PF",$10,6.2,4.5,145,2026-01-06 16:33:19,Week 18,Monday
+Liam McNeeley,SF,"CHA 124 @ OKC 97, Final","2:00 MIN,3 PT,AST",$11,8.7,4.5,146,2026-01-06 16:33:19,Week 18,Monday
+Patrick Williams,SF,"CHI 101 @ BOS 115, Final","10:03 MIN,2 PT,2 REB",$15,14.1,4.4,147,2026-01-06 16:33:19,Week 18,Monday
+Baylor Scheierman,SG,"CHI 101 @ BOS 115, Final","10:39 MIN,3 PT,REB,2 PF",$10,6.4,4.2,148,2026-01-06 16:33:19,Week 18,Monday
+Chris Youngblood,SG,"CHA 124 @ OKC 97, Final","4:58 MIN,REB,ST,PF",$10,3.5,4.2,149,2026-01-06 16:33:19,Week 18,Monday
+Tidjane Salaün,PF,"CHA 124 @ OKC 97, Final","12:56 MIN,6 REB,3 TO,4 PF",$13,14.7,4.2,150,2026-01-06 16:33:19,Week 18,Monday
+Will Richard,SG,"GS 102 @ LAC 103, Final","10:35 MIN,REB,2 AST",$15,15.4,4.2,151,2026-01-06 16:33:19,Week 18,Monday
+Aaron Holiday,PG,"PHO 97 @ HOU 100, Final","10:18 MIN,4 PT",$12,9.9,4.0,152,2026-01-06 16:33:19,Week 18,Monday
+Yang Hansen,C,"UTA 117 @ POR 137, Final","2:14 MIN,4 PT",$10,6.3,4.0,153,2026-01-06 16:33:19,Week 18,Monday
+Rasheer Fleming,PF,"PHO 97 @ HOU 100, Final","4:47 MIN,3 REB,2 PF",$10,5.6,3.6,154,2026-01-06 16:33:19,Week 18,Monday
+Clint Capela,C,"PHO 97 @ HOU 100, Final","9:18 MIN,2 PT,REB",$13,13.2,3.2,155,2026-01-06 16:33:19,Week 18,Monday
+Dalen Terry,SF,"CHI 101 @ BOS 115, Final","4:55 MIN,3 PT",$11,8.4,3.0,156,2026-01-06 16:33:19,Week 18,Monday
+Tolu Smith,C,"NY 90 @ DET 121, Final","5:01 MIN,2 REB,AST,TO,PF",$11,13.7,2.9,157,2026-01-06 16:33:19,Week 18,Monday
+Karl-Anthony Towns,PF,"NY 90 @ DET 121, Final","22:30 MIN,6 PT,REB,AST,6 TO,3 PF",$44,41.2,2.7,158,2026-01-06 16:33:19,Week 18,Monday
+Ochai Agbaji,SF,"ATL 100 @ TOR 118, Final","5:38 MIN,REB,AST",$10,10.1,2.7,159,2026-01-06 16:33:19,Week 18,Monday
+Ariel Hukporti,C,"NY 90 @ DET 121, Final","8:56 MIN,2 PT,AST,TO",$10,7.9,2.5,160,2026-01-06 16:33:19,Week 18,Monday
+Mouhamed Gueye,PF,"ATL 100 @ TOR 118, Final","3:03 MIN,2 REB,PF",$15,13.0,2.4,161,2026-01-06 16:33:19,Week 18,Monday
+Trayce Jackson-Davis,C,"GS 102 @ LAC 103, Final","4:39 MIN,2 REB,2 PF",$12,13.6,2.4,162,2026-01-06 16:33:19,Week 18,Monday
+Pat Connaughton,SF,"CHA 124 @ OKC 97, Final","3:22 MIN,AST",$10,6.7,1.5,163,2026-01-06 16:33:19,Week 18,Monday
+Josh Green,SF,"CHA 124 @ OKC 97, Final","10:22 MIN,REB,PF",$12,10.0,1.2,164,2026-01-06 16:33:19,Week 18,Monday
+Curtis Jones,SG,"DEN 125 @ PHI 124, Final OT","8:22 MIN,REB,PF",$10,1.9,1.2,165,2026-01-06 16:33:19,Week 18,Monday
+Duop Reath,C,"UTA 117 @ POR 137, Final","2:14 MIN,REB",$11,4.9,1.2,166,2026-01-06 16:33:19,Week 18,Monday
+Tobias HarrisINJ,SF,"NY 90 @ DET 121, Final",,$24,24.4,0.0,167,2026-01-06 16:33:19,Week 18,Monday
+Caris LeVertINJ,SG,"NY 90 @ DET 121, Final",,$18,17.6,0.0,168,2026-01-06 16:33:20,Week 18,Monday
+Jalen DurenINJ,C,"NY 90 @ DET 121, Final",,$37,36.4,0.0,169,2026-01-06 16:33:20,Week 18,Monday
+Wendell Moore Jr.INJ,SG,"NY 90 @ DET 121, Final",,$10,7.8,0.0,170,2026-01-06 16:33:20,Week 18,Monday
+Bobi KlintmanINJ,SF,"NY 90 @ DET 121, Final",,$10,7.2,0.0,171,2026-01-06 16:33:20,Week 18,Monday
+Isaac JonesGTD,C,"NY 90 @ DET 121, Final",,$10,2.2,0.0,172,2026-01-06 16:33:20,Week 18,Monday
+Josh HartINJ,SG,"NY 90 @ DET 121, Final",,$33,32.4,0.0,173,2026-01-06 16:33:20,Week 18,Monday
+Landry ShametINJ,SG,"NY 90 @ DET 121, Final",,$13,14.8,0.0,174,2026-01-06 16:33:20,Week 18,Monday
+Tosan Evbuomwan,SF,"NY 90 @ DET 121, Final",,$10,0.5,0.0,175,2026-01-06 16:33:20,Week 18,Monday
+Trey Jemison III,C,"NY 90 @ DET 121, Final",,$10,3.9,0.0,176,2026-01-06 16:33:20,Week 18,Monday
+Mohamed Diawara,PF,"NY 90 @ DET 121, Final",5:01 MIN,$10,4.9,0.0,177,2026-01-06 16:33:20,Week 18,Monday
+Jayson TatumINJ,PF,"CHI 101 @ BOS 115, Final",,$10,48.0,0.0,178,2026-01-06 16:33:20,Week 18,Monday
+Chris Boucher,PF,"CHI 101 @ BOS 115, Final",,$10,9.9,0.0,179,2026-01-06 16:33:20,Week 18,Monday
+Xavier Tillman,C,"CHI 101 @ BOS 115, Final",,$11,7.9,0.0,180,2026-01-06 16:33:20,Week 18,Monday
+Josh Minott,SF,"CHI 101 @ BOS 115, Final",,$16,15.8,0.0,181,2026-01-06 16:33:20,Week 18,Monday
+Ron Harper Jr.GTD,SF,"CHI 101 @ BOS 115, Final",,$10,6.7,0.0,182,2026-01-06 16:33:20,Week 18,Monday
+Amari Williams,C,"CHI 101 @ BOS 115, Final",,$10,3.7,0.0,183,2026-01-06 16:33:20,Week 18,Monday
+Max Shulga,SG,"CHI 101 @ BOS 115, Final",,$10,—,0.0,184,2026-01-06 16:33:20,Week 18,Monday
+Zach CollinsINJ,C,"CHI 101 @ BOS 115, Final",,$19,19.5,0.0,185,2026-01-06 16:33:20,Week 18,Monday
+Jalen SmithGTD,C,"CHI 101 @ BOS 115, Final",,$20,21.2,0.0,186,2026-01-06 16:33:20,Week 18,Monday
+Josh GiddeyINJ,SG,"CHI 101 @ BOS 115, Final",,$47,43.8,0.0,187,2026-01-06 16:33:20,Week 18,Monday
+Trentyn FlowersINJ,PF,"CHI 101 @ BOS 115, Final",,$10,2.9,0.0,188,2026-01-06 16:33:20,Week 18,Monday
+Emanuel Miller,SF,"CHI 101 @ BOS 115, Final",,$10,6.1,0.0,189,2026-01-06 16:33:20,Week 18,Monday
+Noa EssengueINJ,PF,"CHI 101 @ BOS 115, Final",,$10,1.5,0.0,190,2026-01-06 16:33:20,Week 18,Monday
+Garrett Temple,SG,"ATL 100 @ TOR 118, Final",,$10,2.5,0.0,191,2026-01-06 16:33:20,Week 18,Monday
+Jakob PoeltlINJ,C,"ATL 100 @ TOR 118, Final",,$27,24.5,0.0,192,2026-01-06 16:33:21,Week 18,Monday
+Mo Bamba,C,"ATL 100 @ TOR 118, Final",,$15,2.7,0.0,193,2026-01-06 16:33:21,Week 18,Monday
+A.J. Lawson,SG,"ATL 100 @ TOR 118, Final",,$11,10.1,0.0,194,2026-01-06 16:33:21,Week 18,Monday
+Jonathan Mogbo,PF,"ATL 100 @ TOR 118, Final",,$10,4.2,0.0,195,2026-01-06 16:33:21,Week 18,Monday
+Jamison Battle,SF,"ATL 100 @ TOR 118, Final",,$11,5.9,0.0,196,2026-01-06 16:33:21,Week 18,Monday
+Alijah Martin,SG,"ATL 100 @ TOR 118, Final",,$10,1.0,0.0,197,2026-01-06 16:33:21,Week 18,Monday
+Chucky HepburnGTD,PG,"ATL 100 @ TOR 118, Final",,$10,3.1,0.0,198,2026-01-06 16:33:21,Week 18,Monday
+Trae YoungINJ,PG,"ATL 100 @ TOR 118, Final",,$39,35.1,0.0,199,2026-01-06 16:33:21,Week 18,Monday
+Caleb Houstan,SF,"ATL 100 @ TOR 118, Final",,$11,3.4,0.0,200,2026-01-06 16:33:21,Week 18,Monday
+Keaton Wallace,PG,"ATL 100 @ TOR 118, Final",,$12,11.0,0.0,201,2026-01-06 16:33:21,Week 18,Monday
+Jacob ToppinINJ,SF,"ATL 100 @ TOR 118, Final",,$10,2.7,0.0,202,2026-01-06 16:33:21,Week 18,Monday
+Malik Williams,C,"ATL 100 @ TOR 118, Final",,$11,12.2,0.0,203,2026-01-06 16:33:21,Week 18,Monday
+Nikola Đurišić,SF,"ATL 100 @ TOR 118, Final",,$10,—,0.0,204,2026-01-06 16:33:21,Week 18,Monday
+N'Faly DanteINJ,C,"ATL 100 @ TOR 118, Final",,$10,4.1,0.0,205,2026-01-06 16:33:21,Week 18,Monday
+Asa Newell,PF,"ATL 100 @ TOR 118, Final",,$11,10.0,0.0,206,2026-01-06 16:33:21,Week 18,Monday
+RayJ Dennis,PG,"ATL 100 @ TOR 118, Final",,$10,9.8,0.0,207,2026-01-06 16:33:21,Week 18,Monday
+Alex CarusoGTD,SG,"CHA 124 @ OKC 97, Final",,$18,17.2,0.0,208,2026-01-06 16:33:21,Week 18,Monday
+Isaiah HartensteinINJ,C,"CHA 124 @ OKC 97, Final",,$34,31.5,0.0,209,2026-01-06 16:33:21,Week 18,Monday
+Ousmane DiengINJ,PF,"CHA 124 @ OKC 97, Final",,$11,8.5,0.0,210,2026-01-06 16:33:21,Week 18,Monday
+Jaylin WilliamsINJ,C,"CHA 124 @ OKC 97, Final",,$18,17.3,0.0,211,2026-01-06 16:33:21,Week 18,Monday
+Nikola TopićINJ,PG,"CHA 124 @ OKC 97, Final",,$14,—,0.0,212,2026-01-06 16:33:21,Week 18,Monday
+Thomas SorberINJ,C,"CHA 124 @ OKC 97, Final",,$10,—,0.0,213,2026-01-06 16:33:21,Week 18,Monday
+Brooks BarnhizerINJ,SG,"CHA 124 @ OKC 97, Final",,$11,4.9,0.0,214,2026-01-06 16:33:21,Week 18,Monday
+Mason PlumleeINJ,C,"CHA 124 @ OKC 97, Final",,$11,7.6,0.0,215,2026-01-06 16:33:21,Week 18,Monday
+Grant WilliamsINJ,PF,"CHA 124 @ OKC 97, Final",,$19,24.1,0.0,216,2026-01-06 16:33:21,Week 18,Monday
+Tre Mann,PG,"CHA 124 @ OKC 97, Final",2:00 MIN,$16,14.9,0.0,217,2026-01-06 16:33:22,Week 18,Monday
+KJ Simpson,PG,"CHA 124 @ OKC 97, Final",,$13,13.7,0.0,218,2026-01-06 16:33:22,Week 18,Monday
+Antonio Reeves,SG,"CHA 124 @ OKC 97, Final",,$10,5.5,0.0,219,2026-01-06 16:33:22,Week 18,Monday
+Ryan KalkbrennerINJ,C,"CHA 124 @ OKC 97, Final",,$23,23.7,0.0,220,2026-01-06 16:33:22,Week 18,Monday
+Jeff Green,PF,"PHO 97 @ HOU 100, Final",,$10,2.9,0.0,221,2026-01-06 16:33:22,Week 18,Monday
+Fred VanVleetINJ,PG,"PHO 97 @ HOU 100, Final",,$10,31.4,0.0,222,2026-01-06 16:33:22,Week 18,Monday
+Josh Okogie,SF,"PHO 97 @ HOU 100, Final",8:34 MIN,$15,13.5,0.0,223,2026-01-06 16:33:22,Week 18,Monday
+Jae'Sean Tate,SG,"PHO 97 @ HOU 100, Final",,$10,6.2,0.0,224,2026-01-06 16:33:22,Week 18,Monday
+Alperen SengunINJ,C,"PHO 97 @ HOU 100, Final",,$49,46.3,0.0,225,2026-01-06 16:33:22,Week 18,Monday
+JD Davison,PG,"PHO 97 @ HOU 100, Final",,$10,4.2,0.0,226,2026-01-06 16:33:22,Week 18,Monday
+Isaiah Crawford,SF,"PHO 97 @ HOU 100, Final",,$10,—,0.0,227,2026-01-06 16:33:22,Week 18,Monday
+Nigel Hayes-Davis,PF,"PHO 97 @ HOU 100, Final",,$11,4.2,0.0,228,2026-01-06 16:33:22,Week 18,Monday
+Nick Richards,C,"PHO 97 @ HOU 100, Final",,$11,8.9,0.0,229,2026-01-06 16:33:22,Week 18,Monday
+Jalen GreenINJ,SG,"PHO 97 @ HOU 100, Final",,$34,22.9,0.0,230,2026-01-06 16:33:22,Week 18,Monday
+Isaiah Livers,PF,"PHO 97 @ HOU 100, Final",,$10,7.6,0.0,231,2026-01-06 16:33:22,Week 18,Monday
+Jamaree BouyeaGTD,PG,"PHO 97 @ HOU 100, Final",,$13,15.3,0.0,232,2026-01-06 16:33:22,Week 18,Monday
+Khaman Maluach,C,"PHO 97 @ HOU 100, Final",,$10,3.8,0.0,233,2026-01-06 16:33:22,Week 18,Monday
+Koby Brea,SG,"PHO 97 @ HOU 100, Final",,$10,4.1,0.0,234,2026-01-06 16:33:22,Week 18,Monday
+Tristen Newton,PG,"PHO 97 @ HOU 100, Final",,$10,1.5,0.0,235,2026-01-06 16:33:22,Week 18,Monday
+Kyle Lowry,PG,"DEN 125 @ PHI 124, Final OT",,$10,4.2,0.0,236,2026-01-06 16:33:22,Week 18,Monday
+Eric Gordon,PG,"DEN 125 @ PHI 124, Final OT",,$10,8.7,0.0,237,2026-01-06 16:33:22,Week 18,Monday
+Andre Drummond,C,"DEN 125 @ PHI 124, Final OT",,$22,22.7,0.0,238,2026-01-06 16:33:22,Week 18,Monday
+Kelly Oubre Jr.INJ,SF,"DEN 125 @ PHI 124, Final OT",,$27,29.1,0.0,239,2026-01-06 16:33:22,Week 18,Monday
+Trendon WatfordINJ,PF,"DEN 125 @ PHI 124, Final OT",,$18,20.4,0.0,240,2026-01-06 16:33:22,Week 18,Monday
+MarJon Beauchamp,SG,"DEN 125 @ PHI 124, Final OT",,$10,4.1,0.0,241,2026-01-06 16:33:23,Week 18,Monday
+Justin Edwards,SF,"DEN 125 @ PHI 124, Final OT",,$12,11.4,0.0,242,2026-01-06 16:33:23,Week 18,Monday
+Johni Broome,C,"DEN 125 @ PHI 124, Final OT",,$10,5.1,0.0,243,2026-01-06 16:33:23,Week 18,Monday
+Jonas ValančiūnasINJ,C,"DEN 125 @ PHI 124, Final OT",,$18,17.3,0.0,244,2026-01-06 16:33:23,Week 18,Monday
+Tim Hardaway Jr.GTD,SG,"DEN 125 @ PHI 124, Final OT",,$17,19.6,0.0,245,2026-01-06 16:33:23,Week 18,Monday
+Aaron GordonGTD,PF,"DEN 125 @ PHI 124, Final OT",,$29,29.3,0.0,246,2026-01-06 16:33:23,Week 18,Monday
+Nikola JokićINJ,C,"DEN 125 @ PHI 124, Final OT",,$60,63.5,0.0,247,2026-01-06 16:33:23,Week 18,Monday
+Jamal MurrayGTD,PG,"DEN 125 @ PHI 124, Final OT",,$41,43.2,0.0,248,2026-01-06 16:33:23,Week 18,Monday
+Cameron JohnsonINJ,SF,"DEN 125 @ PHI 124, Final OT",,$21,21.2,0.0,249,2026-01-06 16:33:23,Week 18,Monday
+Christian BraunGTD,SG,"DEN 125 @ PHI 124, Final OT",,$24,21.9,0.0,250,2026-01-06 16:33:23,Week 18,Monday
+Tamar BatesINJ,SG,"DEN 125 @ PHI 124, Final OT",,$10,—,0.0,251,2026-01-06 16:33:23,Week 18,Monday
+Jrue HolidayINJ,PG,"UTA 117 @ POR 137, Final",,$33,37.8,0.0,252,2026-01-06 16:33:23,Week 18,Monday
+Damian LillardINJ,PG,"UTA 117 @ POR 137, Final",,$10,40.3,0.0,253,2026-01-06 16:33:23,Week 18,Monday
+Jerami GrantINJ,PF,"UTA 117 @ POR 137, Final",,$29,30.6,0.0,254,2026-01-06 16:33:23,Week 18,Monday
+Matisse ThybulleINJ,SF,"UTA 117 @ POR 137, Final",,$13,14.6,0.0,255,2026-01-06 16:33:23,Week 18,Monday
+Blake WesleyINJ,PG,"UTA 117 @ POR 137, Final",,$16,17.9,0.0,256,2026-01-06 16:33:23,Week 18,Monday
+Scoot HendersonINJ,PG,"UTA 117 @ POR 137, Final",,$28,24.9,0.0,257,2026-01-06 16:33:23,Week 18,Monday
+Javonte Cooke,SG,"UTA 117 @ POR 137, Final",,$10,3.4,0.0,258,2026-01-06 16:33:23,Week 18,Monday
+Kevin LoveGTD,C,"UTA 117 @ POR 137, Final",,$14,17.9,0.0,259,2026-01-06 16:33:23,Week 18,Monday
+Kyle Anderson,PF,"UTA 117 @ POR 137, Final",,$16,21.2,0.0,260,2026-01-06 16:33:23,Week 18,Monday
+Georges NiangINJ,PF,"UTA 117 @ POR 137, Final",,$14,17.0,0.0,261,2026-01-06 16:33:23,Week 18,Monday
+Walker KesslerINJ,C,"UTA 117 @ POR 137, Final",,$39,38.3,0.0,262,2026-01-06 16:33:23,Week 18,Monday
+Oscar Tshiebwe,C,"UTA 117 @ POR 137, Final",,$10,13.7,0.0,263,2026-01-06 16:33:23,Week 18,Monday
+Elijah Harkless,SG,"UTA 117 @ POR 137, Final",,$10,5.8,0.0,264,2026-01-06 16:33:23,Week 18,Monday
+Ace BaileyINJ,SF,"UTA 117 @ POR 137, Final",,$20,18.7,0.0,265,2026-01-06 16:33:23,Week 18,Monday
+John Tonje,SG,"UTA 117 @ POR 137, Final",,$10,—,0.0,266,2026-01-06 16:33:24,Week 18,Monday
+James HardenGTD,PG,"GS 102 @ LAC 103, Final",,$46,44.5,0.0,267,2026-01-06 16:33:24,Week 18,Monday
+Bradley BealINJ,SG,"GS 102 @ LAC 103, Final",,$23,11.7,0.0,268,2026-01-06 16:33:24,Week 18,Monday
+Bogdan BogdanovićINJ,SG,"GS 102 @ LAC 103, Final",,$16,16.0,0.0,269,2026-01-06 16:33:24,Week 18,Monday
+Derrick Jones Jr.INJ,SF,"GS 102 @ LAC 103, Final",,$21,19.9,0.0,270,2026-01-06 16:33:24,Week 18,Monday
+TyTy Washington Jr.,PG,"GS 102 @ LAC 103, Final",,$10,5.0,0.0,271,2026-01-06 16:33:24,Week 18,Monday
+Kobe Brown,PF,"GS 102 @ LAC 103, Final",,$10,7.7,0.0,272,2026-01-06 16:33:24,Week 18,Monday
+Cam Christie,SG,"GS 102 @ LAC 103, Final",,$10,7.2,0.0,273,2026-01-06 16:33:24,Week 18,Monday
+Yanic Konan Niederhäuser,C,"GS 102 @ LAC 103, Final",,$10,7.7,0.0,274,2026-01-06 16:33:24,Week 18,Monday
+Seth CurryINJ,SG,"GS 102 @ LAC 103, Final",,$10,14.6,0.0,275,2026-01-06 16:33:24,Week 18,Monday
+Buddy Hield,SG,"GS 102 @ LAC 103, Final",,$15,14.5,0.0,276,2026-01-06 16:33:24,Week 18,Monday
+Jonathan Kuminga,PF,"GS 102 @ LAC 103, Final",,$23,22.4,0.0,277,2026-01-06 16:33:24,Week 18,Monday
+Pat Spencer,SG,"GS 102 @ LAC 103, Final",,$15,15.1,0.0,278,2026-01-06 16:33:24,Week 18,Monday
+Malevy Leons,PF,"GS 102 @ LAC 103, Final",,$10,1.0,0.0,279,2026-01-06 16:33:24,Week 18,Monday
+LJ CryerINJ,PG,"GS 102 @ LAC 103, Final",,$10,—,0.0,280,2026-01-06 16:33:24,Week 18,Monday
