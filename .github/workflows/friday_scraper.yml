@@ -1,12 +1,14 @@
 name: Friday Morning Scraper (Thursday Games)
 
 on:
-  schedule:
-    # Runs every Friday at 8:00 AM PST (15:00 UTC)
-    # Adjust timezone offset as needed: PST = UTC-8, so 8 AM PST = 4 PM UTC = 16:00
-    - cron: '0 16 * * 5'
+  # SCHEDULE DISABLED - Off-season shutdown
+  # To re-enable for next season, uncomment the schedule section below
+  # schedule:
+  #   # Runs every Friday at 8:00 AM PST (15:00 UTC)
+  #   # Adjust timezone offset as needed: PST = UTC-8, so 8 AM PST = 4 PM UTC = 16:00
+  #   - cron: '0 16 * * 5'
   
-  # Allow manual trigger from GitHub Actions tab
+  # Allow manual trigger from GitHub Actions tab (still works)
   workflow_dispatch:
 
 jobs:

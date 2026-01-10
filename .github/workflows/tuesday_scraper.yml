@@ -1,11 +1,13 @@
 name: Tuesday Morning Scraper (Monday Games + Full Report)
 
 on:
-  schedule:
-    # Runs every Tuesday at 8:00 AM PST (16:00 UTC)
-    - cron: '0 16 * * 2'
+  # SCHEDULE DISABLED - Off-season shutdown
+  # To re-enable for next season, uncomment the schedule section below
+  # schedule:
+  #   # Runs every Tuesday at 8:00 AM PST (16:00 UTC)
+  #   - cron: '0 16 * * 2'
   
-  # Allow manual trigger from GitHub Actions tab
+  # Allow manual trigger from GitHub Actions tab (still works)
   workflow_dispatch:
 
 jobs:
