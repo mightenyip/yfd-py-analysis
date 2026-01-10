@@ -228,36 +228,6 @@ df = pd.read_csv('data_csv/week6_Sun.csv')
 high_value = df[(df['points'] > 15) & (df['salary'] < 20)]
 ```
 
-## Shutting Down for Off-Season
-
-To disable all automated scrapers until the next season:
-
-```bash
-cd /Users/mightenyip/Documents/GitHub/yfd-py-test/automation
-./shutdown_scrapers.sh
-```
-
-This will:
-- Unload all launchd services
-- Remove plist files from LaunchAgents
-- Remove any cron jobs
-- Verify everything is shut down
-
-## Re-Enabling for Next Season
-
-When the next season starts, re-enable the scrapers:
-
-```bash
-cd /Users/mightenyip/Documents/GitHub/yfd-py-test/automation
-./reenable_scrapers.sh
-```
-
-Or use the original setup script:
-
-```bash
-./setup_launchd.sh
-```
-
 ## Support
 
 For issues or questions:
